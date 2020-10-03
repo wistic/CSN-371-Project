@@ -3,15 +3,15 @@ import bs4
 import os
 
 
-def mwpreprocess(path, combined=False):
+def mwpreprocess(path, combined=False, lowercase=False):
     if combined:
         combined_mwdata = ""
-        train_folders = os.listdir(path)
-        for folder in train_folders:
-            source_folder_path = path+folder+'/'
-            file_list = os.listdir(source_folder_path)
+        folders = os.listdir(path)
+        for folder in folders:
+            absolute_folder_path = path+folder+'/'
+            file_list = os.listdir(absolute_folder_path)
             for file_name in file_list:
-                with open(source_folder_path+file_name, 'r') as f:
+                with open(absolute_folder_path+file_name, 'r') as f:
                     xml_string = f.read()
                 soup = BeautifulSoup(xml_string, 'xml')
                 mwdata = ""
@@ -20,7 +20,10 @@ def mwpreprocess(path, combined=False):
                     for child in tag.contents:
                         if isinstance(child, bs4.element.Tag):
                             mw = mw+child.text
-                    mw = mw.strip()+'_'+tag['c5']
+                    if lowercase:
+                        mw = mw.strip().lower()+'_'+tag['c5']
+                    else:
+                        mw = mw.strip()+'_'+tag['c5']
                     mwdata = mwdata+mw+'\n'
                 combined_mwdata = combined_mwdata+mwdata
         return combined_mwdata.strip('\n')
@@ -34,6 +37,9 @@ def mwpreprocess(path, combined=False):
             for child in tag.contents:
                 if isinstance(child, bs4.element.Tag):
                     mw = mw+child.text
-            mw = mw.strip()+'_'+tag['c5']
+            if lowercase:
+                mw = mw.strip().lower()+'_'+tag['c5']
+            else:
+                mw = mw.strip()+'_'+tag['c5']
             mwdata = mwdata+mw+'\n'
         return mwdata.strip('\n')
