@@ -1,4 +1,4 @@
 from preprocessor import preprocess
 
-preprocess(combined=False)
+preprocess(combined=True)
 

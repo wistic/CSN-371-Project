@@ -5,7 +5,7 @@ from cfg import config
 from mwpreprocessor import mwpreprocess
 
 
-def preprocess(combined=True):
+def preprocess(combined=False):
     resource_folder_path = config['resource_folder_path']
     output_folder_path = config['output_folder_path']
     if resource_folder_path[-1] == '/':
@@ -25,6 +25,8 @@ def preprocess(combined=True):
         output_file_path = output_folder_path + 'train_corpus_preprocessed.txt'
         data = "".join((str(word[0]) + "_" + str(word[1]) + "\n")
                        for word in words)
+        combined_mwdata = mwpreprocess(train_folder_path, combined=True)
+        data = data+combined_mwdata
         with open(output_file_path, "w") as f:
             f.write(data)
     else:
@@ -47,7 +49,8 @@ def preprocess(combined=True):
                     fileids=None, c5=True, strip_space=True, stem=False)
                 data = "".join(
                     (str(word[0]) + "_" + str(word[1]) + "\n") for word in words)
-                mwdata = mwpreprocess(source_folder_path+'/'+file_name)
+                mwdata = mwpreprocess(
+                    source_folder_path+'/'+file_name, combined=False)
                 data = data+mwdata
                 with open(output_file_path, "w") as f:
                     f.write(data)
