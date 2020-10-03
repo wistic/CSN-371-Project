@@ -1,6 +1,8 @@
 from nltk.corpus.reader.bnc import BNCCorpusReader
-from cfg import config
 import os
+
+from cfg import config
+from mwpreprocessor import mwpreprocess
 
 
 def preprocess(combined=True):
@@ -21,7 +23,7 @@ def preprocess(combined=True):
         words = bncreader.tagged_words(
             fileids=None, c5=True, strip_space=True, stem=False)
         output_file_path = output_folder_path + 'train_corpus_preprocessed.txt'
-        data = "".join((str(word[0]) + "_" + str(word[1]) + " ")
+        data = "".join((str(word[0]) + "_" + str(word[1]) + "\n")
                        for word in words)
         with open(output_file_path, "w") as f:
             f.write(data)
@@ -44,6 +46,8 @@ def preprocess(combined=True):
                 words = bncreader.tagged_words(
                     fileids=None, c5=True, strip_space=True, stem=False)
                 data = "".join(
-                    (str(word[0]) + "_" + str(word[1]) + " ") for word in words)
+                    (str(word[0]) + "_" + str(word[1]) + "\n") for word in words)
+                mwdata = mwpreprocess(source_folder_path+'/'+file_name)
+                data = data+mwdata
                 with open(output_file_path, "w") as f:
                     f.write(data)
