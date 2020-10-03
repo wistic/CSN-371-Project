@@ -135,5 +135,5 @@ resources/
 # VSCode files
 .vscode/
 
-# Output files
-output/
+# Test file
+test.py

@@ -1,1 +1,4 @@
-print('Hello Ai')
+from preprocessor import preprocess
+
+preprocess(combined=False)
+
