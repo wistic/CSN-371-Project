@@ -1,14 +1,23 @@
 import python_preprocessor
-import rust_preprocessor
-from cfg import config
+import importlib
+import os
 
+if os.path.exists('cfg_modified.py'):
+    from cfg_modified import config
+else:
+    from cfg_default import config
 
-def preprocess_helper(language='Rust', combined=False, mode='train', lowercase=False):
+RUST_SUPPORTED = False
+
+corpus_spec = importlib.util.find_spec("corpus_processor")
+RUST_SUPPORTED = corpus_spec is not None
+
+if RUST_SUPPORTED:
+    import rust_preprocessor
+
+def preprocess_helper(combined=False, mode='train', lowercase=False):
     if mode != 'train' and mode != 'test':
         raise AttributeError('Mode not supported.')
-
-    if language != 'Rust' and language != 'Python':
-        raise AttributeError('Language not supported.')
 
     if mode == 'train':
         input_folder_path = config['train_folder_path']
@@ -17,7 +26,7 @@ def preprocess_helper(language='Rust', combined=False, mode='train', lowercase=F
 
     output_folder_path = config['output_folder_path']
 
-    if language == 'Rust':
+    if RUST_SUPPORTED:
         rust_preprocessor.preprocess(
             input_folder_path, output_folder_path, combined, mode, lowercase)
     else:
