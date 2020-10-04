@@ -1,8 +1,7 @@
 import os
-import corpusconverter
+import corpus_processor
 
 from cfg import config
-
 
 def preprocess(mode='train', lowercase=False):
     resource_folder_path = config['resource_folder_path']
@@ -46,7 +45,4 @@ def preprocess(mode='train', lowercase=False):
             output_file_path = folder_path + '/' + \
                 file_name.split('.', 1)[0]+'_preprocessed.txt'
             input_file_path = absolute_folder_path + '/' + file_name
-            if lowercase:
-                corpusconverter.convert(input_file_path, output_file_path, True)
-            else:
-                corpusconverter.convert(input_file_path, output_file_path, False)
+            corpus_processor.process([input_file_path], output_file_path, lowercase)

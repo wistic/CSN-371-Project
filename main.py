@@ -1,4 +1,4 @@
-from rust_converter.src.preprocessor import preprocess
-import corpusconverter
+from rust_preprocessor.preprocessor import preprocess
+import corpus_processor
 
-preprocess(mode='test',lowercase=False)
+preprocess(mode='train',lowercase=False)
