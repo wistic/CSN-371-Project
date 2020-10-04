@@ -1,0 +1,18 @@
+[package]
+name = "corpusconverter"
+version = "0.1.0"
+authors = ["simpu <id.simpu@gmail.com>"]
+edition = "2018"
+
+[lib]
+name = "corpusconverter"
+crate-type = ["cdylib"]
+
+[package.metadata.maturin]
+classifier = [
+    "Programming Language :: Rust",
+]
+
+[dependencies]
+pyo3 = { version = "0.12", features = ["extension-module"] }
+xml-rs = "0.8.3"
