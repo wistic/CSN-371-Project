@@ -1,5 +1,8 @@
-import corpus_processor
+from nltk.corpus.reader.bnc import BNCCorpusReader
 import os
+
+from .mwpreprocessor import mwpreprocess
+
 
 def dirWalk(source_path, output_path, file_list, combined=False):
     listing = os.listdir(source_path)
@@ -46,12 +49,10 @@ def preprocess(input_folder_path, output_folder_path, combined=False, mode='trai
             output_file_path = output_folder_path + 'train_corpus_preprocessed.txt'
         else:
             output_file_path = output_folder_path + 'test_corpus_preprocessed.txt'
+        with open(output_file_path, 'w') as f:
+            pass
         file_list = dirWalk(input_folder_path,
                             output_file_path, file_list, combined=True)
-
-        source_file_list=[(file_entry[0]+file_entry[1]) for file_entry in file_list]
-        corpus_processor.process(source_file_list,output_file_path,lowercase)
-
     else:
         if mode == 'train':
             output_folder_path = output_folder_path + 'Train-corpus_preprocessed/'
@@ -61,7 +62,28 @@ def preprocess(input_folder_path, output_folder_path, combined=False, mode='trai
             os.mkdir(output_folder_path)
         file_list = dirWalk(input_folder_path,
                             output_folder_path, file_list, combined=False)
-        for file_entry in file_list:
-            output_file_path = file_entry[2]
-            source_file_list=[file_entry[0]+file_entry[1]]
-            corpus_processor.process(source_file_list,output_file_path,lowercase)
+
+    for file_entry in file_list:
+        root_path = file_entry[0]
+        file_name = file_entry[1]
+        output_file_path = file_entry[2]
+
+        bncreader = BNCCorpusReader(root=root_path, fileids=file_name)
+        words = bncreader.tagged_words(c5=True)
+
+        if lowercase:
+            data = "".join(
+                (str(word[0]).lower() + "_" + str(word[1]) + "\n") for word in words)
+        else:
+            data = "".join(
+                (str(word[0]) + "_" + str(word[1]) + "\n") for word in words)
+
+        mwdata = mwpreprocess(root_path+file_name, lowercase)
+        data = data+mwdata
+
+        if combined:
+            with open(output_file_path, 'a') as f:
+                f.write(data)
+        else:
+            with open(output_file_path, 'w') as f:
+                f.write(data)

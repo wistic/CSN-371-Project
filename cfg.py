@@ -1,10 +1,10 @@
 config = {
-    # Set resource folder containing Test-corpus and Train-corpus
-    'resource_folder_path': '/home/simpu/',
+    # Set folder containingTrain-corpus
+    'train_folder_path': '/home/wistic/academics/ai/projects/CSN-371-Project/resources/Train-corpus/',
+
+    # Set folder containing Test-corpus
+    'test_folder_path': '/home/wistic/academics/ai/projects/CSN-371-Project/resources/Test-corpus/',
 
     # Set output folder
-    'output_folder_path': '/home/simpu/output',
-
-    # Cargo bin directory path (Don't represent home directory by ~)
-    'cargo_bin_path': '/home/wistic/.cargo/bin/'
+    'output_folder_path': '/home/wistic/academics/ai/projects/CSN-371-Project/output/',
 }
