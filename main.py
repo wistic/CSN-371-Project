@@ -1,4 +1,3 @@
-from rust_preprocessor.preprocessor import preprocess
-import corpus_processor
+from rust_preprocessor import preprocess
 
 preprocess(mode='train',lowercase=False)
