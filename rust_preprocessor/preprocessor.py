@@ -43,9 +43,9 @@ def preprocess(input_folder_path, output_folder_path, combined=False, mode='trai
 
     if combined:
         if mode == 'train':
-            output_file_path = output_folder_path + 'train_corpus_preprocessed.txt'
+            output_file_path = output_folder_path + 'train-corpus_preprocessed.txt'
         else:
-            output_file_path = output_folder_path + 'test_corpus_preprocessed.txt'
+            output_file_path = output_folder_path + 'test-corpus_preprocessed.txt'
         file_list = dirWalk(input_folder_path,
                             output_file_path, file_list, combined=True)
 
