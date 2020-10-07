@@ -1,4 +1,5 @@
 import python_preprocessor
+import dict_processor
 import importlib
 import os
 
@@ -14,6 +15,7 @@ RUST_SUPPORTED = corpus_spec is not None
 
 if RUST_SUPPORTED:
     import rust_preprocessor
+
 
 def preprocess_helper(combined=False, mode='train', lowercase=False):
     if mode != 'train' and mode != 'test':
@@ -34,5 +36,18 @@ def preprocess_helper(combined=False, mode='train', lowercase=False):
             input_folder_path, output_folder_path, combined, mode, lowercase)
 
 
+def dictprocess_helper(combined=False, mode='train', file_mode='json'):
+    if mode != 'train' and mode != 'test':
+        raise AttributeError('Mode not supported.')
+
+    if file_mode != 'json' and file_mode != 'txt':
+        raise AttributeError('File mode not supported.')
+
+    output_folder_path = config['output_folder_path']
+
+    dict_processor.dictprocess(output_folder_path, combined, mode, file_mode)
+
+
 if __name__ == '__main__':
     preprocess_helper()
+    dictprocess_helper()

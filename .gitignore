@@ -144,3 +144,6 @@ cfg_modified.py
 # Train-corpus and Test-corpus
 Train-corpus/
 Test-corpus/
+
+# Test files
+test.py
