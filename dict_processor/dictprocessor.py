@@ -1,5 +1,6 @@
 import os
 import json
+import pickle
 
 
 def dirWalk(source_path, output_path, file_list, file_mode='json'):
@@ -38,6 +39,9 @@ def convert(input_file_path, output_file_path, file_mode='json'):
     if file_mode == 'json':
         with open(output_file_path, 'w') as f:
             json.dump(dictionary, f, indent=4)
+    elif file_mode == 'pickle':
+        with open(output_file_path, 'wb') as f:
+            pickle.dump(dictionary, f, protocol=pickle.HIGHEST_PROTOCOL)
     else:
         data = "".join((str(key) + ":" + str(value) + "\n")
                        for key, value in dictionary.items())
@@ -70,7 +74,7 @@ def dictprocess(output_folder_path, combined=False, mode='train', file_mode='jso
             input_folder_path = output_folder_path+'Test-corpus_preprocessed/'
             new_output_folder_path = output_folder_path+'Test-corpus_dictionary/'
         if not (os.path.exists(new_output_folder_path) and os.path.isdir(new_output_folder_path)):
-                os.mkdir(new_output_folder_path)
+            os.mkdir(new_output_folder_path)
         file_list = dirWalk(input_folder_path,
                             new_output_folder_path, file_list, file_mode)
         for file_entry in file_list:

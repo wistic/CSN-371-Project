@@ -40,7 +40,7 @@ def dictprocess_helper(combined=False, mode='train', file_mode='json'):
     if mode != 'train' and mode != 'test':
         raise AttributeError('Mode not supported.')
 
-    if file_mode != 'json' and file_mode != 'txt':
+    if file_mode != 'json' and file_mode != 'txt' and file_mode != 'pickle':
         raise AttributeError('File mode not supported.')
 
     output_folder_path = config['output_folder_path']

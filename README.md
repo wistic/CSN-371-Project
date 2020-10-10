@@ -4,7 +4,7 @@
 ### To run this project locally:
 - Clone this repository.
 - Download train and test data hosted on:
-```md
+```
   https://drive.google.com/drive/folders/1hRSOfKaRUU6w2OwMWeTJUANCxvRzUVCm?usp=sharing
 ```
 - Edit [cfg_default.py](https://github.com/wistic/CSN-371-Project/blob/main/cfg_default.py) according to the location of train and test data or create a local version named **cfg_modified.py** using the same structure as cfg_default.py. And set an output folder path.
