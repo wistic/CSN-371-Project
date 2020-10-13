@@ -43,7 +43,7 @@ def convert(input_file_path, output_file_path, file_mode='json'):
         with open(output_file_path, 'wb') as f:
             pickle.dump(dictionary, f, protocol=pickle.HIGHEST_PROTOCOL)
     else:
-        data = "".join((str(key) + ":" + str(value) + "\n")
+        data = "".join((str(key) + " -> " + str(value) + "\n")
                        for key, value in dictionary.items())
         del dictionary
         with open(output_file_path, 'w') as f:

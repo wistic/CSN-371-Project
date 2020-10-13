@@ -1,5 +1,6 @@
 import python_preprocessor
 import dict_processor
+import toppers
 import importlib
 import os
 
@@ -18,9 +19,6 @@ if RUST_SUPPORTED:
 
 
 def preprocess_helper(combined=False, mode='train', lowercase=False):
-    if mode != 'train' and mode != 'test':
-        raise AttributeError('Mode not supported.')
-
     if mode == 'train':
         input_folder_path = config['train_folder_path']
     else:
@@ -37,17 +35,38 @@ def preprocess_helper(combined=False, mode='train', lowercase=False):
 
 
 def dictprocess_helper(combined=False, mode='train', file_mode='json'):
+    output_folder_path = config['output_folder_path']
+    dict_processor.dictprocess(output_folder_path, combined, mode, file_mode)
+
+
+def gettoppers_helper(combined=False, mode='train', file_mode='json'):
+    output_folder_path = config['output_folder_path']
+    toppers.gettoppers(output_folder_path, combined, mode, file_mode)
+
+
+def checkAttributes(mode, file_mode):
     if mode != 'train' and mode != 'test':
         raise AttributeError('Mode not supported.')
 
     if file_mode != 'json' and file_mode != 'txt' and file_mode != 'pickle':
         raise AttributeError('File mode not supported.')
 
-    output_folder_path = config['output_folder_path']
-
-    dict_processor.dictprocess(output_folder_path, combined, mode, file_mode)
-
 
 if __name__ == '__main__':
-    preprocess_helper()
-    dictprocess_helper()
+
+    ### BEGIN EDITABLE ###
+    # Change the values of these variables
+    lowercase = False
+    combined = False
+    mode = 'train'
+    file_mode = 'json'
+    ### END EDITABLE ###
+
+    checkAttributes(mode, file_mode)
+
+    ### BEGIN EDITABLE ###
+    # Comment any of these as per your needs
+    preprocess_helper(combined, mode, lowercase)
+    dictprocess_helper(combined, mode, file_mode)
+    gettoppers_helper(combined, mode, file_mode)
+    ### END EDITABLE ###
