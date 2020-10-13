@@ -1,6 +1,6 @@
 import python_preprocessor
 import dict_processor
-import toppers
+import analysis
 import importlib
 import os
 
@@ -41,7 +41,7 @@ def dictprocess_helper(combined=False, mode='train', file_mode='json'):
 
 def gettoppers_helper(combined=False, mode='train', file_mode='json'):
     output_folder_path = config['output_folder_path']
-    toppers.gettoppers(output_folder_path, combined, mode, file_mode)
+    analysis.gettoppers(output_folder_path, combined, mode, file_mode)
 
 
 def checkAttributes(mode, file_mode):
