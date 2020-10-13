@@ -118,6 +118,7 @@ fn process_token(writer: &mut BufWriter<File>, token: Token) -> std::io::Result<
 }
 
 fn process_mega_token(writer: &mut BufWriter<File>, mega_token: MegaToken) -> std::io::Result<()> {
+/*
     let tag = mega_token.tag;
     if !mega_token.token.is_empty() {
         let mut iter = mega_token.token.into_iter().peekable();
@@ -132,5 +133,6 @@ fn process_mega_token(writer: &mut BufWriter<File>, mega_token: MegaToken) -> st
         writer.write_all(tag.as_ref())?;
         writer.write_all(b"\n")?;
     }
+*/
     Ok(())
 }
