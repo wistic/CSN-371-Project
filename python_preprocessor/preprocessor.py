@@ -1,7 +1,7 @@
 from nltk.corpus.reader.bnc import BNCCorpusReader
 import os
 
-from .mwpreprocessor import mwpreprocess
+# from .mwpreprocessor import mwpreprocess
 
 
 def dirWalk(source_path, output_path, file_list, combined=False):
@@ -78,8 +78,8 @@ def preprocess(input_folder_path, output_folder_path, combined=False, mode='trai
             data = "".join(
                 (str(word[0]) + "_" + str(word[1]) + "\n") for word in words)
 
-        mwdata = mwpreprocess(root_path+file_name, lowercase)
-        data = data+mwdata
+        # mwdata = mwpreprocess(root_path+file_name, lowercase)
+        # data = data+mwdata
 
         if combined:
             with open(output_file_path, 'a') as f:
