@@ -44,6 +44,11 @@ def gettoppers_helper(combined=False, mode='train', file_mode='json'):
     analysis.gettoppers(output_folder_path, combined, mode, file_mode)
 
 
+def plotter_helper(mode='train'):
+    output_folder_path = config['output_folder_path']
+    analysis.plotgraphs(output_folder_path, mode)
+
+
 def checkAttributes(mode, file_mode):
     if mode != 'train' and mode != 'test':
         raise AttributeError('Mode not supported.')
@@ -69,4 +74,5 @@ if __name__ == '__main__':
     preprocess_helper(combined, mode, lowercase)
     dictprocess_helper(combined, mode, file_mode)
     gettoppers_helper(combined, mode, file_mode)
+    plotter_helper(mode)
     ### END EDITABLE ###

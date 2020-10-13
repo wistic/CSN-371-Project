@@ -19,13 +19,20 @@ def dirWalk(source_path, file_list, file_mode):
     return file_list
 
 
-def process(file_list, output_folder_path, file_mode='json'):
+def process(file_list, output_folder_path, mode='train', file_mode='json'):
     words = dict()
     tags = dict()
-    words_count_file = output_folder_path+'words-count.json'
-    tags_count_file = output_folder_path+'tags-count.json'
-    top_words_file = output_folder_path+'top-words.txt'
-    top_tags_file = output_folder_path+'top-tags.txt'
+
+    if mode == 'train':
+        words_count_file = output_folder_path+'train-words-count.json'
+        tags_count_file = output_folder_path+'train-tags-count.json'
+        top_words_file = output_folder_path+'train-top-words.txt'
+        top_tags_file = output_folder_path+'train-top-tags.txt'
+    else:
+        words_count_file = output_folder_path+'test-words-count.json'
+        tags_count_file = output_folder_path+'test-tags-count.json'
+        top_words_file = output_folder_path+'test-top-words.txt'
+        top_tags_file = output_folder_path+'test-top-tags.txt'
 
     for file_entry in file_list:
         if file_mode == 'json':
@@ -113,4 +120,4 @@ def gettoppers(output_folder_path, combined=False, mode='train', file_mode='json
         else:
             input_folder_path = output_folder_path+'Test-corpus_dictionary/'
         file_list = dirWalk(input_folder_path, file_list, file_mode)
-    process(file_list, output_folder_path, file_mode)
+    process(file_list, output_folder_path, mode, file_mode)
