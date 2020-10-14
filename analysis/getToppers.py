@@ -64,18 +64,19 @@ def process(file_list, output_folder_path, mode='train', file_mode='json'):
         # Use only one of these
 
         # Not separarting multiple tags like NN1-VVG
-            if tag not in tags:
-                tags[tag] = value
-            else:
-                tags[tag] = tags[tag]+value
+            # if tag not in tags:
+            #     tags[tag] = value
+            # else:
+            #     tags[tag] = tags[tag]+value
 
         # Separarting multiple tags like NN1-VVG
-            # tag_parts = tag.split('-')
-            # for tag_part in tag_parts:
-            #     if tag_part not in tags:
-            #         tags[tag_part] = value
-            #     else:
-            #         tags[tag_part] = tags[tag_part]+value
+            tag_parts = tag.split('-')
+            factor = len(tag_parts)
+            for tag_part in tag_parts:
+                if tag_part not in tags:
+                    tags[tag_part] = value/factor
+                else:
+                    tags[tag_part] = tags[tag_part]+value/factor
 
         ### END EDITABLE ###
 
