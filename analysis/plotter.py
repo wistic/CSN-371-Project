@@ -34,7 +34,7 @@ def plotgraphs(output_folder_path, mode='train'):
     plt.gcf().set_size_inches(fig_size[0]*2, fig_size[1]*1, forward=True)
     plt.tight_layout(pad=0.5)
     ax = plt.gca()
-    ax.set_xlim(left=-2, right=183)
+    ax.set_xlim(left=-2)
     if mode == 'train':
         plt.savefig(output_folder_path+'train-tags-bar-graph.png')
     else:
