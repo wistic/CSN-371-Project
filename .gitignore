@@ -147,3 +147,7 @@ Test-corpus/
 
 # Test files
 test.py
+
+# Rust files
+**/target
+Cargo.lock
