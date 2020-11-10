@@ -1,6 +1,7 @@
 import python_preprocessor
 import dict_processor
 import analysis
+import model
 import importlib
 import os
 
@@ -49,6 +50,11 @@ def plotter_helper(mode='train'):
     analysis.plotgraphs(output_folder_path, mode)
 
 
+def model_helper(combined=False, file_mode='json'):
+    output_folder_path = config['output_folder_path']
+    model.generate_model(output_folder_path, combined, file_mode)
+
+
 def checkAttributes(mode, file_mode):
     if mode != 'train' and mode != 'test':
         raise AttributeError('Mode not supported.')
@@ -73,6 +79,7 @@ if __name__ == '__main__':
     # Comment any of these as per your needs
     preprocess_helper(combined, mode, lowercase)
     dictprocess_helper(combined, mode, file_mode)
-    gettoppers_helper(combined, mode, file_mode)
-    plotter_helper(mode)
+    # gettoppers_helper(combined, mode, file_mode)
+    # plotter_helper(mode)
+    model_helper(combined, file_mode)
     ### END EDITABLE ###
