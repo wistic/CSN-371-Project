@@ -54,9 +54,6 @@ def gettoppers(output_folder_path, combined, mode, file_mode):
     if output_folder_path[-1] != '/':
         output_folder_path = output_folder_path + '/'
 
-    if not (os.path.exists(output_folder_path) and os.path.isdir(output_folder_path)):
-        raise FileNotFoundError('No such folder exists -> '+output_folder_path)
-
     if combined:
         input_file_path = output_folder_path + mode + '-corpus_dictionary.'+file_mode
         file_list = [input_file_path]
