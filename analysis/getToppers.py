@@ -1,22 +1,8 @@
 import os
 import json
-import pickle
 import itertools
 
-
-def dirWalk(source_path, file_list, file_mode):
-    listing = os.listdir(source_path)
-    for entry in listing:
-        absolute_path = source_path+entry
-        if os.path.isdir(absolute_path) and entry.split('_')[1] == 'dictionary':
-            if absolute_path[-1] != '/':
-                absolute_path = absolute_path+'/'
-            dirWalk(absolute_path, file_list, file_mode)
-        else:
-            parts = entry.split('.')
-            if parts[1] == file_mode and parts[0].split('_')[1] == 'dictionary':
-                file_list.append(absolute_path)
-    return file_list
+from common import *
 
 
 def process(file_list, output_folder_path, mode='train', file_mode='json'):
@@ -35,23 +21,7 @@ def process(file_list, output_folder_path, mode='train', file_mode='json'):
         top_tags_file = output_folder_path+'test-top-tags.txt'
 
     for file_entry in file_list:
-        if file_mode == 'json':
-            with open(file_entry, 'r') as f:
-                dictionary = json.load(f)
-        elif file_mode == 'pickle':
-            with open(file_entry, 'rb') as f:
-                dictionary = pickle.load(f)
-        else:
-            with open(file_entry, 'r') as f:
-                dictionary_list = f.readlines()
-            trimmed_list = [entry.strip('\n') for entry in dictionary_list]
-            del dictionary_list
-            dictionary = dict()
-            for entry in trimmed_list:
-                parts = entry.split(' -> ')
-                dictionary[parts[0]] = int(parts[1])
-            del trimmed_list
-
+        dictionary = get_dictionary(file_entry, file_mode)
         for key, value in dictionary.items():
             word, tag = key.split('_')
 

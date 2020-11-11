@@ -2,26 +2,7 @@ import os
 import json
 import pickle
 
-
-def dirWalk(source_path, output_path, file_list, file_mode='json'):
-    listing = os.listdir(source_path)
-    for entry in listing:
-        absolute_path = source_path+entry
-        if os.path.isdir(absolute_path) and entry.split('_')[1] == 'preprocessed':
-            if absolute_path[-1] != '/':
-                absolute_path = absolute_path+'/'
-            new_output_path = output_path+entry.split('_')[0]+'_dictionary/'
-            if not (os.path.exists(new_output_path) and os.path.isdir(new_output_path)):
-                os.mkdir(new_output_path)
-            dirWalk(absolute_path, new_output_path, file_list, file_mode)
-        else:
-            parts = entry.split('.')
-            if parts[1] == 'txt' and parts[0].split('_')[1] == 'preprocessed':
-                new_output_path = output_path + \
-                    parts[0].split('_')[0]+'_dictionary.'+file_mode
-                file_entry = (absolute_path, new_output_path)
-                file_list.append(file_entry)
-    return file_list
+from common import *
 
 
 def clean(dictionary: dict):

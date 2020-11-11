@@ -1,30 +1,7 @@
 import corpus_processor
 import os
 
-def dirWalk(source_path, output_path, file_list, combined=False):
-    listing = os.listdir(source_path)
-    for entry in listing:
-        absolute_path = source_path+entry
-        if os.path.isdir(absolute_path):
-            if absolute_path[-1] != '/':
-                absolute_path = absolute_path+'/'
-            if combined:
-                dirWalk(absolute_path, output_path, file_list, combined)
-            else:
-                new_output_path = output_path+entry+'_preprocessed/'
-                if not (os.path.exists(new_output_path) and os.path.isdir(new_output_path)):
-                    os.mkdir(new_output_path)
-                dirWalk(absolute_path, new_output_path, file_list, combined)
-        else:
-            if absolute_path.split('.')[-1] == 'xml':
-                if combined:
-                    file_entry = (source_path, entry, output_path)
-                else:
-                    new_output_path = output_path + \
-                        entry.split('.')[0]+'_preprocessed.txt'
-                    file_entry = (source_path, entry, new_output_path)
-                file_list.append(file_entry)
-    return file_list
+from common import *
 
 
 def preprocess(input_folder_path, output_folder_path, combined=False, mode='train', lowercase=False):
@@ -47,7 +24,7 @@ def preprocess(input_folder_path, output_folder_path, combined=False, mode='trai
         else:
             output_file_path = output_folder_path + 'test-corpus_preprocessed.txt'
         file_list = dirWalk(input_folder_path,
-                            output_file_path, file_list, combined=True)
+                            output_file_path, file_list, combined)
 
         source_file_list=[(file_entry[0]+file_entry[1]) for file_entry in file_list]
         corpus_processor.process(source_file_list,output_file_path,lowercase)
@@ -60,7 +37,7 @@ def preprocess(input_folder_path, output_folder_path, combined=False, mode='trai
         if not (os.path.exists(output_folder_path) and os.path.isdir(output_folder_path)):
             os.mkdir(output_folder_path)
         file_list = dirWalk(input_folder_path,
-                            output_folder_path, file_list, combined=False)
+                            output_folder_path, file_list, combined)
         for file_entry in file_list:
             output_file_path = file_entry[2]
             source_file_list=[file_entry[0]+file_entry[1]]
