@@ -55,6 +55,11 @@ def model_helper(combined=False, file_mode='json'):
     model.generate_model(output_folder_path, combined, file_mode)
 
 
+def tagger_helper(combined=False, file_mode='json'):
+    output_folder_path = config['output_folder_path']
+    model.tag_words(output_folder_path, combined, file_mode)
+
+
 def checkAttributes(mode, file_mode):
     if mode != 'train' and mode != 'test':
         raise AttributeError('Mode not supported.')
@@ -77,9 +82,14 @@ if __name__ == '__main__':
 
     ### BEGIN EDITABLE ###
     # Comment any of these as per your needs
-    preprocess_helper(combined, mode, lowercase)
-    dictprocess_helper(combined, mode, file_mode)
-    # gettoppers_helper(combined, mode, file_mode)
-    # plotter_helper(mode)
+    preprocess_helper(combined, 'train', lowercase)
+    dictprocess_helper(combined, 'train', file_mode)
+    gettoppers_helper(combined, 'train', file_mode)
+    plotter_helper('train')
+
+    preprocess_helper(combined, 'test', lowercase)
+    dictprocess_helper(combined, 'test', file_mode)
+
     model_helper(combined, file_mode)
+    tagger_helper(combined, file_mode)
     ### END EDITABLE ###
