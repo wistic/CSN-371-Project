@@ -5,20 +5,14 @@ import itertools
 from common import *
 
 
-def process(file_list, output_folder_path, mode='train', file_mode='json'):
+def process(file_list, output_folder_path, mode, file_mode):
     words = dict()
     tags = dict()
 
-    if mode == 'train':
-        words_count_file = output_folder_path+'train-words-count.json'
-        tags_count_file = output_folder_path+'train-tags-count.json'
-        top_words_file = output_folder_path+'train-top-words.txt'
-        top_tags_file = output_folder_path+'train-top-tags.txt'
-    else:
-        words_count_file = output_folder_path+'test-words-count.json'
-        tags_count_file = output_folder_path+'test-tags-count.json'
-        top_words_file = output_folder_path+'test-top-words.txt'
-        top_tags_file = output_folder_path+'test-top-tags.txt'
+    words_count_file = output_folder_path + mode + '-words-count.json'
+    tags_count_file = output_folder_path + mode + '-tags-count.json'
+    top_words_file = output_folder_path + mode + '-top-words.txt'
+    top_tags_file = output_folder_path + mode + '-top-tags.txt'
 
     for file_entry in file_list:
         dictionary = get_dictionary(file_entry, file_mode)
@@ -30,25 +24,10 @@ def process(file_list, output_folder_path, mode='train', file_mode='json'):
             else:
                 words[word] = words[word]+value
 
-        ### BEGIN EDITABLE ###
-        # Use only one of these
-
-        # Not separarting multiple tags like NN1-VVG
-            # if tag not in tags:
-            #     tags[tag] = value
-            # else:
-            #     tags[tag] = tags[tag]+value
-
-        # Separarting multiple tags like NN1-VVG
-            tag_parts = tag.split('-')
-            factor = len(tag_parts)
-            for tag_part in tag_parts:
-                if tag_part not in tags:
-                    tags[tag_part] = value/factor
-                else:
-                    tags[tag_part] = tags[tag_part]+value/factor
-
-        ### END EDITABLE ###
+            if tag not in tags:
+                tags[tag] = value
+            else:
+                tags[tag] = tags[tag]+value
 
     sorted_words = {key: value for key, value in sorted(
         words.items(), key=lambda item: item[1], reverse=True)}
@@ -71,7 +50,7 @@ def process(file_list, output_folder_path, mode='train', file_mode='json'):
         f.write(data)
 
 
-def gettoppers(output_folder_path, combined=False, mode='train', file_mode='json'):
+def gettoppers(output_folder_path, combined, mode, file_mode):
     if output_folder_path[-1] != '/':
         output_folder_path = output_folder_path + '/'
 
@@ -79,16 +58,11 @@ def gettoppers(output_folder_path, combined=False, mode='train', file_mode='json
         raise FileNotFoundError('No such folder exists -> '+output_folder_path)
 
     if combined:
-        if mode == 'train':
-            input_file_path = output_folder_path+'train-corpus_dictionary.'+file_mode
-        else:
-            input_file_path = output_folder_path+'test-corpus_dictionary.'+file_mode
+        input_file_path = output_folder_path + mode + '-corpus_dictionary.'+file_mode
         file_list = [input_file_path]
     else:
         file_list = []
-        if mode == 'train':
-            input_folder_path = output_folder_path+'Train-corpus_dictionary/'
-        else:
-            input_folder_path = output_folder_path+'Test-corpus_dictionary/'
+        input_folder_path = output_folder_path + \
+            mode.capitalize() + '-corpus_dictionary/'
         file_list = dirWalk(input_folder_path, file_list, file_mode)
     process(file_list, output_folder_path, mode, file_mode)

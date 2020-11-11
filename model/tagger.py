@@ -4,20 +4,18 @@ import json
 from common import *
 
 
-def process(file_list, output_folder_path, file_mode='json'):
+def process(file_list, output_folder_path, file_mode):
     tagged_words = dict()
 
     tagged_words_file = output_folder_path+'tagged_words_file.json'
     tagger_map_file = output_folder_path+'tagger_map.json'
-    if not (os.path.exists(tagger_map_file) and os.path.isfile(tagger_map_file)):
-        raise FileNotFoundError(
-            'No such file exists -> '+tagger_map_file)
 
     with open(tagger_map_file, 'r') as f:
         tagger_map = json.load(f)
 
     for file_entry in file_list:
         dictionary = get_dictionary(file_entry, file_mode)
+
         for key, value in dictionary.items():
             word, expected_tag = key.split('_')
 
@@ -40,12 +38,9 @@ def process(file_list, output_folder_path, file_mode='json'):
         json.dump(tagged_words, f, indent=4)
 
 
-def tag_words(output_folder_path, combined=False, file_mode='json'):
+def tag_words(output_folder_path, combined, file_mode):
     if output_folder_path[-1] != '/':
         output_folder_path = output_folder_path + '/'
-
-    if not (os.path.exists(output_folder_path) and os.path.isdir(output_folder_path)):
-        raise FileNotFoundError('No such folder exists -> '+output_folder_path)
 
     if combined:
         input_file_path = output_folder_path+'test-corpus_dictionary.'+file_mode
@@ -53,8 +48,5 @@ def tag_words(output_folder_path, combined=False, file_mode='json'):
     else:
         file_list = []
         input_folder_path = output_folder_path+'Test-corpus_dictionary/'
-        if not (os.path.exists(input_folder_path) and os.path.isdir(input_folder_path)):
-            raise FileNotFoundError(
-                'No such folder exists -> '+input_folder_path)
         file_list = dirWalk(input_folder_path, file_list, file_mode)
     process(file_list, output_folder_path, file_mode)

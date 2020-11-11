@@ -5,19 +5,12 @@ import itertools
 import numpy as np
 
 
-def plotgraphs(output_folder_path, mode='train'):
+def plotgraphs(output_folder_path, mode):
     if output_folder_path[-1] != '/':
         output_folder_path = output_folder_path + '/'
 
-    if not (os.path.exists(output_folder_path) and os.path.isdir(output_folder_path)):
-        raise FileNotFoundError('No such folder exists -> '+output_folder_path)
-
-    if mode == 'train':
-        words_count_file = output_folder_path+'train-words-count.json'
-        tags_count_file = output_folder_path+'train-tags-count.json'
-    else:
-        words_count_file = output_folder_path+'test-words-count.json'
-        tags_count_file = output_folder_path+'test-tags-count.json'
+    words_count_file = output_folder_path + mode + '-words-count.json'
+    tags_count_file = output_folder_path + mode + '-tags-count.json'
 
     with open(tags_count_file, 'r') as f:
         tags_dictionary = json.load(f)
@@ -35,10 +28,7 @@ def plotgraphs(output_folder_path, mode='train'):
     plt.tight_layout(pad=0.5)
     ax = plt.gca()
     ax.set_xlim(left=-2)
-    if mode == 'train':
-        plt.savefig(output_folder_path+'train-tags-bar-graph.png')
-    else:
-        plt.savefig(output_folder_path+'test-tags-bar-graph.png')
+    plt.savefig(output_folder_path + mode + '-tags-bar-graph.png')
     plt.close()
 
     # Plotting Tags Pie Chart
@@ -56,10 +46,7 @@ def plotgraphs(output_folder_path, mode='train'):
             autopct='%1.1f%%', shadow=True, startangle=140)
 
     plt.axis('equal')
-    if mode == 'train':
-        plt.savefig(output_folder_path+'train-tags-pie-chart.png')
-    else:
-        plt.savefig(output_folder_path+'test-tags-pie-chart.png')
+    plt.savefig(output_folder_path + mode + '-tags-pie-chart.png')
     plt.close()
 
     with open(words_count_file, 'r') as f:
@@ -80,8 +67,5 @@ def plotgraphs(output_folder_path, mode='train'):
             autopct='%1.1f%%', shadow=True, startangle=140)
 
     plt.axis('equal')
-    if mode == 'train':
-        plt.savefig(output_folder_path+'train-words-pie-chart.png')
-    else:
-        plt.savefig(output_folder_path+'test-words-pie-chart.png')
+    plt.savefig(output_folder_path + mode + '-words-pie-chart.png')
     plt.close()

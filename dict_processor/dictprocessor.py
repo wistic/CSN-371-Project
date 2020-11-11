@@ -27,7 +27,7 @@ def clean(dictionary: dict):
     return clean_dictionary
 
 
-def convert(input_file_path, output_file_path, file_mode='json'):
+def convert(input_file_path, output_file_path, file_mode):
     with open(input_file_path, 'r') as f:
         preprocessed_list = f.readlines()
     trimmed_list = [entry.strip('\n') for entry in preprocessed_list]
@@ -37,7 +37,7 @@ def convert(input_file_path, output_file_path, file_mode='json'):
         if entry not in dictionary:
             dictionary[entry] = 1
         else:
-            dictionary[entry] = dictionary[entry]+1
+            dictionary[entry] += 1
     del trimmed_list
     dictionary = clean(dictionary)
     if file_mode == 'json':
@@ -54,29 +54,20 @@ def convert(input_file_path, output_file_path, file_mode='json'):
             f.write(data)
 
 
-def dictprocess(output_folder_path, combined=False, mode='train', file_mode='json'):
+def dictprocess(output_folder_path, combined, mode, file_mode):
     if output_folder_path[-1] != '/':
         output_folder_path = output_folder_path + '/'
 
-    if not (os.path.exists(output_folder_path) and os.path.isdir(output_folder_path)):
-        raise FileNotFoundError('No such folder exists -> '+output_folder_path)
-
     if combined:
-        if mode == 'train':
-            input_file_path = output_folder_path+'train-corpus_preprocessed.txt'
-            output_file_path = output_folder_path+'train-corpus_dictionary.'+file_mode
-        else:
-            input_file_path = output_folder_path+'test-corpus_preprocessed.txt'
-            output_file_path = output_folder_path+'test-corpus_dictionary.'+file_mode
+        input_file_path = output_folder_path + mode + '-corpus_preprocessed.txt'
+        output_file_path = output_folder_path + mode + '-corpus_dictionary.'+file_mode
         convert(input_file_path, output_file_path, file_mode)
     else:
         file_list = []
-        if mode == 'train':
-            input_folder_path = output_folder_path+'Train-corpus_preprocessed/'
-            new_output_folder_path = output_folder_path+'Train-corpus_dictionary/'
-        else:
-            input_folder_path = output_folder_path+'Test-corpus_preprocessed/'
-            new_output_folder_path = output_folder_path+'Test-corpus_dictionary/'
+        input_folder_path = output_folder_path + \
+            mode.capitalize() + '-corpus_preprocessed/'
+        new_output_folder_path = output_folder_path + \
+            mode.capitalize() + '-corpus_dictionary/'
         if not (os.path.exists(new_output_folder_path) and os.path.isdir(new_output_folder_path)):
             os.mkdir(new_output_folder_path)
         file_list = dirWalk(input_folder_path,
