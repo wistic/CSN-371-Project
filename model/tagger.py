@@ -9,9 +9,12 @@ def process(file_list, output_folder_path, file_mode):
 
     tagged_words_file = output_folder_path+'tagged_words_file.json'
     tagger_map_file = output_folder_path+'tagger_map.json'
+    top_tags_file = output_folder_path+'train-top-tags.txt'
 
     with open(tagger_map_file, 'r') as f:
         tagger_map = json.load(f)
+    with open(top_tags_file, 'r') as f:
+        best_tag = f.readline().strip('\n')
 
     for file_entry in file_list:
         dictionary = get_dictionary(file_entry, file_mode)
@@ -22,8 +25,12 @@ def process(file_list, output_folder_path, file_mode):
             if key not in tagged_words:
                 if word in tagger_map:
                     assigned_tag = tagger_map[word]
+                elif word.lower() in tagger_map:
+                    assigned_tag = tagger_map[word.lower()]
+                elif word.capitalize() in tagger_map:
+                    assigned_tag = tagger_map[word.capitalize()]
                 else:
-                    assigned_tag = ""
+                    assigned_tag = best_tag
                 tag_dictionary = {
                     "word": word,
                     "frequency": value,
