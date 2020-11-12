@@ -1,5 +1,6 @@
 import json
 import pandas
+import dataframe_image as dfi
 
 
 def generate_confusion_matrix(output_folder_path: str, matrix_mode: str):
@@ -7,6 +8,7 @@ def generate_confusion_matrix(output_folder_path: str, matrix_mode: str):
         output_folder_path = output_folder_path + '/'
 
     matrix_file = output_folder_path+'confusion_matrix.'+matrix_mode
+    matrix_image = output_folder_path+'confusion_matrix.png'
     tags_count_file = output_folder_path + 'train-tags-count.json'
 
     with open(tags_count_file, 'r') as f:
@@ -28,9 +30,12 @@ def generate_confusion_matrix(output_folder_path: str, matrix_mode: str):
         if actual_tag in confusion_matrix:
             confusion_matrix[actual_tag][predicted_tag] += frequency
 
+    dataframe = pandas.DataFrame(confusion_matrix)
+
     if matrix_mode == 'json':
         with open(matrix_file, 'w') as f:
             json.dump(confusion_matrix, f, indent=4)
     else:
-        dataframe = pandas.DataFrame(confusion_matrix)
         dataframe.to_csv(matrix_file)
+    dataframe_styled = dataframe.style.background_gradient()
+    dfi.export(dataframe_styled, matrix_image, max_cols=100, max_rows=100)
