@@ -1,9 +1,10 @@
 import os
 import importlib
 
-from model import generate_model, tag_words, generate_confusion_matrix
+from model import generate_model, tag_words
 from analysis import gettoppers, plotgraphs
 from dict_processor import dictprocess
+from common import *
 import python_preprocessor
 
 if os.path.exists('cfg_modified.py'):
