@@ -7,7 +7,7 @@ from common import *
 def process(file_list, output_folder_path, file_mode):
     tagged_words = dict()
 
-    tagged_words_file = output_folder_path+'tagged_words_file.json'
+    tagged_words_file = output_folder_path+'tagged_words.json'
     tagger_map_file = output_folder_path+'tagger_map.json'
     top_tags_file = output_folder_path+'train-top-tags.txt'
 

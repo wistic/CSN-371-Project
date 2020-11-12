@@ -18,7 +18,7 @@ def generate_confusion_matrix(output_folder_path: str, matrix_mode: str):
         confusion_matrix[key] = dict.fromkeys(tags.keys(), 0)
     del tags
 
-    tagged_words_file = output_folder_path+'tagged_words_file.json'
+    tagged_words_file = output_folder_path+'tagged_words.json'
     with open(tagged_words_file, 'r') as f:
         tagged_words = json.load(f)
 

@@ -74,4 +74,5 @@ if __name__ == '__main__':
     generate_model(output_folder_path, combined, file_mode)
     tag_words(output_folder_path, combined, file_mode)
     generate_confusion_matrix(output_folder_path, matrix_mode)
+    judge(output_folder_path, matrix_mode)
     ### END EDITABLE ###
