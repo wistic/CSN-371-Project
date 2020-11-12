@@ -1,7 +1,7 @@
 import os
 import importlib
 
-from model import generate_model, tag_words
+from model import generate_model, tag_words, generate_confusion_matrix
 from analysis import gettoppers, plotgraphs
 from dict_processor import dictprocess
 import python_preprocessor
@@ -36,12 +36,15 @@ def preprocess_helper(combined, mode, lowercase):
             input_folder_path, output_folder_path, combined, mode, lowercase)
 
 
-def checkAttributes(mode, file_mode):
+def checkAttributes(mode, file_mode, matrix_mode):
     if mode != 'train' and mode != 'test':
         raise AttributeError('Mode not supported.')
 
     if file_mode != 'json' and file_mode != 'txt' and file_mode != 'pickle':
         raise AttributeError('File mode not supported.')
+
+    if matrix_mode != 'json' and matrix_mode != 'csv':
+        raise AttributeError('Matrix mode not supported')
 
 
 if __name__ == '__main__':
@@ -52,9 +55,10 @@ if __name__ == '__main__':
     combined = False
     mode = 'train'
     file_mode = 'json'
+    matrix_mode = 'csv'
     ### END EDITABLE ###
 
-    checkAttributes(mode, file_mode)
+    checkAttributes(mode, file_mode, matrix_mode)
 
     ### BEGIN EDITABLE ###
     # Comment any of these as per your needs
@@ -68,4 +72,5 @@ if __name__ == '__main__':
 
     generate_model(output_folder_path, combined, file_mode)
     tag_words(output_folder_path, combined, file_mode)
+    generate_confusion_matrix(output_folder_path, matrix_mode)
     ### END EDITABLE ###
