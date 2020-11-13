@@ -27,6 +27,8 @@ def process(file_list, output_folder_path, file_mode):
                     assigned_tag = tagger_map[word]
                 elif word.lower() in tagger_map:
                     assigned_tag = tagger_map[word.lower()]
+                elif word.upper() in tagger_map:
+                    assigned_tag = tagger_map[word.upper()]
                 elif word.capitalize() in tagger_map:
                     assigned_tag = tagger_map[word.capitalize()]
                 else:
