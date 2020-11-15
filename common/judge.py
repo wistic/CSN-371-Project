@@ -1,6 +1,6 @@
-import py
 import json
 import pandas
+from .utility import pretty_print
 
 
 def judge(output_folder_path: str, matrix_mode: str):
@@ -85,8 +85,5 @@ def judge(output_folder_path: str, matrix_mode: str):
         weighted_f1_score = 0
         print('Bad dataset')
 
-    tw = py.io.TerminalWriter()
-    tw.write("Average F1 score:", yellow=True, bold=True)
-    tw.write(str(average_f1_score)+'\n', bold=True)
-    tw.write("Weighted F1 score:", yellow=True, bold=True)
-    tw.write(str(weighted_f1_score)+'\n', bold=True)
+    pretty_print("Average F1 score", average_f1_score)
+    pretty_print("Weighted F1 score", weighted_f1_score)
