@@ -5,7 +5,7 @@
 - Clone this repository.
 - Download train and test data hosted on:
 ```
-  https://drive.google.com/drive/folders/1hRSOfKaRUU6w2OwMWeTJUANCxvRzUVCm?usp=sharing
+  https://drive.google.com/drive/folders/19AU97o2jY3D-cs4JomQi4We6Bzmvr7Dy?usp=sharing
 ```
 - Edit [cfg_default.py](https://github.com/wistic/CSN-371-Project/blob/main/cfg_default.py) according to the location of train and test data or create a local version named **cfg_modified.py** using the same structure as cfg_default.py. And set an output folder path.
 - __(Optional)__ Create a [virtualenv](https://pypi.org/project/virtualenv/) and activate it.
