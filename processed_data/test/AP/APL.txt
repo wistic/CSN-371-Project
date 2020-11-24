@@ -1,0 +1,659 @@
+Tony_NP0 Bowran_NP0-NN1 Painted_VVD-AJ0 Pictures_NN2 ?_PUN
+Barney_NP0 Edwards_NP0 Aquatic_AJ0 Exposure_NN1 Kevin_NP0 Dutton_NP0 The_AT0 Face_NN1 of_PRF Comedy_NN1 Calcutta_NP0 ,_PUN City_NN1 of_PRF Love_NN1
+contents_NN2
+NEWS_NN1
+NICK_NP0 COLE_NP0
+Nick_NP0 's_POS stunning_AJ0 selection_NN1 of_PRF fashion_NN1 photographs_NN2 ,_PUN taken_VVN while_CJS on_PRP location_NN1 in_PRP Miami_NP0 ,_PUN certainly_AV0 enforce_VVB his_DPS feeling_NN1 that_CJT Miami_NP0 is_VBZ the_AT0 place_NN1 to_TO0 be_VBI as_PRP a_AT0 fashion_NN1 photographer_NN1 ._PUN
+MY_DPS LITHUANIA_NP0
+In_PRP a_AT0 Soviet_AJ0 Union_NN1 where_CJS getting_VVG a_AT0 film_NN1 developed_VVN is_VBZ not_XX0 a_AT0 simple_AJ0 matter_NN1 Aleksandras_NP0 Macijauskas_NP0 has_VHZ still_AV0 managed_VVN to_TO0 document_VVI the_AT0 people_NN0 ,_PUN and_CJC lifestyle_NN1 ,_PUN of_PRF his_DPS native_AJ0 Lithuania_NP0 ._PUN
+PHOTO_NN1 MONTAGES_NN2
+Veronica_NP0 Sive_NP0 's_POS interest_NN1 in_PRP photography_NN1 began_VVD at_PRP university_NN1 when_CJS-AVQ a_AT0 friend_NN1 suggested_VVD she_PNP ‘_PUQ look_VVB carefully_AV0 through_PRP the_AT0 lens_NN1 ’_PUQ ._PUN
+Now_AV0 ,_PUN having_VHG developed_VVN her_DPS own_DT0 photo-montage_AJ0-NN1 technique_NN1 is_VBZ winning_VVG-AJ0 fame_NN1 both_AV0 in_PRP her_DPS native_AJ0 Australia_NP0 and_CJC elsewhere_AV0 ._PUN
+SERIOUS_AJ0 COMEDY_NN1
+Kevin_NP0 Dutton_NP0 was_VBD unsure_AJ0 of_PRF the_AT0 reaction_NN1 he_PNP would_VM0 get_VVI to_PRP his_DPS first_ORD unconventional_AJ0 portrait_NN1 of_PRF a_AT0 British_AJ0 comedian_NN1 ,_PUN he_PNP certainly_AV0 did_VDD n't_XX0 expect_VVI to_TO0 find_VVI others_NN2 demanding_VVG the_AT0 same_DT0 treatment_NN1 ._PUN
+ADVERTISING_NN1-VVG IN_PRP ACRYLIC_AJ0 GEL_NN1
+Despite_PRP a_AT0 busy_AJ0 schedule_NN1 as_PRP an_AT0 advertising_NN1-AJ0 photographer_NN1 ,_PUN Tony_NP0 Bowran_NP0 makes_VVZ time_NN1 for_PRP his_DPS own_DT0 personal_AJ0 work_NN1 as_CJS he_PNP feels_VVZ strongly_AV0 about_PRP his_DPS development_NN1 as_PRP a_AT0 photographer_NN1 ._PUN
+This_DT0 fascinating_AJ0 series_NN0 of_PRF ‘_PUQ painted_AJ0 pictures_NN2 ’_PUQ may_VM0 form_VVI the_AT0 basis_NN1 of_PRF a_AT0 future_AJ0 campaign_NN1 ._PUN
+BARNEY_NP0 EDWARDS_NP0
+Most_DT0 people_NN0 would_VM0 think_VVI that_CJT an_AT0 accomplished_AJ0 director_NN1 of_PRF commercials_NN2 would_VM0 n't_XX0 need_VVI to_TO0 sit_VVI on_PRP the_AT0 bottom_NN1 of_PRF the_AT0 ocean_NN1 taking_VVG pictures_NN2 of_PRF some_DT0 of_PRF the_AT0 World_NN1 's_POS most_AV0 dangerous_AJ0 creatures_NN2 ._PUN
+Even_AV0 so_AV0 ,_PUN Barney_NP0 Edwards_NP0 heads_NN2-VVZ off_PRP-AVP every_AT0 year_NN1 to_TO0 add_VVI to_PRP his_PNP recently_AV0 exhibited_VVN-AJ0 project_NN1 —_PUN Aquatic_AJ0 Exposure_NN1 ._PUN
+CHRISTOPHER_NP0 MORRIS_NP0
+American_AJ0 war_NN1 photographer_NN1 Chris_NP0 Morris_NP0 recently_AV0 took_VVD a_AT0 rare_AJ0 break_NN1-VVB to_TO0 attend_VVI the_AT0 second_ORD festival_NN1 of_PRF photojournalism_NN1 in_PRP Perpignan_NP0 where_AVQ he_PNP spoke_VVD to_PRP Ted_NP0 Welch_NP0-NN1 about_PRP his_DPS images_NN2 and_CJC his_DPS time_NN1 in_PRP Iraq_NP0 ._PUN
+SUE_NP0 GRAYSON_NP0 FORD_NP0-NN1
+Having_VHG taken_VVN up_AVP-PRP her_DPS post_NN1 as_PRP director_NN1 of_PRF the_AT0 Photographer_NN1 's_POS Gallery_NN1 ,_PUN Sue_NP0 Grayson_NP0 Ford_NP0 fills_VVZ us_PNP in_AVP on_PRP her_DPS plans_NN2 for_PRP the_AT0 gallery_NN1 's_POS future_NN1-AJ0 ._PUN
+CALCUTTA_NP0 —_PUN CITY_NN1 OF_PRF LOVE_NN1
+Calcutta_NP0 must_VM0 be_VBI the_AT0 worst_AJS place_NN1-VVB to_TO0 live_VVI ._PUN
+Millions_CRD of_PRF people_NN0 living_VVG on_PRP the_AT0 streets_NN2 ._PUN
+Congestion_NN1 ._PUN
+Pollution_NN1 ._PUN
+Yet_AV0 through_PRP it_PNP all_DT0 a_AT0 strong_AJ0 sense_NN1 of_PRF caring_NN1 pervades_VVZ and_CJC a_AT0 feeling_NN1 of_PRF friendship_NN1 which_DTQ is_VBZ not_XX0 easy_AJ0 to_TO0 find_VVI in_PRP-AVP the_AT0 Western_AJ0 World_NN1 ._PUN
+Helene_NP0 Rogers_NP0 has_VHZ documented_VVN life_NN1 there_AV0 in_PRP her_DPS latest_AJS book_NN1 —_PUN proceeds_VVZ-NN2 from_PRP which_DTQ go_VVB back_AVP to_PRP Calcutta_NP0 to_TO0 purchase_VVI medicine_NN1 ._PUN
+SEE_VVB HERE_AV0
+Photography_NN1 's_POS comprehensive_AJ0 guide_NN1 to_PRP what_DTQ 's_VBZ on_AVP in_PRP the_AT0 galleries_NN2 ._PUN
+NEWS_NN1
+Ilford_NP0 Launch_NN1-VVB XP2_UNC In_PRP Roll_NN1 and_CJC Miniature_AJ0 Film_NN1
+Ilford_NP0 XP2_UNC film_NN1 ,_PUN designed_VVN-VVD to_TO0 replace_VVI XP1-440_CRD ,_PUN is_VBZ now_AV0 available_AJ0 in_PRP 120_CRD roll_NN1-VVB film_NN1 ,_PUN 35mm_NN0 cassettes_NN2 and_CJC cut_VVB lengths_NN2 ._PUN
+Ilford_NP0 XP2_UNC is_VBZ a_AT0 400_CRD ISO_NP0 chromogenic_AJ0 black_AJ0-NN1 and_CJC white_AJ0 film_NN1 and_CJC ,_PUN as_PRP such_DT0 ,_PUN is_VBZ unique_AJ0 in_PRP being_VBG designed_VVN for_PRP processing_VVG in_PRP C41_UNC colour_NN1-VVB chemistry_NN1 ._PUN
+Other_AJ0 key_AJ0-NN1 features_NN2 of_PRF the_AT0 emulsion_NN1 are_VBB its_DPS increased_AJ0 sharpness_NN1 and_CJC a_AT0 curve_NN1 shape_NN1 which_DTQ is_VBZ matched_VVN to_PRP that_DT0 of_PRF Ilford_NP0 Multigrade_NP0 printing_NN1-VVG paper_NN1 ._PUN
+This_DT0 gives_VVZ users_NN2 high_AJ0 levels_NN2 of_PRF enlargement_NN1 without_PRP loss_NN1 of_PRF detail_NN1 ;_PUN consistent_AJ0 ,_PUN convenient_AJ0 and_CJC widely_AV0 available_AJ0 processing_NN1 and_CJC easier_AJC printing_NN1 ,_PUN with_PRP less_DT0 need_NN1 for_PRP dodging_VVG or_CJC burning-in_NN1 ._PUN
+Having_VHG a_AT0 curve_NN1 shape_NN1 matched_VVN to_PRP that_DT0 of_PRF Multigrade_NP0-NN1 should_VM0 also_AV0 establish_VVI XP2_UNC as_PRP-CJS a_AT0 universal_AJ0 copy_NN1 film_NN1 ._PUN
+With_PRP Ilford_NP0 XP2_UNC ,_PUN the_AT0 professional_AJ0 user_NN1 is_VBZ offered_VVN a_AT0 high_AJ0 speed_NN1 film_NN1 which_DTQ will_VM0 benefit_VVI from_PRP the_AT0 tight_AJ0 quality_NN1 control_NN1 of_PRF negative_AJ0 processing_NN1 available_AJ0 through_PRP a_AT0 professionally_AV0 monitored_VVN C41_UNC process_NN1-VVB ._PUN
+The_AT0 film_NN1 can_VM0 also_AV0 be_VBI processed_VVN through_PRP a_AT0 mini-lab_NN1-AJ0 with_PRP the_AT0 option_NN1 of_PRF proof_NN1 prints_NN2 on_PRP colour_NN1 paper_NN1 ._PUN
+Soft_AJ0 Picture_NN1 Filer_NP0-NN1
+The_AT0 Phototrack_NN1-NP0 range_NN1 of_PRF computer_NN1 software_NN1 is_VBZ invaluable_AJ0 to_PRP agencies_NN2 ,_PUN freelance_VVB-NN1 photographers_NN2 or_CJC anyone_PNI who_PNQ has_VHZ to_TO0 organise_VVI the_AT0 storage_NN1 and_CJC management_NN1 of_PRF photographs_NN2 or_CJC transparencies_NN2 ._PUN
+Originating_VVG in_PRP the_AT0 U.S.A._NP0 Phototrack_NP0-NN1 is_VBZ now_AV0 available_AJ0 in_PRP the_AT0 U.K._NP0
+Wide_AJ0 Angle_NN1 Improvements_NN2
+First_ORD shown_VVN at_PRP Photokina_NP0 in_PRP October_NP0 1990_CRD ,_PUN and_CJC well_AV0 received_VVN by_PRP professional_AJ0 photographers_NN2 specialising_VVG in_PRP-AVP architectural_AJ0 and_CJC monumental_AJ0 photography_NN1 ,_PUN the_AT0 Corfield_NP0-NN1 WA67_UNC is_VBZ now_AV0 available_AJ0 in_PRP a_AT0 revised_AJ0 version_NN1 incorporating_VVG a_AT0 number_NN1 of_PRF improved_AJ0 facilities_NN2 suggested_VVN by_PRP users_NN2 ._PUN
+Most_DT0 important_AJ0 is_VBZ its_DPS acceptance_NN1 of_PRF the_AT0 new_AJ0 Mamiya_NP0-NN1 RB67_UNC PRO_PRP SD_NP0 Polaroid_NN1 film_NN1 pack_NN1-VVB holder_NN1 ._PUN
+It_PNP will_VM0 also_AV0 take_VVI the_AT0 former_DT0 Model_NN1 3_CRD but_CJC in_PRP this_DT0 case_NN1 a_AT0 P_ZZ0 adapter_NN1 is_VBZ required_VVN in_PRP place_NN1 of_PRF the_AT0 rotating_AJ0-VVG back_NN1 ._PUN
+A_AT0 second_ORD bubble_NN1 level_NN1 is_VBZ now_AV0 fitted_VVN for_PRP use_NN1 with_PRP horizontal_AJ0 shift_NN1 and_CJC the_AT0 viewfinder_NN1 fitted_VVN with_PRP a_AT0 rotating_AJ0 front_AJ0-NN1 element_NN1 for_PRP upright_AJ0 and_CJC horizontal_AJ0 formats_NN2 ._PUN
+All_DT0 cameras_NN2 sold_VVN prior_AJ0 to_PRP these_DT0 improvements_NN2 will_VM0 be_VBI brought_VVN up_AVP to_PRP the_AT0 new_AJ0 specifications_NN2 entirely_AV0 free_AJ0 of_PRF charge_NN1 ._PUN
+This_DT0 involves_VVZ fitting_VVG a_AT0 new_AJ0 main_AJ0 body_NN1 and_CJC viewfinder_NN1-VVB ._PUN
+For_PRP further_AJC information_NN1 on_PRP-AVP either_AV0 the_AT0 camera_NN1 or_CJC the_AT0 upgrade_NN1 contact_NN1-VVB :_PUN K._NP0 G._NP0 Corfield_NP0 Ltd._AJ0 6_CRD John_NP0 Street_NP0 ,_PUN London_NP0 ,_PUN WC1N_UNC 2ES_UNC ._PUN
+Photomicrography_NN1 Competition_NN1
+Polaroid_NN1 has_VHZ recently_AV0 announced_VVN details_NN2 of_PRF the_AT0 tenth_ORD annual_AJ0 International_AJ0 Instant_AJ0 Photomicrography_NN1 Competition_NN1 ,_PUN designed_VVN-VVD to_TO0 recognise_VVI the_AT0 efforts_NN2 of_PRF thousands_CRD of_PRF people_NN0 who_PNQ create_VVB images_NN2 with_PRP light_AJ0-NN1 and_CJC electron_NN1 microscopes_NN2 ._PUN
+The_AT0 1991_CRD competition_NN1 introduces_VVZ a_AT0 number_NN1 of_PRF changes_NN2 to_PRP the_AT0 contest_NN1 ._PUN
+For_PRP the_AT0 first_ORD time_NN1 ,_PUN Polaroid_NN1 will_VM0 recognise_VVI student_NN1 entries_NN2 with_PRP a_AT0 special_AJ0 category_NN1 ._PUN
+Also_AV0 ,_PUN the_AT0 traditional_AJ0 electron_NN1 micrography_NN1 category_NN1 has_VHZ been_VBN divided_VVN to_TO0 provide_VVI separate_AJ0 judging_VVG-NN1 for_PRP life_NN1 science_NN1 and_CJC materials_NN2 science_NN1 subjects_NN2 ._PUN
+Closing_NN1 date_NN1 for_PRP entries_NN2 is_VBZ 31st_ORD August_NP0 1991_CRD ._PUN
+There_EX0 are_VBB five_CRD categories_NN2 in_PRP total_AJ0-NN1 and_CJC prizes_NN2 of_PRF $1,000_NN0 ,_PUN $500_NN0 and_CJC $250_NN0 prizes_NN2 will_VM0 be_VBI awarded_VVN to_PRP first_ORD ,_PUN second_ORD and_CJC third_ORD places_NN2 respectively_AV0 in_PRP each_DT0 category_NN1 ._PUN
+Two_CRD $50_NN0 prizes_NN2 may_VM0 be_VBI awarded_VVN for_PRP honourable_AJ0 mentions_NN2 in_PRP each_DT0 category_NN1 ._PUN
+In_PRP addition_NN1 the_AT0 ‘_PUQ Best_AJS Micrograph_NN1-VVB ’_PUQ selected_VVN from_PRP all_DT0 of_PRF the_AT0 winners_NN2 will_VM0 win_VVI a_AT0 further_AJC $2,500_NN0 prize_NN1 ._PUN
+Entry_NN1 forms_NN2 can_VM0 be_VBI obtained_VVN by_PRP writing_VVG-NN1 to_PRP Pat_NP0 Wallace_NP0 ,_PUN Polaroid_NN1 International_AJ0 Instant_AJ0 Photomicrography_NN1 Competition_NN1 ,_PUN Polaroid_NN1 UK_NP0 Ltd_AJ0 ,_PUN Ashley_NP0 Road_NP0 ,_PUN St._NP0 Albans_NP0 ,_PUN Hertfordshire_NP0 ,_PUN AL1_UNC 5PR_UNC ._PUN
+Canon_NP0-NN1 News_NN1
+The_AT0 Guardian_NN1 Newspaper_NN1 has_VHZ won_VVN the_AT0 Canon_NP0-NN1 Best_AJS use_NN1-VVB of_PRF Photography_NN1 category_NN1 in_PRP the_AT0 Newspaper_NN1 Focus_NN1-VVB Awards_NN2-VVZ 1991_CRD ._PUN
+The_AT0 awards_NN2 ,_PUN which_DTQ have_VHB been_VBN designed_VVN specifically_AV0 to_TO0 commend_VVI excellence_NN1 within_PRP newspaper_NN1 publishing_NN1 ,_PUN were_VBD organised_VVN by_PRP Newspaper_NN1 Focus_NN1-VVB magazine_NN1 ._PUN
+Chris_NP0 Elworty_NP0 ,_PUN Marketing_NN1-VVG Development_NN1 manager_NN1 for_PRP Canon_NP0 said_VVD about_PRP the_AT0 award_NN1 ,_PUN ‘_PUQ It_PNP was_VBD a_AT0 unanimous_AJ0 decision_NN1 to_TO0 commend_VVI the_AT0 Guardian_NN1 for_PRP both_AV0 its_DPS use_NN1 of_PRF original_AJ0 material_NN1 and_CJC unusual_AJ0 treatment_NN1 of_PRF pictures_NN2 in_PRP the_AT0 page_NN1 ._PUN ’_PUQ
+The_AT0 shot_NN1 that_CJT caught_VVD the_AT0 judges_NN2 eye_NN1 was_VBD the_AT0 front_AJ0-NN1 cover_NN1 shot_NN1 of_PRF Michael_NP0 Heseltine_NP0 by_PRP Nigel_NP0 Parry_NP0-NN1 of_PRF Katz_NP0-NN1 Pictures_NN2 ._PUN
+New_AJ0 Fabric_NN1 Backgrounds_NN2
+Colorama_NP0-NN1 Photodisplay_NP0-NN1 have_VHB extended_VVN their_DPS range_NN1 of_PRF backgrounds_NN2 by_PRP adding_VVG three_CRD new_AJ0 fabric_NN1 materials_NN2 to_PRP their_DPS product_NN1 range_NN1 ._PUN
+Two_CRD of_PRF the_AT0 new_AJ0 ranges_NN2 ,_PUN Colorich_NP0 and_CJC Colorblend_NP0-NN1 ,_PUN each_DT0 have_VHB six_CRD subtle_AJ0 colour/pattern_NN1 options_NN2 and_CJC are_VBB available_AJ0 in_PRP an_AT0 extra_AV0 wide_AJ0 16_CRD ×_PRP 20_CRD feet_NN2 as_CJS well_AV0 as_CJS 10_CRD ×_PRP 20_CRD feet_NN2 ._PUN
+The_AT0 extra_AJ0 width_NN1 available_AJ0 will_VM0 be_VBI a_AT0 boon_NN1 to_PRP photographers_NN2 looking_VVG for_PRP a_AT0 rich_AJ0 textured_AJ0 background_NN1 for_PRP full_AJ0 sized_AJ0 studio_NN1 work_NN1-VVB ._PUN
+Colorich_NN1-VVB is_VBZ a_AT0 high_AJ0 quality_NN1 pure_AJ0 cotton_NN1 fabric_NN1 with_PRP six_CRD colour_NN1-VVB themes_NN2 of_PRF light_AJ0 brown_AJ0-NN1 ,_PUN brown_AJ0 with_PRP a_AT0 ‘_PUQ shafts_NN2 of_PRF light_AJ0 effect_NN1 ’_PUQ ,_PUN grey/white_NN1-AJ0 ,_PUN purple_AJ0 ,_PUN mid_AJ0 blue_AJ0-NN1 and_CJC a_AT0 multicolour_NN1 grey/blue/brown_NN1-AJ0 design_NN1 ._PUN
+The_AT0 different_AJ0 textural_AJ0 quality_NN1 of_PRF the_AT0 Colorblend_NN1-NP0 range_NN1 results_NN2-VVZ from_PRP its_DPS cotton/polyester_NN1 mix_NN1-VVB and_CJC is_VBZ available_AJ0 in_PRP a_AT0 mid_AJ0 and_CJC light_AJ0 grey_AJ0-NN1 ,_PUN mid_AJ0 blue_AJ0-NN1 ,_PUN dusty_AJ0 pink_AJ0-NN1 ,_PUN brown_AJ0 and_CJC a_AT0 multi-colour_AJ0 pink/blue/yellow/white_AJ0-NN1 option_NN1 ._PUN
+Both_DT0 sets_NN2 of_PRF backgrounds_NN2 are_VBB hand_NN1 painted_VVN to_TO0 achieve_VVI subtle_AJ0 and_CJC distinctive_AJ0 designs_NN2 ._PUN
+The_AT0 third_ORD range_NN1 is_VBZ called_VVN Colorplush_NP0-NN1 and_CJC is_VBZ a_AT0 double_NN1 sided_VVN velour_NN1-VVB ._PUN
+One_CRD side_NN1 has_VHZ a_AT0 similar_AJ0 effect_NN1 to_PRP deep_AJ0 black_AJ0 crushed_AJ0 velvet_NN1 but_CJC with_PRP a_AT0 slight_AJ0 sheen_NN1 ,_PUN the_AT0 reverse_NN1 has_VHZ a_AT0 rough_AJ0 pile_NN1 effect_NN1 painted_VVN in_PRP a_AT0 choice_NN1 of_PRF brown_AJ0-NN1 ,_PUN blue_AJ0 or_CJC grey_AJ0-NN1 ._PUN
+Its_DPS 8_CRD ×_PRP 12_CRD ft_NN0 format_NN1 is_VBZ suitable_AJ0 for_PRP both_AV0 portrait_NN1 and_CJC general_AJ0 work_NN1 ._PUN
+Two_CRD AF_NP0 Lenses_NN2 for_PRP Kyocera_NP0-NN1 from_PRP Sigma_NN1
+Sigma_NN1 have_VHB produced_VVN two_CRD auto-focus_NN1-VVB lenses_NN2 for_PRP use_NN1 with_PRP Yashica_NP0 200AF_UNC and_CJC 230AF_UNC SLRs_NP0 ._PUN
+The_AT0 compact_AJ0 and_CJC lightweight_AJ0 lenses_NN2 offer_VVB an_AT0 alternative_NN1-AJ0 to_PRP Kyocera_NP0 's_POS own_DT0 ._PUN
+The_AT0 28–70mm_ITJ f3.5–4.5_NN0 lens_NN1 makes_VVZ a_AT0 versatile_AJ0 standard_AJ0-NN1 zoom_NN1-VVB covering_VVG wide_AJ0 angle_NN1 to_PRP telephoto_NN1 ._PUN
+It_PNP comes_VVZ with_PRP a_AT0 matched_AJ0 lens_NN1 hood_NN1 ,_PUN pouch_NN1-VVB case_NN1 and_CJC three_CRD year_NN1 U.K._NP0 guarantee_NN1-VVB ,_PUN for_PRP just_AV0 £129.95_NN0 ._PUN
+The_AT0 70–210mm_ITJ f4–5.6_NN0 tele_NN1 zoom_NN1-VVB lens_NN1 is_VBZ possibly_AV0 the_AT0 most_AV0 popular_AJ0 focal_AJ0 length_NN1 today_AV0 ._PUN
+It_PNP shares_VVZ the_AT0 same_DT0 high_AJ0 optical_AJ0 performance_NN1 as_CJS the_AT0 standard_AJ0-NN1 zoom_NN1 ._PUN
+The_AT0 price_NN1 of_PRF just_AV0-AJ0 £129.95_NN0 makes_VVZ it_PNP extremely_AV0 attractive_AJ0 ._PUN
+NICK_NP0 COLE_NP0
+Miami_NP0 is_VBZ certainly_AV0 a_AT0 vice_NN1-AJ0 for_PRP Nick_NP0 Cole_NP0 ._PUN
+He_PNP spent_VVD several_DT0 weeks_NN2 out_AVP there_AV0 last_ORD winter_NN1 shooting_NN1-VVG fashion_NN1 for_PRP various_AJ0 clients_NN2 ,_PUN enjoying_VVG the_AT0 art_NN1 deco_UNC architecture_NN1 ,_PUN the_AT0 big_AJ0 cars_NN2 and_CJC the_AT0 WORK_NN1 ._PUN
+Nick_NP0 has_VHZ established_VVN a_AT0 system_NN1 of_PRF working_VVG out_AVP there_AV0 which_DTQ seems_VVZ to_TO0 be_VBI paying_VVG off_AVP ._PUN
+‘_PUQ You_PNP can_VM0 live_VVI quite_AV0 cheaply_AV0 in_PRP Miami_NP0 ,_PUN so_AV0 once_CJS you_PNP 're_VBB out_AVP there_AV0 on_PRP one_CRD job_NN1 ,_PUN you_PNP can_VM0 contact_VVI other_AJ0 UK_NP0 clients_NN2 and_CJC get_VVB them_PNP to_TO0 send_VVI the_AT0 gear_NN1 over_AVP-PRP and_CJC keep_VVB you_PNP busy_AJ0 for_PRP a_AT0 few_DT0 weeks_NN2 ._PUN
+They_PNP do_VDB n't_XX0 have_VHI your_DPS air_NN1 fares_NN2-VVZ to_TO0 consider_VVI ,_PUN so_CJS it_PNP 's_VBZ an_AT0 attractive_AJ0 proposition_NN1 for_PRP them_PNP ._PUN
+Winter_NN1 is_VBZ the_AT0 time_NN1 everyone_PNI wants_VVZ their_DPS summer_NN1 collections_NN2 shooting_VVG-NN1 ;_PUN Miami_NP0 is_VBZ an_AT0 exciting_AJ0 location_NN1 and_CJC the_AT0 light_NN1 is_VBZ great_AJ0 ._PUN ’_PUQ
+Nick_NP0 's_POS recent_AJ0 spell_NN1-VVB over_PRP there_AV0 included_VVD a_AT0 40_CRD page_NN1 supplement_NN1-VVB for_PRP More_DT0 magazine_NN1 ._PUN
+‘_PUQ This_DT0 is_VBZ the_AT0 ideal_AJ0 type_NN1 of_PRF assignment_NN1 for_PRP me_PNP ._PUN
+More_AV0 often_AV0 than_CJS not_XX0 ,_PUN clients_NN2 want_VVB everything_PNI on_PRP EPR_NP0 ,_PUN clean_AJ0 lighting_NN1 and_CJC every_AT0 stitch_NN1 showing_VVG-NN1 ._PUN
+I_PNP like_VVB to_TO0 do_VDI tests_NN2 in_PRP my_DPS style_NN1 which_DTQ is_VBZ quite_AV0 different_AJ0 ,_PUN I_PNP particularly_AV0 like_VVB using_VVG black_AJ0 and_CJC white_AJ0 and_CJC creating_VVG more_AV0 interesting_AJ0 pictures_NN2 ._PUN
+The_AT0 More_DT0 shoot_NN1-VVB let_VVB me_PNP do_VDI just_AV0 that_DT0 ._PUN
+We_PNP did_VDD it_PNP all_DT0 in_PRP black_NN1 and_CJC white_NN1 in_PRP a_AT0 very_AV0 funky_AJ0 sixties_CRD style_NN1 ;_PUN lots_PNI of_PRF wigs_NN2 ,_PUN American_AJ0 cars_NN2 and_CJC that_DT0-CJT amazing_AJ0 Ocean_NN1 Drive_NN1-VVB background_NN1 of_PRF art_NN1 deco_UNC buildings_NN2 ._PUN ’_PUQ
+A_AT0 Norman_AJ0 flash_AJ0-NN1 unit_NN1 and_CJC Polaroid_NN1 's_POS PolaGraph_NP0-NN1 HC_NP0 film_NN1 are_VBB a_AT0 big_AJ0 part_NN1 of_PRF Nick_NP0 's_POS black_AJ0-NN1 and_CJC white_AJ0 technique_NN1 ._PUN
+‘_PUQ I_PNP assisted_VVD some_DT0 great_AJ0 fashion_NN1 photographers_NN2 before_PRP going_VVG out_AVP on_PRP my_DPS own_DT0 ;_PUN Clive_NP0 Arrowsmith_NP0 ,_PUN Roger_NP0 Charity_NN1 ,_PUN and_CJC several_DT0 others_NN2 ,_PUN including_PRP Parks_NN2 ,_PUN freelance_VVB-NN1 ._PUN
+Roger_NP0 was_VBD very_AV0 keen_AJ0 on_PRP PolaPan_NP0-NN1 and_CJC PolaGraph_NP0-NN1 ,_PUN and_CJC I_PNP learned_VVD a_AT0 lot_NN1 about_PRP lighting_VVG-NN1 black_AJ0-NN1 and_CJC white_AJ0 from_PRP him_PNP ._PUN
+I_PNP like_VVB to_TO0 keep_VVI the_AT0 background_NN1 dark_NN1 ,_PUN and_CJC just_AV0 bring_VVB in_AVP elements_NN2 of_PRF sky_NN1 and_CJC buildings_NN2 and_CJC use_VVB the_AT0 Norman_NN1 to_TO0 highlight_VVI the_AT0 model_NN1 ._PUN ’_PUQ
+What_DTQ is_VBZ it_PNP about_PRP-AVP PolaGraph_NN1-NP0 that_CJT-DT0 sets_VVZ it_PNP apart_AV0 from_PRP all_DT0 the_AT0 other_AJ0 black_AJ0-NN1 and_CJC white_AJ0 films_NN2 ?_PUN
+‘_PUQ It_PNP 's_VBZ an_AT0 amazing_AJ0 film_NN1 ._PUN
+There_EX0 is_VBZ n't_XX0 anything_PNI else_AV0 that_DT0-CJT produces_VVZ the_AT0 same_DT0 feel_VVB-NN1 ._PUN
+The_AT0 grain_NN1 and_CJC the_AT0 tonal_AJ0 range_NN1 help_NN1-VVB create_VVI the_AT0 kind_NN1 of_PRF black_AJ0 and_CJC white_AJ0 images_NN2 I_PNP like_VVB best_AV0 ._PUN
+There_EX0 is_VBZ a_AT0 lot_NN1 of_PRF satisfaction_NN1 in_PRP achieving_VVG the_AT0 clean_AJ0 ,_PUN EPR_NP0 look_NN1-VVB ,_PUN but_CJC I_PNP really_AV0 enjoy_VVB working_VVG in_PRP the_AT0 dramatic_AJ0 ,_PUN gritty_AJ0 PolaGraph_NN1 style_NN1 ,_PUN like_PRP this_DT0 set_NN1 of_PRF swimwear_NN1 shots_NN2 I_PNP did_VDD for_PRP Ms_NP0 London_NP0 for_PRP example_NN1 ._PUN ’_PUQ
+For_PRP the_AT0 uninitiated_AJ0 ,_PUN PolaGraph_NP0 HC_NP0 is_VBZ the_AT0 faster_AJC of_PRF two_CRD 35mm_NN0 instant_AJ0 black_AJ0-NN1 and_CJC white_AJ0 reversal_NN1 films_NN2 ,_PUN the_AT0 other_NN1-AJ0 is_VBZ PolaPan_NP0-NN1 CT_NN1-NP0 ._PUN
+Both_DT0 are_VBB instant_AJ0 daylight_NN1 process_NN1-VVB ,_PUN via_PRP a_AT0 motorised_AJ0 or_CJC manual_AJ0 processor_NN1 ,_PUN which_DTQ provides_VVZ you_PNP with_PRP the_AT0 finished_AJ0 image_NN1 on_PRP site_NN1 ._PUN
+Like_PRP many_DT0 other_AJ0 regular_AJ0 users_NN2 ,_PUN Nick_NP0 prefers_VVZ to_TO0 hand_VVI over_AVP a_AT0 print_NN1 to_PRP clients_NN2 rather_AV0 than_CJS a_AT0 slide_NN1 ._PUN
+‘_PUQ After_PRP processing_VVG I_PNP mount_VVB the_AT0 slides_NN2 in_PRP glass_NN1 to_TO0 keep_VVI them_PNP safe_AJ0 ,_PUN because_CJS they_PNP are_VBB more_AV0 delicate_AJ0 than_CJS conventional_AJ0 slides_NN2 ._PUN
+For_PRP reproduction_NN1 I_PNP get_VVB prints_NN2 made_VVD-VVN ._PUN
+This_DT0 is_VBZ another_DT0 opportunity_NN1 to_TO0 be_VBI creative_AJ0 with_PRP this_DT0 film_NN1 too_AV0 ._PUN
+I_PNP use_VVB Danny_NP0 Pope_NP0-NN1 at_PRP Matchless_AJ0 Prints_NN2 ,_PUN he_PNP 's_VBZ a_AT0 whizz_NN1 with_PRP PolaPan_NN1-NP0 on_PRP Cibachrome_NP0-NN1 ._PUN
+You_PNP need_VVB someone_PNI to_TO0 discuss_VVI your_DPS work_NN1 when_CJS it_PNP comes_VVZ to_PRP printing_NN1-VVG ,_PUN and_CJC Danny_NP0 will_VM0 suggest_VVI which_DTQ frames_VVZ to_TO0 print_VVI and_CJC how_AVQ he_PNP can_VM0 bring_VVI out_AVP certain_AJ0 aspects_NN2 of_PRF an_AT0 image_NN1 ._PUN ’_PUQ
+Nick_NP0 found_VVD Miami_NP0 ,_PUN and_CJC America_NP0 in_PRP general_AJ0 ,_PUN to_TO0 be_VBI a_AT0 great_AJ0 place_NN1 to_PRP work_NN1 ,_PUN ‘_PUQ Models_NN2 ,_PUN agencies_NN2 and_CJC people_NN0 in_PRP general_AJ0 have_VHB a_AT0 good_AJ0 attitude_NN1 over_PRP there_AV0 ’_PUQ ,_PUN he_PNP told_VVD us_PNP ._PUN
+‘_PUQ The_AT0 model_NN1 agencies_NN2 are_VBB very_AJ0 business_NN1 minded_VVD-VVN ._PUN
+If_CJS you_PNP want_VVB to_TO0 contact_VVI someone_PNI you_PNP get_VVB their_DPS home_NN1 phone_NN1 number_NN1 as_CJS well_AV0 as_CJS the_AT0 office_NN1 ,_PUN and_CJC you_PNP can_VM0 call_VVI any_DT0 time_NN1 ._PUN
+The_AT0 models_NN2 too_AV0 have_VHB a_AT0 better_AJC attitude_NN1 ._PUN
+They_PNP do_VDB n't_XX0 turn_VVI their_DPS nose_NN1 up_AVP at_PRP a_AT0 job_NN1 for_PRP a_AT0 lesser_AJ0 mag_NN1 if_CJS their_DPS last_ORD assignment_NN1 was_VBD for_PRP Elle_UNC or_CJC something_PNI ._PUN ’_PUQ
+So_AV0 when_AVQ are_VBB you_PNP moving_VVG over_PRP there_AV0 ?_PUN
+‘_PUQ Well_AV0 Miami_NP0 is_VBZ only_AV0 any_DT0 good_NN1 in_PRP the_AT0 winter_NN1 months_NN2 ._PUN
+It_PNP 's_VBZ too_AV0 hot_AJ0 and_CJC humid_AJ0 during_PRP the_AT0 summer_NN1 ,_PUN and_CJC all_DT0 the_AT0 labs_NN2 close_VVB down_AVP after_PRP May_NP0 ,_PUN although_CJS it_PNP would_VM0 be_VBI nice_AJ0 to_TO0 have_VHI two_CRD apartments_NN2 ,_PUN one_CRD here_AV0 and_CJC one_PNI there_AV0 in_PRP the_AT0 winter_NN1 ._PUN
+What_DTQ I_PNP would_VM0 really_AV0 like_VVI to_TO0 do_VDI next_ORD is_VBZ some_DT0 really_AV0 good_AJ0 editorial_AJ0-NN1 work_NN1-VVB in_PRP Milan_NP0 ._PUN ’_PUQ
+From_PRP Miami_NP0 to_PRP Milan_NP0 ._PUN
+Is_VBZ n't_XX0 there_EX0 enough_DT0 work_VVB-NN1 around_AVP in_PRP the_AT0 UK_NP0 ?_PUN
+‘_PUQ Well_AJ0-AV0 fashion_NN1-VVB is_VBZ still_AV0 faring_VVG better_AJC than_CJS advertising_NN1-VVG in_PRP the_AT0 current_AJ0 page_NN1 squeeze_VVB-NN1 ,_PUN but_CJC there_EX0 are_VBB now_AV0 less_AV0 editorial_AJ0 pages_NN2 to_TO0 correspond_VVI with_PRP the_AT0 fewer_DT0 advertising_NN1 pages_NN2 being_VBG sold_VVN in_PRP magazines_NN2 ’_PUQ ._PUN
+He_PNP explained_VVD ._PUN
+‘_PUQ Also_AV0 ,_PUN a_AT0 lot_NN1 of_PRF the_AT0 big_AJ0 names_NN2 are_VBB getting_VVG less_AV0 advertising_AJ0-NN1 work_NN1 ,_PUN and_CJC they_PNP are_VBB more_AV0 prepared_AJ0-VVN now_AV0 to_TO0 do_VDI editorial_NN1-AJ0 ,_PUN which_DTQ does_VDZ mean_VVI more_DT0 competition_NN1 ’_PUQ ._PUN
+As_CJS they_PNP say_VVB ,_PUN when_CJS-AVQ the_AT0 going_NN1 gets_VVZ tough_AJ0 ,_PUN the_AT0 tough_NN1 gets_VVZ going_VVG ._PUN
+In_PRP Nick_NP0 Cole_NP0 's_POS case_NN1 he_PNP 's_VBZ going_VVG to_PRP Miami_NP0 ,_PUN Milan_NP0 and_CJC anywhere_AV0 else_AV0 the_AT0 good_AJ0 work_NN1 is_VBZ ._PUN
+He_PNP 's_VBZ probably_AV0 also_AV0 going_VVG to_TO0 do_VDI very_AV0 well_AV0 when_CJS he_PNP gets_VVZ there_AV0 ._PUN
+Peter_NP0 Lester_NP0
+MY_DPS LITHUANIA_NP0
+In_PRP a_AT0 Soviet_AJ0 Union_NN1 where_CJS getting_VVG a_AT0 film_NN1 developed_VVN is_VBZ not_XX0 a_AT0 simple_AJ0 matter_NN1 ,_PUN photography_NN1 can_VM0 not_XX0 be_VBI the_AT0 action_NN1 of_PRF a_AT0 consumer_NN1 —_PUN of_PRF holiday_NN1 ,_PUN sports_NN2 event_NN1 or_CJC sight-seeing_NN1 tour_NN1-VVB —_PUN but_CJC has_VHZ to_TO0 be_VBI ,_PUN at_PRP the_AT0 very_AV0 least_AV0 ,_PUN a_AT0 technical_AJ0 hobby_NN1 ;_PUN at_PRP the_AT0 best_AJS ,_PUN an_AT0 art_NN1 form_NN1-VVB
+Lithuanian_AJ0 photographer_NN1 Aleksandras_NP0 Macijauskas_NP0 would_VM0 admit_VVI to_PRP creating_VVG art_NN1 if_CJS pressed_VVN ,_PUN although_CJS he_PNP might_VM0 express_VVI surprise_NN1 at_PRP the_AT0 impact_NN1 his_DPS photography_NN1 has_VHZ had_VHN through_PRP exhibitions_NN2 in_PRP Europe_NP0 and_CJC America_NP0 as_CJS well_AV0 as_CJS in_PRP the_AT0 former_DT0 ‘_PUQ eastern_AJ0 block_NN1 ’_PUQ ._PUN
+In_PRP a_AT0 new_AJ0 collection_NN1 of_PRF his_DPS photographs_NN2 —_PUN My_DPS Lithuania_NP0 —_PUN from_PRP publishers_NN2 Thames_NP0 and_CJC Hudson_NP0 (_PUL £24.00_NN0 )_PUR ,_PUN he_PNP certainly_AV0 admits_VVZ to_PRP literary_AJ0 pretensions_NN2 as_PRP a_AT0 young_AJ0 man_NN1 and_CJC his_DPS photographs_NN2 can_VM0 be_VBI seen_VVN as_PRP an_AT0 attempt_NN1 to_TO0 capture_VVI the_AT0 lives_NN2 of_PRF fellow_AJ0 Lithuanians_NN2 in_PRP the_AT0 detail_NN1 which_DTQ only_AV0 words_NN2 can_VM0 usually_AV0 portray_VVI ._PUN
+His_DPS Lithuania_NP0 is_VBZ personified_VVN by_PRP the_AT0 characters_NN2 in_PRP these_DT0 photographs_NN2 and_CJC is_VBZ the_AT0 myriad_NN1 expressions_NN2 of_PRF his_DPS fellow_AJ0-NN1 countrymen_NN2 and_CJC women_NN2 ._PUN
+This_DT0 is_VBZ somewhat_AV0 in_PRP contrast_NN1 to_PRP the_AT0 photographs_NN2 of_PRF former_DT0 collaborator_NN1 George_NP0 Sutkus_NP0-NN1 which_DTQ provide_VVB the_AT0 unpopulated_AJ0 settings_NN2 ,_PUN the_AT0 places_NN2 which_DTQ the_AT0 onlooker_NN1 can_VM0 choose_VVI to_TO0 inhabit_VVI ._PUN
+For_PRP Aleksandras_NN2 Macijauskas_NP0 ,_PUN photography_NN1 began_VVD as_PRP a_AT0 profession_NN1 when_CJS-AVQ Sutkus_NP0 persuaded_VVD him_PNP to_TO0 join_VVI the_AT0 Lithuanian_AJ0 Photographic_AJ0 Society_NN1 based_VVN in_PRP the_AT0 capital_NN1 Vilnius_NP0 ._PUN
+Macijauskas_NP0 himself_PNX is_VBZ from_PRP the_AT0 second_ORD city_NN1 and_CJC former_DT0 capital_NN1 ,_PUN Kaunas_NN2 which_DTQ is_VBZ where_AVQ he_PNP worked_VVD with_PRP the_AT0 local_AJ0 branch_NN1 of_PRF the_AT0 society_NN1 ,_PUN won_VVD some_DT0 competitions_NN2 and_CJC became_VVD a_AT0 newspaper_NN1 reporter_NN1 ._PUN
+The_AT0 published_AJ0 collection_NN1 is_VBZ edited_VVN by_PRP Daniela_NP0 Mrazkova_NP0 and_CJC Vladimir_NP0 Remes_NP0 ,_PUN two_CRD of_PRF the_AT0 editors_NN2 of_PRF the_AT0 Czechoslovakian_AJ0 magazine_NN1 Photografie_NN1-NP0 which_DTQ published_VVD Macijauskas_NP0 '_POS work_NN1-VVB early_AV0 on_AVP ._PUN
+My_DPS Lithuania_NP0 is_VBZ four_CRD studies_NN2 :_PUN Village_NP0-NN1 Markets_NN2 and_CJC Veterinary_AJ0 hospital_NN1 have_VHB previously_AV0 been_VBN exhibitions_NN2 in_PRP Aries_NP0 (_PUL 1975_CRD )_PUR and_CJC New_NP0 York_NP0 (_PUL 1979_CRD )_PUR ._PUN
+Parades_NN2 and_CJC Summer_NN1 complete_VVB the_AT0 collection_NN1 ._PUN
+Village_NN1-NP0 Markets_NN2
+Macijauskas_NP0 undertook_VVD a_AT0 planned_AJ0 tour_NN1 of_PRF villages_NN2 in_PRP 1968_CRD and_CJC found_VVD a_AT0 subject_NN1 close_AV0 to_PRP his_DPS heart_NN1 ._PUN
+For_PRP Macijauskas_NP0 the_AT0 village_NN1 market_NN1 is_VBZ the_AT0 congregation_NN1 point_NN1 for_PRP his_DPS Lithuanians_NN2 together_AV0 with_PRP their_DPS children_NN2 ,_PUN animals_NN2 ,_PUN possessions_NN2 and_CJC vices_NN2 ;_PUN working_VVG ,_PUN playing_VVG ,_PUN buying_VVG and_CJC selling_NN1-VVG ,_PUN bargaining_VVG-NN1 ,_PUN haggling_VVG and_CJC conspiring_VVG ;_PUN curious_AJ0 ,_PUN irritated_AJ0-VVN and_CJC sympathetic_AJ0 ._PUN
+Today_AV0 little_DT0 has_VHZ changed_VVN ._PUN
+He_PNP observes_VVZ the_AT0 cows_NN2 ,_PUN goats_NN2 and_CJC ducks_NN2 ,_PUN the_AT0 horses_NN2 with_PRP all_DT0 their_DPS paraphernalia_NN0 and_CJC pigs_NN2 brought_VVN-VVD to_TO0 market_VVI in_PRP the_AT0 boots_NN2 of_PRF private_AJ0 cars_NN2 ._PUN
+Macijauskas_NP0 ,_PUN like_PRP many_DT0 other_AJ0 children_NN2 from_PRP the_AT0 war_NN1 generation_NN1 ,_PUN stayed_VVD-VVN on_PRP-AVP his_DPS grandparents_NN2 '_POS farm_NN1 and_CJC came_VVD to_TO0 respect_VVI the_AT0 animals_NN2 and_CJC their_DPS contribution_NN1 as_CJS workers_NN2 and_CJC food_NN1 to_PRP what_DTQ is_VBZ an_AT0 essentially_AV0 rural_AJ0 society_NN1 ._PUN
+There_EX0 's_VBZ none_PNI of_PRF the_AT0 sentimentality_NN1 associated_VVN with_PRP pets_NN2 in_PRP this_DT0 country_NN1 ._PUN
+These_DT0 are_VBB values_NN2 with_PRP which_DTQ any_DT0 rural_AJ0 community_NN1 would_VM0 empathise_VVI ._PUN
+One_CRD third_ORD of_PRF Lithuania_NP0 is_VBZ covered_VVN by_PRP forest_NN1 ,_PUN an_AT0 important_AJ0 ecology_NN1 and_CJC animal_NN1 population_NN1 ._PUN
+It_PNP 's_VBZ also_AV0 a_AT0 source_NN1 of_PRF food_NN1 and_CJC sport_NN1 for_PRP Lithuanians_NN2 who_PNQ ride_VVB and_CJC ski_VVB-NN1 in_PRP-AVP their_DPS forests_NN2 and_CJC hunt_VVB-NN1 game_NN1 and_CJC prepare_VVB it_PNP for_PRP the_AT0 table_NN1 ._PUN
+Veterinary_AJ0 Hospital_NN1
+Animals_NN2 feature_VVB-NN1 very_AV0 strongly_AV0 too_AV0 in_PRP the_AT0 Veterinary_AJ0-NN1 Hospital_NN1 where_AVQ care_NN1-VVB for_PRP the_AT0 creatures_NN2 is_VBZ buried_VVN by_PRP the_AT0 unnatural_AJ0 positions_NN2 of_PRF the_AT0 creatures_NN2 as_CJS they_PNP are_VBB manhandled_VVN by_PRP humans_NN2 in_PRP white_AJ0 coats_NN2 who_PNQ plainly_AV0 find_VVB it_PNP difficult_AJ0 to_TO0 cope_VVI ._PUN
+The_AT0 strain_NN1 and_CJC the_AT0 relief_NN1 shows_VVZ-NN2 in_PRP the_AT0 faces_NN2 of_PRF men_NN2 and_CJC animals_NN2 ._PUN
+Summer_NN1
+Summer_NN1 is_VBZ Summer_NN1 at_PRP the_AT0 beach_NN1 ._PUN
+Lithuanians_NN2 cherish_VVB their_DPS Baltic_AJ0 coastline_NN1 —_PUN in_PRP 1988_CRD they_PNP joined_VVD hands_NN2 with_PRP Latvians_NN2 and_CJC Estonians_NN2 to_TO0 form_VVI a_AT0 human_AJ0 chain_NN1 along_PRP-AVP its_DPS full_AJ0 length_NN1 to_TO0 protest_VVI against_PRP pollution_NN1 ._PUN
+In_PRP these_DT0 pictures_NN2 ,_PUN we_PNP see_VVB the_AT0 holidaymakers_NN2 and_CJC what_DTQ holidaymakers_NN2 do_VDB ,_PUN not_XX0 the_AT0 deserted_AJ0 sands_NN2 of_PRF Nergina_NP0 nor_CJC the_AT0 animal_NN1 wildlife_NN1 of_PRF the_AT0 coastal_AJ0 habitat_NN1 ._PUN
+Macijauskas_NP0 is_VBZ disturbed_VVN by_PRP the_AT0 beach_NN1 photographer_NN1 —_PUN few_DT0 Soviet_AJ0 citizens_NN2 have_VHB their_DPS own_DT0 cameras_NN2 —_PUN who_PNQ works_VVZ all_DT0 day_NN1 ,_PUN lining_VVG up_AVP semi-naked_AJ0 families_NN2 beside_PRP ridiculous_AJ0 props_NN2 for_PRP the_AT0 family_NN1 album_NN1 —_PUN a_AT0 theatre_NN1 of_PRF the_AT0 absurd_AJ0 ._PUN
+The_AT0 subjects_NN2 can_VM0 look_VVI a_AT0 little_AV0 ridiculous_AJ0 to_PRP us_PNP too_AV0 ,_PUN the_AT0 old-fashioned_AJ0 costumes_NN2 ,_PUN the_AT0 strange_AJ0 practice_NN1 of_PRF sunbathing_VVG-NN1 standing_VVG up_AVP !_PUN
+But_CJC the_AT0 splashing_NN1-VVG ,_PUN playing_VVG ,_PUN picnicking_NN1-VVG fun_NN1 of_PRF the_AT0 beach_NN1 is_VBZ also_AV0 apparent_AJ0 in_PRP these_DT0 sometimes_AV0 glowing_VVG-AJ0 photographs_NN2 ._PUN
+Parades_NN2
+The_AT0 Lithuanians_NN2 readily_AV0 get_VVB together_AV0 for_PRP music_NN1 ,_PUN singing_VVG and_CJC more_AV0 recently_AV0 again_AV0 for_PRP political_AJ0 statement_NN1 ._PUN
+Brass_NN1 instruments_NN2 mix_VVB-NN1 with_PRP flags_NN2 and_CJC uniforms_NN2 but_CJC Macijauskas_NP0 reveals_VVZ that_CJT his_DPS pictures_NN2 of_PRF marchers_NN2 forming_VVG ranks_NN2 before_PRP-CJS and_CJC breaking_VVG up_AVP into_PRP chatting_VVG groups_NN2 after_PRP-CJS the_AT0 parade_NN1 ,_PUN are_VBB just_AV0 as_AV0 important_AJ0 as_CJS those_DT0 of_PRF the_AT0 parade_NN1 itself_PNX ._PUN
+Tiny_AJ0 Lithuania_NP0 —_PUN under_AV0 3_CRD million_CRD people_NN0 —_PUN has_VHZ certainly_AV0 arrived_VVN centre_NN1 stage_NN1 in_PRP world_NN1 affairs_NN2 in_PRP recent_AJ0 months_NN2 ._PUN
+The_AT0 nationalist_AJ0-NN1 struggle_NN1 is_VBZ as_AV0 much_DT0 about_PRP a_AT0 culture_NN1 and_CJC its_DPS language_NN1 as_CJS about_PRP geographical_AJ0 borders_NN2 ._PUN
+Macijauskas_NP0 '_POS photographs_NN2 tell_VVB us_PNP that_CJT a_AT0 country_NN1 is_VBZ its_DPS people_NN0 ._PUN
+I_PNP 'll_VM0 leave_VVI you_PNP with_PRP a_AT0 quote_NN1 from_PRP Justinas_NP0 Marcinkevicius_NP0-NN1 —_PUN People_NN0 's_POS Poet_NN1 of_PRF the_AT0 Lithuanian_AJ0 SSR_NP0 —_PUN introducing_VVG Sutkus_NP0-NN1 '_POS collection_NN1 Daina_NP0 Lietuvai_NP0 :_PUN
+‘_PUQ Lithuania_NP0 is_VBZ a_AT0 land_NN1 of_PRF life_NN1 ,_PUN a_AT0 land_NN1 of_PRF work_NN1 and_CJC recreation_NN1 ,_PUN a_AT0 land_NN1 of_PRF our_DPS love_NN1 and_CJC pain_NN1 ._PUN
+Call_VVB out_AVP to_PRP this_DT0 land_NN1 ,_PUN Lithuania_NP0 ._PUN ’_PUQ
+Anna_NP0 Bartasiena_NP0
+An_AT0 exhibition_NN1 of_PRF My_DPS Lithuania_NP0 photographs_NN2 will_VM0 be_VBI on_PRP show_NN1 at_PRP the_AT0 Portfolio_NN1 Gallery_NN1 ,_PUN 345_CRD Portobello_NP0 Road_NP0 W10_UNC (_PUL 081-969-0453_CRD )_PUR ._PUN
+This_DT0 selection_NN1 of_PRF photographs_NN2 reveals_VVZ Aleksandras_NP0 Macijauskas_NP0 as_PRP a_AT0 truly_AV0 remarkable_AJ0 artist_NN1 and_CJC observer_NN1 of_PRF life_NN1 ,_PUN accompanied_VVN by_PRP his_DPS own_DT0 trenchant_NN1 ,_PUN graphic_AJ0 ,_PUN sometimes_AV0 whimsical_AJ0 commentaries_NN2 (_PUL 11_CRD July_NP0 –_PUN 3_CRD August_NP0 )_PUR ._PUN
+Tues–Thurs_NP0 11.00_CRD ,_PUN Fri–Sat_NP0 09.30_CRD –_PUN 17.30_CRD ,_PUN Free_AJ0
+PHOTO_NN1 MONTAGES_NN2
+Veronica_NP0 Sive_NP0 's_POS interest_NN1 in_PRP photography_NN1 began_VVD at_PRP university_NN1 ,_PUN 10_CRD years_NN2 ago_AV0 when_CJS-AVQ a_AT0 friend_NN1 suggested_VVD she_PNP ‘_PUQ look_VVB carefully_AV0 through_PRP the_AT0 lens_NN1 ,_PUN it_PNP 's_VBZ a_AT0 new_AJ0 world_NN1 out_AVP there_AV0 ’_PUQ ._PUN
+When_CJS Veronica_NP0 Sive_NP0 first_ORD became_VVD interested_AJ0 in_PRP photography_NN1 through_PRP a_AT0 friend_NN1 's_POS guidance_NN1 ,_PUN she_PNP became_VVD aware_AJ0 of_PRF the_AT0 basic_AJ0 elements_NN2 of_PRF the_AT0 new_AJ0 medium_NN1 ._PUN
+She_PNP eventually_AV0 transferred_VVD to_PRP the_AT0 Tisch_NN1-NP0 School_NN1 of_PRF Arts_NN2 ,_PUN New_NP0 York_NP0 University_NN1 ,_PUN graduating_VVG in_PRP-AVP Fine_AJ0 Arts_NN2 with_PRP a_AT0 film_NN1 major_NN1-AJ0 ._PUN
+At_PRP the_AT0 same_DT0 time_NN1 she_PNP began_VVD working_VVG as_CJS a_AT0 commercial_AJ0 Photographer_NN1 ,_PUN prior_AJ0 to_PRP finding_VVG her_DPS own_DT0 photographic_AJ0 technique_NN1 ,_PUN that_DT0 of_PRF the_AT0 ‘_PUQ photo-graphic_AJ0 montage_NN1 ’_PUQ ._PUN
+Today_AV0 she_PNP is_VBZ involved_AJ0 in_PRP both_AV0 the_AT0 film_NN1 and_CJC photographic_AJ0 industries_NN2 ,_PUN as_CJS well_AV0 as_CJS exploring_VVG the_AT0 world_NN1 ,_PUN combining_VVG images_NN2 into_PRP her_DPS own_DT0 reality_NN1 for_PRP advertising_NN1 and_CJC design_NN1-VVB agencies_NN2 and_CJC art_NN1 collectors_NN2 alike_AV0 ._PUN
+‘_PUQ From_PRP sunrise_NN1 to_PRP sunset_NN1 ,_PUN midnight_NN1 to_PRP midday_NN1 —_PUN signs_NN2 ,_PUN signals_NN2 ,_PUN subways_NN2 ,_PUN skyscrapers_NN2 ,_PUN streets_NN2 and_CJC alleyways_NN2 await_VVB …_PUN close_AJ0 visual_AJ0 exploration_NN1 ._PUN
+The_AT0 vertical_AJ0 and_CJC horizontal_AJ0 angles_NN2 ,_PUN the_AT0 linear_AJ0 lines_NN2 ,_PUN the_AT0 juxtaposed_AJ0 bands_NN2 —_PUN the_AT0 common_AJ0 images_NN2 ;_PUN wheels_NN2-VVZ ,_PUN walls_NN2 and_CJC wires_NN2 —_PUN once_AV0 captured_VVN on_PRP film_NN1 ultimately_AV0 unite_VVB into_PRP a_AT0 distinct_AJ0 illusion_NN1 —_PUN an_AT0 illusion_NN1 designed_VVN in_PRP the_AT0 imagination_NN1 —_PUN created_VVN through_PRP the_AT0 reality_NN1 of_PRF photography_NN1 ._PUN
+‘_PUQ Instead_AV0 of_PRF using_VVG my_DPS camera_NN1 to_TO0 simply_AV0 record_VVI reality_NN1 ,_PUN I_PNP use_VVB it_PNP to_TO0 improve_VVI reality_NN1 ._PUN
+I_PNP isolate_VVB ,_PUN eliminate_VVB or_CJC exaggerate_AJ0 parts_NN2 of_PRF a_AT0 scene_NN1 and_CJC create_VVB my_DPS own_DT0 version_NN1 of_PRF the_AT0 world_NN1 ._PUN
+The_AT0 real_AJ0 challenge_NN1 of_PRF this_DT0 technique_NN1 is_VBZ to_TO0 deceive_VVI the_AT0 human_AJ0-NN1 eye_NN1 ._PUN
+‘_PUQ A_AT0 combination_NN1 of_PRF reality_NN1 ,_PUN through_PRP photography_NN1 and_CJC my_DPS own_DT0 reality_NN1 through_PRP the_AT0 cutting_NN1-AJ0 edge_NN1 of_PRF the_AT0 scissors_NN2 ’_PUQ ._PUN
+The_AT0 earliest_AJS sports_NN2 images_NN2 of_PRF the_AT0 1984_CRD Summer_NN1 Los_NP0 Angeles_NP0 Olympic_AJ0 Games_NN2 lead_VVB on_AVP to_PRP graphic_AJ0 architectural_AJ0 landscapes_NN2 ,_PUN floral_AJ0 illusions_NN2 ,_PUN environmental_AJ0 impressions_NN2 and_CJC memories_NN2 of_PRF exotic_AJ0 travel_NN1 destinations_NN2 combined_VVN-VVD to_TO0 express_VVI the_AT0 moment_NN1 ,_PUN sensation_NN1 and_CJC experience_NN1-VVB ._PUN ’_PUQ
+With_PRP cameras_NN2 in_PRP hand_NN1 ,_PUN numerous_AJ0 shooting_NN1 hours_NN2 pass_VVB-NN1 ,_PUN allowing_VVG the_AT0 pieces_NN2 to_TO0 be_VBI gathered_VVN ._PUN
+‘_PUQ The_AT0 images_NN2 have_VHB to_TO0 be_VBI just_AV0-AJ0 right_AJ0 ,_PUN the_AT0 right_AJ0 time_NN1 of_PRF day_NN1 ,_PUN the_AT0 right_AJ0-NN1 angle_NN1 ,_PUN the_AT0 right_AJ0-NN1 perspective_NN1 ,_PUN the_AT0 right_AJ0-NN1 illusion_NN1 ._PUN
+‘_PUQ Sometimes_AV0 I_PNP expose_VVB three_CRD hundred_CRD negatives_NN2 for_PRP one_CRD single_AJ0 photographic_AJ0 montage_NN1 prior_AJ0 to_PRP commencing_VVG the_AT0 manipulation_NN1 and_CJC duplication_NN1 ._PUN
+The_AT0 connecting_AJ0 factors_NN2 are_VBB in_PRP the_AT0 design_NN1 ,_PUN in_PRP the_AT0 colours_NN2 ,_PUN the_AT0 forms_NN2 and_CJC the_AT0 lines_NN2 —_PUN ultimately_AV0 combined_VVN to_TO0 create_VVI a_AT0 single_AJ0 whole_NN1 ._PUN ’_PUQ
+Each_DT0 city_NN1 ,_PUN town_NN1 or_CJC village_NN1 lends_VVZ itself_PNX to_PRP a_AT0 collage_NN1 in_PRP some_DT0 odd_AJ0 way_NN1 ._PUN
+The_AT0 possibilities_NN2 are_VBB endless_AJ0 ._PUN
+‘_PUQ I_PNP always_AV0 formulate_VVB a_AT0 clear_AJ0 image_NN1 in_PRP the_AT0 mind_NN1 prior_AJ0 to_PRP commencing_VVG the_AT0 photography_NN1 ._PUN
+Without_PRP the_AT0 concept_NN1 clearly_AV0 planned_VVD-VVN the_AT0 collage_NN1 process_NN1-VVB never_AV0 begins_VVZ ._PUN ’_PUQ
+As_CJS each_DT0 image_NN1 is_VBZ essentially_AV0 composed_VVN through_PRP the_AT0 lens_NN1 ,_PUN it_PNP is_VBZ adjusted_VVN to_PRP the_AT0 ‘_PUQ final_AJ0 size_NN1 ’_PUQ by_PRP varying_VVG the_AT0 focal_AJ0 lengths_NN2 in_PRP the_AT0 shooting_NN1-AJ0 stage_NN1 ._PUN
+The_AT0 proportions_NN2 alter_VVB according_VVG to_PRP the_AT0 final_AJ0 placement_NN1 within_PRP the_AT0 montage_NN1 ._PUN
+After_PRP ordering_VVG and_CJC selecting_VVG the_AT0 required_AJ0 mini-lab_AJ0-NN1 prints_NN2 ,_PUN each_DT0 photograph_NN1 is_VBZ cut_VVN individually_AV0 ._PUN
+Patience_NN1 ,_PUN a_AT0 steady_AJ0 hand_NN1 ,_PUN precision_NN1 and_CJC accuracy_NN1 ,_PUN slowly_AV0 like_PRP a_AT0 puzzle_NN1 ,_PUN the_AT0 image_NN1 perceived_VVN-VVD in_PRP the_AT0 mind_NN1 ,_PUN conceived_VVN-VVD through_PRP the_AT0 camera_NN1 ,_PUN begins_VVZ to_TO0 form_VVI upon_PRP the_AT0 cardboard_NN1 ,_PUN as_CJS each_DT0 photograph_NN1 is_VBZ pasted_VVN down_AVP ._PUN
+Perspective_NN1 conjoined_VVD —_PUN obscure_AJ0 dimensions_NN2 amalgamated_VVD-VVN ,_PUN over_AV0 forty_CRD hours_NN2 later_AV0 the_AT0 ‘_PUQ collage_NN1 ’_PUQ or_CJC is_VBZ it_PNP a_AT0 ‘_PUQ montage_NN1 ’_PUQ ,_PUN becomes_VVZ a_AT0 single_AJ0 unit_NN1 ._PUN
+SERIOUS_AJ0 COMEDY_NN1
+Last_ORD summer_NN1 ,_PUN something_PNI strange_AJ0 was_VBD emerging_VVG from_PRP a_AT0 north_NN1 London_NP0 darkroom_NN1 ._PUN
+Photography_NN1 meets_VVZ Kev_NN1 Dutton_NP0-NN1 ,_PUN who_PNQ has_VHZ produced_VVN a_AT0 series_NN0 of_PRF unconventional_AJ0 portraits_NN2 of_PRF British_AJ0 comedians_NN2 ._PUN
+Oddly_AV0 enough_AV0 ,_PUN all_DT0 the_AT0 shots_NN2 were_VBD done_VDN when_CJS Kevin_NP0 was_VBD still_AV0 an_AT0 assistant_NN1-AJ0 ._PUN
+‘_PUQ I_PNP 'd_VHD got_VVN into_PRP the_AT0 situation_NN1 where_AVQ I_PNP had_VHD a_AT0 darkroom_NN1 at_PRP home_NN1 ,_PUN the_AT0 use_NN1 of_PRF a_AT0 studio_NN1 in_PRP the_AT0 West_NP0 End_NP0 and_CJC I_PNP was_VBD starting_VVG to_TO0 suffer_VVI from_PRP severe_AJ0 guilt_NN1 for_PRP not_XX0 making_VVG full_AJ0 use_NN1 of_PRF all_DT0 these_DT0 resources_NN2 at_PRP my_DPS disposal_NN1 ._PUN
+I_PNP thought_VVD I_PNP 'd_VM0 write_VVI to_PRP a_AT0 few_DT0 comedians_NN2 to_TO0 see_VVI if_CJS I_PNP could_VM0 get_VVI them_PNP to_TO0 sit_VVI for_PRP a_AT0 portrait_NN1 ,_PUN to_TO0 get_VVI a_AT0 few_DT0 shots_NN2 together_AV0 for_PRP my_DPS portfolio_NN1 ,_PUN and_CJC then_AV0 ,_PUN suddenly_AV0 ,_PUN this_DT0 snowball_NN1 seemed_VVD to_TO0 start_VVI rolling_VVG …_PUN
+I_PNP was_VBD being_VBG given_VVN-AJ0 lists_NN2 of_PRF telephone_NN1 numbers_NN2 ,_PUN people_NN0 were_VBD coming_VVG up_AVP to_PRP me_PNP in_PRP the_AT0 Comedy_NN1 Store_NN1 and_CJC saying_VVG ,_PUN ‘_PUQ Eh_ITJ ,_PUN are_VBB you_PNP the_AT0 bloke_NN1 who_PNQ 's_VBZ doing_VDG these_DT0 odd_AJ0 photos_NN2 ._PUN
+Can_VM0 you_PNP do_VDI one_CRD of_PRF me_PNP ?_PUN ’_PUQ ,_PUN until_CJS I_PNP 'd_VHD completed_VVN twenty_CRD five_CRD or_CJC so_AV0 in_PRP the_AT0 space_NN1 of_PRF about_AV0 two_CRD months_NN2 ._PUN
+The_AT0 project_NN1 just_AV0 seemed_VVD to_TO0 pick_VVI up_AVP its_DPS own_DT0 momentum_NN1 ._PUN
+‘_PUQ Technically_AV0 ,_PUN the_AT0 shots_NN2 are_VBB much_AV0 simpler_AJC than_CJS you_PNP 'd_VM0 think_VVI ._PUN
+The_AT0 portraits_NN2 were_VBD originally_AV0 shot_VVN in_PRP the_AT0 studio_NN1 on_PRP a_AT0 5_CRD ×_PRP 4_CRD camera_NN1 with_PRP a_AT0 standard_AJ0 lens_NN1 and_CJC using_VVG Polaroid_NN1 55_CRD film_NN1 ._PUN
+The_AT0 lighting_NN1 was_VBD kept_VVN as_AV0 simple_AJ0 as_CJS possible_AJ0 ,_PUN so_CJS I_PNP used_VVD either_AV0 flash_VVB-NN1 —_PUN a_AT0 single_AJ0 soft_AJ0 box_NN1 overhead_AV0 —_PUN or_CJC tungsten_NN1 ,_PUN using_VVG a_AT0 2K_UNC spot_NN1-VVB —_PUN again_AV0 ,_PUN overhead_AV0 ,_PUN and_CJC a_AT0 500w_NN0 fresnel_NN1-VVB for_PRP the_AT0 background_NN1 ._PUN
+I_PNP then_AV0 made_VVD copies_NN2 of_PRF the_AT0 negatives_NN2 and_CJC went_VVD into_PRP the_AT0 darkroom_NN1 ,_PUN using_VVG pens_NN2 ,_PUN brushes_NN2 ,_PUN sandpaper_NN1-VVB ,_PUN whatever_DTQ came_VVD to_PRP hand_NN1 ,_PUN in_PRP fact_NN1 to_TO0 distort_VVI the_AT0 images_NN2 before_PRP finally_AV0 re-copying_VVG to_TO0 get_VVI higher_AJC contrast_NN1 prints_NN2 ,_PUN which_DTQ I_PNP finished_VVD off_AVP with_PRP selenium_NN1 toner_NN1 ._PUN
+‘_PUQ In_PRP terms_NN2 of_PRF ideas_NN2 ,_PUN I_PNP had_VHD been_VBN trying_VVG to_TO0 produce_VVI pictures_NN2 at_PRP that_DT0 time_NN1 which_DTQ had_VHD a_AT0 very_AV0 flat_AJ0-AV0 ,_PUN two-dimensional_AJ0 feel_VVB-NN1 to_PRP them_PNP ,_PUN being_VBG torn_VVN between_PRP what_DTQ I_PNP think_VVB are_VBB two_CRD different_AJ0 ends_NN2 of_PRF photography_NN1 ,_PUN but_CJC which_DTQ both_DT0 have_VHB that_DT0 quality_NN1 ._PUN
+On_PRP one_CRD hand_NN1 ,_PUN you_PNP have_VHB the_AT0 ultimate_AJ0 spartan_AJ0 aesthetic_AJ0 for_PRP portraits_NN2 :_PUN the_AT0 passport_NN1 photo_NN1 —_PUN cold_AJ0-NN1 ,_PUN detached_VVN-AJ0 ,_PUN flatly_AV0 lit_AV0 etc_AV0 —_PUN and_CJC on_PRP the_AT0 other_AJ0 hand_NN1 ,_PUN there_EX0 are_VBB heavily_AV0 manipulated_VVN-VVD images_NN2 in_PRP which_DTQ the_AT0 person_NN1 who_PNQ 's_VBZ producing_VVG them_PNP is_VBZ far_AV0 more_AV0 physically_AV0 involved_VVN ._PUN
+I_PNP thought_VVD ,_PUN if_CJS I_PNP could_VM0 go_VVI for_PRP a_AT0 hybrid_NN1 of_PRF these_DT0 two_CRD ,_PUN and_CJC get_VVB comedians_NN2 to_TO0 come_VVI in_AVP and_CJC sit_VVI with_PRP deadpan_NN1 expressions_NN2 ,_PUN I_PNP might_VM0 have_VHI something_PNI interesting_AJ0 on_PRP my_DPS hands_NN2 ._PUN
+‘_PUQ I_PNP also_AV0 liked_VVD-VVN the_AT0 idea_NN1 of_PRF producing_VVG-AJ0 images_NN2 of_PRF people_NN0 in_PRP the_AT0 public_NN1 eye_NN1 which_DTQ do_VDB n't_XX0 adhere_VVI to_PRP the_AT0 unwritten_AJ0 rule_NN1 of_PRF portraiture_NN1 —_PUN that_CJT you_PNP 've_VHB got_VVN to_TO0 make_VVI some_DT0 kind_NN1 of_PRF personal_AJ0 comment_NN1 about_PRP the_AT0 sitter_NN1 ,_PUN capture_VVB their_DPS essence_NN1 ,_PUN if_CJS you_PNP like_VVB —_PUN which_DTQ ,_PUN at_PRP twenty_CRD four_CRD ,_PUN I_PNP did_VDD n't_XX0 feel_VVI particularly_AV0 qualified_VVN-AJ0 to_TO0 do_VDI ._PUN
+How_AVQ can_VM0 you_PNP ,_PUN when_CJS you_PNP 've_VHB only_AV0 met_VVN them_PNP five_CRD minutes_NN2 ago_AV0 ?_PUN
+In_PRP that_DT0 sense_NN1 ,_PUN the_AT0 shots_NN2 are_VBB more_AV0 about_PRP what_DTQ 's_VBZ going_VVG on_AVP in_PRP my_DPS head_NN1 than_CJS in_PRP theirs_PNP ._PUN ’_PUQ
+ADVERTISING_NN1-VVG IN_PRP ACRYLIC_AJ0 GEL_NN1
+The_AT0 frantic_AJ0 lifestyle_NN1 of_PRF an_AT0 advertising_NN1-AJ0 photographer_NN1 leaves_VVZ little_DT0 time_NN1 for_PRP personal_AJ0 work_NN1 ._PUN
+Tony_NP0 Bowran_NP0 feels_VVZ very_AV0 strongly_AV0 about_PRP his_DPS constant_AJ0 development_NN1 as_PRP a_AT0 photographer_NN1 and_CJC ensures_VVZ that_CJT time_NN1 is_VBZ taken_VVN to_TO0 work_VVI on_PRP-AVP his_DPS own_DT0 projects_NN2 ._PUN
+It_PNP was_VBD two_CRD or_CJC three_CRD days_NN2 earlier_AV0 that_CJT I_PNP had_VHD made_VVN my_DPS appointment_NN1 ,_PUN and_CJC as_CJS-PRP luck_NN1 so_AV0 often_AV0 has_VHZ it_PNP ,_PUN the_AT0 due_AJ0 day_NN1 arrived_VVN-VVD to_PRP what_DTQ can_VM0 only_AV0 be_VBI described_VVN as_PRP ‘_PUQ one_CRD of_PRF those_DT0 days_NN2 ’_PUQ ._PUN
+The_AT0 inclement_NN1 nature_NN1 of_PRF the_AT0 British_AJ0 weather_NN1 makes_VVZ it_PNP either_AV0 easier_AJC to_TO0 stay_VVI put_VVN ,_PUN or_CJC alternatively_AV0 ,_PUN if_CJS absolutely_AV0 necessary_AJ0 ,_PUN don_VVB-NN1 galoshes_NN2-VVZ ,_PUN raincoat_NN1 and_CJC ‘_PUQ souwester_NN1 ’_PUQ ._PUN
+I_PNP had_VHD surfaced_VVN somewhat_AV0 ill-equipped_AJ0 from_PRP the_AT0 Piccadilly_NP0 Line_NN1-VVB dodging_VVG expanding_AJ0 umbrellas_NN2 ,_PUN and_CJC hoping_VVG that_CJT my_DPS destination_NN1 was_VBD somewhere_AV0 near_AV0 at_PRP hand_NN1 ._PUN
+A_AT0 helpful_AJ0 ,_PUN somewhat_AV0 overstated_VVN hotel_NN1 doorman_NN1 gave_VVD me_PNP instant_AJ0 directions_NN2 ,_PUN from_PRP which_DTQ I_PNP found_VVD myself_PNX in_PRP the_AT0 shadow_NN1 of_PRF Vine_NP0 Street_NP0 facing_VVG-NN1 what_DTQ seemed_VVD to_TO0 be_VBI a_AT0 series_NN0 of_PRF rear_AJ0 entrances_NN2 to_PRP a_AT0 rather_AV0 less_DT0 than_CJS impressive_AJ0 warehouse_NN1 ._PUN
+One_CRD set_NN1 of_PRF doors_NN2 led_VVD-VVN through_AVP to_PRP where_AVQ a_AT0 sign_NN1 marked_VVN-VVD ‘_PUQ The_AT0 Studio_NN1 ’_PUQ took_VVD me_PNP down_AVP a_AT0 flight_NN1 of_PRF stairs_NN2 to_PRP the_AT0 basement_NN1 beneath_AV0 ,_PUN the_AT0 cosiness_NN1 and_CJC warmth_NN1 of_PRF which_DTQ was_VBD a_AT0 welcomed_VVN contrast_NN1 to_PRP the_AT0 watery_AJ0 excesses_NN2 above_AV0 ._PUN
+Like_PRP all_DT0 professional_AJ0 photographers_NN2 working_VVG for_PRP the_AT0 city_NN1 's_POS major_AJ0 advertising_NN1 agencies_NN2 ,_PUN Tony_NP0 Bowran_NP0 's_POS diary_NN1 offers_VVZ few_DT0 spaces_NN2 for_PRP those_DT0 not_XX0 wholly_AV0 involved_AJ0 with_PRP the_AT0 business_NN1 of_PRF photography_NN1 ._PUN
+His_DPS assistant_AJ0-NN1 Julian_NP0 immediately_AV0 offers_VVZ me_PNP coffee_NN1 ,_PUN and_CJC explains_VVZ in_PRP apologetic_AJ0 tones_NN2 that_CJT Tony_NP0 has_VHZ been_VBN called_VVN out_AVP —_PUN ‘_PUQ but_CJC you_PNP 're_VBB down_AVP for_PRP 11.30_CRD ’_PUQ —_PUN and_CJC that_CJT he_PNP 's_VBZ expecting_VVG him_PNP back_AVP any_DT0 moment_NN1 ._PUN
+The_AT0 coffee_NN1 duly_AV0 arrives_VVZ ,_PUN and_CJC Julian_NP0 settles_VVZ back_AVP to_TO0 make_VVI all_DT0 the_AT0 necessary_AJ0 phone_NN1 calls_NN2 for_PRP the_AT0 shoot_VVB-NN1 the_AT0 following_AJ0 day_NN1 ._PUN
+‘_PUQ David_NP0 ,_PUN listen_VVB I_PNP 'm_VBB sorry_AJ0 I_PNP 'm_VBB late_AJ0 ,_PUN one_CRD of_PRF those_DT0 things_NN2 that_CJT just_AV0 had_VHD to_TO0 be_VBI done_VDN ;_PUN you_PNP know_VVB I_PNP 've_VHB got_VVN a_AT0 casting_NN1 at_PRP 1.30_CRD —_PUN where_AVQ would_VM0 you_PNP like_VVI to_TO0 start_VVI ?_PUN ’_PUQ
+Tony_NP0 Bowran_NP0-NN1 stands_VVZ at_PRP a_AT0 full_AJ0 six_CRD feet_NN2 ._PUN
+His_DPS expressions_NN2 range_VVB-NN1 from_PRP that_DT0 of_PRF a_AT0 contented_AJ0 Cheshire_NP0 Cat_NN1 ,_PUN to_PRP a_AT0 somewhat_AV0 frenetic_AJ0 frown_NN1 ._PUN
+His_DPS manner_NN1 is_VBZ both_AV0 warm_AJ0 and_CJC friendly_AJ0 ,_PUN with_PRP not_XX0 a_AT0 hint_NN1 of_PRF the_AT0 pretentiousness_NN1 of_PRF some_DT0 of_PRF his_DPS better_AJC known_AJ0 colleagues_NN2 ._PUN
+We_PNP begin_VVB to_TO0 leaf_VVI through_PRP two_CRD large_AJ0 black_AJ0 plan_NN1 chests_NN2 containing_VVG examples_NN2 of_PRF numerous_AJ0 advertising_NN1 campaigns_NN2 that_CJT he_PNP has_VHZ been_VBN involved_AJ0 in_PRP over_PRP the_AT0 years_NN2 ._PUN
+But_CJC how_AVQ did_VDD it_PNP all_DT0 begin_VVI ?_PUN
+‘_PUQ I_PNP left_VVD college_NN1 in_PRP ‘_PUQ 76_CRD ,_PUN and_CJC subsequently_AV0 hustled_VVN-VVD around_AVP for_PRP about_AV0 four_CRD months_NN2 working_VVG for_PRP various_AJ0 people_NN0 ,_PUN before_CJS I_PNP heard_VVD of_PRF a_AT0 second_ORD assistant_NN1 's_POS job_NN1 coming_VVG up_AVP with_PRP David_NP0 Thorpe_NP0 ._PUN
+It_PNP was_VBD a_AT0 very_AV0 good_AJ0 environment_NN1 ,_PUN working_VVG on_PRP the_AT0 best_AJS and_CJC most_AV0 creative_AJ0 advertising_NN1 work_VVB-NN1 that_DT0-CJT was_VBD being_VBG done_VDN in_PRP the_AT0 mid_AJ0 ‘_PUQ 70's_CRD ._PUN
+Although_CJS David_NP0 Thorpe_NP0 was_VBD in_PRP essence_NN1 a_AT0 still-life_NN1 photographer_NN1 ,_PUN I_PNP remember_VVB going_VVG on_PRP location_NN1 in_PRP Germany_NP0 to_TO0 do_VDI a_AT0 car_NN1 campaign_NN1 ,_PUN and_CJC we_PNP also_AV0 used_VM0 to_TO0 do_VDI many_DT0 portraits_NN2 —_PUN there_EX0 was_VBD a_AT0 tremendous_AJ0 variety_NN1 in_PRP what_DTQ we_PNP were_VBD doing_VDG ._PUN ’_PUQ
+Bowran_NP0-NN1 worked_VVD with_PRP Thorpe_NP0 for_PRP a_AT0 year_NN1 ,_PUN but_CJC would_VM0 probably_AV0 have_VHI stayed_VVN longer_AV0 had_VHD Thorpe_NP0 not_XX0 moved_VVN into_PRP the_AT0 direction_NN1 of_PRF T.V._NN1 commercials_NN2 ._PUN
+As_CJS Bowran_NP0-NN1 says_VVZ ,_PUN ‘_PUQ my_DPS job_NN1 effectively_AV0 ceased_VVN !_PUN ’_PUQ
+This_DT0 however_AV0 proved_VVN to_TO0 be_VBI the_AT0 catalyst_NN1 that_CJT Bowran_NP0-NN1 needed_VVD to_TO0 set_VVI up_AVP on_PRP his_DPS own_DT0 ._PUN
+At_PRP first_ORD ,_PUN the_AT0 only_AJ0 way_NN1 was_VBD to_TO0 rent_VVI studio_NN1 space_NN1 on_PRP a_AT0 percentage_NN1 basis_NN1 with_PRP the_AT0 services_NN2 of_PRF a_AT0 secretary_NN1 ,_PUN which_DTQ he_PNP did_VDD for_PRP eighteen_CRD months_NN2 or_CJC so_AV0 ._PUN
+‘_PUQ Then_AV0 I_PNP was_VBD lucky_AJ0 enough_AV0 to_TO0 find_VVI this_DT0 place_NN1 ,_PUN and_CJC at_PRP the_AT0 same_DT0 time_NN1 to_TO0 find_VVI a_AT0 very_AV0 good_AJ0 agent_NN1 who_PNQ managed_VVD to_TO0 get_VVI me_PNP plenty_PNI of_PRF work_NN1 ._PUN ’_PUQ
+That_DT0 was_VBD in_PRP 1980_CRD ,_PUN and_CJC over_PRP-AVP the_AT0 last_ORD eleven_CRD years_NN2 Tony_NP0 Bowran_NP0 's_POS studio_NN1 has_VHZ produced_VVN a_AT0 continuous_AJ0 output_NN1 of_PRF consistently_AV0 high_AJ0 quality_NN1 creative_AJ0 photography_NN1 for_PRP many_DT0 a_AT0 major_AJ0 advertising_NN1 campaign_NN1 ._PUN
+There_EX0 is_VBZ no_AT0 doubt_NN1 that_CJT Tony_NP0 Bowran_NP0 makes_VVZ a_AT0 good_AJ0 living_NN1 working_VVG-AJ0 as_CJS he_PNP does_VDZ in_PRP the_AT0 field_NN1 of_PRF the_AT0 ‘_PUQ high_AJ0 profile_NN1 ’_PUQ advertising_NN1 market_NN1 —_PUN as_CJS he_PNP says_VVZ ,_PUN ‘_PUQ agencies_NN2 are_VBB my_DPS clients_NN2 ,_PUN my_DPS bread_NN1 and_CJC butter_NN1 ._PUN ’_PUQ
+However_AV0 ,_PUN he_PNP dislikes_VVZ being_VBG labelled_VVN a_AT0 ‘_PUQ commercial_AJ0 ’_PUQ photographer_NN1 ._PUN
+‘_PUQ I_PNP 'm_VBB just_AV0 a_AT0 photographer_NN1 —_PUN I_PNP hate_VVB pigeonholes_NN2 ._PUN ’_PUQ
+But_CJC it_PNP is_VBZ this_DT0 commercial_AJ0 work_NN1-VVB that_CJT he_PNP sees_VVZ as_CJS-PRP fulfilling_VVG a_AT0 far_AV0 more_AV0 important_AJ0 function_NN1 —_PUN it_PNP is_VBZ the_AT0 means_NN0 by_PRP which_DTQ he_PNP is_VBZ able_AJ0 to_TO0 fund_VVI his_DPS own_DT0 personal_AJ0 projects_NN2 ._PUN
+Bowran_NN1-NP0 feels_VVZ very_AV0 strongly_AV0 about_PRP his_DPS constant_AJ0 development_NN1 as_PRP a_AT0 photographer_NN1 ._PUN
+‘_PUQ Unless_CJS you_PNP keep_VVB on_AVP trying_VVG to_TO0 develop_VVI your_DPS own_DT0 personal_AJ0 work_NN1 ,_PUN your_DPS own_DT0 personal_AJ0 style_NN1 ,_PUN trying_VVG to_TO0 find_VVI out_AVP where_CJS your_DPS main_AJ0 sympathies_NN2 lie_VVB and_CJC what_DTQ subjects_VVZ you_PNP really_AV0 like_VVB to_TO0 work_VVI with_PRP ,_PUN you_PNP end_VVB up_AVP purely_AV0 being_VBG a_AT0 commercial_AJ0 photographer_NN1 shooting_VVG pretty_AV0 much_AV0 the_AT0 same_DT0 thing_NN1 year_NN1 in_PRP year_NN1 out_AVP ._PUN
+You_PNP use_VVB the_AT0 same_DT0 approach_NN1 ,_PUN have_VHB the_AT0 same_DT0 views_NN2 on_PRP lighting_NN1 ,_PUN materials_NN2 etc_AV0 ._PUN
+By_PRP virtue_NN1 of_PRF not_XX0 developing_VVG-AJ0 ,_PUN you_PNP stand_VVB still_AJ0 and_CJC eventually_AV0 become_VVB an_AT0 anachronism_NN1 ._PUN ’_PUQ
+This_DT0 Tony_NP0 Bowran_NP0-NN1 clearly_AV0 has_VHZ no_AT0 intention_NN1 of_PRF being_VBG ,_PUN as_CJS he_PNP is_VBZ well_AV0 aware_AJ0 that_CJT-DT0 art_NN1 directors_NN2 are_VBB constantly_AV0 on_PRP the_AT0 look_NN1-VVB out_AVP for_PRP new_AJ0 styles_NN2 and_CJC new_AJ0 approaches_NN2 to_TO0 make_VVI their_DPS clients_NN2 '_POS products_NN2 visually_AV0 jump_VVB off_AVP-PRP the_AT0 page_NN1 ._PUN
+His_DPS latest_AJS personal_AJ0 explorative_AJ0 project_NN1 began_VVD a_AT0 couple_NN1 of_PRF years_NN2 ago_AV0 ._PUN
+‘_PUQ I_PNP had_VHD for_PRP some_DT0 time_NN1 been_VBN interested_AJ0 in_PRP the_AT0 work_NN1 of_PRF the_AT0 17th_ORD century_NN1 Dutch_AJ0-NN1 and_CJC Spanish_AJ0 still-life_NN1 school_NN1 of_PRF painting_NN1 ._PUN
+One_CRD day_NN1 I_PNP happened_VVD to_TO0 come_VVI across_PRP the_AT0 work_NN1 of_PRF the_AT0 Italian_AJ0-NN1 still-life_NN1 painter_NN1 Giorgio_NP0 Morandi_NP0 ._PUN
+The_AT0 way_NN1 he_PNP collected_VVD basic_AJ0 objects_NN2 around_PRP his_DPS studio_NN1 and_CJC created_VVD the_AT0 most_AV0 wonderful_AJ0 classic_NN1 ,_PUN clean_VVB almost_AV0 ‘_PUQ empty_AJ0 ’_PUQ still-lifes_NN2 was_VBD inspirational_AJ0 to_PRP me_PNP ._PUN ’_PUQ
+Bowran_NP0-NN1 set_VVD about_AVP trying_VVG to_TO0 create_VVI the_AT0 sense_NN1 and_CJC style_NN1 of_PRF Morandi_NP0 's_POS painting_NN1 through_PRP his_DPS photography_NN1 ._PUN
+‘_PUQ Firstly_AV0 I_PNP set_VVB up_AVP a_AT0 still-life_NN1 —_PUN say_VVB a_AT0 bottle_NN1 ,_PUN vase_NN1 and_CJC fruit_NN0 —_PUN classic_AJ0 objects_NN2 ._PUN
+I_PNP then_AV0 produce_VVB a_AT0 5_CRD by_PRP 4_CRD or_CJC a_AT0 10_CRD by_PRP 8_CRD colour_NN1 transparency_NN1 and_CJC set_VVB it_PNP up_AVP on_PRP a_AT0 light_AJ0 table_NN1 ._PUN
+Viewing_VVG-NN1 through_PRP the_AT0 camera_NN1 ,_PUN I_PNP put_VVB on_PRP the_AT0 brush_NN1 strokes_NN2 with_PRP artist_NN1 's_POS acrylic_AJ0 gel_NN1 which_DTQ has_VHZ the_AT0 benefit_NN1 of_PRF being_VBG water_NN1 based_VVN ,_PUN so_AV0 allowing_VVG changes_NN2 to_TO0 be_VBI easily_AV0 made_VVN-VVD where_CJS necessary_AJ0 ._PUN
+I_PNP then_AV0 reshoot_VVB this_DT0 image_NN1 either_AV0 on_PRP B&W_UNC or_CJC colour_NN1-VVB film_NN1 ,_PUN depending_VVG on_PRP my_DPS final_AJ0-NN1 intentions_NN2 ._PUN
+Prints_NN2 are_VBB then_AV0 made_VVN-VVD from_PRP the_AT0 subsequent_AJ0 negatives_NN2 ,_PUN and_CJC in_PRP the_AT0 case_NN1 of_PRF the_AT0 B&W_UNC I_ZZ0 may_VM0 either_AV0 tint_VVI or_CJC tone_VVI the_AT0 final_AJ0 print_NN1 ._PUN ’_PUQ
+The_AT0 finished_AJ0 results_NN2 are_VBB without_PRP doubt_NN1 quite_AV0 astounding_AJ0-VVG ._PUN
+In_PRP parallel_NN1-AJ0 to_PRP what_DTQ can_VM0 only_AV0 be_VBI described_VVN as_CJS ‘_PUQ photo-painting_AJ0-NN1 ’_PUQ ,_PUN Bowran_NP0-NN1 has_VHZ been_VBN developing_VVG a_AT0 means_NN0 of_PRF recreating_VVG the_AT0 effect_NN1 of_PRF a_AT0 charcoal_NN1 drawing_VVG-NN1 with_PRP a_AT0 printer_NN1 colleague_NN1 ._PUN
+‘_PUQ We_PNP use_VVB long_AJ0 exposures_NN2 and_CJC high_AJ0 temperatures_NN2 to_TO0 create_VVI print_NN1-VVB reticulation_NN1 ._PUN ’_PUQ
+The_AT0 effects_NN2 that_CJT they_PNP have_VHB created_VVN thus_AV0 far_AV0-AJ0 are_VBB similarly_AV0 impressive_AJ0 ._PUN
+With_PRP such_DT0 creative_AJ0 flair_NN1 and_CJC technical_AJ0 expertise_NN1 ,_PUN the_AT0 art_NN1 of_PRF the_AT0 Billboard_NN1-NP0 Poster_NN1 and_CJC the_AT0 Advertising_NN1 Hoarding_VVG-NN1 look_NN1-VVB set_VVN for_PRP an_AT0 innovative_AJ0 and_CJC fresh_AJ0 look_NN1 in_PRP the_AT0 ‘_PUQ 90's_CRD ._PUN
+Perhaps_AV0 it_PNP is_VBZ not_XX0 so_AV0 surprising_AJ0 ,_PUN since_CJS Tony_NP0 Bowran_NP0 learnt_VVD his_DPS craft_NN1 from_PRP the_AT0 practitioners_NN2 of_PRF the_AT0 finest_AJS photographic_AJ0 advertising_NN1 images_NN2 of_PRF the_AT0 ‘_PUQ 70's_CRD ,_PUN and_CJC like_PRP the_AT0 painters_NN2 of_PRF previous_AJ0 years_NN2 that_CJT he_PNP so_AV0 admires_VVZ and_CJC draws_VVZ great_AJ0 inspiration_NN1 from_PRP ,_PUN they_PNP too_AV0 had_VHD apprentices_NN2 who_PNQ eventually_AV0 became_VVD masters_NN2 in_PRP their_DPS own_DT0 time_NN1 ._PUN
+David_NP0 Gallant_AJ0
+BARNEY_NP0 EDWARDS_NP0
+Barney_NP0 Edwards_NP0 is_VBZ something_PNI of_PRF an_AT0 enigma_NN1 ._PUN
+A_AT0 highly_AV0 successful_AJ0 —_PUN not_XX0 to_TO0 mention_VVI wealthy_AJ0 —_PUN commercial_AJ0 director_NN1 who_PNQ ,_PUN every_AT0 Christmas_NN1 takes_VVZ unpaid_AJ0 leave_NN1 for_PRP a_AT0 month_NN1 to_TO0 go_VVI diving_VVG ,_PUN risking_VVG life_NN1 and_CJC limb_NN1 to_TO0 photograph_VVI some_DT0 of_PRF the_AT0 world_NN1 's_POS most_AV0 dangerous_AJ0 aquatic_AJ0 creatures_NN2 ._PUN
+Last_ORD winter_NN1 ,_PUN he_PNP filmed_VVD ,_PUN at_PRP a_AT0 range_NN1 too_AV0 close_AJ0 for_PRP most_DT0 people_NN0 's_POS comfort_NN1 ,_PUN the_AT0 deadliest_AJS of_PRF them_PNP all_DT0 ,_PUN man-eating_AJ0 sharks_NN2 ._PUN
+His_DPS breathtaking_AJ0 ,_PUN black_AJ0 and_CJC white_AJ0 exhibition_NN1 of_PRF sharks_NN2 ,_PUN sealions_NN2 and_CJC pelicans_NN2 has_VHZ recently_AV0 been_VBN shown_VVN at_PRP the_AT0 Fouts_NN2 and_CJC Fouler_AJC Gallery_NN1 in_PRP London_NP0 ,_PUN the_AT0 pictures_NN2 of_PRF which_DTQ he_PNP is_VBZ understandably_AV0 most_AV0 proud_AJ0 ._PUN
+‘_PUQ I_PNP 'm_VBB pleased_AJ0 with_PRP the_AT0 commercials_NN2 I_PNP 've_VHB made_VVN ,_PUN but_CJC I_PNP consider_VVB my_DPS photographs_NN2 to_TO0 be_VBI the_AT0 medium_NN1 through_PRP which_DTQ I_PNP can_VM0 express_VVI myself_PNX ,_PUN ’_PUQ he_PNP says_VVZ ._PUN
+‘_PUQ That_DT0 's_VBZ why_AVQ I_PNP prefer_VVB to_TO0 work_VVI in_PRP-AVP black_NN1 and_CJC white_NN1 ;_PUN the_AT0 eye_NN1 sees_VVZ in_PRP colour_NN1 ,_PUN so_AV0 with_PRP mono_NN1 film_NN1-VVB it_PNP takes_VVZ craft_NN1 and_CJC ability_NN1 to_TO0 construct_VVI a_AT0 picture_NN1 to_PRP which_DTQ people_NN0 can_VM0 relate_VVI ._PUN
+I_PNP 'm_VBB also_AV0 a_AT0 frustrated_AJ0 charcoal_NN1 painter_NN1 ,_PUN so_AV0 that_DT0 's_VBZ got_VVN something_PNI to_TO0 do_VDI with_PRP it_PNP too_AV0 ._PUN
+Plus_PRP the_AT0 fact_NN1 that_CJT it_PNP 's_VBZ a_AT0 challenge_NN1 —_PUN if_CJS you_PNP shoot_VVB a_AT0 bad_AJ0 composition_NN1 in_PRP colour_NN1 ,_PUN more_AV0 often_AV0 than_CJS not_XX0 you_PNP can_VM0 get_VVI away_AV0 with_PRP it_PNP ._PUN
+Not_XX0 so_AV0 black_AJ0 and_CJC white_AJ0 ._PUN ’_PUQ
+Talking_VVG to_PRP Barney_NP0 ,_PUN gives_VVZ the_AT0 impression_NN1 that_CJT somewhere_AV0 underneath_PRP that_DT0 Bohemian_AJ0 exterior_NN1 lurks_VVZ a_AT0 frustrated_AJ0 artist_NN1 ,_PUN a_AT0 brief_AJ0 glance_NN1 at_PRP his_DPS history_NN1 confirms_VVZ the_AT0 view_NN1 ._PUN
+Although_CJS he_PNP won_VVD a_AT0 place_NN1 at_PRP art_NN1 college_NN1 after_PRP leaving_VVG school_NN1 ,_PUN it_PNP soon_AV0 became_VVD apparent_AJ0 that_CJT he_PNP could_VM0 n't_XX0 draw_VVI ._PUN
+‘_PUQ They_PNP 'd_VHD begun_VVN to_TO0 despair_VVI of_PRF me_PNP ,_PUN so_AV0 one_CRD of_PRF the_AT0 lecturers_NN2 ’_PUQ he_PNP laughs_VVZ ,_PUN ‘_PUQ bunged_VVD a_AT0 camera_NN1 in_PRP my_DPS hand_NN1 and_CJC suggested_VVD I_PNP go_VVB out_AVP and_CJC take_VVB some_DT0 photos_NN2 instead_AV0 ._PUN
+I_PNP fell_VVD in_PRP-AVP love_NN1 with_PRP the_AT0 camera_NN1 immediately_AV0 ._PUN ’_PUQ
+He_PNP then_AV0 spent_VVD 18_CRD years_NN2 taking_VVG still_AJ0-AV0 shots_NN2 for_PRP posters_NN2 until_CJS-PRP Saatchi_NP0 and_CJC Saatchi_NP0 's_POS asked_VVD-VVN him_PNP to_TO0 direct_VVI a_AT0 small_AJ0 commercial_NN1 ._PUN
+‘_PUQ I_PNP did_VDD well_AV0 ,_PUN ’_PUQ he_PNP remembers_VVZ ._PUN
+‘_PUQ The_AT0 offers_NN2 of_PRF more_DT0 ads_NN2 started_VVD to_TO0 pour_VVI in_AVP ,_PUN but_CJC I_PNP never_AV0 gave_VVD up_AVP stills_NN2 ._PUN ’_PUQ
+Once_CJS he_PNP was_VBD wealthy_AJ0 enough_AV0 ,_PUN he_PNP began_VVD taking_VVG time_NN1 out_AVP each_DT0 winter_NN1 to_TO0 fulfil_VVI personal_AJ0 projects_NN2 ,_PUN ‘_PUQ It_PNP 's_VBZ my_DPS way_NN1 of_PRF putting_VVG something_PNI of_PRF myself_PNX into_PRP my_DPS work_NN1 ._PUN
+Rolling_VVG my_DPS sleeves_NN2 up_AVP and_CJC getting_VVG my_DPS hands_NN2 dirty_VVB it_PNP 's_VBZ what_DTQ life_NN1 is_VBZ all_DT0 about_AVP ._PUN
+On_PRP a_AT0 commercial_AJ0 shoot_NN1-VVB ,_PUN I_PNP 've_VHB got_VVN cameramen_NN2 who_PNQ do_VDB that_DT0 ,_PUN deep_AV0-AJ0 in_PRP the_AT0 ocean_NN1 it_PNP 's_VBZ just_AV0 me_PNP ._PUN ’_PUQ
+Although_CJS he_PNP 's_VBZ travelled_VVN all_AV0 over_PRP the_AT0 world_NN1 taking_VVG stills_NN2 ,_PUN Mexico_NP0 and_CJC the_AT0 Bahamas_NP0 last_ORD year_NN1 ,_PUN Thailand_NP0 and_CJC Kampuchea_NP0 before_PRP that_DT0 ,_PUN of_PRF all_DT0 the_AT0 beautiful_AJ0 places_NN2 he_PNP 's_VBZ visited_VVN and_CJC the_AT0 stunning_AJ0 scenery_NN1 he_PNP 's_VBZ witnessed_VVN ,_PUN his_DPS favourite_AJ0-NN1 place_NN1 is_VBZ the_AT0 bottom_NN1 of_PRF the_AT0 sea_NN1 ._PUN
+‘_PUQ I_PNP feel_VVB at_PRP one_CRD-PNI with_PRP my_DPS surroundings_NN2 there_AV0 ,_PUN it_PNP 's_VBZ hard_AJ0 to_TO0 explain_VVI ,_PUN you_PNP experience_VVB a_AT0 quasi-religious_AJ0 experience_NN1-VVB down_AVP there_AV0 ._PUN ’_PUQ
+He_PNP admits_VVZ ._PUN
+Religion_NN1 must_VM0 certainly_AV0 have_VHI been_VBN at_PRP the_AT0 forefront_NN1 of_PRF his_DPS mind_NN1 when_AVQ-CJS ,_PUN shooting_VVG the_AT0 sharks_NN2 ,_PUN he_PNP twice_AV0 looked_VVD death_NN1 directly_AV0 in_PRP the_AT0 face_NN1 ._PUN
+‘_PUQ I_PNP 'd_VHD got_VVN in_AVP amongst_PRP the_AT0 sharks_NN2 ,_PUN filming_VVG them_PNP in_PRP-AVP a_AT0 feeding_AJ0 frenzy_NN1 ._PUN ’_PUQ
+He_PNP recalls_VVZ ._PUN
+‘_PUQ They_PNP were_VBD moving_VVG really_AV0 fast_AV0 and_CJC churning_VVG up_AVP the_AT0 sand_NN1 ._PUN
+Suddenly_AV0 out_AVP of_PRF the_AT0 murky_AJ0 haze_NN1 ,_PUN I_PNP saw_VVD one_CRD charging_NN1-VVG at_PRP me_PNP ._PUN
+That_DT0 creature_NN1 must_VM0 have_VHI been_VBN travelling_VVG at_PRP 60_CRD miles_NN2 per_PRP hour_NN1 ._PUN
+It_PNP swam_VVD straight_AV0 into_PRP my_DPS chest_NN1 and_CJC bowled_VVD me_PNP over_AVP ,_PUN thank_VVB God_NP0 it_PNP swam_VVD on_AVP but_CJC the_AT0 adrenalin_NN1 was_VBD flowing_VVG so_AV0 all_DT0 I_PNP could_VM0 think_VVI about_PRP was_VBD what_DTQ sort_NN1 of_PRF picture_VVB-NN1 I_PNP 'd_VHD got_VVN ._PUN
+The_AT0 other_AJ0 hairy_AJ0 moment_NN1 was_VBD when_AVQ-CJS one_CRD of_PRF them_PNP tried_VVD to_TO0 eat_VVI my_DPS camera_NN1 ._PUN
+I_PNP was_VBD furious_AJ0 and_CJC punched_VVD it_PNP ,_PUN its_DPS skin_NN1 was_VBD surprisingly_AV0 rough_AJ0 and_CJC split_VVD my_DPS hand_NN1 open_AJ0 ._PUN ’_PUQ
+But_CJC his_DPS philosophy_NN1 that_CJT when_CJS your_DPS ‘_PUQ time_NN1 's_VBZ up_AVP-PRP your_DPS time_NN1 's_VBZ up_AVP ’_PUQ saw_VVD him_PNP through_AVP-PRP and_CJC he_PNP 's_VBZ back_AVP to_TO0 tell_VVI the_AT0 tale_NN1 ,_PUN though_CJS sadly_AV0 he_PNP chose_VVD not_XX0 to_TO0 include_VVI the_AT0 pictures_NN2 he_PNP took_VVD at_PRP that_DT0 time_NN1 ._PUN
+‘_PUQ They_PNP were_VBD incredible_AJ0 shots_NN2 ,_PUN powerful_AJ0 and_CJC practical_AJ0 images_NN2 all_DT0 of_PRF them_PNP ,_PUN but_CJC I_PNP wanted_VVD beautiful_AJ0 photographs_NN2 so_AV0 anything_PNI nonethereal_AJ0 stayed_VVD out_AVP ._PUN ’_PUQ
+Working_VVG with_PRP creatures_NN2 of_PRF such_DT0 speed_NN1-VVB it_PNP was_VBD important_AJ0 that_CJT he_PNP used_VVD exactly_AV0 the_AT0 right_AJ0-NN1 type_NN1 of_PRF camera_NN1 ._PUN
+‘_PUQ I_PNP shot_VVD all_DT0 the_AT0 stills_NN2 on_PRP a_AT0 Nikonos_NP0 ,_PUN the_AT0 simplest_AJS bog-standard_AJ0-NN1 under-water_AJ0 equipment_NN1 and_CJC no_AT0 flash_NN1 ._PUN
+This_DT0 meant_VVD I_PNP had_VHD to_TO0 get_VVI in_PRP-AVP close_AJ0-NN1 ._PUN
+Like_PRP Robert_NP0 Capper_NP0 said_VVD :_PUN ‘_PUQ If_CJS you_PNP 're_VBB not_XX0 getting_VVG the_AT0 pictures_NN2 you_PNP 're_VBB not_XX0 close_AJ0 enough_AV0 ._PUN ’_PUQ
+With_PRP the_AT0 viewfinder_NN1 on_PRP the_AT0 camera_NN1 I_PNP had_VHD to_TO0 set_VVI the_AT0 distance_NN1 and_CJC hope_VVB-NN1 when_CJS I_PNP was_VBD shooting_VVG ,_PUN that_CJT the_AT0 shark_NN1 was_VBD at_PRP that_DT0 range_NN1 ._PUN
+I_PNP had_VHD four_CRD cameras_NN2 lying_VVG around_PRP-AVP me_PNP on_PRP the_AT0 seabed_NN1 ,_PUN all_AV0 set_VVN at_PRP different_AJ0 distances_NN2 ._PUN ’_PUQ
+Generally_AV0 ,_PUN however_AV0 ,_PUN the_AT0 type_NN1 of_PRF camera_NN1 figures_NN2-VVZ little_AV0 in_PRP Mr_NP0 Edwards_NP0 '_POS way_NN1 of_PRF things_NN2 ._PUN
+As_AV0 far_AV0 as_CJS Barney_NP0 's_VBZ concerned_AJ0 ,_PUN it_PNP 's_VBZ not_XX0 what_DTQ you_PNP take_VVB a_AT0 shot_NN1 with_PRP but_CJC how_AVQ you_PNP take_VVB it_PNP ._PUN
+‘_PUQ I_PNP use_VVB the_AT0 most_AV0 simple_AJ0 or_CJC most_AV0 complex_AJ0 equipment_NN1 available_AJ0 —_PUN frankly_AV0 ,_PUN I_PNP think_VVB cameras_NN2 are_VBB boring_AJ0 —_PUN they_PNP 're_VBB like_PRP a_AT0 gun_NN1 ,_PUN if_CJS it_PNP shoots_VVZ O.K._AV0 it_PNP does_VDZ n't_XX0 matter_VVI what_DTQ it_PNP is_VBZ as_AV0 long_AJ0 as_CJS it_PNP can_VM0 do_VDI its_DPS job_NN1 ._PUN
+I_PNP fall_VVB out_AVP with_PRP a_AT0 lot_NN1 of_PRF photographers_NN2 over_PRP this_DT0 ._PUN
+I_PNP think_VVB the_AT0 equipment_NN1 gets_VVZ in_PRP the_AT0 way_NN1 of_PRF creativity_NN1 —_PUN photography_NN1 is_VBZ an_AT0 art_NN1 not_XX0 a_AT0 craft_NN1 ,_PUN you_PNP should_VM0 MAKE_VVI pictures_NN2 not_XX0 just_AV0 take_VVB them_PNP ._PUN ’_PUQ
+This_DT0 train_NN1 of_PRF thought_NN1 could_VM0 go_VVI some_DT0 way_NN1 to_PRP explaining_VVG why_AVQ he_PNP is_VBZ one_CRD of_PRF the_AT0 top_AJ0 commercial_AJ0 directors_NN2 in_PRP Britain_NP0 ,_PUN the_AT0 man_NN1 responsible_AJ0 for_PRP such_DT0 successful_AJ0 ad_NN1 campaigns_NN2 as_CJS Guinness_NP0 ,_PUN Nurofen_NP0-NN1 ,_PUN British_AJ0 Airways_NN2 and_CJC Gallo_NP0 Wine_NN1 ,_PUN who_PNQ ,_PUN reputedly_AV0 ,_PUN can_VM0 earn_VVI as_AV0 much_DT0 as_CJS 100,000_CRD per_PRP commercial_AJ0-NN1 ._PUN
+In_PRP the_AT0 modern_AJ0 material_NN1 age_NN1-VVB it_PNP is_VBZ hard_AJ0 to_TO0 comprehend_VVI someone_PNI regularly_AV0 and_CJC readily_AV0 giving_VVG up_AVP such_DT0 a_AT0 vast_AJ0 sum_NN1 to_TO0 pursue_VVI expensive_AJ0 ,_PUN unpaid_AJ0 projects_NN2 ,_PUN but_CJC for_PRP Barney_NP0 it_PNP 's_VBZ important_AJ0 ._PUN
+‘_PUQ One_CRD of_PRF the_AT0 reasons_NN2 I_PNP do_VDB it_PNP ,_PUN ’_PUQ he_PNP explains_VVZ ‘_PUQ is_VBZ because_CJS my_DPS wife_NN1 and_CJC I_PNP can_VM0 spend_VVI time_NN1 alone_AJ0 together_AV0 away_AV0 from_PRP the_AT0 family_NN1 ,_PUN feel_VVB young_AJ0 again_AV0 (_PUL they_PNP 're_VBB both_AV0 in_PRP their_DPS early_AJ0 40's_CRD )_PUR ,_PUN and_CJC have_VHB adventures_NN2 ._PUN ’_PUQ
+Unashamedly_AV0 Boy_NN1 's_POS Own_DT0 stuff_NN1 ,_PUN but_CJC it_PNP also_AV0 goes_VVZ deeper_AJC than_CJS that_DT0-CJT :_PUN ‘_PUQ I_PNP do_VDB n't_XX0 want_VVI to_TO0 die_VVI leaving_VVG a_AT0 bunch_NN1 of_PRF commercial_AJ0 show-reels_NN2 as_PRP my_DPS legacy_NN1 ._PUN
+I_PNP want_VVB to_TO0 be_VBI remembered_VVN for_PRP my_DPS skill_NN1 as_PRP a_AT0 stills_NN2 photographer_NN1 ._PUN
+I_PNP know_VVB lots_PNI of_PRF people_NN0 ca_VM0 n't_XX0 understand_VVI that_DT0-CJT ,_PUN one_CRD of_PRF which_DTQ is_VBZ my_DPS accountant_NN1 ,_PUN but_CJC I_PNP feel_VVB I_PNP must_VM0 put_VVI something_PNI back_AVP ,_PUN it_PNP 's_VBZ the_AT0 only_AJ0 way_NN1 I_PNP can_VM0 feel_VVI comfortable_AJ0 about_PRP all_DT0 the_AT0 money_NN1 I_PNP 've_VHB made_VVN ._PUN ’_PUQ
+Emma_NP0 Norma_NP0
+CHRISTOPHER_NP0 MORRIS_NP0
+Chris_NP0 Morris_NP0 ,_PUN an_AT0 American_AJ0 photographer_NN1 and_CJC member_NN1 of_PRF the_AT0 Black_AJ0 Star_NN1 agency_NN1 was_VBD in_PRP the_AT0 Gulf_NP0-NN1 during_PRP the_AT0 war_NN1 ._PUN
+He_PNP recently_AV0 took_VVD a_AT0 rare_AJ0 break_NN1-VVB to_TO0 attend_VVI the_AT0 second_ORD festival_NN1 of_PRF photojournalism_NN1 in_PRP Perpignan_NP0 where_AVQ he_PNP spoke_VVD to_PRP Ted_NP0 Welch_NP0-NN1 about_PRP his_DPS time_NN1 in_PRP Iraq_NP0 ._PUN
+‘_PUQ …_PUN in_PRP Iraq_NP0 I_PNP was_VBD manipulated_VVN heavily_AV0 …_PUN to_PRP the_AT0 point_NN1 of_PRF them_PNP actually_AV0 grabbing_VVG my_DPS hand_NN1 ,_PUN moving_VVG the_AT0 way_NN1 I_PNP was_VBD pointing_VVG the_AT0 camera_NN1 …_PUN
+The_AT0 US_NP0 Embassy_NN1 in_PRP Iraq_NP0 treated_VVD me_PNP worse_AV0 than_CJS the_AT0 Iraqis_NN2 ._PUN ’_PUQ
+TW_NP0 ._PUN
+Is_VBZ war_NN1 photography_NN1 worth_PRP the_AT0 risk_NN1 ?_PUN
+CM_NN0 ._PUN
+I_PNP do_VDB n't_XX0 think_VVI anything_PNI is_VBZ worth_PRP the_AT0 risk_NN1 of_PRF losing_VVG your_DPS life_NN1 or_CJC losing_VVG a_AT0 limb_NN1 ._PUN
+Personally_AV0 I_PNP 've_VHB tried_VVN to_TO0 keep_VVI that_DT0 in_PRP perspective_NN1 ._PUN
+TW_NP0 ._PUN
+Don_NP0 McCullin_NP0 says_VVZ that_CJT when_CJS he_PNP was_VBD young_AJ0 he_PNP thought_VVD it_PNP exciting_AJ0 and_CJC glamorous_AJ0 to_TO0 risk_VVI his_DPS life_NN1 ._PUN
+CM_NN0 ._PUN
+I_PNP think_VVB there_EX0 is_VBZ a_AT0 lot_NN1 of_PRF immaturity_NN1 in_PRP it_PNP and_CJC selfishness_NN1 ,_PUN putting_VVG yourself_PNX at_PRP great_AJ0 risk_NN1 for_PRP a_AT0 photograph_NN1 ,_PUN selfish_AJ0 in_PRP the_AT0 sense_NN1 of_PRF your_DPS family_NN1 ;_PUN I_PNP 'm_VBB not_XX0 so_AV0 much_DT0 worried_AJ0-VVN about_PRP me_PNP as_CJS about_PRP the_AT0 effect_NN1 it_PNP will_VM0 have_VHI on_PRP my_DPS parents_NN2 ,_PUN my_DPS children_NN2 or_CJC my_DPS wife_NN1 ._PUN
+I_PNP never_AV0 really_AV0 consciously_AV0 set_VVN out_AVP to_TO0 do_VDI war_NN1 photography_NN1 ;_PUN I_PNP set_VVB out_AVP to_TO0 do_VDI political_AJ0 photography_NN1 ,_PUN international_AJ0 politics_NN1 and_CJC a_AT0 lot_NN1 of_PRF that_DT0 revolves_VVZ around_PRP-AVP conflict_NN1 ._PUN
+You_PNP can_VM0 get_VVI mugged_AJ0-VVD ,_PUN you_PNP can_VM0 fall_VVI off_AVP-PRP a_AT0 building_NN1 ,_PUN as_CJS happened_VVN recently_AV0 in_PRP New_NP0 York_NP0 when_CJS a_AT0 photographer_NN1 was_VBD killed_VVN photographing_VVG-AJ0 pigeons_NN2 ._PUN
+So_AV0 there_EX0 's_VBZ risk_NN1 just_AV0 in_PRP daily_AJ0 life_NN1 ._PUN
+TW_NP0 ._PUN
+So_AV0 there_EX0 is_VBZ no_AT0 need_NN1 to_TO0 increase_VVI it_PNP ?_PUN
+CM_NN0 ._PUN
+But_CJC …_PUN
+Yeah_ITJ ,_PUN sometimes_AV0 I_PNP question_VVB myself_PNX why_AVQ am_VBB I_PNP increasing_VVG the_AT0 odds_NN2 ._PUN
+TW_NP0 ._PUN
+There_EX0 is_VBZ a_AT0 certain_AJ0 kudos_NN2 in_PRP it_PNP ,_PUN like_PRP the_AT0 attitude_NN1 towards_PRP Patrick_NP0 Chauvel_NP0 (_PUL who_PNQ has_VHZ been_VBN wounded_VVN several_DT0 times_NN2 covering_VVG-AJ0 wars_NN2 )_PUR ,_PUN and_CJC there_EX0 's_VBZ Capa_NP0 's_POS :_PUN ‘_PUQ If_CJS your_DPS photos_NN2 are_VBB n't_XX0 good_AJ0-AV0 enough_AV0 you_PNP 're_VBB not_XX0 close_AJ0 enough_AV0 ._PUN ’_PUQ
+If_CJS you_PNP are_VBB very_AV0 close_AJ0 and_CJC the_AT0 danger_NN1 shows_VVZ-NN2 in_PRP-AVP your_DPS photos_NN2 they_PNP 're_VBB more_AV0 likely_AJ0 to_TO0 be_VBI used_VVN ._PUN
+CM_NN0 ._PUN
+And_CJC you_PNP 're_VBB more_AV0 likely_AJ0 to_TO0 be_VBI accepted_VVN by_PRP your_DPS peers_NN2 ._PUN
+There_EX0 is_VBZ a_AT0 lot_NN1 of_PRF internal_AJ0 pressure_NN1 in_PRP the_AT0 photo_NN1 community_NN1 ,_PUN this_DT0 if_CJS you_PNP 're_VBB not_XX0 close_AV0 enough_AV0 …_PUN
+TW_NP0 ._PUN
+It_PNP 's_VBZ still_AV0 very_AV0 macho_AJ0 ,_PUN not_XX0 so_AV0 many_DT0 women_NN2 yet_AV0 ?_PUN
+CM_NN0 ._PUN
+There_EX0 's_VBZ some_DT0 women_NN2 that_CJT-DT0 cover_VVB-NN1 conflict_NN1 ,_PUN but_CJC it_PNP 's_VBZ still_AV0 a_AT0 male-dominated_AJ0 business_NN1 ._PUN
+But_CJC I_PNP think_VVB some_DT0 of_PRF the_AT0 best_AJS photographers_NN2 are_VBB women_NN2 ._PUN
+I_PNP really_AV0 look_VVB up_AVP to_PRP people_NN0 like_PRP Mary_NP0 Ellen_NP0 Mark_NP0 ._PUN
+TW_NP0 ._PUN
+You_PNP referred_VVD to_PRP the_AT0 category_NN1 of_PRF political_AJ0 photography_NN1 ._PUN
+CM_NN0 ._PUN
+Being_VBG an_AT0 American_AJ0 photographer_NN1 the_AT0 avenues_NN2 I_PNP have_VHB are_VBB basically_AV0 the_AT0 news_NN1 magazines_NN2 ._PUN
+I_PNP now_AV0 work_VVB for_PRP Time_NN1 magazine_NN1 ,_PUN they_PNP cover_VVB world_NN1 politics_NN1 and_CJC I_PNP cover_VVB the_AT0 international_AJ0 end_NN1 for_PRP them_PNP ._PUN
+I_PNP 've_VHB only_AV0 done_VDN one_CRD domestic_AJ0 story_NN1 in_PRP 3_CRD years_NN2 ;_PUN all_DT0 my_DPS work_NN1 has_VHZ been_VBN international_AJ0 ,_PUN political_AJ0 ._PUN
+TW_NP0 ._PUN
+Do_VDB you_PNP find_VVI it_PNP 's_VBZ frustrating_AJ0 ?_PUN
+Do_VDB some_DT0 of_PRF the_AT0 pictures_NN2 which_DTQ you_PNP think_VVB are_VBB crucial_AJ0 to_PRP understanding_NN1-VVG get_VVB rejected_VVN ?_PUN
+CM_NN0 ._PUN
+Yes_ITJ ,_PUN quite_AV0 so_AV0 ._PUN
+Yeah_ITJ ,_PUN really_AV0 it_PNP 's_VBZ a_AT0 frustrating_AJ0 end_NN1 of_PRF it_PNP ,_PUN but_CJC working_VVG for_PRP Time_NN1 gives_VVZ me_PNP the_AT0 opportunity_NN1 to_TO0 be_VBI in_PRP these_DT0 countries_NN2 and_CJC to_TO0 do_VDI a_AT0 good_AJ0 photoreportage_NN1 on_PRP the_AT0 country_NN1 ,_PUN even_AV0 though_CJS it_PNP 's_VBZ very_AV0 rarely_AV0 published_VVN ._PUN
+Time_NN1 will_VM0 usually_AV0 use_VVI one_CRD photograph_NN1 ._PUN
+I_PNP just_AV0 spent_VVD a_AT0 week_NN1 in_PRP Iraq_NP0 and_CJC they_PNP used_VVD one_CRD photo_NN1 with_PRP no_AT0 other_AJ0 stories_NN2 playing_VVG ._PUN
+TW_NP0 ._PUN
+So_AV0 do_VDB you_PNP hope_VVI to_TO0 have_VHI books_NN2 published_VVN-VVD ?_PUN
+CM_NN0 ._PUN
+I_PNP do_VDB n't_XX0 know_VVI ,_PUN basically_AV0 I_PNP 've_VHB been_VBN working_VVG so_AV0 hard_AJ0-AV0 and_CJC pushing_VVG so_AV0 hard_AV0 I_PNP have_VHB n't_XX0 really_AV0 slowed_VVN down_AVP to_TO0 even_AV0 think_VVI about_PRP what_DTQ I_PNP 'm_VBB doing_VDG with_PRP my_DPS work_NN1 ._PUN
+This_DT0 is_VBZ the_AT0 first_ORD time_NN1 I_PNP 've_VHB ever_AV0 had_VHN a_AT0 show_NN1 and_CJC if_CJS you_PNP look_VVB at_PRP my_DPS show_NN1 they_PNP 're_VBB basically_AV0 a_AT0 lot_NN1 of_PRF single_AJ0 images_NN2 ._PUN
+The_AT0 thing_NN1 is_VBZ right_AV0 now_AV0 I_PNP 'm_VBB known_VVN for_PRP this_DT0 hard_AV0-AJ0 ,_PUN aggressive_AJ0 political_AJ0 coverage_NN1 and_CJC they_PNP just_AV0 keep_VVB sending_VVG me_PNP ;_PUN it_PNP 's_VBZ become_VVN almost_AV0 non-stop_AJ0-AV0 ._PUN
+I_PNP have_VHB n't_XX0 really_AV0 had_VHN a_AT0 vacation_NN1 ,_PUN this_DT0 is_VBZ the_AT0 first_ORD time_NN1 I_PNP 've_VHB taken_VVN some_DT0 time_NN1 off_AVP and_CJC I_PNP barely_AV0 got_VVD here_AV0 ;_PUN just_AV0 because_CJS of_PRF the_AT0 pace_NN1 of_PRF the_AT0 world_NN1 ,_PUN especially_AV0 last_ORD year_NN1 ._PUN
+I_PNP thought_VVD this_DT0 year_NN1 was_VBD going_VVG to_TO0 be_VBI a_AT0 slow_AJ0 year_NN1 but_CJC it_PNP has_VHZ n't_XX0 been_VBN ,_PUN it_PNP just_AV0 keeps_VVZ going_VVG ._PUN
+Staying_VVG on_PRP the_AT0 edge_NN1 of_PRF being_VBG a_AT0 good_AJ0 photographer_NN1 you_PNP felt_VVD committed_VVN-AJ0 to_PRP trying_VVG to_TO0 be_VBI there_AV0 ._PUN
+Having_VHG the_AT0 support_NN1 of_PRF a_AT0 magazine_NN1 willing_AJ0 to_TO0 send_VVI you_PNP ,_PUN then_AV0 you_PNP go_VVB and_CJC never_AV0 really_AV0 question_VVB the_AT0 danger_NN1 of_PRF it_PNP ._PUN
+TW_NP0 ._PUN
+There_EX0 is_VBZ also_AV0 the_AT0 Vietnam_NP0 syndrome_NN1 ;_PUN the_AT0 British_AJ0 authorities_NN2 kept_VVD-VVN most_DT0 photographers_NN2 out_AVP of_PRF the_AT0 Falklands_NP0 ._PUN
+Don_NP0 McCullin_NP0 was_VBD n't_XX0 allowed_VVN to_TO0 go_VVI ,_PUN which_DTQ he_PNP thinks_VVZ was_VBD because_CJS of_PRF the_AT0 kind_NN1 of_PRF images_NN2 that_CJT he_PNP would_VM0 have_VHI produced_VVN ._PUN
+CM_NN0 ._PUN
+If_CJS you_PNP are_VBB a_AT0 good_AJ0 journalist_NN1 you_PNP 're_VBB already_AV0 there_AV0 ;_PUN you_PNP should_VM0 be_VBI able_AJ0 to_TO0 anticipate_VVI ahead_AV0 that_CJT there_EX0 might_VM0 be_VBI an_AT0 invasion_NN1 on_AVP-PRP ._PUN
+Patrick_NP0 Chauvel_NP0 and_CJC I_PNP could_VM0 see_VVI things_NN2 were_VBD about_AVP to_TO0 happen_VVI in_PRP Panama_NP0 ,_PUN Noriega_NP0 had_VHD declared_VVN war_NN1 on_PRP America_NP0 ,_PUN but_CJC it_PNP was_VBD Xmas_NN1 and_CJC only_AV0 a_AT0 few_DT0 of_PRF us_PNP went_VVD there_AV0 ._PUN
+So_AV0 for_PRP all_DT0 these_DT0 journalists_NN2 to_TO0 cry_VVI foul_AJ0-NN1 because_CJS they_PNP 're_VBB not_XX0 being_VBG given_VVN a_AT0 plane_NN1 and_CJC they_PNP 're_VBB not_XX0 being_VBG allowed_VVN to_TO0 fly_VVI in_AVP —_PUN I_PNP think_VVB that_DT0 's_VBZ just_AV0 a_AT0 bunch_NN1 of_PRF bullshit_NN1 ._PUN
+It_PNP 's_VBZ like_PRP why_AVQ was_VBD n't_XX0 there_AV0 anyone_PNI in_PRP Kuwait_NP0 ?_PUN
+One_CRD reason_NN1 was_VBD that_CJT the_AT0 Kuwaitis_NN2 would_VM0 n't_XX0 give_VVI anyone_PNI a_AT0 visa_NN1 ,_PUN except_PRP female_AJ0 print_NN1 journalists_NN2 ._PUN
+That_DT0 's_VBZ also_AV0 a_AT0 problem_NN1 ;_PUN how_AVQ do_VDB you_PNP get_VVI into_PRP the_AT0 country_NN1 ?_PUN
+When_CJS I_PNP went_VVD into_PRP Panama_NP0 I_PNP needed_VVD a_AT0 visa_NN1 ,_PUN I_PNP went_VVD in_AVP without_PRP a_AT0 visa_NN1 ._PUN
+David_NP0 Turnley_NP0 just_AV0 flew_VVD into_PRP Iraq_NP0 without_PRP a_AT0 visa_NN1 ,_PUN which_DTQ took_VVD balls_NN2 ._PUN
+TW_NP0 ._PUN
+So_AV0 an_AT0 important_AJ0 thing_NN1 is_VBZ being_VBG aware_AJ0 ,_PUN keeping_VVG up_AVP with_PRP the_AT0 news_NN1 ?_PUN
+CM_NN0 ._PUN
+Definitely_AV0 ,_PUN CNN_NP0 is_VBZ my_DPS basic_AJ0 news_NN1 source_NN1 ,_PUN but_CJC I_PNP have_VHB problems_NN2 with_PRP that_DT0 ._PUN
+At_PRP the_AT0 time_NN1 of_PRF Tiananmen_NP0 Square_NN1 Mike_NP0 Chinoy_NP0-NN1 was_VBD reporting_VVG civil_AJ0 war_NN1 ,_PUN which_DTQ was_VBD false_AJ0-AV0 ._PUN
+They_PNP 're_VBB under_PRP a_AT0 lot_NN1 of_PRF pressure_NN1 because_CJS they_PNP have_VHB to_TO0 be_VBI on_PRP air_NN1 24_CRD hours_NN2 ._PUN
+I_PNP see_VVB a_AT0 lot_NN1 of_PRF inaccuracies_NN2 in_PRP CNN_NP0 ,_PUN a_AT0 lot_NN1 ._PUN
+They_PNP do_VDB n't_XX0 have_VHI time_NN1 to_TO0 verify_VVI stuff_NN1 ,_PUN a_AT0 lot_NN1 of_PRF the_AT0 time_NN1 they_PNP just_AV0 put_VVB it_PNP out_AVP and_CJC it_PNP turns_VVZ out_AVP to_TO0 be_VBI false_AJ0 ._PUN
+TW_NP0 ._PUN
+Which_DTQ is_VBZ pretty_AV0 frightening_AJ0 in_PRP a_AT0 way_NN1 because_CJS you_PNP 've_VHB got_VVN Bush_NP0-NN1 watching_VVG CNN_NP0 …_PUN
+CM_NN0 ._PUN
+Oh_ITJ ,_PUN yes_ITJ ,_PUN they_PNP 're_VBB very_AV0 influential_AJ0 ;_PUN but_CJC they_PNP make_VVB a_AT0 lot_NN1 of_PRF mistakes_NN2 and_CJC they_PNP do_VDB n't_XX0 come_VVI back_AVP and_CJC correct_VVI them_PNP later_AV0 ._PUN
+CBS_NP0 or_CJC the_AT0 BBC_NP0 might_VM0 say_VVI we_PNP made_VVD a_AT0 mistake_NN1 ,_PUN but_CJC CNN_NP0 never_AV0 say_VVB we_PNP made_VVD a_AT0 mistake_NN1 ,_PUN they_PNP just_AV0 keep_VVB cranking_VVG it_PNP out_AVP ._PUN
+But_CJC I_PNP 'm_VBB not_XX0 blaming_VVG the_AT0 journalists_NN2 ,_PUN they_PNP 're_VBB under_PRP a_AT0 lot_NN1 of_PRF pressure_NN1 ;_PUN the_AT0 CBS_NP0 or_CJC the_AT0 BBC_NP0 correspondent_NN1 has_VHZ to_TO0 do_VDI the_AT0 one_CRD report_NN1 for_PRP the_AT0 day_NN1 ._PUN
+At_PRP CNN_NP0 every_AT0 hour_NN1 they_PNP want_VVB a_AT0 live_AJ0 piece_NN1 ,_PUN say_VVB something_PNI different_AJ0 ,_PUN so_CJS they_PNP 're_VBB under_PRP a_AT0 lot_NN1 of_PRF pressure_NN1 ._PUN
+But_CJC that_DT0 's_VBZ what_DTQ I_PNP use_VVB ,_PUN CNN_NP0 ,_PUN I_PNP read_VVB the_AT0 New_NP0 York_NP0 Times_NN2 and_CJC I_PNP listen_VVB to_PRP the_AT0 BBC_NP0 ,_PUN even_AV0 in_PRP America_NP0 ,_PUN for_PRP a_AT0 different_AJ0 perspective_NN1 ._PUN
+I_PNP also_AV0 watch_VVB Univision_NN1 ,_PUN a_AT0 Latin_AJ0 American_AJ0 news_NN1 service_NN1 in_PRP New_NP0 York_NP0 and_CJC they_PNP give_VVB a_AT0 completely_AV0 different_AJ0 perspective_NN1 on_PRP world_NN1 news_NN1 ._PUN
+TW_NP0 ._PUN
+You_PNP said_VVD that_CJT you_PNP 've_VHB become_VVN identified_VVN ,_PUN almost_AV0 trapped_VVN as_PRP a_AT0 hard_AJ0 news_NN1 or_CJC political_AJ0 photographer_NN1 ._PUN
+Are_VBB there_EX0 any_DT0 other_AJ0 things_NN2 you_PNP would_VM0 like_VVI to_TO0 do_VDI ?_PUN
+CM_NN0 ._PUN
+Yeah_ITJ ,_PUN actually_AV0 I_PNP really_AV0 like_VVB fashion_NN1 photography_NN1 ;_PUN not_XX0 typical_AJ0 fashion_NN1 ,_PUN but_CJC there_EX0 's_VBZ a_AT0 certain_AJ0 thing_NN1 I_PNP know_VVB personally_AV0 I_PNP 'd_VM0 like_VVI to_TO0 do_VDI in_PRP fashion_NN1 photography_NN1 ._PUN
+I_PNP do_VDB n't_XX0 know_VVI if_CJS anybody_PNI would_VM0 ever_AV0 give_VVI me_PNP work_NN1 or_CJC if_CJS I_PNP 'd_VM0 find_VVI time_NN1 to_TO0 do_VDI it_PNP ._PUN
+Surprisingly_AV0 I_PNP 'm_VBB very_AV0 interested_AJ0 in_PRP that_DT0 ;_PUN I_PNP look_VVB at_PRP fashion_NN1 magazines_NN2 more_AV0 than_CJS I_PNP look_VVB at_PRP news_NN1 magazines_NN2 ._PUN
+I_PNP 'm_VBB usually_AV0 so_AV0 disgusted_AJ0 with_PRP it_PNP ._PUN
+I_PNP prefer_VVB to_TO0 look_VVI at_PRP a_AT0 nice_AJ0 fashion_NN1 magazine_NN1 ,_PUN French_AJ0 Vogue_NN1 or_CJC Italian_AJ0 Vogue_NN1 ._PUN
+TW_NP0 ._PUN
+Why_AVQ are_VBB you_PNP so_AV0 disgusted_AJ0 with_PRP it_PNP ?_PUN
+CM_NN0 ._PUN
+Being_VBG a_AT0 photographer_NN1 I_PNP understand_VVB how_AVQ photographers_NN2 can_VM0 manipulate_VVI a_AT0 situation_NN1 ;_PUN I_PNP understand_VVB the_AT0 game_NN1 ._PUN
+It_PNP 's_VBZ like_PRP a_AT0 photo-op_NN1-AJ0 ,_PUN a_AT0 big_AJ0 spread_NN1 will_VM0 appear_VVI and_CJC everybody_PNI says_VVZ he_PNP 's_VBZ such_DT0 a_AT0 great_AJ0 photographer_NN1 ,_PUN when_CJS there_EX0 's_VBZ another_DT0 ten_CRD photographers_NN2 there_AV0 making_VVG the_AT0 same_DT0 images_NN2 ._PUN
+I_PNP 'm_VBB a_AT0 bit_NN1 turned_VVN-VVD off_AVP by_PRP some_DT0 of_PRF the_AT0 things_NN2 I_PNP see_VVB ._PUN
+As_PRP-CJS a_AT0 photographer_NN1 you_PNP know_VVB the_AT0 tricks_NN2 ,_PUN the_AT0 exposures_NN2 ,_PUN the_AT0 way_NN1 to_TO0 use_VVI light_NN1-AJ0 ._PUN
+I_PNP see_VVB some_DT0 of_PRF these_DT0 big_AJ0 photo-ops_NN2 ,_PUN the_AT0 Berlin_NP0 Wall_NN1 ,_PUN revolution_NN1 in_PRP Prague_NP0 —_PUN I_PNP did_VDD n't_XX0 think_VVI would_VM0 come_VVI out_AVP ,_PUN but_CJC I_PNP 'll_VM0 talk_VVI about_PRP it_PNP —_PUN I_PNP just_AV0 see_VVB that_CJT it_PNP 's_VBZ a_AT0 manipulation_NN1 of_PRF the_AT0 press_NN1 ;_PUN photographers_NN2 all_DT0 know_VVB to_TO0 stay_VVI in_PRP-AVP one_CRD spot_NN1 so_CJS we_PNP 're_VBB not_XX0 in_PRP each_DT0 other_NN1 's_POS shot_NN1 ._PUN
+What_DTQ happened_VVD in_PRP Panama_NP0 was_VBD that_CJT when_CJS the_AT0 other_AJ0-NN1 50_CRD photographers_NN2 showed_VVD up_AVP the_AT0 Americans_NN2 went_VVD on_PRP-AVP some_DT0 mock_AJ0 patrols_NN2 in_PRP some_DT0 neighbourhoods_NN2 where_CJS-AVQ there_EX0 was_VBD nothing_PNI ;_PUN it_PNP was_VBD basically_AV0 a_AT0 photo-op_NN1-AJ0 for_PRP the_AT0 press_NN1 ._PUN
+There_EX0 were_VBD three_CRD soldiers_NN2 going_VVG house-to-house_NN1-AJ0 with_PRP fifteen_CRD photographers_NN2 and_CJC a_AT0 couple_NN1 of_PRF TV_NN1 crews_NN2 ;_PUN it_PNP was_VBD what_DTQ we_PNP call_VVB a_AT0 ‘_PUQ dog_NN1 and_CJC pony_NN1 show_NN1-VVB ’_PUQ ._PUN
+TW_NP0 ._PUN
+If_CJS you_PNP 're_VBB feeling_VVG cynical_AJ0 and_CJC disenchanted_AJ0 with_PRP it_PNP ,_PUN how_AVQ do_VDB you_PNP plan_VVI to_TO0 go_VVI on_AVP-PRP ?_PUN
+CM_NN0 ._PUN
+You_PNP try_VVB to_TO0 be_VBI honest_AJ0 with_PRP yourself_PNX ._PUN
+I_PNP try_VVB to_TO0 edit_VVI more_AV0 in_UNC camera_UNC now_AV0 ._PUN
+I_PNP do_VDB n't_XX0 want_VVI pictures_NN2 to_TO0 be_VBI used_VVN that_CJT I_PNP 'd_VM0 be_VBI ashamed_AJ0 of_PRF now_AV0 ._PUN
+A_AT0 lot_NN1 of_PRF the_AT0 time_NN1 you_PNP just_AV0 shoot_VVB because_CJS you_PNP 're_VBB caught_VVN up_AVP in_PRP something_PNI then_AV0 you_PNP see_VVB it_PNP published_VVD and_CJC you_PNP 're_VBB a_AT0 bit_NN1 embarrassed_AJ0 because_CJS in_PRP your_DPS heart_NN1 you_PNP know_VVB what_DTQ it_PNP was_VBD ._PUN
+So_AV0 I_PNP 'm_VBB a_AT0 bit_NN1 more_AV0 conscious_AJ0 now_AV0 of_PRF what_DTQ I_PNP photograph_VVB and_CJC how_AVQ I_PNP photograph_VVB ._PUN
+When_CJS I_PNP was_VBD in_PRP Liberia_NP0 I_PNP was_VBD appalled_AJ0 at_PRP the_AT0 way_NN1 the_AT0 French_AJ0-NN1 contrived_AJ0-VVN and_CJC set_VVB-NN1 things_NN2 up_AVP ._PUN
+They_PNP do_VDB n't_XX0 let_VVI reality_NN1 happen_VVI ,_PUN they_PNP 're_VBB in_PRP-AVP too_AV0 much_DT0 of_PRF a_AT0 hurry_NN1 ._PUN
+They_PNP want_VVB to_TO0 get_VVI in_AVP ,_PUN shoot_VVB it_PNP and_CJC get_VVB the_AT0 film_NN1 out_AVP ,_PUN so_CJS there_EX0 is_VBZ this_DT0 moving_VVG the_AT0 soldiers_NN2 around_AVP ._PUN
+I_PNP was_VBD appalled_AJ0 by_PRP what_DTQ I_PNP saw_VVD ._PUN
+There_EX0 was_VBD a_AT0 young_AJ0 American_AJ0 photographer_NN1 with_PRP me_PNP and_CJC I_PNP saw_VVD him_PNP get_VVI caught_VVN up_AVP in_PRP it_PNP and_CJC I_PNP pulled_VVD him_PNP aside_AV0 and_CJC said_VVD ‘_PUQ Do_VDB n't_XX0 even_AV0 take_VVI it_PNP because_CJS that_DT0 's_VBZ the_AT0 picture_NN1 that_CJT Newsweek_NP0 is_VBZ going_VVG to_TO0 publish_VVI ._PUN
+Guys_NN2 pointing_VVG-AJ0 guns_NN2 ,_PUN it_PNP 's_VBZ a_AT0 stupid_AJ0 picture_NN1 but_CJC that_DT0 's_VBZ what_DTQ they_PNP 're_VBB going_VVG to_TO0 publish_VVI so_AV0 do_VDB n't_XX0 take_VVI it_PNP ._PUN ’_PUQ
+He_PNP said_VVD ‘_PUQ But_CJC it_PNP 's_VBZ happening_VVG ._PUN ’_PUQ
+I_PNP said_VVD ‘_PUQ Yes_ITJ ,_PUN but_CJC why_AVQ is_VBZ it_PNP happening_VVG ?_PUN
+You_PNP guys_NN2 are_VBB setting_VVG it_PNP up_AVP ._PUN ’_PUQ
+You_PNP have_VHB to_TO0 be_VBI very_AV0 careful_AJ0 with_PRP that_DT0 ;_PUN I_PNP think_VVB a_AT0 lot_NN1 of_PRF younger_AJC photographers_NN2 are_VBB n't_XX0 ._PUN
+TW_NP0 ._PUN
+Is_VBZ this_DT0 sort_NN1 of_PRF thing_NN1 on_PRP the_AT0 increase_NN1 because_CJS the_AT0 authorities_NN2 are_VBB more_AV0 aware_AJ0 of_PRF the_AT0 need_NN1 to_TO0 control_VVI and_CJC manipulate_VVI the_AT0 photographers_NN2 ,_PUN or_CJC to_TO0 present_VVI them_PNP with_PRP carefully_AV0 chosen_VVN-AJ0 opportunities_NN2 and_CJC photographers_NN2 are_VBB under_AV0 increasing_AJ0 pressures_NN2 ?_PUN
+CM_NN0 ._PUN
+Yeah_ITJ ,_PUN everything_PNI is_VBZ photo-ops_NN2 and_CJC it_PNP 's_VBZ weird_AJ0 to_TO0 see_VVI photo-ops_NN2 in_PRP a_AT0 war_NN1 ._PUN
+The_AT0 Americans_NN2 tried_VVD to_TO0 do_VDI it_PNP in_PRP Panama_NP0 ,_PUN what_DTQ disgusts_VVZ me_PNP is_VBZ that_CJT these_DT0 are_VBB the_AT0 pictures_NN2 that_CJT sold_VVD ,_PUN the_AT0 ones_NN2 done_VDN when_CJS there_EX0 was_VBD no_AT0 more_DT0 opposition_NN1 ._PUN
+To_PRP me_PNP it_PNP was_VBD like_PRP an_AT0 unreality_NN1 ,_PUN like_PRP fashion_NN1 photography_NN1 ._PUN
+Why_AVQ were_VBD n't_XX0 they_PNP off_PRP photographing_VVG the_AT0 three_CRD hundred_CRD bodies_NN2 that_CJT the_AT0 Americans_NN2 were_VBD digging_VVG up_AVP and_CJC dumping_VVG into_PRP a_AT0 mass_AJ0 grave_NN1 ?_PUN
+Why_AVQ were_VBD n't_XX0 any_DT0 of_PRF these_DT0 pictures_NN2 published_VVN-VVD ?_PUN
+The_AT0 casualties_NN2 of_PRF the_AT0 war_NN1 ?_PUN
+It_PNP was_VBD :_PUN ‘_PUQ Oh_ITJ ,_PUN let's_VM0 make_VVI the_AT0 Americans_NN2 look_VVI good_AJ0 ._PUN ’_PUQ
+I_PNP was_VBD just_AV0 in_PRP Iraq_NP0 and_CJC in_PRP Iraq_NP0 I_PNP was_VBD manipulated_VVN heavily_AV0 ._PUN
+I_PNP 've_VHB never_AV0 been_VBN so_AV0 controlled_VVN-VVD ,_PUN to_PRP the_AT0 point_NN1 of_PRF them_PNP actually_AV0 grabbing_VVG my_DPS hand_NN1 ,_PUN moving_VVG the_AT0 way_NN1 I_PNP was_VBD pointing_VVG the_AT0 camera_NN1 ._PUN
+After_CJS I_PNP had_VHD fired_VVN the_AT0 frame_NN1 they_PNP would_VM0 want_VVI to_TO0 look_VVI through_PRP the_AT0 camera_NN1 and_CJC would_VM0 actually_AV0 retake_VVI it_PNP with_PRP his_DPS own_DT0 finger_NN1 ,_PUN saying_VVG ‘_PUQ It_PNP looks_VVZ better_AJC like_PRP this_DT0 ._PUN ’_PUQ
+So_AV0 I_PNP would_VM0 have_VHI to_TO0 warn_VVI Time_NN1 ,_PUN ‘_PUQ Be_VBB careful_AJ0 ,_PUN some_DT0 of_PRF the_AT0 images_NN2 I_PNP did_VDD n't_XX0 actually_AV0 take_VVI ,_PUN my_DPS minder_NN1 's_VBZ taking_VVG them_PNP ._PUN ’_PUQ
+But_CJC you_PNP work_VVB around_PRP-AVP it_PNP ._PUN
+The_AT0 US_NP0 Embassy_NN1 in_PRP Iraq_NP0 treated_VVD me_PNP worse_AV0 than_CJS the_AT0 Iraqis_NN2 ._PUN
+I_PNP tried_VVD to_TO0 take_VVI pictures_NN2 of_PRF demonstrations_NN2 in_PRP front_NN1 of_PRF the_AT0 American_AJ0 Embassy_NN1 and_CJC the_AT0 Americans_NN2 were_VBD pushing_VVG me_PNP around_PRP-AVP worse_AJC than_CJS the_AT0 Iraqis_NN2 ._PUN
+They_PNP wanted_VVD to_TO0 be_VBI in_PRP control_NN1 ._PUN
+Everybody_PNI wants_VVZ to_TO0 be_VBI in_PRP control_NN1 ._PUN
+That_DT0 was_VBD actually_AV0 Marcos_NP0 '_POS fault_NN1 ;_PUN he_PNP did_VDD n't_XX0 try_VVI to_TO0 control_VVI the_AT0 media_NN0 ._PUN
+Ted_NP0 Coppel_NP0 (_PUL a_AT0 US_NP0 TV_NN1 reporter_NN1 )_PUR was_VBD the_AT0 one_PNI to_TO0 cause_VVI the_AT0 election_NN1 ._PUN
+Coppel_NP0-NN1 asked_VVD Marcos_NP0 ‘_PUQ Why_AVQ do_VDB n't_XX0 you_PNP have_VHI an_AT0 election_NN1 ,_PUN why_AVQ are_VBB you_PNP afraid_AJ0 to_TO0 have_VHI an_AT0 election_NN1 ?_PUN ’_PUQ
+Marcos_NP0 said_VVD ‘_PUQ I_PNP 'm_VBB not_XX0 afraid_AJ0 to_TO0 have_VHI an_AT0 election_NN1 ._PUN
+I_PNP 'll_VM0 have_VHI an_AT0 election_NN1 ._PUN ’_PUQ
+So_AV0 he_PNP had_VHD no_AT0 election_NN1 and_CJC he_PNP was_VBD out_AVP of_PRF there_AV0 ._PUN
+In_PRP Chile_NP0 Pinochet_NP0 knew_VVD the_AT0 power_NN1 of_PRF photography_NN1 ;_PUN each_DT0 one_PNI of_PRF us_PNP had_VHD a_AT0 secret_AJ0 service_NN1 guy_NN1 ._PUN
+If_CJS they_PNP saw_VVD you_PNP shooting_VVG Pinochet_NP0 looking_VVG like_PRP a_AT0 dictator_NN1 they_PNP would_VM0 stand_VVI in_PRP front_NN1 of_PRF the_AT0 camera_NN1 ._PUN
+At_PRP the_AT0 funeral_NN1 of_PRF one_CRD of_PRF his_DPS bodyguards_NN2 after_PRP an_AT0 assassination_NN1 attempt_NN1-VVB Pinochet_NP0 was_VBD crying_VVG ._PUN
+I_PNP fired_VVD one_CRD frame_NN1 and_CJC the_AT0 secret_AJ0 service_NN1 guy_NN1 put_VVD his_DPS hand_NN1 up_AVP ._PUN
+He_PNP moved_VVD away_AV0 and_CJC I_PNP popped_VVD another_DT0 frame_NN1 and_CJC he_PNP punched_VVD me_PNP —_PUN ‘_PUQ No_ITJ ,_PUN you_PNP do_VDB n't_XX0 take_VVI it_PNP ._PUN ’_PUQ
+Pinochet_NP0 understood_VVD the_AT0 power_NN1 of_PRF photography_NN1 ;_PUN he_PNP was_VBD n't_XX0 going_VVG to_TO0 allow_VVI himself_PNX to_TO0 become_VVI a_AT0 Marcos_NP0 ._PUN
+TW_NP0 ._PUN
+So_AV0 they_PNP 're_VBB learning_VVG ._PUN
+CM_NN0 ._PUN
+Oh_ITJ yeah_ITJ ,_PUN quickly_AV0 ,_PUN quickly_AV0 —_PUN the_AT0 power_NN1 of_PRF photography_NN1 ._PUN
+I_PNP was_VBD appalled_AJ0 at_PRP the_AT0 British_AJ0 system_NN1 ;_PUN after_CJS-PRP the_AT0 Poll_NN1 Tax_NN1 riot_NN1-VVB the_AT0 government_NN1 went_VVD around_AVP and_CJC confiscated_AJ0 photographers_NN2 '_POS films_NN2 ._PUN
+That_DT0 is_VBZ the_AT0 most_AV0 ludicrous_AJ0 thing_NN1 I_PNP 've_VHB ever_AV0 heard_VVN ._PUN
+At_PRP the_AT0 beginning_NN1 of_PRF the_AT0 riot_NN1 I_PNP went_VVD to_TO0 take_VVI a_AT0 picture_NN1 of_PRF this_DT0 one_CRD anarchist_NN1 and_CJC he_PNP whacked_VVD me_PNP with_PRP a_AT0 stick_NN1 really_AV0 hard_AJ0-AV0 ._PUN
+Now_AV0 I_PNP know_VVB why_AVQ he_PNP whacked_VVD me_PNP ,_PUN I_PNP would_VM0 whack_VVI me_PNP too_AV0 ._PUN
+In_PRP London_NP0 I_PNP would_VM0 not_XX0 let_VVI a_AT0 photographer_NN1 take_VVI my_DPS picture_NN1 ,_PUN because_CJS the_AT0 Government_NN1 confiscated_VVD all_DT0 the_AT0 TV_NN1 footage_NN1-VVB ._PUN
+They_PNP should_VM0 send_VVI out_AVP their_DPS own_DT0 photographers_NN2 ,_PUN let_VVB them_PNP risk_VVI their_DPS lives_NN2 ._PUN
+That_DT0 just_AV0 blew_VVD me_PNP away_AV0 ,_PUN and_CJC then_AV0 to_TO0 see_VVI the_AT0 pictures_NN2 published_VVN in_PRP the_AT0 papers_NN2 ‘_PUQ Do_VDB you_PNP know_VVI this_DT0 person_NN1 ?_PUN
+Please_AV0 call_VVB-NN1 ._PUN ’_PUQ
+That_DT0 was_VBD morally_AV0 wrong_AJ0 ._PUN
+I_PNP 'm_VBB glad_AJ0 I_PNP got_VVD whacked_AJ0 ,_PUN I_PNP 'm_VBB surprised_AJ0 the_AT0 guy_NN1 did_VDD n't_XX0 beat_VVI the_AT0 shit_NN1 out_AVP of_PRF me_PNP ,_PUN rightfully_AV0 so_AV0 ._PUN
+What_DTQ right_AV0 do_VDB I_PNP have_VHI to_TO0 take_VVI his_DPS picture_NN1 if_CJS he_PNP feels_VVZ he_PNP 's_VBZ in_PRP a_AT0 state_NN1 of_PRF revolution_NN1 against_PRP his_DPS government_NN1 and_CJC I_PNP 'm_VBB going_VVG to_TO0 cause_VVI him_PNP to_TO0 be_VBI arrested_VVN ._PUN
+They_PNP had_VHD their_DPS own_DT0 police_NN2 photographers_NN2 out_AVP there_AV0 ,_PUN let_VVB them_PNP get_VVI their_DPS own_DT0 pictures_NN2 ._PUN
+When_CJS I_PNP went_VVD to_PRP Liberia_NP0 they_PNP freaked_VVD out_AVP ,_PUN I_PNP was_VBD an_AT0 American_NN1 ;_PUN what_DTQ was_VBD I_PNP doing_VDG there_AV0 ?_PUN
+When_CJS governments_NN2 start_VVB using_VVG things_NN2 —_PUN the_AT0 United_NP0 States_NP0 Information_NN1 Agency_NN1 has_VHZ all_DT0 these_DT0 publications_NN2 and_CJC they_PNP get_VVB photos_NN2 from_PRP the_AT0 agencies_NN2 ,_PUN from_PRP El_NP0 Salvador_NP0 and_CJC Afghanistan_NP0 —_PUN that_DT0 's_VBZ a_AT0 problem_NN1 ._PUN
+You_PNP have_VHB to_TO0 be_VBI careful_AJ0 how_AVQ your_DPS pictures_NN2 are_VBB used_VVN-AJ0 ._PUN
+Soldier_NN1 of_PRF Fortune_NN1 was_VBD one_CRD of_PRF the_AT0 few_DT0 who_PNQ published_VVD my_DPS pictures_NN2 ;_PUN I_PNP had_VHD a_AT0 cover_NN1 ._PUN
+TW_NP0 ._PUN
+It_PNP 's_VBZ like_PRP being_VBG in_PRP Top_AJ0 Gun_NN1 ._PUN
+CM_NN0 ._PUN
+Yeah_ITJ ,_PUN the_AT0 heroes_NN2 of_PRF Panama_NP0 ,_PUN I_PNP did_VDD n't_XX0 see_VVI any_DT0 heroes_NN2 ,_PUN that_DT0 's_VBZ for_PRP sure_AJ0 ._PUN
+TW_NP0 ._PUN
+Things_NN2 are_VBB changing_VVG-AJ0 with_PRP the_AT0 new_AJ0 technology_NN1 ._PUN
+CM_NN0 ._PUN
+They_PNP are_VBB definitely_AV0 changing_VVG-AJ0 ;_PUN both_AV0 Chauvel_NP0 and_CJC myself_PNX travel_VVB with_PRP video_NN1 cameras_NN2 ._PUN
+Both_DT0 of_PRF us_PNP have_VHB wives_NN2 and_CJC when_CJS they_PNP can_VM0 they_PNP come_VVI with_PRP us_PNP and_CJC they_PNP do_VDB video_VVI ._PUN
+My_DPS wife_NN1 is_VBZ doing_VDG documentary_NN1 work_NN1-VVB in_PRP video_NN1 ._PUN
+We_PNP use_VVB the_AT0 Hi8_UNC format_NN1-VVB ,_PUN it_PNP 's_VBZ a_AT0 very_AV0 small_AJ0 tape_NN1 ._PUN
+Patrick_NP0 had_VHD the_AT0 first_ORD footage_NN1-VVB out_AVP of_PRF Panama_NP0 of_PRF an_AT0 attack_NN1 at_PRP night_NN1 ,_PUN taken_VVN under_PRP great_AJ0 risk_NN1 ._PUN
+I_PNP was_VBD with_PRP him_PNP when_CJS we_PNP heard_VVD that_CJT the_AT0 invasion_NN1 might_VM0 start_VVI ._PUN
+He_PNP grabbed_VVD his_DPS wife_NN1 's_POS video_NN1 camera_NN1 and_CJC said_VVD ‘_PUQ I_PNP 'm_VBB going_VVG to_PRP the_AT0 Cortel_NP0-NN1 ._PUN ’_PUQ
+During_PRP the_AT0 day_NN1 you_PNP do_VDB n't_XX0 go_VVI near_AV0 there_AV0 ,_PUN I_PNP felt_VVD ,_PUN no_ITJ ,_PUN way_NN1 ._PUN
+He_PNP went_VVD and_CJC he_PNP sold_VVD his_DPS footage_NN1 to_PRP all_DT0 three_CRD networks_NN2 ,_PUN NBC_NP0 ,_PUN ABC_NP0 ,_PUN CBS_NP0 for_PRP $10,000_NN0 each_DT0 ._PUN
+I_PNP also_AV0 filmed_VVD a_AT0 firefight_NN1 ._PUN
+I_PNP would_VM0 have_VHI liked_VVN to_TO0 have_VHI shown_VVN the_AT0 audience_NN1 last_ORD night_NN1 the_AT0 footage_NN1 that_CJT I_PNP did_VDD in_PRP Panama_NP0 ._PUN
+With_PRP the_AT0 video_NN1 you_PNP can_VM0 really_AV0 appreciate_VVI what_DTQ we_PNP do_VDB ,_PUN what_DTQ it_PNP 's_VBZ really_AV0 like_VVB ,_PUN because_CJS you_PNP have_VHB the_AT0 sound_NN1 ,_PUN you_PNP can_VM0 almost_AV0 smell_VVI it_PNP ._PUN
+When_CJS I_PNP have_VHB shown_VVN it_PNP to_PRP people_NN0 it_PNP even_AV0 scares_VVZ me_PNP ;_PUN your_DPS heart_NN1 really_AV0 starts_VVZ to_TO0 beat_VVI ,_PUN you_PNP see_VVB the_AT0 intensity_NN1 of_PRF the_AT0 situation_NN1 ._PUN
+Whereas_CJS with_PRP still_AJ0 photographs_NN2 —_PUN I_PNP was_VBD in_PRP this_DT0 situation_NN1 for_PRP maybe_AV0 two_CRD hours_NN2 and_CJC I_PNP shot_VVD maybe_AV0 one_CRD or_CJC two_CRD rolls_NN2 of_PRF film_NN1 ._PUN
+I_PNP could_VM0 n't_XX0 see_VVI what_DTQ to_TO0 photograph_VVI ,_PUN even_AV0 when_CJS I_PNP got_VVD my_DPS slides_NN2 back_AVP there_AV0 was_VBD nothing_PNI there_AV0 ._PUN
+But_CJC the_AT0 video_NN1 ,_PUN the_AT0 sound_NN1 …_PUN
+When_CJS I_PNP sold_VVD CBS_NP0 the_AT0 video_NN1 I_PNP kept_VVD apologising_VVG for_PRP the_AT0 movement_NN1 because_CJS it_PNP was_VBD so_AV0 shaky_AJ0 ._PUN
+But_CJC they_PNP said_VVD ‘_PUQ No_ITJ ,_PUN no_ITJ ,_PUN no_ITJ ,_PUN we_PNP like_PRP that_DT0 ._PUN ’_PUQ
+TW_NP0 ._PUN
+That_DT0 raises_VVZ the_AT0 question_NN1 of_PRF what_DTQ is_VBZ good_AJ0 technique_NN1 ;_PUN sometimes_AV0 what_DTQ is_VBZ normally_AV0 seen_VVN as_PRP ‘_PUQ bad_AJ0 ’_PUQ technique_NN1 can_VM0 be_VBI good_AJ0 technique_NN1 ._PUN
+CM_NN0 ._PUN
+Chauvel_NP0-NN1 's_POS images_NN2 are_VBB n't_XX0 pretty_AJ0 ,_PUN they_PNP are_VBB n't_XX0 clean_AJ0 ,_PUN they_PNP 're_VBB not_XX0 Nachtwey_NP0 (_PUL who_PNQ was_VBD also_AV0 with_PRP the_AT0 Black_AJ0 Star_NN1 agency_NN1 and_CJC is_VBZ now_AV0 in_PRP Magnum_NP0-NN1 )_PUR ._PUN
+All_DT0 the_AT0 elements_NN2 are_VBB n't_XX0 there_AV0 ,_PUN they_PNP 're_VBB a_AT0 bit_NN1 shaky_AJ0 ,_PUN a_AT0 bit_NN1 jerky_AJ0 ;_PUN that_DT0 's_VBZ what_DTQ I_PNP like_VVB about_PRP them_PNP ._PUN
+TW_NP0 ._PUN
+In_PRP fact_NN1 ,_PUN with_PRP his_DPS book_NN1 of_PRF Spanish_AJ0 Civil_AJ0 War_NN1 photographs_NN2 ,_PUN for_PRP the_AT0 second_ORD edition_NN1 he_PNP did_VDD not_XX0 want_VVI them_PNP retouched_VVD ;_PUN he_PNP wanted_VVD the_AT0 scratches_NN2 ,_PUN etc_AV0 ,_PUN left_VVD in_AVP because_CJS there_EX0 was_VBD that_DT0-CJT feeling_NN1-VVG about_PRP it_PNP ._PUN
+CM_NN0 ._PUN
+Yeah_ITJ ,_PUN I_PNP like_VVB that_DT0 ;_PUN it_PNP 's_VHZ got_VVN a_AT0 hardness_NN1 about_PRP it_PNP ._PUN
+TW_NP0 ._PUN
+Is_VBZ there_EX0 a_AT0 story_NN1 you_PNP would_VM0 like_VVI to_TO0 pursue_VVI in_PRP depth_NN1 ?_PUN
+CM_NN0 ._PUN
+Yes_ITJ ,_PUN the_AT0 Soviet_AJ0 Union_NN1 ._PUN
+It_PNP 's_VBZ difficult_AJ0 because_CJS I_PNP 've_VHB worked_VVN around_PRP-AVP the_AT0 world_NN1 ,_PUN in_PRP the_AT0 Middle_AJ0 East_NN1 ,_PUN image-wise_AJ0 it_PNP 's_VBZ fascinating_AJ0 ._PUN
+But_CJC you_PNP got_VVD into_PRP the_AT0 Soviet_AJ0 Union_NN1 and_CJC it_PNP 's_VBZ difficult_AJ0 at_PRP first_ORD for_PRP me_PNP to_TO0 get_VVI emotionally_AV0 connected_VVN to_PRP the_AT0 story_NN1 ._PUN
+But_CJC now_AV0 I_PNP 've_VHB made_VVN two_CRD trips_NN2-VVZ there_AV0 and_CJC I_PNP 'm_VBB anxious_AJ0 to_TO0 go_VVI back_AVP because_CJS I_PNP feel_VVB I_PNP 'm_VBB getting_VVG tapped_VVN in_PRP-AVP a_AT0 little_AV0 better_AV0 ,_PUN I_PNP 'm_VBB getting_VVG emotionally_AV0 connected_VVN-AJ0 ._PUN
+TW_NP0 ._PUN
+And_CJC if_CJS you_PNP 're_VBB emotionally_AV0 connected_VVN to_PRP it_PNP ,_PUN you_PNP also_AV0 get_VVB intellectually_AV0 connected_VVN to_PRP it_PNP ;_PUN you_PNP want_VVB to_TO0 learn_VVI more_AV0 about_PRP it_PNP ._PUN
+CM_NN0 ._PUN
+Yes_ITJ ,_PUN that_DT0 's_VBZ correct_AJ0 ._PUN
+Somebody_PNI like_PRP Meiselas_NP0 is_VBZ like_PRP that_DT0 ,_PUN Gilles_NP0 Peress_NP0-NN1 ;_PUN they_PNP do_VDB n't_XX0 work_VVI on_PRP-AVP a_AT0 story_NN1 unless_CJS they_PNP get_VVB emotionally_AV0 connected_VVN to_PRP it_PNP —_PUN why_AVQ bother_VVI ?_PUN —_PUN to_PRP them_PNP ._PUN
+They_PNP are_VBB not_XX0 newshounds_NN2 ,_PUN they_PNP 're_VBB more_DT0 historians_NN2 I_PNP guess_VVB ._PUN
+TW_NP0 ._PUN
+You_PNP spoke_VVD of_PRF your_DPS preference_NN1 for_PRP fashion_NN1 earlier_AV0 ,_PUN it_PNP 's_VBZ as_PRP if_CJS fashion_NN1 photography_NN1 is_VBZ more_AV0 honest_AJ0 …_PUN
+CM_NN0 ._PUN
+No_ITJ ,_PUN not_XX0 …_PUN
+TW._NP0 …_PUN because_CJS the_AT0 artifice_NN1 is_VBZ more_AV0 obvious_AJ0 ._PUN
+CM_NN0 ._PUN
+Yes_ITJ ,_PUN exactly_AV0 ,_PUN I_PNP 've_VHB spent_VVN time_NN1 in_PRP Russia_NP0 ,_PUN this_DT0 guy_NN1 went_VVD and_CJC put_VVD a_AT0 model_NN1 in_PRP these_DT0 situations_NN2 ._PUN
+It_PNP really_AV0 excited_VVD me_PNP ._PUN
+I_PNP 'd_VM0 like_VVI to_TO0 do_VDI something_PNI more_DT0 along_PRP those_DT0 lines_NN2 ._PUN
+It_PNP 's_VBZ more_AV0 like_PRP art_NN1 photography_NN1 ,_PUN something_PNI good_AJ0 for_PRP my_DPS soul_NN1 ._PUN
+But_CJC I_PNP do_VDB like_VVI life_NN1 ,_PUN I_PNP do_VDB like_VVI reality_NN1 ;_PUN I_PNP just_AV0 see_VVB a_AT0 lot_NN1 of_PRF manipulation_NN1 of_PRF that_DT0 in_PRP the_AT0 photography_NN1 business_NN1 ._PUN
+Ted_NP0 Welch_NP0-NN1 is_VBZ a_AT0 lecturer_NN1 at_PRP Harrow_NP0 College_NN1 ,_PUN Polytechnic_NN1 of_PRF Central_AJ0 London_NP0 ._PUN
+‘_PUQ George_NP0 Bush_NP0 ,_PUN commander-in-chief_NN1 of_PRF the_AT0 greatest_AJS military_AJ0 campaign_NN1 of_PRF modern_AJ0 times_NN2 ,_PUN walked_VVD into_PRP the_AT0 White_NP0 House_NN1 office_NN1 clutching_VVG a_AT0 portable_AJ0 TV_NN1 set_NN1 ._PUN
+He_PNP explained_VVD that_CJT he_PNP could_VM0 not_XX0 afford_VVI to_TO0 miss_VVI a_AT0 second_NN1 of_PRF a_AT0 briefing_NN1 from_PRP Allied_AJ0 forces_NN2 in_PRP the_AT0 Gulf_NP0-NN1 ,_PUN General_NP0 Norman_NP0 Schwarzkopf_NP0 ._PUN
+And_CJC the_AT0 station_NN1 he_PNP chose_VVD to_TO0 watch_VVI ,_PUN rather_AV0 than_CJS the_AT0 giants_NN2 who_PNQ have_VHB dominated_VVN American_AJ0 TV_NN1 for_PRP decades_NN2 ,_PUN was_VBD Cable_NN1 Network_NN1 News_NN1 ._PUN ’_PUQ
+Daily_AJ0 Mail_NN1 ,_PUN 19.1.1991_CRD
+SUE_NP0 GRAYSON_NP0 FORD_NP0-NN1 ,_PUN NEW_AJ0 DIRECTOR_NN1 PHOTOGRAPHERS_NN2 '_POS GALLERY_NN1
+On_PRP Sue_NP0 Davies_NP0 '_POS retirement_NN1 in_PRP April_NP0 ,_PUN Sue_NP0 Grayson_NP0 Ford_NP0 took_VVD up_AVP her_DPS post_NN1 as_PRP the_AT0 new_AJ0 director_NN1 of_PRF the_AT0 Photographers_NN2 '_POS Gallery_NN1
+The_AT0 Photographers_NN2 '_POS Gallery_NN1 ,_PUN London_NP0 ,_PUN was_VBD the_AT0 first_ORD gallery_NN1 opened_VVD-VVN in_PRP the_AT0 U.K._NP0 specifically_AV0 dedicated_VVN to_PRP exhibiting_VVG photography_NN1 ._PUN
+Two_CRD decades_NN2 later_AV0 the_AT0 gallery_NN1 has_VHZ become_VVN an_AT0 international_AJ0 institution_NN1 recognised_VVN-VVD throughout_PRP the_AT0 photographic_AJ0 communities_NN2 of_PRF the_AT0 world_NN1 ._PUN
+It_PNP quite_AV0 rightly_AV0 earned_VVD this_DT0 status_NN1 through_PRP the_AT0 determination_NN1 ,_PUN commitment_NN1 and_CJC insight_NN1 of_PRF its_DPS founder_NN1 director_NN1 Sue_NP0 Davies_NP0 ._PUN
+In_PRP recognition_NN1 to_PRP the_AT0 part_NN1 Sue_NP0 Davies_NP0 has_VHZ played_VVN in_PRP the_AT0 promotion_NN1 of_PRF photography_NN1 over_PRP the_AT0 years_NN2 ,_PUN she_PNP was_VBD awarded_VVN an_AT0 OBE_NN1 in_PRP 1988_CRD ._PUN
+On_PRP Sue_NP0 Davies_NP0 '_POS retirement_NN1 in_PRP April_NP0 ,_PUN Sue_NP0 Grayson_NP0 Ford_NP0 took_VVD up_AVP her_DPS post_NN1 as_PRP the_AT0 new_AJ0 director_NN1 of_PRF the_AT0 The_AT0 Photographers_NN2 '_POS Gallery_NN1 ._PUN
+She_PNP has_VHZ a_AT0 hard_AJ0 act_NN1-VVB to_TO0 follow_VVI ;_PUN it_PNP is_VBZ never_AV0 enviable_AJ0 to_TO0 be_VBI the_AT0 successor_NN1 of_PRF one_CRD very_AV0 powerful_AJ0 founder_NN1 director_NN1 be_VBI it_PNP in_PRP the_AT0 gallery_NN1 sector_NN1 or_CJC in_PRP commerce_NN1 ._PUN
+But_CJC Sue_NP0 Grayson_NP0 Ford_NP0 has_VHZ an_AT0 impressive_AJ0 and_CJC commendable_AJ0 history_NN1 and_CJC says_VVZ she_PNP thrives_VVZ on_PRP-AVP challenges_NN2 ._PUN
+Sue_NP0 Grayson_NP0 Ford_NP0 comes_VVZ from_PRP a_AT0 broad_AJ0 visual_AJ0 art_NN1 background_NN1 ;_PUN photography_NN1 always_AV0 being_VBG a_AT0 part_NN1 of_PRF her_DPS programming_NN1 ._PUN
+In_PRP 1970_CRD she_PNP founded_VVD London_NP0 's_POS Serpentine_NP0 Gallery_NN1 in_PRP Kensington_NP0 Gardens_NN2 to_TO0 show_VVI the_AT0 works_NN0 of_PRF young_AJ0 British_AJ0 artists_NN2 ._PUN
+She_PNP ran_VVD the_AT0 gallery_NN1 for_PRP 13_CRD years_NN2 ,_PUN organising_VVG a_AT0 number_NN1 of_PRF photography_NN1 shows_NN2 during_PRP that_DT0 time_NN1 ,_PUN one_PNI noticeably_AV0 being_VBG the_AT0 successfully_AV0 staged_VVN Kertesz_NP0 exhibition_NN1 in_PRP 1978_CRD ._PUN
+In_PRP the_AT0 early_AJ0 80's_CRD Sue_NP0 Grayson_NP0 Ford_NP0 left_VVD London_NP0 and_CJC became_VVD sculpture_NN1 coordinator_NN1 for_PRP the_AT0 Liverpool_NP0 International_AJ0 Garden_NN1 Festival_NN1 ._PUN
+In_PRP 1985_CRD she_PNP became_VVD the_AT0 founder_NN1 exhibitions_NN2 director_NN1 of_PRF Manchester_NP0 's_POS Cornerhouse_NN1 Centre_NN1 ;_PUN photography_NN1 being_VBG included_VVN in_PRP the_AT0 programming_NN1 of_PRF shows_NN2 ._PUN
+She_PNP went_VVD freelance_NN1-VVB in_PRP 1988_CRD directing_VVG the_AT0 Wakefield_NP0 Centenary_NN1 Festival_NN1 ._PUN
+When_CJS the_AT0 Photographers_NN2 '_POS Gallery_NN1 opened_VVD-VVN in_PRP 1971_CRD at_PRP number_NN1 8_CRD Great_NP0 Newport_NP0 Street_NP0 ,_PUN it_PNP had_VHD a_AT0 staff_NN0 of_PRF three_CRD and_CJC staged_VVD 10_CRD exhibitions_NN2 in_PRP its_DPS first_ORD year_NN1 ._PUN
+Twenty_CRD years_NN2 on_AVP ,_PUN it_PNP has_VHZ acquired_VVN an_AT0 additional_AJ0 building_NN1 ,_PUN number_NN1 5_CRD ,_PUN has_VHZ a_AT0 staff_NN0 of_PRF 23_CRD and_CJC puts_VVZ on_PRP 21_CRD exhibitions_NN2 each_DT0 year_NN1 in_PRP three_CRD exhibition_NN1 spaces_NN2 ._PUN
+Many_DT0 feel_VVB that_CJT The_AT0 Photographers_NN2 '_POS Gallery_NN1 has_VHZ a_AT0 somewhat_AV0 lopsided_AJ0-VVD view_NN1 of_PRF contemporary_AJ0 photography_NN1 and_CJC photographers_NN2 and_CJC that_CJT it_PNP preaches_VVZ to_PRP the_AT0 already_AV0 converted_VVN and_CJC them_PNP alone_AV0-AJ0 ._PUN
+Is_VBZ now_AV0 the_AT0 time_NN1 for_PRP change_NN1 ?_PUN
+I_PNP spoke_VVD to_PRP Sue_NP0 Grayson_NP0 Ford_NP0 at_PRP the_AT0 Photographers_NN2 '_POS Gallery_NN1 ._PUN
+She_PNP was_VBD understandably_AV0 reluctant_AJ0 to_TO0 talk_VVI of_PRF all_DT0 changes_NN2 ,_PUN especially_AV0 in_PRP the_AT0 programming_NN1 of_PRF exhibitions_NN2 ,_PUN ‘_PUQ it_PNP is_VBZ against_PRP my_DPS better_AJC judgement_NN1 to_TO0 put_VVI anything_PNI to_TO0 print_VVI at_PRP this_DT0 stage_NN1 ._PUN
+I_PNP have_VHB a_AT0 lot_NN1 of_PRF ideas_NN2 to_TO0 work_VVI through_AVP before_CJS I_PNP come_VVB out_AVP predicting_VVG the_AT0 future_NN1 ._PUN ’_PUQ
+But_CJC one_CRD thing_NN1 she_PNP is_VBZ certain_AJ0 of_PRF is_VBZ her_DPS aim_NN1 to_TO0 attract_VVI new_AJ0 audiences_NN2 to_PRP the_AT0 gallery_NN1 ,_PUN notably_AV0 from_PRP those_DT0 who_PNQ are_VBB not_XX0 yet_AV0 photography_NN1 lovers_NN2 ._PUN
+Sue_NP0 Grayson_NP0 Ford_NP0 wants_VVZ the_AT0 Photographers_NN2 '_POS Gallery_NN1 to_TO0 be_VBI the_AT0 busiest_AJS place_NN1 in_PRP London_NP0 in_PRP terms_NN2 of_PRF excitement_NN1 ,_PUN ideas_NN2 ,_PUN artists_NN2 ,_PUN photographers_NN2 and_CJC audiences_NN2 ._PUN
+A_AT0 very_AV0 healthy_AJ0 figure_NN1 of_PRF 500,000_CRD visitors_NN2 currently_AV0 pass_VVB through_PRP-AVP the_AT0 gallery_NN1 doors_NN2 each_DT0 year_NN1 ._PUN
+‘_PUQ There_EX0 is_VBZ a_AT0 danger_NN1 in_PRP any_DT0 organisation_NN1 that_CJT has_VHZ been_VBN going_VVG for_PRP twenty_CRD years_NN2 of_PRF attracting_VVG a_AT0 clique_NN1 and_CJC closing_VVG the_AT0 doors_NN2 on_PRP others_NN2 ._PUN
+I_PNP 'm_VBB anti_AJ0 clique_NN1 and_CJC what_DTQ I_PNP want_VVB to_TO0 do_VDI is_VBZ open_AJ0 every_AT0 opportunity_NN1 and_CJC every_AT0 door_NN1 ,_PUN my_DPS hesitation_NN1 in_PRP talking_VVG to_PRP you_PNP ,_PUN is_VBZ that_CJT I_PNP have_VHB n't_XX0 figured_VVN out_AVP how_AVQ to_TO0 open_VVI all_DT0 the_AT0 doors_NN2 ._PUN ’_PUQ
+She_PNP feels_VVZ it_PNP will_VM0 not_XX0 be_VBI too_AV0 difficult_AJ0 initially_AV0 attracting_VVG the_AT0 general_AJ0-NN1 public_NN1 ._PUN
+(_PUL The_AT0 problem_NN1 will_VM0 be_VBI in_PRP maintaining_VVG their_DPS interest_NN1 )_PUR ‘_PUQ The_AT0 easiest_AJS to_TO0 undertake_VVI is_VBZ the_AT0 vision_NN1 from_PRP outside_AV0 the_AT0 buildings_NN2 ._PUN
+The_AT0 way_NN1 in_PRP which_DTQ we_PNP beckon_VVB to_PRP people_NN0 to_TO0 come_VVI in_AVP ._PUN ’_PUQ
+The_AT0 exterior_NN1 of_PRF both_DT0 buildings_NN2 will_VM0 have_VHI a_AT0 face_NN1 lift_NN1-VVB along_AVP with_PRP the_AT0 reception_NN1 area_NN1 at_PRP No._NN1 5_CRD ._PUN
+The_AT0 gallery_NN1 has_VHZ an_AT0 ideal_AJ0 location_NN1 on_PRP central_AJ0 London_NP0 's_POS Covent_NP0 Garden_NP0 ._PUN
+This_DT0 she_PNP intends_VVZ to_TO0 market_VVI and_CJC exploit_VVI to_PRP its_DPS fullest_AJS ._PUN
+The_AT0 area_NN1 in_PRP which_DTQ Sue_NP0 Grayson_NP0 Ford_NP0 is_VBZ going_VVG to_TO0 be_VBI judged_VVN most_AV0 critically_AV0 will_VM0 be_VBI on_PRP her_DPS programming_NN1 of_PRF exhibitions_NN2 ._PUN
+This_DT0 she_PNP expects_VVZ and_CJC indeed_AV0 wants_VVZ ._PUN
+But_CJC if_CJS she_PNP wants_VVZ to_TO0 attract_VVI new_AJ0 audiences_NN2 this_DT0 will_VM0 not_XX0 be_VBI achieved_VVN without_PRP a_AT0 change_NN1 of_PRF programming_NN1-VVG ._PUN
+Of_PRF her_DPS program_NN1 policy_NN1 ,_PUN she_PNP would_VM0 not_XX0 be_VBI precise_AJ0 ._PUN
+‘_PUQ Clearly_AV0 as_CJS I_PNP am_VBB talking_VVG about_PRP broadening_VVG an_AT0 audience_NN1 ,_PUN I_PNP need_VVB to_TO0 talk_VVI about_PRP broadening_VVG the_AT0 appeal_NN1 of_PRF exhibitions_NN2 ._PUN ’_PUQ
+All_DT0 aspects_NN2 of_PRF the_AT0 influence_NN1 of_PRF photography_NN1 throughout_PRP society_NN1 will_VM0 be_VBI examined_VVN ,_PUN commerce_NN1 and_CJC industry_NN1 as_AV0 much_DT0 as_CJS artistic_AJ0 use_NN1 of_PRF photography_NN1 and_CJC of_PRF the_AT0 divide_NN1 in_PRP photography_NN1 ,_PUN be_VBB it_PNP real_AJ0 or_CJC not_XX0 between_PRP the_AT0 many_DT0 genres_NN2 of_PRF photography_NN1 ._PUN
+Sue_NP0 Grayson_NP0 Ford_NP0 is_VBZ naive_AJ0 of_PRF them_PNP ._PUN
+‘_PUQ Though_CJS I_PNP have_VHB shown_VVN photographs_NN2 throughout_PRP my_DPS exhibition_NN1 organising_VVG career_NN1 ,_PUN I_PNP took_VVD it_PNP as_PRP a_AT0 matter_NN1 of_PRF course_NN1 and_CJC have_VHB shown_VVN them_PNP as_CJS I_PNP have_VHB any_DT0 other_AJ0 art_NN1 form_NN1-VVB and_CJC along_PRP-AVP side_NN1 any_DT0 other_AJ0 art_NN1 form_VVB-NN1 whether_CJS it_PNP is_VBZ painting_NN1-VVG or_CJC sculpture_NN1-VVB ._PUN
+I_PNP do_VDB n't_XX0 know_VVI who_PNQ belongs_VVZ to_PRP what_DTQ clique_NN1 and_CJC whom_PNQ I_PNP 'm_VBB offending_VVG by_PRP doing_VDG this_DT0 or_CJC that_DT0 ._PUN
+I_PNP do_VDB n't_XX0 believe_VVI in_PRP any_DT0 hard_AJ0 and_CJC fast_AJ0 rules_NN2 when_CJS-AVQ it_PNP comes_VVZ to_PRP hanging_VVG the_AT0 best_AJS work_NN1-VVB ._PUN
+I_PNP would_VM0 be_VBI horrified_AJ0 if_CJS we_PNP did_VDD n't_XX0 work_VVI towards_PRP an_AT0 understanding_NN1 with_PRP most_DT0 practitioners_NN2 whether_CJS they_PNP are_VBB artists_NN2 using_VVG photography_NN1 or_CJC photographers_NN2 documenting_VVG or_CJC doing_VDG other_AJ0 things_NN2 ._PUN
+I_PNP would_VM0 hope_VVI to_TO0 blow_VVI all_DT0 boundaries_NN2 and_CJC just_AV0 show_VVB all_DT0 the_AT0 best_AJS work_NN1-VVB in_PRP all_DT0 these_DT0 fields_NN2 ._PUN
+But_CJC perhaps_AV0 I_PNP 'm_VBB going_VVG to_TO0 be_VBI proved_VVN to_TO0 be_VBI over_PRP-AVP innocent_AJ0-NN1 in_PRP thinking_VVG that_DT0-CJT is_VBZ a_AT0 viable_AJ0 approach_NN1 ._PUN
+It_PNP certainly_AV0 is_VBZ my_DPS approach_NN1 ._PUN ’_PUQ
+In_PRP her_DPS programming_NN1-VVG Sue_NP0 Grayson_NP0 Ford_NP0 feels_VVZ there_EX0 is_VBZ great_AJ0 potential_NN1 and_CJC wants_VVZ to_TO0 encourage_VVI dialogue_NN1 between_PRP practitioners_NN2 of_PRF different_AJ0 art_NN1 forms_NN2-VVZ ._PUN
+She_PNP thinks_VVZ photography_NN1 has_VHZ been_VBN driven_VVN into_PRP an_AT0 isolationist_NN1 role_NN1 :_PUN how_AVQ right_AJ0 she_PNP is_VBZ ._PUN
+‘_PUQ One_PNI really_AV0 wants_VVZ to_TO0 look_VVI at_PRP integrating_VVG photography_NN1 into_PRP the_AT0 wider_AJC art_NN1 world_NN1 in_PRP order_NN1 that_CJT one_PNI is_VBZ not_XX0 exclusive_AJ0 in_PRP any_DT0 way_NN1 ._PUN ’_PUQ
+Photography_NN1 is_VBZ a_AT0 universal_AJ0 media_NN0 by_PRP nature_NN1 ,_PUN this_DT0 fact_NN1 assures_VVZ that_CJT there_EX0 is_VBZ a_AT0 multitude_NN1 of_PRF people_NN0 ready_AJ0 to_TO0 discover_VVI and_CJC appreciate_VVI the_AT0 art_NN1 form_NN1 of_PRF photography_NN1 ._PUN
+Sue_NP0 Grayson_NP0 Ford_NP0 's_POS aim_NN1 is_VBZ for_PRP a_AT0 ‘_PUQ broader_AJC constituency_NN1 ’_PUQ ._PUN
+With_PRP her_DPS track_NN1 record_NN1 ,_PUN attitude_NN1 and_CJC given_VVN-AJ0 right_AV0-AJ0 support_VVB-NN1 she_PNP has_VHZ the_AT0 potential_NN1 of_PRF seeing_VVG the_AT0 reality_NN1 of_PRF her_DPS aspirations_NN2 bearing_VVG fruit_NN0 ._PUN
+Photography_NN1 magazine_NN1 wishes_VVZ her_PNP every_AT0 success_NN1 in_PRP her_DPS new_AJ0 venture_NN1 ._PUN
+Rena_NP0-NN1 Pearl_NP0-NN1
+CALCUTTA_NP0
+CITY_NN1 OF_PRF LOVE_NN1
+Calcutta_NP0 has_VHZ to_TO0 be_VBI about_PRP the_AT0 worst_AJS place_NN1-VVB in_PRP the_AT0 World_NN1 to_TO0 live_VVI ._PUN
+Millions_CRD of_PRF people_NN0 living_VVG on_PRP the_AT0 streets_NN2 ,_PUN congestion_NN1 ,_PUN pollution_NN1 yet_AV0 through_PRP it_PNP all_DT0 ,_PUN caring_VVG-AJ0 and_CJC a_AT0 friendship_NN1 which_DTQ are_VBB not_XX0 easy_AJ0 to_TO0 come_VVI by_PRP even_AV0 in_PRP the_AT0 richest_AJS parts_NN2 of_PRF the_AT0 Western_AJ0 World_NN1 ._PUN
+Nothing_PNI I_PNP have_VHB seen_VVN before_CJS can_VM0 compare_VVI to_PRP Calcutta_NP0 ._PUN
+If_CJS I_PNP were_VBD a_AT0 doctor_NN1 I_PNP would_VM0 have_VHI been_VBN happy_AJ0 to_TO0 stay_VVI in_PRP Calcutta_NP0 and_CJC work_VVB-NN1 alongside_PRP British_AJ0 doctor_NN1 ,_PUN Jack_NP0 Pregar_NP0 ,_PUN and_CJC his_DPS clinic_NN1 in_PRP Middleton_NP0 Row_NN1-VVB ._PUN
+Jack_NP0 treats_VVZ in_PRP three_CRD clinics_NN2 six_CRD hundred_CRD people_NN0 ,_PUN six_CRD days_NN2 a_AT0 week_NN1 —_PUN relying_VVG totally_AV0 on_PRP voluntary_AJ0 help_NN1 ,_PUN his_DPS only_AJ0 income_NN1 being_VBG from_PRP the_AT0 Calcutta_NP0 Rescue_NN1-VVB Fund_NN1 ,_PUN a_AT0 small_AJ0 UK_NP0 based_VVD charity_NN1 ._PUN
+I_PNP have_VHB now_AV0 visited_VVN the_AT0 clinics_NN2 twice_AV0 and_CJC have_VHB come_VVN to_TO0 know_VVI many_DT0 of_PRF the_AT0 volunteer_NN1 workers_NN2 from_PRP Australia_NP0 ,_PUN France_NP0 ,_PUN Holland_NP0 and_CJC Britain_NP0 as_CJS well_AV0 as_CJS many_DT0 of_PRF the_AT0 patients_NN2 living_VVG in_PRP the_AT0 Calcutta_NP0 slums_NN2-VVZ ._PUN
+Salina_NN1-NP0 ,_PUN a_AT0 mother_NN1 of_PRF three_CRD ,_PUN suffering_VVG from_PRP leprosy_NN1 developed_AJ0-VVD hepatitis_NN1 ._PUN
+In_PRP order_NN1 to_TO0 save_VVI her_DPS life_NN1 the_AT0 doctors_NN2 stopped_VVD the_AT0 treatment_NN1 for_PRP the_AT0 leprosy_NN1 ._PUN
+Salina_NP0-NN1 arrived_VVD at_PRP the_AT0 clinic_NN1 with_PRP a_AT0 grossly_AV0 swollen_AJ0 foot_NN1 which_DTQ had_VHD to_TO0 be_VBI lanced_VVN on_PRP the_AT0 spot_NN1 ._PUN
+There_EX0 was_VBD no_AT0 anaesthetic_NN1 because_CJS they_PNP did_VDD n't_XX0 have_VHI any_DT0 ._PUN
+Salina_NP0-NN1 's_POS husband_NN1 is_VBZ dead_AJ0 ,_PUN she_PNP has_VHZ three_CRD children_NN2 whom_PNQ she_PNP feeds_VVZ mostly_AV0 from_PRP the_AT0 food_NN1 she_PNP can_VM0 glean_VVI from_PRP the_AT0 rubbish_NN1 tips_NN2-VVZ ,_PUN largely_AV0 banana_NN1 skins_NN2 ._PUN
+Another_DT0 lady_NN1 that_CJT I_PNP met_VVD was_VBD suffering_VVG from_PRP the_AT0 elephant_NN1 man_NN1 's_POS disease_NN1 ;_PUN her_DPS husband_NN1 had_VHD recently_AV0 died_VVN and_CJC she_PNP was_VBD expecting_VVG a_AT0 baby_NN1 ._PUN
+Sadly_AV0 she_PNP had_VHD the_AT0 baby_NN1 on_PRP the_AT0 streets_NN2 whilst_CJS only_AV0 eight_CRD months_NN2 pregnant_AJ0 ._PUN
+The_AT0 baby_NN1 weighed_VVD-VVN less_AV0 than_CJS one_CRD kilo_NN1 ,_PUN she_PNP took_VVD it_PNP to_PRP the_AT0 clinic_NN1 and_CJC a_AT0 clinic_NN1 worker_NN1 helped_VVD her_PNP to_PRP a_AT0 nearby_AJ0 hospital_NN1 ._PUN
+The_AT0 hospital_NN1 did_VDD not_XX0 admit_VVI the_AT0 child_NN1 because_CJS they_PNP had_VHD already_AV0 too_AV0 many_DT0 in_PRP the_AT0 same_DT0 condition_NN1 ._PUN
+Instead_AV0 they_PNP gave_VVD her_PNP a_AT0 letter_NN1 saying_VVG that_CJT the_AT0 baby_NN1 was_VBD in_PRP perfect_AJ0 health_NN1 ._PUN
+Fortunately_AV0 she_PNP returned_VVD to_PRP the_AT0 clinic_NN1 the_AT0 following_AJ0 day_NN1 and_CJC having_VHG no_AT0 milk_NN1 they_PNP showed_VVD her_PNP how_AVQ to_TO0 make_VVI a_AT0 supplementary_AJ0 feed_NN1 but_CJC it_PNP was_VBD too_AV0 late_AJ0 and_CJC the_AT0 baby_NN1 died_VVD ._PUN
+A_AT0 volunteer_NN1-VVB worker_NN1 took_VVD the_AT0 dead_AJ0 baby_NN1 and_CJC mother_NN1-VVB back_AVP to_PRP the_AT0 hospital_NN1 where_AVQ the_AT0 baby_NN1 was_VBD immediately_AV0 admitted_VVN and_CJC then_AV0 pronounced_VVD-VVN dead_AJ0 in_PRP an_AT0 effort_NN1 to_TO0 rectify_VVI the_AT0 original_AJ0 mistake_NN1 ._PUN
+When_CJS I_PNP met_VVD the_AT0 mother_NN1 she_PNP was_VBD extremely_AV0 depressed_AJ0 verging_NN1-VVG on_PRP suicidal_AJ0 and_CJC was_VBD given_VVN by_PRP the_AT0 workers_NN2 at_PRP the_AT0 clinic_NN1 a_AT0 new_AJ0 sari_NN1 to_TO0 try_VVI and_CJC cheer_VVI her_PNP up_AVP ._PUN
+Two_CRD days_NN2 later_AV0 I_PNP met_VVD the_AT0 same_DT0 lady_NN1 and_CJC her_DPS sari_NN1 had_VHD been_VBN stolen_VVN in_PRP the_AT0 middle_NN1 of_PRF the_AT0 night_NN1 ._PUN
+Words_NN2 can_VM0 not_XX0 express_VVI the_AT0 sadness_NN1 of_PRF seeing_VVG a_AT0 teenager_NN1 who_PNQ looks_VVZ barely_AV0 older_AJC than_CJS a_AT0 young_AJ0 child_NN1 suffering_VVG-NN1 from_PRP severe_AJ0 malnutrition_NN1 ,_PUN but_CJC there_EX0 are_VBB the_AT0 wonderful_AJ0 moments_NN2 such_DT0 as_PRP a_AT0 child_NN1 who_PNQ suffered_VVD tremendous_AJ0 burns_NN2 after_CJS a_AT0 candle_NN1 fell_VVD and_CJC set_VVB-NN1 fire_NN1 to_PRP her_DPS night-dress_NN1 ;_PUN after_PRP-CJS months_NN2 of_PRF careful_AJ0 dressing_NN1 and_CJC cleaning_VVG her_DPS wounds_NN2 have_VHB virtually_AV0 healed_VVN —_PUN without_PRP the_AT0 clinic_NN1 the_AT0 little_AJ0 girl_NN1 would_VM0 almost_AV0 certainly_AV0 have_VHI died_VVN ._PUN
+There_EX0 are_VBB times_NN2 when_AVQ as_PRP a_AT0 photographer_NN1 it_PNP is_VBZ possible_AJ0 to_TO0 show_VVI the_AT0 truth_NN1 ,_PUN to_TO0 show_VVI images_NN2 which_DTQ convey_VVB the_AT0 reality_NN1 of_PRF this_DT0 world_NN1 ._PUN
+Out_AVP of_PRF the_AT0 hundreds_CRD of_PRF pictures_NN2 that_CJT my_DPS husband_NN1 Bob_NP0 Turner_NP0 and_CJC I_PNP took_VVD ,_PUN we_PNP decided_VVD to_TO0 publish_VVI a_AT0 book_NN1 by_PRP ourselves_PNX of_PRF 130_CRD images_NN2 showing_VVG the_AT0 life_NN1 ,_PUN culture_NN1 and_CJC people_NN0 of_PRF Calcutta_NP0 ._PUN
+Photography_NN1 can_VM0 help_VVI and_CJC all_DT0 the_AT0 profits_NN2 from_PRP this_DT0 book_NN1 will_VM0 be_VBI sent_VVN back_AVP to_PRP Calcutta_NP0 to_TO0 buy_VVI medicine_NN1 for_PRP Jack_NP0 and_CJC his_DPS workers_NN2 ._PUN
+A_AT0 selection_NN1 of_PRF the_AT0 images_NN2 I_PNP took_VVD to_PRP Australia_NP0 in_PRP November_NP0 and_CJC December_NP0 appeared_VVD on_PRP the_AT0 front_NN1 of_PRF the_AT0 Melbourne_NP0 Age_NN1 and_CJC on_PRP Good_AJ0 Morning_NN1 Australia_NP0 ,_PUN a_AT0 national_AJ0 TV_NN1 news_NN1 programme_NN1 ._PUN
+As_PRP a_AT0 result_NN1 we_PNP have_VHB received_VVN tremendous_AJ0 encouragement_NN1 from_PRP the_AT0 Australian_AJ0 people_NN0 who_PNQ have_VHB formed_VVN a_AT0 new_AJ0 branch_NN1 of_PRF the_AT0 charity_NN1 as_PRP a_AT0 direct_AJ0 result_NN1 of_PRF our_DPS photographs_NN2 ._PUN
+In_PRP addition_NN1 to_PRP the_AT0 book_NN1 a_AT0 selection_NN1 of_PRF the_AT0 images_NN2 will_VM0 be_VBI on_PRP view_NN1 at_PRP the_AT0 Barbican_NP0 ,_PUN Level_NN1-AJ0 3_CRD until_PRP-CJS 11_CRD August_NP0 and_CJC afterwards_AV0 from_PRP 12_CRD August_NP0 to_PRP 2_CRD September_NP0 at_PRP the_AT0 Thorndike_NP0-NN1 Theatre_NN1 ,_PUN Leatherhead_NP0 ,_PUN Surrey_NP0 ._PUN
+Copies_NN2 of_PRF the_AT0 book_NN1 may_VM0 be_VBI obtained_VVN from_PRP the_AT0 photographers_NN2 at_PRP 4_CRD Meadway_NP0-NN1 ,_PUN Epsom_NP0 ,_PUN Surrey_NP0 KT19_UNC 8JR_UNC ._PUN
+The_AT0 price_NN1 of_PRF the_AT0 book_NN1 is_VBZ £19.95_NN0 plus_PRP £1.50_NN0 postage_NN1 and_CJC packing_NN1-VVG ._PUN
+Helene_NP0 Rogers_NP0
+SEE_VVB HERE_AV0
+John_NP0 Szarkowski_NP0 ,_PUN recently_AV0 retired_VVN as_PRP the_AT0 director_NN1 of_PRF photography_NN1 at_PRP the_AT0 Museum_NN1 of_PRF Modern_AJ0 Art_NN1 in_PRP New_NP0 York_NP0 ,_PUN has_VHZ been_VBN reported_VVN as_CJS considering_PRP Lee_NP0 Friedlander_VVB the_AT0 best_AJS photographer_NN1 living_NN1-VVG ._PUN
+In_PRP London_NP0 during_PRP August_NP0 there_EX0 are_VBB two_CRD opportunities_NN2 —_PUN at_PRP the_AT0 Victoria_NP0 and_CJC Albert_NP0 Museum_NN1 and_CJC Zelda_NP0 Cheatle_NP0-NN1 galleries_NN2 —_PUN to_TO0 see_VVI some_DT0 of_PRF his_DPS work_NN1 and_CJC decide_VVB for_PRP yourself_PNX ._PUN
+It_PNP was_VBD partly_AV0 Szarkowski_NP0-NN1 's_POS influence_NN1 in_PRP the_AT0 early_AJ0 60s_CRD ,_PUN which_DTQ broadened_VVD-AJ0 collectors_NN2 '_POS minds_NN2 to_PRP the_AT0 idea_NN1 of_PRF buying_VVG photographs_NN2 which_DTQ were_VBD other_AJ0 than_CJS self-consciously_AV0 fine_AJ0 art_NN1 ._PUN
+Also_AV0 ,_PUN the_AT0 traumas_NN2 of_PRF the_AT0 Vietnam_NP0 War_NN1 and_CJC civil_AJ0 liberties_NN2 clashes_NN2 caused_VVD-VVN a_AT0 crisis_NN1 of_PRF confidence_NN1 and_CJC led_VVD to_PRP a_AT0 questioning_AJ0 frame_NN1 of_PRF mind_NN1 ,_PUN which_DTQ was_VBD ready_AJ0 for_PRP the_AT0 idiosyncratic_AJ0 and_CJC difficult_AJ0 to_TO0 interpret_VVI images_NN2 made_VVN by_PRP Friedlander_NP0-NN1 and_CJC his_DPS contemporaries_NN2 ._PUN
+Friedlander_NP0-NN1 came_VVD to_PRP prominence_NN1 through_PRP the_AT0 1966_CRD exhibition_NN1 Toward_PRP a_AT0 Social_AJ0 Landscape_NN1 ,_PUN which_DTQ also_AV0 introduced_VVD-VVN the_AT0 work_NN1 of_PRF Garry_NP0 Winogrand_NP0 and_CJC Duane_NP0 Michals_NP0 ._PUN
+The_AT0 V_ZZ0 &_CJC A_ZZ0 exhibition_NN1 has_VHZ examples_NN2 of_PRF his_DPS social_AJ0 landscapes_NN2 ,_PUN portraits_NN2 and_CJC nudes_NN2 taken_VVN in_PRP the_AT0 years_NN2 1956–87_CRD ,_PUN while_CJS the_AT0 Zelda_NP0 Cheatle_NP0-NN1 gallery_NN1 is_VBZ showing_VVG only_AV0 nudes_NN2 ._PUN
+The_AT0 nudes_NN2 owe_VVB something_PNI to_PRP those_DT0 of_PRF Bill_NP0 Brandt_NP0 done_VDN in_PRP the_AT0 late_AJ0 1940s_CRD and_CJC early_AJ0 50s_CRD ,_PUN but_CJC as_CJS in_PRP all_DT0 his_DPS work_NN1 Friedlander_NP0-NN1 's_POS choice_NN1 of_PRF vantage_NN1 point_NN1 and_CJC his_DPS use_NN1 of_PRF irony_NN1 forces_NN2-VVZ questions_NN2 on_PRP the_AT0 viewer_NN1 ,_PUN rather_AV0 than_CJS supplying_VVG answers_NN2 ._PUN

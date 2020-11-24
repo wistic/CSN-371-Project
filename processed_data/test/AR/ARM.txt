@@ -1,0 +1,779 @@
+WIN_VVB PRO_AJ0 DECKS_NN2 !_PUN quite_AV0 easily_AV0
+AUSTRALIA_NP0 not_XX0 upside_NN1 down_AVP
+STREET_NN1 WIZARD_NN1-AJ0 hellicar_NN1 interview_NN1
+RAMP_NN1 REMEMBERED_VVD-VVN farnborough_NN1 thru'_VVB-NN1 the_AT0 years_NN2
+GOODBYE_ITJ MINI_NP0 RAMP_NN1 dannz_NN1 's_POS romp_NN1 jam_NN1-VVB
+PHOTO_NN1 SECTION_NN1
+CONTENTS_NN2
+COVER_VVB-NN1 :_PUN Just_AV0 look_VVB-NN1 at_PRP how_AVQ harsh_AJ0 and_CJC tight_AV0-AJ0 that_DT0-CJT bank_NN1 is_VBZ ._PUN
+Rudy_NP0 Johnson_NP0 here_AV0 does_VDZ n't_XX0 just_AV0 roll_VVI up_PRP them_PNP ,_PUN he_PNP pops_VVZ a_AT0 frontside_NN1 ollie_NN1 ,_PUN one_PNI footed_VVD ,_PUN off_PRP the_AT0 bank_NN1 ._PUN
+Too_AV0 hot_AJ0 ._PUN
+Photo_NN1 by_PRP Brad_NP0 McDonald_NP0 ._PUN
+CONTENTS_NN2 :_PUN Difficulty_NN1 and_CJC technique_NN1 are_VBB two_CRD attributes_VVZ you_PNP could_VM0 attribute_VVI Bryon_NP0-NN1 Convey_VVB with_PRP ._PUN
+Fakie_NP0 Ollie_NP0 Stale_AJ0 Grab_NN1 ,_PUN Woden_NP0 wooden_AJ0 ramp_NN1 ,_PUN ACT_VVB-NN1 ,_PUN in_PRP Australia_NP0 ._PUN
+Photo_NN1 by_PRP David_NP0 Pang_NN1 ._PUN
+Staff/Edit_VVB
+NEWS_NN1 and_CJC TERRAIN_NN1 ._PUN
+It_PNP 's_VBZ new_AJ0 ,_PUN and_CJC it_PNP 's_VBZ here_AV0 ,_PUN and_CJC it_PNP 's_VBZ all_DT0 news_NN1 ._PUN
+PRODUCT_NN1 LUST_NN1 ._PUN
+Yep_ITJ ,_PUN new_AJ0 product_NN1 ,_PUN right_AV0 out_AVP of_PRF the_AT0 box_NN1 ._PUN
+STREET_NN1 WIZARD_NN1 ._PUN
+Just_AV0 who_PNQ the_AT0 heck_NN1 is_VBZ Pete_NP0 Hellicar_NP0-NN1 anyways_NN2 ?_PUN
+He_PNP 's_VBZ from_PRP Nottingham_NP0 and_CJC he_PNP 's_VBZ good_AJ0 ._PUN
+RAMP_NN1 REMEMBERED_VVD-VVN ._PUN
+Farnborough_NP0 is_VBZ one_CRD of_PRF Britain_NP0 's_POS most_AV0 famous_AJ0 ramps_NN2 ._PUN
+It_PNP 's_VHZ gone_VVN through_PRP many_DT0 changes_NN2 and_CJC evolutions_NN2 ._PUN
+Ian_NP0 Cocking_NP0 writes_VVZ a_AT0 retrospective_NN1 ._PUN
+DANNZ_NP0 'S_POS JAM_NN1 ._PUN
+A_AT0 mini_AJ0 ramp_NN1 jam_NN1-VVB with_PRP fancy_AJ0 dress_NN1 and_CJC the_AT0 odd_AJ0 one_PNI foot_NN1 tail_NN1 grab_NN1-VVB ollie_NN1 ._PUN
+POSTER_NN1 ._PUN
+Check_VVB the_AT0 moodiness_NN1 of_PRF the_AT0 photo_NN1 ._PUN
+AUSTRALIA_NP0 ._PUN
+A_AT0 pictorial_NN1 of_PRF somewhat_AV0 ,_PUN by_PRP David_NP0 Pang_NN1 ._PUN
+PHOTO_NN1 SECTION_NN1 ._PUN
+A_AT0 thousand_CRD words_NN2 ._PUN
+BLOODY_AJ0 KIDS_NN2 ._PUN
+MOUTH_NN1 ON_PRP A_AT0 STICK_NN1-VVB ._PUN
+LETTERS_NN2 PAGE_NN1 ._PUN
+New_AJ0 to_PRP this_DT0 magazine_NN1 ._PUN
+Write_VVB and_CJC get_VVB printed_AJ0-VVN ._PUN
+Practically_AV0 guaranteed_VVN-VVD ._PUN
+Edit_VVB
+Well_AV0 ,_PUN here_AV0 's_VBZ the_AT0 new_AJ0 issue_NN1 ,_PUN the_AT0 March_NP0 1991_CRD Skateboard_NN1-VVB !_PUN
+Magazine_NN1 ._PUN
+There_EX0 was_VBD a_AT0 gap_NN1 between_PRP the_AT0 Jan/Feb_NP0 issue_NN1-VVB and_CJC the_AT0 one_PNI before_PRP-CJS that_DT0 [_PUL November_NP0 '90_CRD ]_PUR whilst_CJS publishing_NN1-VVG was_VBD sorted_VVN out_AVP ,_PUN but_CJC so_AV0 what_DTQ ?_PUN
+It_PNP was_VBD still_AV0 the_AT0 best_AJS skateboarding_AJ0-VVG magazine_NN1 to_PRP date_NN1 ._PUN
+Killer_NN1 cover_NN1-VVB ,_PUN killer_NN1 photos_NN2 inside_AV0 and_CJC totally_AV0 good_AJ0 articles_NN2 ._PUN
+That_DT0 's_VBZ the_AT0 way_NN1 we_PNP run_VVB things_NN2 here_AV0 at_PRP Skateboard_NN1 !_PUN
+Magazine_NN1 ._PUN
+If_CJS it_PNP 's_VBZ not_XX0 the_AT0 best_AJS skate_NN1-VVB mag_NN1 on_PRP the_AT0 shelf_NN1 then_AV0 we_PNP had_VHD better_AV0 give_VVI up_AVP and_CJC take_VVI up_AVP flower_NN1-VVB pressing_VVG-AJ0 ._PUN
+So_AV0 ,_PUN onto_PRP this_DT0 issue_NN1 —_PUN check_VVB the_AT0 cover_NN1 ._PUN
+Rad_NN1-NP0 one_CRD foot_NN1 ollie_NN1 on_PRP the_AT0 tightest_AJS of_PRF banks_NN2 ._PUN
+Then_AV0 there_EX0 's_VBZ a_AT0 retrospective_NN1 on_PRP Farnborough_NP0 ,_PUN possibly_AV0 Britain_NP0 's_POS most_AV0 famous_AJ0 ramp_NN1 ,_PUN an_AT0 interview_NN1 with_PRP a_AT0 street_NN1 wizard_NN1 from_PRP Nottingham_NP0 ,_PUN Dannz_NP0 's_POS Mini_AJ0 Ramp_NN1 jam_NN1-VVB ,_PUN Australian_AJ0 Pictorial_NN1 ,_PUN and_CJC another_DT0 blinding_AJ0 collection_NN1 of_PRF photos_NN2 for_PRP your_DPS visual_AJ0 pleasure_NN1 ._PUN
+Enjoy_VVB ._PUN
+MN_UNC —_PUN SB_NP0 !_PUN
+NEXT_ORD MONTH_NN1
+In_PRP the_AT0 April_NP0 1991_CRD issue_VVB-NN1 we_PNP 'll_VM0 have_VHI the_AT0 story_NN1 on_PRP Kevin_NP0 Harris_NP0 '_POS skatepark_NN1 —_PUN a_AT0 virtual_AJ0 ply_NN1 heaven_NN1 by_PRP all_DT0 accounts_NN2 ._PUN
+Aside_AV0 from_PRP that_DT0 ,_PUN Meany_NP0-NN1 's_VHZ been_VBN street_NN1 skating_VVG in_PRP the_AT0 Greater_NP0 Manchester_NP0 area_NN1 ,_PUN Duffy_NP0 's_VHZ been_VBN on_PRP the_AT0 lookout_NN1 for_PRP new_AJ0 terrain_NN1 and_CJC unknown_AJ0 people_NN0 existent_AJ0 in_PRP the_AT0 South_NN1 West_NN1 ,_PUN and_CJC also_AV0 discovers_VVZ a_AT0 totally_AV0 hot_AJ0 indoor_AJ0 bowl_NN1 with_PRP a_AT0 secret_AJ0 location_NN1 and_CJC impeccable_AJ0 construction_NN1 ._PUN
+SB_NP0 !_PUN ,_PUN next_ORD month_NN1 ._PUN
+the_AT0 NeWS_NN1
+You_PNP know_VVB how_AVQ it_PNP is_VBZ …_PUN or_CJC maybe_AV0 you_PNP do_VDB n't_XX0 ._PUN
+Gathering_VVG-NN1 News_NN1 for_PRP the_AT0 Skateboard_NN1 !_PUN
+News_NN1 page_NN1 is_VBZ a_AT0 job_NN1 that_CJT Meany_NP0-NN1 has_VHZ endeavoured_VVN to_TO0 thrust_VVI upon_PRP himself_PNX with_PRP the_AT0 kind_NN1 of_PRF enthusiasm_NN1 reserved_VVN-VVD for_PRP African_AJ0 Pygmies_NN2 on_PRP an_AT0 Easter_NN1 rhino_NN0 hunt_VVB-NN1 ._PUN
+Here_AV0 's_VBZ what_DTQ he_PNP discovered_VVD this_DT0 month_NN1 ._PUN
+90%_NN0 OF_PRF ALL_DT0 SKATERS_NN2 ARE_VBB STREET_NN1 SKATERS_NN2
+It_PNP 's_VBZ true_AJ0 ._PUN
+Rocco_NN1-NP0 apparently_AV0 performed_VVN-VVD a_AT0 survey_NN1 and_CJC determined_VVN-AJ0 that_CJT 9_CRD out_AVP of_PRF 10_CRD skaters_NN2 are_VBB street_NN1 skaters_NN2 ,_PUN and_CJC hence_AV0 he_PNP has_VHZ dropped_VVN every_AT0 vert_NN1 skater_NN1 from_PRP his_DPS team_NN1 ._PUN
+Todd_NP0 Swank_VVB-NN1 ,_PUN of_PRF Foundation_NN1 ,_PUN then_AV0 decided_VVD-VVN to_TO0 do_VDI the_AT0 same_DT0 and_CJC only_AV0 retain_VVB his_DPS street_NN1 skaters_NN2 together_AV0 to_TO0 make_VVI a_AT0 really_AV0 small_AJ0 team_NN1 ._PUN
+As_PRP a_AT0 result_NN1 ,_PUN Dave_NP0 Phillips_NP0 ,_PUN Stan_NP0 Stanners_NP0 and_CJC Cheese_NN1 are_VBB off_PRP-AVP Foundation_NN1 ,_PUN and_CJC Todd_NP0 Swank_VVB-NN1 himself_PNX is_VBZ the_AT0 only_AJ0 vert_NN1 skater_NN1 left_VVD :_PUN ultimately_AV0 nine_CRD or_CJC so_AV0 people_NN0 [_PUL who_PNQ rode_VVD vert_NN1 ]_PUR got_VVD chucked_VVN off_AVP ._PUN
+Also_AV0 on_PRP the_AT0 subject_NN1 of_PRF Foundation_NN1 ,_PUN expect_VVB a_AT0 new_AJ0 video_NN1 from_PRP them_PNP ,_PUN imported_VVD-VVN over_PRP here_AV0 by_PRP Faze_NP0-NN1 7_CRD ._PUN
+Natas_NP0 Kaupas_NP0 has_VHZ a_AT0 brand_NN1 new_AJ0 company_NN1 —_PUN called_VVN 101_CRD ._PUN
+He_PNP has_VHZ new_AJ0 boards_NN2 ,_PUN new_AJ0 wheels_NN2 ,_PUN t_ZZ0 shirts_NN2 ,_PUN and_CJC get_VVB this_DT0 about_PRP the_AT0 graphics_NN0 for_PRP his_DPS own_DT0 deck_NN1 :_PUN they_PNP depict_VVB Challenger_NN1 's_POS final_AJ0 flight_NN1 ,_PUN the_AT0 space_NN1 shuttle_NN1 explosion_NN1 and_CJC a_AT0 huge_AJ0 cloud_NN1 of_PRF smoke_NN1 ._PUN
+Nice_AJ0 taste_NN1 ,_PUN Natas_NP0 ._PUN
+Also_AV0 ,_PUN his_DPS wheels_NN2 are_VBB released_VVN soon_AV0 ,_PUN called_VVN Fuzzy_AJ0 Little_AJ0 Snow_NN1-NP0 Frogs_NN2 ,_PUN they_PNP 're_VBB 57mm_NN0 ._PUN
+Since_CJS Davie_NP0 Phillips_NP0 is_VBZ now_AV0 off_PRP-AVP Foundation_NN1 ,_PUN Real_AJ0 have_VHB snapped_VVN him_PNP up_AVP ._PUN
+Davie_NN1-NP0 's_VHZ also_AV0 been_VBN working_VVG hard_AV0-AJ0 on_PRP a_AT0 new_AJ0 Poizone_NN1 range_NN1 ._PUN
+Watch_VVB-NN1 for_PRP new_AJ0 trousers_NN2 made_VVN by_PRP a_AT0 new_AJ0 manufacturer_NN1 ,_PUN and_CJC also_AV0 new_AJ0 shirt_NN1 designs_NN2 printed_VVN onto_PRP in-house_AJ0 created_AJ0 sweatshirts_NN2 [_PUL rather_AV0 then_AV0 just_AV0 whacking_VVG the_AT0 design_NN1 onto_PRP a_AT0 Hanes_NP0 job_NN1 ]_PUR ._PUN
+New_AJ0 logos_NN2 soon_AV0 too_AV0 ._PUN
+Another_DT0 thing_NN1 ,_PUN if_CJS you_PNP have_VHB a_AT0 facility_NN1 for_PRP a_AT0 portable_AJ0 mini-ramp_NN1 ,_PUN for_PRP instance_NN1 if_CJS you_PNP have_VHB a_AT0 hall_NN1 to_TO0 put_VVI it_PNP in_AVP ,_PUN then_AV0 contact_VVB Davie_NP0-NN1 or_CJC Jamie_NP0-NN1 on_PRP 041_CRD 339_CRD 6523_CRD because_CJS they_PNP have_VHB one_CRD placed_VVN in_PRP storage_NN1 just_AV0 doing_VDG nothing_PNI ._PUN
+It_PNP 's_VBZ begging_VVG to_TO0 be_VBI skated_VVN ._PUN
+Other_AJ0 items_NN2 from_PRP oop_NN1 north_NN1 ,_PUN there_EX0 's_VBZ still_AV0 a_AT0 ramp_NN1 in_PRP the_AT0 Church_NN1 ,_PUN Chris_NP0 Lonergan_NP0 aka_NN1 Noodles_NN2-VVZ is_VBZ now_AV0 sponsored_VVN by_PRP Nidecker_NN1-NP0 for_PRP snowboards_NN2 ,_PUN and_CJC Jamie_NP0 Blair_NP0 now_AV0 rides_VVZ for_PRP Cockroach_NN1 ._PUN
+VDO_NP0-NN1
+Let's_VM0 talk_VVI Video_NN1 for_PRP a_AT0 while_NN1 :_PUN Real_AJ0 are_VBB doing_VDG a_AT0 promo_NN1 video_NN1 ,_PUN similar_AJ0 to_PRP the_AT0 New_AJ0 Deal_NN1 promo_NN1 video_NN1-VVB that_CJT went_VVD to_PRP the_AT0 shops_NN2 ._PUN
+I_PNP 'll_VM0 be_VBI about_AV0 20_CRD minutes_NN2 long_AJ0 ._PUN
+Death_NN1 Box_NN1 's_POS Spirit_NN1 of_PRF the_AT0 Blitz_NN1 is_VBZ finally_AV0 out_AVP after_PRP months_NN2 of_PRF filming_VVG all_AV0 over_PRP Europe_NP0 ._PUN
+Blind_AJ0 are_VBB also_AV0 bringing_VVG out_AVP a_AT0 video_NN1 ._PUN
+Expect_VVB Mark_NP0-NN1 and_CJC Jason_NP0 Lee_NP0 to_TO0 adorn_VVI your_DPS screens_NN2 right_AV0 about_PRP-AVP now_AV0 ._PUN
+New_AJ0 Life_NN1 skates_NN2-VVZ —_PUN VCR_NP0 cassette_NN1 soon_AV0 ,_PUN should_VM0 be_VBI in_PRP the_AT0 stores_NN2 right_AV0 about_PRP-AVP now_AV0 ._PUN
+Reviews_NN2 ,_PUN next_ORD month_NN1 ._PUN
+SMALLS_NN2 ,_PUN SPONSORS_NN2 and_CJC SUCHLIKE_AJ0
+Let's_VM0 treat_VVI this_DT0 section_NN1 in_PRP departments_NN2 :_PUN
+NEW_AJ0 DEAL_NN1 UK_NP0
+Look_VVB out_AVP for_PRP a_AT0 new_AJ0 Douglas_NP0 deck_NN1 ,_PUN and_CJC look_VVB out_AVP for_PRP their_DPS UK_NP0 team_NN1 riders_NN2 Jason_NP0 Lunn_NP0 ,_PUN Pete_NP0 McNeil_NP0 and_CJC Simon_NP0 Evans_NP0 ._PUN
+Maybe_AV0 a_AT0 Team_NN1 File_NN1-VVB soon_AV0 ,_PUN maybe_AV0 ._PUN
+As_CJS we_PNP 've_VHB mentioned_VVN before_AV0 ,_PUN Davie_NP0 Phillips_NP0 is_VBZ now_AV0 on_PRP Real_AJ0 [_PUL a_AT0 company_NN1 with_PRP connections_NN2 to_PRP New_AJ0 Deal_NN1 UK_NP0 ]_PUR ,_PUN they_PNP 're_VBB now_AV0 producing_VVG a_AT0 no-pro_AJ0 deck_NN1 called_VVN a_AT0 Blank_AJ0 Stare_NN1-VVB ._PUN
+The_AT0 guys_NN2 at_PRP New_AJ0 Deal_NN1 filled_VVD us_PNP in_AVP with_PRP the_AT0 latest_AJS on_PRP Harrow_NP0 skatepark_NN1-VVB ._PUN
+They_PNP still_AV0 want_VVB to_TO0 take_VVI the_AT0 park_NN1 over_AVP-PRP and_CJC run_VVB it_PNP on_PRP-AVP a_AT0 similar_AJ0 operation_NN1 to_PRP Southsea/Rom_NP0 ._PUN
+A_AT0 meeting_NN1 with_PRP the_AT0 council_NN1 is_VBZ about_AVP to_TO0 take_VVI place_NN1 ,_PUN and_CJC if_CJS all_DT0 goes_VVZ well_AV0 the_AT0 pool_NN1 and_CJC performance_NN1 bowl_NN1 will_VM0 be_VBI dug_VVN out_AVP and_CJC made_VVD skateable_AJ0 again_AV0 ._PUN
+More_AV0 on_PRP that_DT0 soon_AV0 ._PUN
+H_NP0 STREET_NP0
+Hokus_NP0-NN1 Pokus_NP0-NN1 fried_AJ0 brains_NN2 when_CJS-AVQ it_PNP came_VVD out_AVP —_PUN the_AT0 level_NN1 of_PRF skating_NN1-VVG was_VBD incredible_AJ0 for_PRP the_AT0 time_NN1 ._PUN
+H_NP0 Street_NP0 are_VBB now_AV0 about_AVP to_TO0 release_VVI a_AT0 new_AJ0 video_NN1 ,_PUN cunningly_AV0 titled_VVN Not_XX0 the_AT0 New_NP0 H_NP0 Street_NP0 Video_NN1 ._PUN
+It_PNP 'll_VM0 be_VBI around_AV0 30_CRD minutes_NN2 long_AJ0-AV0 and_CJC is_VBZ intended_VVN to_TO0 be_VBI a_AT0 trailer_NN1 for_PRP their_DPS new_AJ0 full_AJ0 length_NN1 video_NN1 which_DTQ will_VM0 be_VBI released_VVN later_AV0 this_DT0 year_NN1 [_PUL Summer_NN1 time_NN1 ?_PUN ]_PUR ._PUN
+WORLD_NN1 INDUSTRIES_NN2
+There_EX0 are_VBB a_AT0 few_DT0 decks_NN2 coming_VVG from_PRP the_AT0 house_NN1 of_PRF Rocco_NP0-NN1 ._PUN
+Rudy_NP0 Johnson_NP0 ,_PUN the_AT0 guy_NN1 on_PRP this_DT0 month_NN1 's_POS cover_NN1 ,_PUN is_VBZ coming_VVG out_AVP with_PRP a_AT0 deck_NN1 ,_PUN and_CJC there_EX0 's_VBZ also_AV0 a_AT0 new_AJ0 Dune_NN1 Pastras_NP0 model_NN1-VVB ._PUN
+Vallely_AV0 is_VBZ releasing_VVG his_DPS new_AJ0 plank_NN1 ,_PUN which_DTQ will_VM0 replace_VVI his_DPS double_AJ0 kick_NN1 deck_NN1 ._PUN
+Blind_AJ0 ,_PUN connected_VVN-AJ0 with_PRP Rocco_NP0 ,_PUN have_VHB new_AJ0 wheels_NN2-VVZ out_AVP called_VVD White_NP0 Walls_NP0 ._PUN
+Whether_CJS or_CJC not_XX0 they_PNP are_VBB black_AJ0 with_PRP white_AJ0 sides_NN2 remains_VVZ to_TO0 be_VBI seen_VVN …_PUN
+DEATH_NN1 BOX_NN1
+Spirit_NN1 of_PRF the_AT0 Blitz_NN1 is_VBZ out_AVP now_AV0 ._PUN
+Finally_AV0 !_PUN
+Has_VHZ Jeremy_NP0 Fox_NP0 gone_VVN quite_AV0 mad_AJ0 ?_PUN
+Has_VHZ he_PNP signed_VVN up_AVP-PRP one_CRD of_PRF the_AT0 most_AV0 formidable_AJ0 Arabs_NN2 to_TO0 ride_VVI for_PRP his_DPS expanding_AJ0 pro_AJ0-NN1 team_NN1 ?_PUN
+Naaah_ITJ ,_PUN but_CJC watch_VVB out_AVP for_PRP a_AT0 Saddam_NP0 Hussein_NP0 model_NN1 ,_PUN which_DTQ Jeremy_NP0 is_VBZ rushing_VVG out_AVP to_TO0 cash_VVI in_AVP before_CJS conscription_NN1 sets_VVZ in_AVP ._PUN
+He_PNP 's_VBZ hoping_VVG to_TO0 make_VVI enough_DT0 money_NN1 from_PRP the_AT0 deck_NN1 that_CJT the_AT0 authorities_NN2 wo_VM0 n't_XX0 send_VVI him_PNP out_AVP to_PRP the_AT0 front_NN1 ._PUN
+Another_DT0 Foxy_AJ0 scheming_AJ0 method_NN1 to_TO0 miss_VVI conscription_NN1 is_VBZ to_TO0 join_VVI the_AT0 Quakers_NN2 ,_PUN avoiding_NN1-VVG being_VBG drafted_VVN because_CJS of_PRF religious_AJ0 immunity_NN1 [_PUL not_XX0 because_CJS of_PRF bloating_VVG on_PRP porridge_NN1 ]_PUR ._PUN
+He_PNP passes_VVZ blame_NN1-VVB onto_PRP Mon_NP0 Barbour_NP0 for_PRP that_DT0 idea_NN1 ._PUN
+Alex_NP0 Moule_NP0 has_VHZ his_DPS new_AJ0 pro_AJ0-NN1 model_NN1-VVB out_AVP now_AV0 ,_PUN featuring_VVG DB_NP0 's_POS new_AJ0 concave_AJ0 called_AJ0-VVN Concurve_NN1-NP0 ._PUN
+Three_CRD more_DT0 Death_NN1 Box_NN1 ams_NN2 are_VBB turning_VVG-AJ0 pro_NN1-AJ0 ,_PUN so_CJS you_PNP can_VM0 expect_VVI models_NN2 with_PRP these_DT0 names_NN2 on_PRP them_PNP coming_VVG out_AVP in_PRP May_NP0 :_PUN Jocke_NP0 Olsen_NP0 ,_PUN Nordien_NP0 Quatbi_NP0-NN1 ,_PUN and_CJC Bruno_NP0 Rouland_NP0 ._PUN
+Check_VVB out_AVP the_AT0 DB_NP0 Team_NN1 File_NN1 [_PUL Nov_NP0 ish_VVB ]_PUR for_PRP awareness_NN1 of_PRF these_DT0 blokes_NN2 ._PUN
+Big_AJ0 comp_NN1 news_NN1 comes_VVZ from_PRP the_AT0 Death_NN1 Box_NN1 camp_NN1 ._PUN
+Look_VVB forward_AV0 to_PRP a_AT0 mega-massive_AJ0 contest_NN1 taking_VVG place_NN1 at_PRP the_AT0 big_AJ0 Point_NN1 Depo_NN1-NP0 Stadium_NN1 ,_PUN in_PRP Dublin_NP0 ,_PUN over_PRP the_AT0 May_NP0 17–19th_ORD weekend_NN1 ._PUN
+Batchelors_NP0 ,_PUN the_AT0 soup_NN1 people_NN0 ,_PUN are_VBB sponsoring_VVG the_AT0 whole_AJ0 deal_NN1 ._PUN
+Freestyle_NN1-NP0 Ramps_NN2 will_VM0 provide_VVI the_AT0 ramp_NN1 ,_PUN in_PRP the_AT0 form_NN1 of_PRF a_AT0 brand_NN1 new_AJ0 big_AJ0 vert_NN1 job_NN1 ,_PUN which_DTQ will_VM0 then_AV0 be_VBI shipped_VVN back_AVP to_PRP England_NP0 and_CJC used_VVN-VVD at_PRP the_AT0 Town_NN1 and_CJC Country_NN1 show_VVB-NN1 this_DT0 year_NN1 as_CJS well_AV0 ._PUN
+This_DT0 contest_NN1 will_VM0 also_AV0 be_VBI a_AT0 round_NN1-AJ0 of_PRF the_AT0 AES_NP0 European_AJ0 series_NN0 ._PUN
+It_PNP 'll_VM0 be_VBI big_AJ0 ._PUN
+Wee_VVB Blair_NP0 McAfferty_NP0 now_AV0 rides_VVZ for_PRP the_AT0 DB_NP0 am_AV0 team_NN1-VVB ._PUN
+MORE_DT0 EVENTS_NN2
+Dave_NP0 North_NN1 is_VBZ running_VVG a_AT0 comp_NN1 taking_VVG place_NN1 over_PRP 13/14th_UNC April_NP0 ._PUN
+It_PNP will_VM0 be_VBI at_PRP the_AT0 Antrim_NP0 ramps_NN2 in_PRP Northern_NP0 Ireland_NP0 ,_PUN and_CJC will_VM0 officially_AV0 open_VVI the_AT0 new_AJ0 bowled_VVD-VVN out_AVP steel_NN1 mini_NN1 ,_PUN and_CJC will_VM0 also_AV0 raise_VVI funds_NN2 for_PRP a_AT0 big_AJ0 vert_NN1 ramp_NN1 ._PUN
+The_AT0 vertical_AJ0 ramp_NN1 will_VM0 be_VBI made_VVN to_PRP the_AT0 same_DT0 dimensions_NN2 as_CJS Southsea_NP0 's_POS ,_PUN as_CJS long_AJ0 as_CJS they_PNP can_VM0 come_VVI up_AVP with_PRP the_AT0 money_NN1 to_TO0 make_VVI it_PNP ._PUN
+Back_AVP to_PRP the_AT0 comp_NN1 :_PUN this_DT0 will_VM0 be_VBI sponsored_VVN by_PRP Zorlac_NP0 ,_PUN Death_NN1 Box_NN1 ,_PUN and_CJC at_PRP least_AV0 three_CRD pros_NN2 will_VM0 skate_VVI there_AV0 ,_PUN according_VVG to_PRP Dave_NP0 ._PUN
+For_PRP more_DT0 info_NN1 on_PRP this_DT0 event_NN1 ring_NN1-VVB Dave_NP0 on_PRP 0232_CRD 812271_CRD ,_PUN or_CJC Steve_NP0 Barrow_NP0 on_PRP 084_CRD 9468944_CRD ._PUN
+OTHER_AJ0 BITS_NN2 THAT_CJT WERE_VBD N'T_XX0 BIG_AJ0 ENOUGH_AV0 TO_TO0 HAVE_VHI THEIR_DPS OWN_DT0 HEADINGS_NN2
+Gator_NN1-NP0 has_VHZ quit_VVN Vision_NN1 to_TO0 ride_VVI for_PRP G_ZZ0 and_CJC S._NP0
+Christian_AJ0 Hosoi_NN1-NP0 ,_PUN who_PNQ was_VBD meant_VVN to_TO0 be_VBI getting_VVG some_DT0 sort_NN1 of_PRF subsidiary_AJ0 company_NN1 through_PRP Vision_NN1 ,_PUN is_VBZ now_AV0 working_VVG to_TO0 get_VVI a_AT0 sub-company_NN1 set_VVN up_AVP through_PRP H_NP0 Street_NP0 :_PUN this_DT0 will_VM0 eventually_AV0 be_VBI similar_AJ0 to_PRP Chris_NP0 Miller_NP0 's_POS Planet_NN1 Earth_NN1 ._PUN
+Black_AJ0 Label_NN1 —_PUN Rodga_NP0 Harvey_NP0 is_VBZ first_ORD on_PRP the_AT0 team_NN1 ._PUN
+and_CJC is_VBZ Omar_NP0 Hassan_NP0 now_AV0 riding_VVG for_PRP them_PNP too_AV0 in_PRP the_AT0 US_NP0 ?_PUN
+Bash_VVB-NN1 —_PUN team_NN1-VVB now_AV0 consists_VVZ of_PRF Neil_NP0 Frey_NP0 ,_PUN Pike_NN0 ,_PUN Gregg_NP0 Nowich_NP0 ,_PUN Chris_NP0 Lonergan_NP0 and_CJC Luke_NP0 McKirdy_NP0 ._PUN
+Team_NN1-VVB File_NN1-VVB soon_AV0 …_PUN
+TERRAIN_NN1
+INDOOR_AJ0 MINIS_NN2 IN_PRP LONDON_NP0
+There_EX0 's_VBZ the_AT0 possibility_NN1 of_PRF an_AT0 indoor_AJ0 mini_AJ0-NN1 ramp_NN1 complex_NN1 in_PRP London_NP0 ,_PUN at_PRP last_ORD !_PUN
+Two_CRD old_AJ0 Rolling_AJ0 Thunderites_NN2 are_VBB getting_VVG it_PNP together_AV0 to_TO0 house_VVI mini_AJ0 ramps_NN2 of_PRF varying_AJ0-VVG sizes_NN2 inside_PRP a_AT0 place_NN1 off_PRP Old_NP0 Street_NP0 ._PUN
+Dave_NP0 Crabb_NP0 is_VBZ coming_VVG over_AVP to_TO0 help_VVI with_PRP the_AT0 design_NN1 and_CJC building_NN1 chores_NN2 ._PUN
+Hopefully_AV0 it_PNP should_VM0 be_VBI completed_VVN right_AV0 now_AV0 —_PUN go_VVB along_AVP and_CJC find_VVB out_AVP ._PUN
+We_PNP 'll_VM0 have_VHI more_DT0 details_NN2 soon_AV0 ._PUN
+Harlow_NP0 ,_PUN in_PRP Esse_NP0-NN1 ,_PUN will_VM0 also_AV0 be_VBI getting_VVG their_DPS own_DT0 indoor_AJ0 mini_AJ0-NN1 ramp_NN1 ._PUN
+It_PNP 'll_VM0 be_VBI at_PRP Braysgrove_NP0-NN1 school_NN1 ._PUN
+RARE_AJ0 UNIT_NN1
+Robin_NP0-NN1 from_PRP Rare_AJ0 Unit_NN1 called_VVD us_PNP up_AVP with_PRP news_NN1 of_PRF ramp_NN1 happenings_NN2 ._PUN
+They_PNP are_VBB planning_VVG a_AT0 huge_AJ0 weekend_NN1 skating_VVG festival_NN1 ,_PUN to_TO0 take_VVI place_NN1 early_AV0 on_AVP during_PRP the_AT0 school_NN1 Summer_NN1 hols_NN2-VVZ ,_PUN in_PRP the_AT0 West_NN1 Country_NN1 possibly_AV0 near_PRP Bath_NP0 ._PUN
+Camping_NN1 facilities_NN2 will_VM0 be_VBI available_AJ0 on_PRP site_NN1 ,_PUN and_CJC charges_NN2 for_PRP skating_VVG for_PRP the_AT0 whole_AJ0 weekend_NN1 will_VM0 be_VBI kept_VVN to_PRP a_AT0 minimum_NN1 to_TO0 make_VVI everyone_PNI stoked_VVD ._PUN
+And_CJC just_AV0 check_VVB out_AVP what_DTQ they_PNP 're_VBB making_VVG for_PRP the_AT0 weekend_NN1 bash_NN1-VVB :_PUN a_AT0 20ft_NN0 wide_AJ0 6ft_NN0 tall_AJ0 spine_NN1 ramp_NN1 ,_PUN a_AT0 16ft_NN0 wide_AJ0 mini_AJ0-NN1 ramp_NN1 [_PUL 4ft_NN0 tall_AJ0 ]_PUR ,_PUN tons_NN2 of_PRF street_NN1 stuff_NN1 with_PRP fun_AJ0 boxes_NN2 ,_PUN handrails_NN2-VVZ and_CJC suchlike_AJ0 ,_PUN and_CJC also_AV0 a_AT0 massive_AJ0 vert_NN1 ramp_NN1 which_DTQ will_VM0 be_VBI 32ft_NN0 wide_AJ0 ,_PUN 10ft_NN0 transitions_NN2 and_CJC 1_CRD ½_UNC foot_NN1 of_PRF vert_NN1 ,_PUN and_CJC what_DTQ 's_VBZ more_AV0 this_DT0 will_VM0 be_VBI bowled_VVN out_AVP at_PRP one_CRD end_NN1-VVB like_PRP Vision_NN1 's_POS indoor_AJ0 ramp_NN1 ._PUN
+Robin_NP0-NN1 is_VBZ talking_VVG to_PRP Mon_NP0 ,_PUN Meany_NP0-NN1 and_CJC Sean_NP0 Goff_NP0-NN1 for_PRP help_NN1 with_PRP design_NN1 for_PRP the_AT0 equipment_NN1 ._PUN
+Following_VVG this_DT0 event_NN1 the_AT0 ramps_NN2 will_VM0 be_VBI available_AJ0 for_PRP hire_NN1 ,_PUN for_PRP either_AV0 events_NN2 or_CJC youth_NN1 clubs_NN2 or_CJC whatever_DTQ ._PUN
+The_AT0 final_AJ0 date_NN1 and_CJC venues_NN2 have_VHB yet_AV0 to_TO0 be_VBI set_VVN ._PUN
+Write_VVB to_PRP Rare_AJ0 Unit_NN1 for_PRP info_NN1 [_PUL ad_AV0 in_PRP the_AT0 mag_NN1 ]_PUR ._PUN
+Morton_NP0 youth_NN1 club_NN1 in_PRP Wirral_NP0 have_VHB quarterpipes_NN2 set_VVN up_AVP indoors_AV0 ._PUN
+Christchurch_NP0 Borough_NN1 Council_NN1 near_PRP Bournemouth_NP0 have_VHB a_AT0 similar_AJ0 set-up_NN1 ,_PUN with_PRP indoor_AJ0 quarters_NN2 to_TO0 skate_VVI on_AVP ._PUN
+Stamford_NP0 are_VBB improving_VVG their_DPS already_AV0 rad_NN1 facilities_NN2 —_PUN more_DT0 street_NN1 stuff_NN1 ,_PUN a_AT0 fun_AJ0 box_NN1 with_PRP a_AT0 handrail_NN1 ._PUN
+The_AT0 park_NN1 is_VBZ pretty_AJ0 dialled_VVD-VVN in_AVP with_PRP a_AT0 food_NN1 shop_NN1 ,_PUN skate_VVB-NN1 shop_NN1 ,_PUN and_CJC the_AT0 midi_AJ0-NN1 ramp_NN1 ._PUN
+Wendover_NP0 Parish_NN1 Council_NN1 have_VHB a_AT0 new_AJ0 u-bend_AJ0-NN1 ramp_NN1 :_PUN it_PNP 's_VBZ at_PRP Ashbrooke_NP0 Recreation_NN1 ground_NN1 ,_PUN Aylesbury_NP0 Road_NP0 ,_PUN Wendover_NP0 in_PRP Buckinghamshire_NP0 ._PUN
+Radnorshire_NP0 District_NN1 Council_NN1 have_VHB lived_VVN up_AVP to_PRP their_DPS name_NN1 and_CJC have_VHB provided_VVN three_CRD ramps_NN2 in_PRP their_DPS locality_NN1 ._PUN
+Presteigne_NP0 [_PUL ramp_NN1 off_PRP the_AT0 main_AJ0 road_NN1 through_PRP the_AT0 village_NN1 ]_PUR ,_PUN Knighton_NP0 and_CJC Llandrindod_NP0 Wells_NP0 all_DT0 have_VHB 12ft_NN0 wide_AJ0 4ft_NN0 high_AJ0 mini_AJ0-NN1 ramps_NN2 ._PUN
+Also_AV0 in_PRP Wales_NP0 ,_PUN Cardiff_NP0 's_POS troubled_AJ0 vert_NN1 ramp_NN1 now_AV0 has_VHZ a_AT0 definite_AJ0 venue_NN1 ._PUN
+It_PNP 's_VBZ now_AV0 built_VVN-VVD next_ORD door_NN1 to_PRP the_AT0 athletic_AJ0 ground_NN1 in_PRP Leckwirth_NP0 Road_NP0 ,_PUN Cardiff_NP0 ._PUN
+What_DTQ 's_VBZ more_AV0 they_PNP 've_VHB built_VVN it_PNP on_PRP ground_NN1 with_PRP the_AT0 intention_NN1 of_PRF adding_VVG another_DT0 8ft_NN0 wide_AJ0 section_NN1 to_TO0 pump_VVI the_AT0 width_NN1 up_AVP ._PUN
+Rad_NN1-NP0 ._PUN
+Fife_NP0 :_PUN Cupar_NP0 ,_PUN in_PRP N.E._NN1 Fife_NP0 ,_PUN now_AV0 has_VHZ a_AT0 12ft_NN0 mini_NN1 ._PUN
+Things_NN2 are_VBB definitely_AV0 happening_VVG over_AVP in_PRP Jersey_NP0 :_PUN they_PNP 've_VHB converted_VVN a_AT0 fort_NN1 in_PRP St._NP0 Helier_NP0 into_PRP a_AT0 leisure_NN1 centre_NN1 ,_PUN with_PRP squash_NN1 courts_NN2 etc_AV0 ._PUN
+Bill_NP0 Biddlecomb_NP0 is_VBZ the_AT0 man_NN1 who_PNQ deserves_VVZ a_AT0 name_NN1 check_NN1-VVB for_PRP organising_VVG the_AT0 skating_NN1-AJ0 side_NN1 of_PRF things_NN2 there_AV0 ._PUN
+He_PNP got_VVD together_AV0 a_AT0 serious_AJ0 amount_NN1 of_PRF cash_NN1 and_CJC called_VVN-VVD a_AT0 meeting_NN1 with_PRP the_AT0 skaters_NN2 to_TO0 ask_VVI them_PNP what_DTQ they_PNP wanted_VVD ;_PUN 3_CRD skaters_NN2 turned_VVD up_AVP ._PUN
+Normally_AV0 following_VVG that_DT0 kind_NN1 of_PRF response_NN1 the_AT0 ramp_NN1 idea_NN1 would_VM0 go_VVI down_AVP like_PRP a_AT0 lead_NN1 balloon_NN1 ._PUN
+But_CJC no_ITJ ,_PUN Bill_NP0-NN1 then_AV0 gave_VVD them_PNP another_DT0 chance_NN1 and_CJC another_DT0 meeting_NN1 ,_PUN this_DT0 time_NN1 120_CRD skaters_NN2 went_VVD along_AVP ,_PUN and_CJC they_PNP came_VVD up_AVP with_PRP the_AT0 following_AJ0 ramps_NN2 :_PUN 20ft_NN0 wide_AJ0 6ft_NN0 tall_AJ0 spine_NN1 ramp_NN1 ,_PUN with_PRP the_AT0 spine_NN1 itself_PNX being_VBG 12_CRD ft_NN0 wide_AJ0 [_PUL the_AT0 other_AJ0 8ft_NN0 bit_NN1 being_VBG platform_NN1 ]_PUR ,_PUN and_CJC another_DT0 12_CRD ft_NN0 wide_AJ0 mini_AJ0-NN1 ramp_NN1 ,_PUN plus_PRP street_NN1 stuff_NN1 like_PRP fun_AJ0-NN1 boxes_NN2 etc_AV0 ._PUN
+It_PNP 's_VBZ complete_AJ0 now_AV0 ,_PUN so_AV0 why_AVQ not_XX0 plan_VVI a_AT0 trip_NN1 to_PRP the_AT0 Fort_NP0 Region_NP0 Leisure_NN1 Centre_NN1 in_PRP Jersey_NP0 this_DT0 year_NN1 ?_PUN
+Bath_NP0-NN1 seems_VVZ to_TO0 be_VBI over-run_VVN with_PRP ramps_NN2 :_PUN there_EX0 's_VBZ now_AV0 a_AT0 16ft_NN0 wide_AJ0 4ft_NN0 high_AJ0 spine_NN1 ramp_NN1 in_PRP Whiteway_NP0-NN1 ,_PUN off_PRP Rosewarn_NP0 Close_NP0 ,_PUN Bath_NP0 ._PUN
+Basildon_NP0 have_VHB got_VVN it_PNP together_AV0 too_AV0 :_PUN they_PNP 're_VBB the_AT0 proud_AJ0 owners_NN2 of_PRF a_AT0 16ft_NN0 wide_AJ0 6ft_NN0 tall_AJ0 job_NN1 at_PRP the_AT0 Terry_NP0 Marsh_NP0 centre_NN1 ,_PUN Crest_NP0 Avenue_NP0 ,_PUN Pilsea_NP0 ,_PUN Basildon_NP0 ._PUN
+Le_NP0 Bugue_NP0 is_VBZ a_AT0 place_NN1-VVB you_PNP 've_VHB probably_AV0 never_AV0 heard_VVN of_PRF before_PRP now_AV0 :_PUN it_PNP 's_VBZ in_PRP France_NP0 ,_PUN and_CJC they_PNP 're_VBB having_VHG a_AT0 16ft_NN0 wide_AJ0 6ft_NN0 tall_AJ0 ramp_NN1 along_AVP with_PRP a_AT0 12ft_NN0 wide_AJ0 4ft_NN0 tall_AJ0 mini_NN1 being_VBG constructed_VVN at_PRP a_AT0 Summer_NN1 Camp_NN1-NP0 ,_PUN along_AVP with_PRP some_DT0 street_NN1 ramps_NN2 and_CJC handrails_NN2-VVZ ._PUN
+WIN_VVB A_ZZ0 PRO_AJ0 DECK_NN1 !_PUN !_PUN !_PUN
+Here_AV0 's_VBZ your_DPS chance_NN1 to_TO0 win_VVI this_DT0 month_NN1 's_POS Product_NN1 Lust_NN1 deck_NN1 splurge_NN1-VVB !_PUN
+Win_VVB either_AV0 a_AT0 Vision_NN1 Gator_NN1-NP0 deck_NN1 ,_PUN or_CJC maybe_AV0 an_AT0 SMA_NP0-NN1 Alan_NP0 Peterson_NP0 ,_PUN or_CJC maybe_AV0 the_AT0 brand_NN1 new_AJ0 Powell_NP0 Cab_NN1 deck_NN1 !_PUN
+All_DT0 you_PNP have_VHB to_TO0 do_VDI is_VBZ to_TO0 mail_VVI us_PNP a_AT0 postcard_NN1 with_PRP your_DPS name_NN1 and_CJC address_NN1 written_VVN on_PRP it_PNP together_AV0 with_PRP your_DPS answer_NN1 to_PRP the_AT0 following_AJ0 simple_AJ0 question_NN1 :_PUN
+There_EX0 was_VBD a_AT0 big_AJ0 typo_NN1 in_PRP the_AT0 last_ORD issue_NN1 —_PUN where_AVQ was_VBD it_PNP and_CJC what_DTQ was_VBD it_PNP ?_PUN [_PUL a_AT0 clue_NN1 :_PUN Siamese_AJ0 Twin_NN1 ]_PUR
+Send_VVB it_PNP here_AV0 to_PRP :_PUN Skateboard_VVB-NN1 !_PUN
+Magazine_NN1 ,_PUN ‘_PUQ What_DTQ A_AT0 Stupid_AJ0 Wazok_NN1-VVB The_AT0 Art_NN1 Director_NN1 Is_VBZ ’_PUQ Deck_NN1 Comp_NN1 ,_PUN PO_NN1 BOX_NN1 1300_CRD ,_PUN Dorchester_NP0 ,_PUN Dorset_NP0 ,_PUN DT1_UNC 1FN_UNC ._PUN
+Closing_NN1 date_NN1 for_PRP contest_NN1 is_VBZ April_NP0 18th_ORD 1991_CRD ._PUN
+Thanks_NN2 to_PRP Shiners_NN2 for_PRP the_AT0 decks_NN2 ._PUN
+AND_CJC FINALLY_AV0
+That_DT0 about_PRP-AVP wraps_NN2-VVZ it_PNP up_AVP this_DT0 month_NN1 ._PUN
+Meany_NN1-NP0 is_VBZ in_PRP charge_NN1 of_PRF the_AT0 News_NN1 now_AV0 ,_PUN and_CJC he_PNP 's_VBZ just_AV0 ready_AJ0 to_TO0 hear_VVI from_PRP you_PNP about_PRP newsworthy_AJ0 things_NN2 happening_VVG in_PRP-AVP your_DPS area_NN1 ._PUN
+Are_VBB you_PNP building_VVG a_AT0 new_AJ0 skate_NN1 facility_NN1 ?_PUN
+Running_VVG a_AT0 comp_NN1 ?_PUN
+Sponsoring_VVG someone_PNI new_AJ0 ?_PUN
+Skating_VVG for_PRP someone_PNI new_AJ0 ?_PUN
+Then_AV0 call_VVB Meany_NN1-NP0 on_PRP 051_CRD 7092714_CRD and_CJC let_VVB him_PNP know_VVI all_DT0 about_PRP it_PNP ._PUN
+Product_NN1 LUST_NN1
+VISION_NN1 GATOR_NN1-NP0
+Gator_NN1-NP0 's_VHZ been_VBN riding_VVG for_PRP Vision_NN1 practically_AV0 since_CJS the_AT0 birth_NN1 of_PRF the_AT0 wheel_NN1 ,_PUN and_CJC thus_AV0 his_DPS models_NN2 have_VHB always_AV0 been_VBN a_AT0 Vision_NN1 favourite_NN1 ._PUN
+He_PNP enjoyed_VVD popularity_NN1 during_PRP the_AT0 eighties_CRD with_PRP his_DPS Gator_NN1 deck_NN1 ,_PUN then_AV0 faded_VVD-VVN away_AV0 ,_PUN and_CJC is_VBZ now_AV0 threatening_VVG to_TO0 re-emerge_VVI stronger_AJC then_AV0 ever_AV0 ._PUN
+Just_AV0 check_VVB the_AT0 latest_AJS Vision_NN1 deck_NN1 ,_PUN the_AT0 last_ORD one_PNI made_VVD-VVN before_PRP his_DPS recent_AJ0 departure_NN1 to_PRP G_ZZ0 and_CJC S._NP0 32_CRD ¼_UNC inches_NN2 long_AJ0-AV0 ,_PUN 10_CRD inches_NN2 wide_AJ0 ,_PUN with_PRP a_AT0 6_CRD ½_UNC inch_NN1 tail_NN1 ._PUN
+The_AT0 nose_NN1 is_VBZ double_AV0 drilled_VVN and_CJC gives_VVZ either_AV0 5_CRD ½_UNC or_CJC 6_CRD ¼_UNC inch_NN1 up_AVP front_AJ0 ,_PUN and_CJC it_PNP 's_VBZ quite_AV0 steep_AJ0 too_AV0 ._PUN
+The_AT0 'cave_NN1 is_VBZ very_AV0 comfortable_AJ0 indeed_AV0 and_CJC extends_VVZ the_AT0 length_NN1 of_PRF the_AT0 deck_NN1 ._PUN
+Overall_AV0 it_PNP 's_VBZ a_AT0 very_AV0 clean_AJ0 smooth_AJ0 shape_NN1 ._PUN
+Graphs_NN2 ?_PUN
+Red_AJ0 cartoon_NN1 depicting_VVG monkeys_NN2 skating_VVG about_PRP-AVP a_AT0 typical_AJ0 street_NN1 with_PRP masses_NN2 of_PRF detail_NN1 ._PUN
+A_AT0 must-try_NN1 in_PRP my_DPS book_NN1 ._PUN
+SMA_NP0 PETERSON_NP0
+Alan_NP0 Peterson_NP0 's_POS new_AJ0 model_NN1 on_PRP SMA_NP0-NN1 is_VBZ quite_AV0 a_AT0 corker_NN1 ._PUN
+Length_NN1 is_VBZ 31_CRD ½_UNC inches_NN2 ,_PUN so_CJS it_PNP 's_VBZ not_XX0 one_CRD of_PRF the_AT0 biggest_AJS decks_NN2 on_PRP the_AT0 market_NN1 today_AV0 ._PUN
+Width_NN1 is_VBZ at_PRP 9_CRD ¾_UNC inch_NN1 ._PUN
+with_PRP the_AT0 tail_NN1 being_VBG 6_CRD ¼_UNC ._PUN
+Like_PRP most_DT0 modern_AJ0 decks_NN2 the_AT0 nose_NN1 is_VBZ double_AV0 drilled_VVN :_PUN either_AV0 5_CRD ¼_UNC or_CJC 5_CRD ¾_UNC inch_NN1 ._PUN
+The_AT0 concave_AJ0 is_VBZ from_PRP SMA_NP0-NN1 [_PUL Santa_NP0 Cruz_NP0 ]_PUR so_CJS it_PNP 's_VBZ fully_AV0 dialled_VVN ._PUN
+The_AT0 Cruz_NP0 Twinkick_NP0 concave_AJ0 [_PUL as_CJS it_PNP 's_VBZ known_VVN ]_PUR is_VBZ a_AT0 complex_AJ0 concave_AJ0 ,_PUN and_CJC it_PNP 's_VBZ not_XX0 just_AV0 ‘_PUQ concave_AJ0 ’_PUQ in_PRP profile_NN1 ,_PUN a_AT0 very_AV0 slight_AJ0 rise_NN1 running_VVG-NN1 through_PRP the_AT0 length_NN1 of_PRF the_AT0 deck_NN1 is_VBZ invisible_AJ0 to_PRP the_AT0 eye_NN1 but_CJC you_PNP can_VM0 feel_VVI a_AT0 more_AV0 comfortable_AJ0 footlock_NN1 when_CJS you_PNP stand_VVB on_PRP it_PNP ._PUN
+The_AT0 tail_NN1 is_VBZ quite_AV0 mellow_AJ0 ,_PUN and_CJC concave_AJ0 too_AV0 ._PUN
+Good_AJ0 nose_NN1 ._PUN
+Also_AV0 ,_PUN this_DT0 deck_NN1 comes_VVZ with_PRP rocker_NN1 ._PUN
+Overall_AV0 you_PNP can_VM0 tell_VVI that_CJT-DT0 SMA_NP0-NN1 worked_VVD hard_AV0-AJ0 on_PRP the_AT0 'cave_NN1 for_PRP this_DT0 deck_NN1 ._PUN
+The_AT0 graphics_NN0 ?_PUN
+OK_AV0 ,_PUN they_PNP show_VVB Alan_NP0 playing_VVG with_PRP a_AT0 model_NN1 plane_NN1 [_PUL SMA_NP0-NN1 link_VVB-NN1 here_AV0 ]_PUR ._PUN
+POWELL_NP0 CAB_NN1 RAMP_NN1
+Here_AV0 's_VBZ another_DT0 new_AJ0 model_NN1 from_PRP guy_NN1 who_PNQ has_VHZ been_VBN riding_VVG for_PRP the_AT0 same_DT0 big-time_AJ0 company_NN1 for_PRP literally_AV0 eons_NN2 ._PUN
+The_AT0 brand_NN1 new_AJ0 ramp_NN1 deck_NN1 for_PRP Steve_NP0 Caballero_NP0 ,_PUN once_AV0 again_AV0 made_VVN by_PRP Powell_NP0 Peralta._NP0 and_CJC it_PNP 's_VBZ about_AV0 time_NN1 Cab_NN1 had_VHD a_AT0 new_AJ0 model_NN1 :_PUN this_DT0 one_PNI is_VBZ 31_CRD ½_UNC inches_NN2 long_AJ0-AV0 ,_PUN with_PRP a_AT0 6_CRD inch_NN1 tail_NN1 ,_PUN 9_CRD ¾_UNC inch_NN1 wide_AJ0 ._PUN
+Again_AV0 ,_PUN more_AV0 double_AJ0 drilling_NN1 ,_PUN giving_VVG a_AT0 choice_NN1 of_PRF either_AV0 5_CRD ½_UNC inches_NN2 or_CJC 6_CRD inches_NN2 of_PRF nasal_AJ0 plywood_NN1 ._PUN
+The_AT0 shape_NN1 is_VBZ a_AT0 no_AV0 gimmick_VVB-NN1 smooth_AJ0 contour_NN1 ,_PUN with_PRP quite_AV0 narrow_AJ0 hips_NN2 compared_VVN to_PRP the_AT0 nose_NN1 section_NN1 —_PUN typical_AJ0 fare_NN1 for_PRP vert_NN1 decks_NN2 ._PUN
+The_AT0 concave_AJ0 feels_VVZ good_AJ0 ,_PUN similar_AJ0 to_PRP the_AT0 Gator_NN1 but_CJC deeper_AV0 if_CJS anything_PNI ,_PUN simple_AJ0 but_CJC functional_AJ0 ._PUN
+Graphics_NN0 depict_VVB usual_AJ0 Cab/Powell_UNC imagery_NN1 ,_PUN with_PRP skulls/bones/Japanese_UNC dragons_NN2 ,_PUN with_PRP high_AJ0 qual_AJ0 screening_NN1 ._PUN
+Finish_VVB-NN1 ,_PUN like_PRP the_AT0 other_AJ0 decks_NN2 this_DT0 month_NN1 is_VBZ of_PRF very_AV0 high_AJ0 quality_NN1 ,_PUN there_EX0 is_VBZ no_AT0 junk_NN1 here_AV0 ,_PUN but_CJC what_DTQ do_VDB you_PNP expect_VVI from_PRP the_AT0 biggest_AJS deck_NN1 manufactures_VVZ in_PRP the_AT0 business_NN1 ?_PUN
+A1_UNC HAT_NN1
+Yah_ITJ ,_PUN like_PRP wow_ITJ ,_PUN like_PRP A_ZZ0 One_CRD man_NN1 ._PUN
+Here_AV0 's_VBZ a_AT0 good_AJ0 cap_NN1 ,_PUN with_PRP material_NN1 all_DT0 the_AT0 way_NN1 round_PRP-AVP [_PUL ie_AV0 no_AT0 mesh_NN1 ]_PUR with_PRP embroidered_AJ0 A1_UNC Meats_NN2 logo_NN1 [_PUL crossed_AJ0-VVN choppers_NN2 ]_PUR ._PUN
+Wear_VVB it_PNP either_DT0 way_NN1 round_AVP ._PUN
+POWELL_NP0 B_NP0 80's_CRD
+Running_VVG-NN1 along_AVP with_PRP the_AT0 current_AJ0 function_NN1 street_NN1 wheel_NN1 ,_PUN with_PRP smaller_AJC size_NN1 being_VBG the_AT0 key_NN1-AJ0 ,_PUN here_AV0 are_VBB Powell_NP0 's_POS new_AJ0 B_ZZ0 80_CRD tyres_NN2 ._PUN
+They_PNP 're_VBB basically_AV0 55mm_NN0 diameter_NN1 Street_NN1 Bones_NN2 ._PUN
+Minimalistic_AJ0 graphics_NN0 ._PUN
+Slightly_AV0 grooved_VVD running_AJ0-VVG surface_NN1 ,_PUN should_VM0 last_VVI ages_NN2 ._PUN
+55mm_NN0 —_PUN small_AJ0 street_NN1 wheels_NN2-VVZ ._PUN
+Rad_NN1-NP0 stuff_NN1 ._PUN
+TRACKER_NN1
+Tracker_NP0 's_POS Aggro_NN1 trucks_NN2 are_VBB considered_VVN by_PRP many_DT0 to_TO0 be_VBI the_AT0 ‘_PUQ right_NN1 on_PRP ’_PUQ truck_NN1 at_PRP the_AT0 moment_NN1 ._PUN
+and_CJC they_PNP 're_VBB still_AV0 improving_VVG them_PNP :_PUN More_DT0 colours_NN2 ,_PUN and_CJC more_DT0 strength_NN1 thanks_NN2 to_PRP a_AT0 fully_AV0 supported_VVN-AJ0 axle_NN1 with_PRP a_AT0 new_AJ0 strengthening_AJ0-VVG strip_NN1 on_PRP the_AT0 hanger_NN1 ._PUN
+Aggros_NN2 are_VBB fully_AV0 rad_NN1 —_PUN dead_AV0 quick_AJ0 and_CJC stable_AJ0 ,_PUN good_AJ0 grind_NN1 ,_PUN long_AV0 lasting_VVG ._PUN
+Rubbers_NN2 are_VBB high_AJ0-AV0 qual_AJ0 too_AV0 ,_PUN if_CJS you_PNP need_VVB to_TO0 replace_VVI your_DPS truck_NN1 rubbers_NN2 try_VVB a_AT0 set_NN1 of_PRF Trackers_NN2 ._PUN
+Or_CJC perhaps_AV0 try_VVB a_AT0 set_NN1 of_PRF …_PUN
+CELLBLOCK_NP0-NN1 CUSHIONS_NN2
+Skate_VVB-NN1 giants_NN2 Santa_NP0 Cruz_NP0 also_AV0 chuck_VVB out_AVP Cellblock_NP0-NN1 stuff_NN1-VVB too_AV0 —_PUN these_DT0 are_VBB the_AT0 replacement_NN1 truck_NN1 rubbers_NN2 they_PNP make_VVB ._PUN
+In_PRP three_CRD hardnesses_NN2 ,_PUN 92a=blue_UNC ,_PUN 95a=red_UNC ,_PUN 98a=white_UNC ._PUN
+Long_AV0 lasting_VVG ._PUN
+and_CJC in_PRP different_AJ0 shapes_NN2 too_AV0 ,_PUN check_VVB your_DPS truck_NN1 for_PRP the_AT0 correct_AJ0 shape_NN1 you_PNP need_VVB ,_PUN either_AV0 top_AJ0 or_CJC bottom_NN1-AJ0 ._PUN
+CELLBLOCK_NP0-NN1 RISERS_NN2
+These_DT0 are_VBB the_AT0 new_AJ0 risers_NN2 from_PRP Cellblock_NP0 —_PUN they_PNP spread_VVB out_AVP making_VVG a_AT0 wider_AJC area_NN1 against_PRP the_AT0 deck_NN1 ,_PUN which_DTQ means_VVZ more_DT0 shock_NN1 absorption_NN1 and_CJC also_AV0 reduces_VVZ pressure_NN1 on_PRP the_AT0 deck_NN1 making_VVG it_PNP less_AV0 likely_AJ0 to_TO0 snap_VVI your_DPS plank_NN1 near_PRP the_AT0 trucks_NN2 ._PUN
+The_AT0 holes_NN2 drilled_VVN are_VBB for_PRP light_AJ0 weight_NN1 —_PUN and_CJC they_PNP are_VBB just_AV0 that_DT0 ._PUN
+Lightweight_NN1-AJ0 ._PUN
+VISION_NN1 SHOES_NN2
+‘_PUQ Hot_AJ0 Diggety_NN1 !_PUN ’_PUQ exclaimed_VVD our_DPS resident_AJ0-NN1 tester_NN1 when_CJS these_DT0 came_VVD in_AVP ._PUN
+These_DT0 are_VBB the_AT0 new_AJ0 14050_CRD style_NN1 shoes_NN2 ,_PUN also_AV0 known_VVN as_PRP ‘_PUQ Shockwave_NP0-NN1 ’_PUQ ._PUN
+According_VVG to_PRP Vision_NN1 ,_PUN they_PNP are_VBB the_AT0 ‘_PUQ newest_AJS most_AV0 versatile_AJ0 shoe_NN1 ’_PUQ ,_PUN and_CJC I_PNP 'd_VM0 tend_VVI to_TO0 agree_VVI ._PUN
+They_PNP are_VBB lower_AJC cut_NN1 ,_PUN not_XX0 exactly_AV0 ‘_PUQ high_AJ0 ’_PUQ tops_NN2 ,_PUN but_CJC offer_VVB thick_AJ0 padding_NN1 at_PRP the_AT0 ankle_NN1 and_CJC support_VVB-NN1 at_PRP the_AT0 same_DT0 time_NN1 ._PUN
+Combine_VVB this_DT0 with_PRP a_AT0 padded_AJ0 tongue_NN1 and_CJC further_AV0 support_VVB-NN1 around_AVP-PRP the_AT0 lower_AJC foot_NN1 area_NN1 and_CJC you_PNP end_VVB up_AVP with_PRP a_AT0 darn_AJ0 comfy_AJ0 shoe_NN1 ._PUN
+Also_AV0 features_VVZ-NN2 speedlace_NN1-VVB [_PUL for_PRP faster_AJC lacing_NN1 ]_PUR ,_PUN ‘_PUQ action_NN1 ’_PUQ leather_NN1 [_PUL tougher_AJC leather_NN1 then_AV0 normal_AJ0 for_PRP durability_NN1 ]_PUR upper_AJ0 ,_PUN and_CJC long_AV0 lasting_VVG sole_AJ0 with_PRP grip_NN1 and_CJC feel_VVB ._PUN
+Good_AJ0 amount_NN1 of_PRF leather_NN1 at_PRP the_AT0 toe_NN1 and_CJC lower_AJC foot_NN1 area_NN1 ._PUN
+Shown_VVN is_VBZ the_AT0 grey_AJ0 version_NN1 ,_PUN but_CJC they_PNP 're_VBB also_AV0 available_AJ0 in_PRP black_AJ0 too_AV0 ._PUN
+Go_VVB to_PRP your_DPS local_AJ0 shop_NN1 and_CJC try_VVB a_AT0 pair_NN0 ._PUN
+VICTIM_NN1 SHIRT_NN1
+‘_PUQ It_PNP 's_VBZ time_NN1 for_PRP the_AT0 Stussy_NP0 backlash_NN1 ’_PUQ claims_VVZ Richard_NP0 Garland_NP0 from_PRP Method_NN1 Airskate_NN1-AJ0 shop_NN1 ._PUN
+They_PNP make_VVB these_DT0 anti-Stussy_AJ0 ‘_PUQ Victim_NN1 ’_PUQ shirts_NN2 which_DTQ come_VVB in_PRP three_CRD versions_NN2 :_PUN t-shirt_NN1-AJ0 [_PUL £14_NN0 ]_PUR ,_PUN long_AJ0 sleeve_NN1 t_ZZ0 [_PUL £17.50_NN0 ]_PUR ,_PUN and_CJC sweatshirt_NN1-VVB [_PUL £21.95_NN0 ]_PUR ,_PUN p&p_NN1 is_VBZ £1.50_NN0 [_PUL cheques_NN2 to_PRP ‘_PUQ Method_NN1 Air_NN1 Ltd_AJ0 ’_PUQ ,_PUN check_VVB their_DPS advert_NN1 for_PRP address_NN1 ]_PUR ._PUN
+Hot_AJ0 stuff_NN1 ,_PUN good_AJ0 qual_AJ0 cotton_NN1 shirt_NN1 with_PRP good_AJ0 print_NN1 ._PUN
+Street_NN1 Pete_NP0
+O.K._AV0 Nottingham_NP0 interview_NN1-VVB —_PUN take_VVB 3_CRD ._PUN
+Number_NN1 one_CRD was_VBD a_AT0 load_NN1 of_PRF rubbish_NN1 ._PUN
+Number_NN1 two_CRD was_VBD unsuitable_AJ0 due_AJ0 to_PRP lack_NN1 of_PRF photographic_AJ0 accompaniment_NN1 ._PUN
+Now_AV0 we_PNP 're_VBB doing_VDG this_DT0 one_PNI :_PUN Pete_NP0 Hellicar_NP0-NN1 —_PUN Nottingham_NP0 local_AJ0 and_CJC just_AV0 starting_VVG to_TO0 get_VVI known_VVN a_AT0 bit_NN1 more_AV0 then_AV0 through_PRP travelling_VVG-NN1 and_CJC National_AJ0 magazine_NN1 coverage_NN1 —_PUN with_PRP the_AT0 backing_NN1 of_PRF a_AT0 new_AJ0 sponsor_NN1 —_PUN Lifes_NN2 a_AT0 Beach_NN1 Board_NN1 Division_NN1 and_CJC a_AT0 seemingly_AV0 endless_AJ0 pool_NN1 from_PRP which_DTQ to_TO0 draw_VVI variety_NN1 ,_PUN ability_NN1 ,_PUN and_CJC originality_NN1 —_PUN as_CJS well_AV0 as_CJS wide_AJ0 grins_NN2 and_CJC industrial_AJ0 hair_NN1 clippers_NN2 he_PNP seems_VVZ a_AT0 fairly_AV0 interesting_AJ0 candidate_NN1 for_PRP an_AT0 interview_NN1 ._PUN
+Right_AV0 ,_PUN a_AT0 nice_AJ0 simple_AJ0 one_PNI to_TO0 start_VVI with_PRP ._PUN
+N._NP0 What_DTQ 's_VBZ the_AT0 best_AJS place_NN1 you_PNP 've_VHB skated_VVN ?_PUN
+P._NP0 Probably_AV0 Eastwood_NP0 Banks_NN2 —_PUN tight_AJ0 brick_NN1 transitions_NN2 with_PRP grindable_AJ0 lip_NN1 ._PUN
+They_PNP are_VBB a_AT0 challenge_NN1 ._PUN
+South_NN1 bank_NN1 as_CJS well_AV0 'cause_CJS that_DT0 's_VBZ where_AVQ I_PNP started_VVD ,_PUN where_CJS-AVQ I_PNP got_VVD my_DPS first_ORD board_NN1 ever_AV0 ._PUN
+I_PNP got_VVD it_PNP from_PRP a_AT0 guy_NN1 called_VVN Reuben_NP0 ,_PUN he_PNP was_VBD living_VVG in_PRP Wales_NP0 and_CJC my_DPS sister_NN1 Louise_NP0 bought_VVD me_PNP a_AT0 Joe_NP0 Johnson_NP0 with_PRP Rip_NP0 trucks_NN2 from_PRP him_PNP for_PRP £60_NN0 ._PUN
+She_PNP was_VBD working_VVG on_PRP TV_NN1 and_CJC had_VHD wads_NN2 of_PRF money_NN1 ._PUN
+I_PNP started_VVD skating_VVG with_PRP a_AT0 couple_NN1 of_PRF guys_NN2 called_VVN-VVD Sam_NP0 and_CJC Luke_NP0 who_PNQ had_VHD skated_VVN for_PRP a_AT0 while_NN1 in_PRP London_NP0 ._PUN
+They_PNP taught_VVD me_PNP to_PRP ollie_NN1 and_CJC stuff_NN1-VVB and_CJC I_PNP really_AV0 liked_VVD-VVN it_PNP and_CJC kept_VVD going_VVG and_CJC never_AV0 stopped_VVN ._PUN
+N._NP0 You_PNP learnt_VVD wall_NN1 rides_VVZ there_AV0 ?_PUN
+P._NP0 At_PRP South_NN1 Bank_NN1 I_PNP learnt_VVD wall_NN1 rides_NN2-VVZ ,_PUN yeah_ITJ ._PUN
+During_PRP a_AT0 mad_AJ0 session_NN1 I_PNP finally_AV0 made_VVD one_PNI-CRD after_PRP two_CRD weeks_NN2 of_PRF trying_VVG and_CJC came_VVD down_AVP and_CJC a_AT0 guy_NN1 called_VVN Matt_NP0 said_VVD ‘_PUQ Yeah_ITJ you_PNP did_VDD it_PNP at_PRP last_ORD ’_PUQ ._PUN
+I_PNP was_VBD really_AV0 stoked_VVN ._PUN
+Then_AV0 I_PNP came_VVD back_AVP to_PRP Nottingham_NP0 and_CJC just_AV0 did_VDD one_PNI —_PUN that_DT0-CJT was_VBD with_PRP John_NP0 —_PUN Method_NN1 John_NP0 ._PUN
+N._NP0 So_AV0 what_DTQ does_VDZ it_PNP feel_VVI like_PRP when_AVQ you_PNP make_VVB something_PNI new_AJ0 like_PRP that_DT0 ?_PUN
+P._NP0 It_PNP 's_VBZ a_AT0 rush_NN1 —_PUN you_PNP want_VVB to_TO0 apply_VVI tricks_NN2 and_CJC do_VDB variations_NN2 ,_PUN change_VVB it_PNP into_PRP something_PNI else_AV0 ._PUN
+N._NP0 So_CJS you_PNP learnt_VVD ollie_NN1 stalefish_NN1 tonight_AV0 after_PRP getting_VVG ollies_NN2-VVZ at_PRP last_ORD ._PUN
+P._NN1-NP0 Yeah_ITJ ._PUN
+N._NP0 So_AV0 what_DTQ now_AV0 ?_PUN
+P._NP0 On_PRP vert_NN1 ,_PUN sleep_VVB-NN1 banks_NN2 ,_PUN maybe_AV0 to_PRP tail_NN1 on_PRP mini_AJ0 ramps_NN2 ._PUN
+Whatever_DTQ comes_VVZ along_AVP ._PUN
+Spur_NN1 of_PRF the_AT0 moment_NN1 stuff_NN1 ._PUN
+N._NP0 Who_PNQ do_VDB you_PNP knock_VVI tricks_NN2 around_AVP with_PRP ?_PUN
+P._NP0 Dino_NP0 ,_PUN you_PNP ,_PUN it_PNP depends_VVZ who_PNQ is_VBZ around_AVP at_PRP the_AT0 time_NN1 ._PUN
+I_PNP 'm_VBB not_XX0 really_AV0 secretive_AJ0 about_PRP new_AJ0 stuff_NN1 ._PUN
+Dino_NN1-NP0 is_VBZ cool_AJ0 to_TO0 skate_VVI with_PRP because_CJS he_PNP is_VBZ better_AJC then_AV0 me_PNP and_CJC he_PNP really_AV0 pushes_VVZ everything_PNI to_PRP the_AT0 maximum_NN1 ._PUN
+He_PNP pushes_VVZ me_PNP to_TO0 make_VVI stuff_NN1 whilst_CJS you_PNP just_AV0 cruise_VVB around_AVP and_CJC do_VDB nose_NN1 feebles_VVZ all_DT0 the_AT0 time_NN1 ._PUN
+N._NP0 So_AV0 why_AVQ do_VDB you_PNP think_VVI Dino_NN1-NP0 is_VBZ better_AJC then_AV0 you_PNP ?_PUN
+P._NP0 He_PNP is_VBZ so_AV0 much_AV0 more_AV0 powerful_AJ0 ,_PUN and_CJC goes_VVZ for_PRP stuff_NN1 fully_AV0 ._PUN
+Sometimes_AV0 your_DPS will_NN1 to_TO0 learn_VVI a_AT0 trick_NN1 will_VM0 take_VVI you_PNP through_AVP ._PUN
+N._NP0 Where_AVQ do_VDB you_PNP skate_VVI a_AT0 lot_NN1 ?_PUN
+P._NP0 Notts_NP0 ._PUN
+Chilwell_VVB-NN1 Ramp_NN1 mainly_AV0 ,_PUN and_CJC streets_NN2 all_AV0 over_AVP-PRP ._PUN
+N._NP0 Who_PNQ do_VDB you_PNP skate_VVI with_PRP there_AV0 ?_PUN
+P._NP0 All_DT0 the_AT0 cool_AJ0 locals_NN2 ;_PUN Aidy_NP0 ,_PUN Dee_NP0 ,_PUN Mad_AJ0 Danny_NP0 ._PUN
+It_PNP 's_VBZ a_AT0 place_NN1 where_AVQ people_NN0 meet_VVB up_AVP —_PUN Dino_NP0-NN1 ,_PUN Chris_NP0 Clipstore_NP0 (_PUL before_CJS he_PNP went_VVD to_TO0 be_VBI a_AT0 surf_NN1 bum_NN1 in_PRP France_NP0 )_PUR and_CJC all_DT0 the_AT0 out_AVP of_PRF towners_NN2 —_PUN it_PNP 's_VBZ a_AT0 good_AJ0 scene_NN1 ._PUN
+Alan_NP0 ,_PUN Wiz_NN1 ,_PUN the_AT0 young_AJ0 guns_NN2 ,_PUN they_PNP 're_VBB all_DT0 into_PRP skating_VVG fully_AV0 ,_PUN it_PNP 's_VBZ not_XX0 all_DT0 tricky_AJ0 ._PUN
+They_PNP do_VDB n't_XX0 mind_VVI having_VHG a_AT0 layback_NN1 grind_NN1-VVB session_NN1 or_CJC eight_CRD people_NN0 carving_VVG around_PRP-AVP Jacksdale_NP0 as_CJS well_AV0 ._PUN
+The_AT0 old_AJ0 Nuda_NN1-NP0 ramp_NN1 from_PRP Swanick_NP0-NN1 is_VBZ now_AV0 in_PRP a_AT0 pub_NN1 car_NN1 park_NN1 ._PUN
+Geoff_NP0 has_VHZ done_VDN a_AT0 good_AJ0 job_NN1 on_PRP it_PNP ._PUN
+I_PNP skate_VVB with_PRP ‘_PUQ my_DPS mate_NN1 ’_PUQ Bradley_NP0 with_PRP his_DPS Matt_NP0 Hensley_NP0 Skinhead_NN1 ._PUN
+N._NP0 Has_VHZ he_PNP got_VVN a_AT0 skinhead_NN1 now_AV0 ?_PUN
+P._NN1-NP0 Yeah_ITJ copying_VVG-NN1 me_PNP (_PUL laughs_VVZ )_PUR
+N_ZZ0 and_CJC P._NP0-NN1 Not_XX0 really_AV0 Brad_NP0 ,_PUN we_PNP love_VVB you_PNP and_CJC your_DPS attitude_NN1 ._PUN
+N._NP0 What_DTQ about_PRP further_AV0 afield_AV0 ?_PUN
+P._NP0 Further_AV0 afield_AV0 it_PNP has_VHZ to_TO0 be_VBI Bury_NP0 ._PUN
+It_PNP 's_VBZ one_CRD of_PRF the_AT0 best_AJS mini_AJ0-NN1 ramps_NN2 ever_AV0 and_CJC the_AT0 vert_NN1 ramp_NN1 is_VBZ a_AT0 killer_NN1 ._PUN
+London_NP0 as_CJS well_AV0 ,_PUN Stockwell_NP0 ,_PUN all_AV0 over_AVP-PRP ._PUN
+Anyway_AV0 ,_PUN Newtown_NP0 in_PRP Wales_NP0 when_CJS-AVQ I_PNP go_VVB to_TO0 see_VVI Joe_NP0 and_CJC to_PRP Sheffield_NP0 to_TO0 see_VVI Dino_NN1-NP0 ._PUN
+N._NP0 Do_VDB you_PNP skate_VVI to_PRP the_AT0 shops_NN2 ?_PUN
+P._NP0 Sometimes_AV0 ,_PUN maybe_AV0 I_PNP 'll_VM0 go_VVI to_PRP the_AT0 video_NN1 shop_NN1 ._PUN
+N._NP0 What_DTQ to_TO0 get_VVI ?_PUN
+P._NN1-NP0 Oh_ITJ ,_PUN King_NP0 Solomon_NP0 's_POS Mines_NN2 ,_PUN no_ITJ not_XX0 really_AV0 ._PUN
+blood_NN1 and_CJC guts_NN2 ,_PUN adventure_NN1-VVB that_DT0 kind_NN1 of_PRF thing_NN1 ._PUN
+I_PNP like_VVB Arnie_NP0-NN1 ._PUN
+N._NP0 Who_PNQ are_VBB your_DPS friends_NN2 ?_PUN
+P._NP0 Mainly_AV0 skaters_NN2 ,_PUN some_DT0 college_NN1 people_NN0 out_AVP of_PRF skating_VVG but_CJC I_PNP like_VVB to_TO0 make_VVI new_AJ0 friends_NN2 all_DT0 the_AT0 time_NN1 ._PUN
+N._NP0 Why_AVQ do_VDB you_PNP skate_VVI ?_PUN
+P._NP0 To_TO0 start_VVI with_PRP it_PNP was_VBD the_AT0 ‘_PUQ glamorous_AJ0 lifestyle_NN1 ’_PUQ ,_PUN cruising_VVG around_AVP in_PRP T-shirt_NN1 and_CJC shorts_NN2 ,_PUN like_PRP everyone_PNI does_VDZ at_PRP first_ORD ._PUN
+Then_AV0 it_PNP was_VBD the_AT0 stage_NN1 of_PRF having_VHG all_AV0 the_AT0 gear_NN1 and_CJC having_VHG the_AT0 latest_AJS Tony_NP0 Hawk_NP0 with_PRP 18_CRD million_CRD inch_NN1 nose_NN1 and_CJC Tony_NP0 comes_VVZ to_PRP town_NN1 so_CJS everyone_PNI (_PUL except_PRP-CJS Brad_NP0 )_PUR wants_VVZ to_TO0 look_VVI like_PRP him_PNP ._PUN
+After_PRP a_AT0 while_NN1 skateboarding_VVG-NN1 changed_VVN from_PRP being_VBG something_PNI you_PNP do_VDB to_PRP being_VBG everything_PNI ._PUN
+Then_AV0 other_AJ0 things_NN2 become_VVB extra_AJ0-AV0 to_PRP skateboarding_VVG ,_PUN rather_AV0 then_AV0 the_AT0 other_AJ0 way_NN1 around_AVP ._PUN
+I_PNP do_VDB n't_XX0 have_VHI to_TO0 think_VVI about_PRP-AVP skating_VVG or_CJC being_VBG a_AT0 skater_NN1 ,_PUN it_PNP 's_VBZ just_AV0 there_AV0 ._PUN
+It_PNP is_VBZ ,_PUN I_PNP am_VBB ._PUN
+That_DT0 kind_NN1 of_PRF thing_NN1 ._PUN
+N._NP0 Street_NP0 ?_PUN
+P._NP0 That_DT0 's_VBZ where_AVQ I_PNP started_VVD ._PUN
+It_PNP 's_VBZ where_AVQ my_DPS roots_NN2 are_VBB you_PNP might_VM0 say_VVI ._PUN
+N._NP0 That_DT0-CJT 's_VBZ usually_AV0 an_AT0 excuse_NN1 for_PRP being_VBG crap_NN1-AJ0 on_PRP ramps_NN2 ._PUN
+P._NN1-NP0 Yeah_ITJ ,_PUN I_PNP learnt_VVD the_AT0 basics_NN2 ,_PUN ollies_NN2-VVZ ,_PUN carving_VVG-NN1 ,_PUN just_AV0 rolling_VVG-AJ0 ._PUN
+N._NP0 What_DTQ is_VBZ Nottingham_NP0 like_AJ0 for_PRP streets_NN2 ?_PUN
+P._NP0 It_PNP 's_VBZ good_AJ0 ._PUN
+There_EX0 are_VBB lots_PNI of_PRF spots_NN2 close_AJ0 together_AV0 around_PRP the_AT0 city_NN1 centre_NN1 ,_PUN then_AV0 many_DT0 more_DT0 close_AJ0-NN1 by_PRP-AVP in_PRP a_AT0 car_NN1 ._PUN
+N._NP0 I_PNP think_VVB Nottingham_NP0 was_VBD designed_VVN on_PRP Circles_NN2 ._PUN
+All_DT0 the_AT0 good_AJ0 spots_NN2 are_VBB close_AJ0 to_PRP the_AT0 ring_NN1 road_NN1 ._PUN
+The_AT0 centre_NN1 has_VHZ a_AT0 ring_NN1 of_PRF spots_NN2 ._PUN
+P._NN1-NP0 Yeah_ITJ ,_PUN it_PNP 's_VBZ cool_AJ0-AV0 ._PUN
+Everyone_PNI starts_VVZ and_CJC finishes_VVZ-NN2 at_PRP Broadmarsh_NP0-NN1 banks_NN2 ._PUN
+There_EX0 's_VBZ new_AJ0 stuff_NN1 going_VVG up_AVP all_DT0 the_AT0 time_NN1 in_PRP Nottingham_NP0 ._PUN
+They_PNP 've_VHB just_AV0 finished_VVN a_AT0 new_AJ0 office_NN1 block_NN1 with_PRP the_AT0 lowest_AJS handrails_NN2 ._PUN
+I_PNP also_AV0 like_VVB to_PRP session_NN1 really_AV0 stupid_AJ0 things_NN2 ._PUN
+Like_PRP boardslides_NN2 on_PRP bananas_NN2 or_CJC slalom_VVB-NN1 through_PRP-AVP forests_NN2 ._PUN
+Anything_PNI goes_VVZ ._PUN
+Full_AJ0 on_PRP city_NN1 life_NN1 man_NN1 ._PUN
+McTwists_NP0 off_PRP dustmen_NN2 (_PUL laughs_VVZ )_PUR ._PUN
+The_AT0 market_NN1 square_NN1 as_CJS well_AV0 ._PUN
+Live_VVB an_AT0 American_AJ0 city_NN1 park_NN1 ._PUN
+The_AT0 only_AJ0 thing_NN1 it_PNP has_VHZ n't_XX0 got_VVN is_VBZ a_AT0 decent_AJ0 skate_NN1 shop_NN1 ._PUN
+N._NP0 Oh_ITJ ,_PUN oh_ITJ a_AT0 bit_NN1 political_AJ0 …_PUN
+P._NP0 I_PNP suppose_VVB Non_UNC Stop_NN1 are_VBB quite_AV0 good_AJ0 ._PUN
+N._NP0 What_DTQ 's_VBZ the_AT0 story_NN1 on_PRP the_AT0 Lifes_NN2 A_ZZ0 Beach_NN1 gear_NN1 at_PRP Rollersnakes_NN2 ?_PUN
+P._NN1-NP0 Yeah_ITJ man_NN1-VVB that_CJT-DT0 was_VBD so_AV0 lame_AJ0 of_PRF snakes_NN2 ._PUN
+Duncan_NP0 at_PRP L.A.B._NN1 dropped_VVD-VVN off_AVP-PRP my_DPS gear_NN1 at_PRP the_AT0 shops_NN2 as_CJS he_PNP did_VDD n't_XX0 have_VHI my_DPS address_NN1 ,_PUN when_CJS-AVQ I_PNP went_VVD to_TO0 get_VVI it_PNP only_AV0-AJ0 half_DT0 was_VBD handed_VVN over_AVP ._PUN
+I_PNP had_VHD to_TO0 check_VVI with_PRP John_NP0 what_DTQ had_VHD been_VBN sent_VVN and_CJC it_PNP turned_VVD out_AVP Rollersnakes_NN2-VVZ —_PUN or_CJC one_CRD particular_AJ0 roller_NN1 skating_VVG employee_NN1 of_PRF said_AJ0 carpet_NN1 shop/skateboard_NN1-VVB emporium_NN1 —_PUN had_VHD kept_VVN most_DT0 of_PRF my_DPS stuff_NN1 for_PRP themselves_PNX and_CJC given_VVN me_PNP their_DPS old_AJ0 stock_NN1 off_PRP the_AT0 shelf_NN1 ._PUN
+N._NP0 That_DT0-CJT is_VBZ so_AV0 lame_AJ0 ,_PUN that_DT0 is_VBZ not_XX0 just_AV0 done_VDN is_VBZ it_PNP ?_PUN
+P._NP0-NN1 No_AT0 it_PNP 's_VBZ sorted_VVN out_AVP now_AV0 ._PUN
+Duncan_NP0 is_VBZ really_AV0 col_NN1 down_AVP at_PRP L.A.B._NN1 My_DPS actual_AJ0 sponsor_NN1 is_VBZ Bad_AJ0 Boy_NN1 Club_NN1 board_NN1 division_NN1 ._PUN
+I_PNP 'm_VBB on_PRP a_AT0 deck_NN1 and_CJC clothing_NN1 deal_NN1-VVB at_PRP the_AT0 moment_NN1 —_PUN I_PNP 'm_VBB really_AV0 stoked_VVN ._PUN
+It_PNP 's_VHZ pushed_VVN me_PNP ._PUN
+N._NP0 Skating_VVG with_PRP the_AT0 team_NN1 at_PRP Bury_NP0 was_VBD a_AT0 good_AJ0 time_NN1 ?_PUN
+P._NN1-NP0 Yeah_ITJ Reese_NP0 (_PUL Simpson_NP0 )_PUR ,_PUN Monty_NP0 Nolder_NP0 ,_PUN Mouse_NN1 ,_PUN Bryan_NP0 Pennington_NP0 ,_PUN Jeff_NP0 Phillips_NP0 and_CJC Jason_NP0 Parks_NN2 were_VBD over_PRP here_AV0 a_AT0 short_AJ0 while_NN1 back_AVP and_CJC we_PNP went_VVD up_AVP to_TO0 meet_VVI them_PNP and_CJC skate_VVB-NN1 at_PRP Bury_NP0 ._PUN
+Thanks_NN2 a_AT0 lot_NN1 Lifes_NN2 A_ZZ0 Beach_NN1 for_PRP giving_VVG me_PNP a_AT0 chance_NN1 ._PUN
+N._NP0 What_DTQ sort_NN1 of_PRF style_NN1 do_VDB you_PNP consider_VVI yourself_PNX as_CJS having_VHG ?_PUN
+P._NP0 Errrr_NP0-NN1 …_PUN
+N._NP0 Are_VBB you_PNP sketchy_AJ0-NN1 ?_PUN
+P._NN1-NP0 Yes_ITJ definitely_AV0 ,_PUN I_PNP like_VVB it_PNP ,_PUN it_PNP makes_VVZ a_AT0 trick_NN1 look_NN1-VVB harder_AV0 ._PUN
+I_PNP think_VVB your_DPS style_NN1 develops_VVZ more_AV0 as_PRP you_PNP become_VVB more_AV0 confident_AJ0 with_PRP trick_NN1 ._PUN
+As_CJS you_PNP go_VVB on_AVP they_PNP become_VVB natural_AJ0 and_CJC you_PNP do_VDB n't_XX0 have_VHI to_TO0 think_VVI about_PRP them_PNP ._PUN
+N._NP0 So_AV0 what_DTQ is_VBZ your_DPS level_NN1 of_PRF a_AT0 basic_AJ0 trick_NN1 ?_PUN
+Errr_NN1-NP0 ,_PUN rock_NN1-VVB and_CJC rolls_NN2 ,_PUN ollie_NN1 fakies_NN2-VVZ ,_PUN Smith_NP0 grinds_VVZ-NN2 ,_PUN nose_NN1 pivots_NN2-VVZ ,_PUN things_NN2 like_PRP that_DT0 ._PUN
+I_PNP do_VDB n't_XX0 put_VVI my_DPS style_NN1 on_AVP-PRP ,_PUN but_CJC I_PNP am_VBB influenced_VVN by_PRP how_AVQ people_NN0 skate_VVB-NN1 ._PUN
+Matt_NP0 Hensley_NP0 stays_VVZ crouched_AJ0 low_AJ0-NN1 ,_PUN so_CJS I_PNP figure_VVB it_PNP must_VM0 be_VBI a_AT0 good_AJ0 way_NN1 to_TO0 skate_VVI streets_NN2 ._PUN
+It_PNP must_VM0 be_VBI ,_PUN going_VVG on_PRP-AVP his_DPS results_NN2 !_PUN
+N._NP0 So_CJS you_PNP like_VVB Matt_NP0 Hensley_NP0 's_POS style_NN1 on_PRP streets_NN2 ._PUN
+What_DTQ about_PRP vertical_AJ0 ?_PUN
+P._NP0 Reese_NP0 Simpson_NP0 rips_VVZ it_PNP up_AVP on_PRP vert_NN1 ,_PUN he_PNP 's_VBZ better_AJC in_PRP real_AJ0 life_NN1 then_AV0 on_PRP videos_NN2 ,_PUN even_AV0 with_PRP a_AT0 cast_NN1-AJ0 on_PRP one_CRD arm_NN1 ._PUN
+Jeff_NP0 Phillips_NP0 also_AV0 ,_PUN Mike_NP0 Manzouri_NP0-NN1 skates_VVZ rad_NN1 ,_PUN Davie_NP0 Phillips_NP0 rips_VVZ-NN2 ,_PUN I_PNP like_VVB his_DPS style_NN1 it_PNP 's_VBZ so_AV0 rad_NN1 ._PUN
+N._NP0 You_PNP had_VHD a_AT0 rough_AJ0 school_NN1 background_NN1 ._PUN
+Did_VDD that_DT0 push_VVI you_PNP towards_PRP an_AT0 'alternative_AJ0 ’_PUQ kind_NN1 of_PRF sport_NN1 like_PRP skating_VVG ,_PUN rather_AV0 then_AV0 the_AT0 more_AV0 common_AJ0 football_NN1 or_CJC darts_NN2 or_CJC snooker_NN1-VVB ?_PUN
+P._NP0 I_PNP wanted_VVD to_TO0 get_VVI into_PRP something_PNI where_CJS-AVQ there_EX0 was_VBD no-one_PNI telling_VVG me_PNP what_DTQ to_TO0 do_VDI all_DT0 the_AT0 time_NN1 ._PUN
+With_PRP skating_VVG there_EX0 's_VBZ no-one_PNI saying_VVG do_VDB this_DT0 ,_PUN do_VDB that_DT0 all_AV0 over_PRP the_AT0 shop_NN1 ._PUN
+N._NP0 No_AT0 team_NN1 captain_NN1 to_TO0 call_VVI the_AT0 shots_NN2 ?_PUN
+P._NN1-NP0 Yeah_ITJ ,_PUN no-one_PNI says_VVZ ‘_PUQ c'm_VVB on_AVP do_VDB this_DT0 ’_PUQ no_AT0 more_AV0 shitty_AJ0 teachers_NN2 or_CJC shitty_AJ0 teachers_NN2 ._PUN
+N._NP0 Do_VDB you_PNP think_VVI it_PNP makes_VVZ a_AT0 difference_NN1 if_CJS a_AT0 skater_NN1 is_VBZ out_AVP of_PRF school_NN1 or_CJC not_XX0 ,_PUN not_XX0 in_PRP their_DPS skating_NN1 but_CJC in_PRP view_NN1 of_PRF it_PNP ?_PUN
+P._NN1-NP0 Yeah_ITJ ,_PUN people_NN0 who_PNQ have_VHB left_VVN school_NN1 are_VBB free_AJ0 ,_PUN toodling_VVG about_PRP doing_VDG their_DPS own_DT0 thing_NN1 ._PUN
+I_PNP was_VBD only_AV0 fully_AV0 into_PRP skating_VVG after_CJS I_PNP left_VVD school_NN1 and_CJC went_VVD into_PRP college_NN1 ._PUN
+I_PNP was_VBD happy_AJ0 and_CJC it_PNP showed_VVD in_PRP-AVP my_DPS skating_NN1 ._PUN
+N._NP0 Have_VHB you_PNP broken_VVN the_AT0 law_NN1 ever_AV0 ?_PUN
+P._NN1-NP0 Yes_ITJ ._PUN
+N._NP0 Have_VHB you_PNP ever_AV0 had_VHN a_AT0 gnarly_AV0 car_NN1 incident_NN1 ?_PUN
+P._NP0-NN1 You_PNP know_VVB damn_AV0 well_AV0 about_PRP that_DT0 small_AJ0 misjudgment_NN1 made_VVN-VVD at_PRP traffic_NN1 lights_NN2 with_PRP a_AT0 P100_UNC and_CJC several_DT0 other_AJ0 cars_NN2 ._PUN
+N._NP0 What_DTQ will_VM0 you_PNP be_VBI doing_VDG in_PRP five_CRD years_NN2 ?_PUN
+P._NP0 Five_CRD years_NN2 time_NN1 I_PNP will_VM0 be_VBI skating_VVG about_AVP-PRP still_AV0 ._PUN
+Probably_AV0 in_PRP a_AT0 suit_NN1 ._PUN
+Designing_VVG graphics_NN0 —_PUN in_PRP a_AT0 suit_NN1 ._PUN
+Unless_CJS I_PNP get_VVB a_AT0 job_NN1 for_PRP Zorlac_NP0 ,_PUN then_AV0 I_PNP can_VM0 wear_VVI my_DPS hooded_AJ0 sweat_NN1-VVB all_DT0 the_AT0 time_NN1 :_PUN and_CJC never_AV0 have_VHB to_TO0 wash_VVI !_PUN (_PUL laughs_VVZ )_PUR
+N._NP0 What_DTQ do_VDB you_PNP think_VVI about_PRP competitions_NN2 ?_PUN
+P_ZZ0 ,_PUN ._PUN
+They_PNP are_VBB good_AJ0 to_TO0 meet_VVI people_NN0 and_CJC I_PNP do_VDB actually_AV0 like_VVI to_TO0 enter_VVI ._PUN
+I_PNP like_VVB to_TO0 win_VVI —_PUN or_CJC try_VVB-NN1 ._PUN
+N._NP0 Mmm_ITJ ,_PUN not_XX0 strictly_AV0 true_AJ0 !_PUN
+P._NP0 but_CJC do_VDB n't_XX0 you_PNP like_VVI to_TO0 win_VVI ?_PUN
+N._NP0 No_ITJ ,_PUN the_AT0 way_NN1 I_PNP see_VVB it_PNP is_VBZ that_CJT if_CJS you_PNP enter_VVB a_AT0 competition_NN1 you_PNP get_VVB at_PRP least_AV0 two_CRD clear_AJ0 runs_NN2 with_PRP no-one_PNI snaking_VVG you_PNP ._PUN
+P._NP0 What_DTQ 's_VBZ nice_AJ0-AV0 is_VBZ when_AVQ you_PNP do_VDB a_AT0 trick_NN1 ,_PUN you_PNP know_VVB you_PNP 've_VHB got_VVN it_PNP when_CJS you_PNP do_VDB it_PNP in_PRP front_NN1 of_PRF all_DT0 those_DT0 people_NN0 ._PUN
+N._NP0 Are_VBB you_PNP a_AT0 snake_NN1 ?_PUN
+P._NN1-NP0 Yeah_ITJ ,_PUN fully_AV0 ._PUN
+I_PNP do_VDB n't_XX0 do_VDI it_PNP when_CJS I_PNP first_ORD go_VVB-NN1 to_PRP a_AT0 place_NN1 ._PUN
+Once_CJS I_PNP get_VVB into_PRP it_PNP though_CJS I_PNP snake_VVB on_AVP before_CJS-PRP anyone_PNI else_AV0 gets_VVZ on_AVP ._PUN
+N._NP0 Who_PNQ do_VDB you_PNP look_VVI up_AVP to_PRP ?_PUN
+P._NP0 People_NN0 with_PRP stilts_NN2 ,_PUN tall_AJ0 people_NN0 ._PUN
+People_NN0 in_PRP second_ORD story_NN1 flats_NN2 !_PUN !_PUN
+N._NP0 What_DTQ about_PRP the_AT0 police_NN2 ?_PUN
+P._NP0 They_PNP do_VDB their_DPS job_NN1 ._PUN
+I_PNP guess_VVB if_CJS they_PNP are_VBB reasonable_AV0-AJ0 there_EX0 is_VBZ no_AT0 reason_NN1 to_TO0 give_VVI them_PNP any_DT0 shit_NN1 ._PUN
+Renta_NN1-NP0 cops_NN2 are_VBB different_AJ0 though_AV0 ._PUN
+I_PNP do_VDB n't_XX0 think_VVI anyone_PNI should_VM0 take_VVI any_DT0 notice_NN1 of_PRF them_PNP ._PUN
+I_PNP skate_VVB down_PRP the_AT0 road_NN1 a_AT0 bit_NN1 before_CJS I_PNP shout_VVB at_PRP cops_NN2 —_PUN or_CJC anyone_PNI that_CJT-DT0 was_VBD giving_VVG me_PNP some_DT0 shit_NN1 ._PUN
+N._NP0 What_DTQ is_VBZ a_AT0 typical_AJ0 Monday_NP0 ?_PUN
+P._NN1-NP0 Oh_ITJ ,_PUN my_DPS worst_AJS day_NN1 —_PUN get_VVB up_AVP ,_PUN eat_VVB food_NN1 ,_PUN watch_VVB-NN1 TV_NN1 ,_PUN sit_VVB in_AVP 'cause_CJS I_PNP 've_VHB got_VVN no_AT0 money_NN1 because_CJS I_PNP spent_VVD it_PNP all_DT0 on_PRP Sunday_NP0 ,_PUN then_AV0 off_AVP to_TO0 work_VVI till_PRP 2am_AV0 to_TO0 earn_VVI more_AV0 skating_AJ0-VVG money_NN1 ._PUN
+N._NP0 OK_AV0 ,_PUN the_AT0 big_AJ0 cruncher_NN1 …_PUN have_VHB you_PNP got_VVN anything_PNI to_TO0 contribute_VVI to_PRP skating_VVG ?_PUN
+P._NP0 (_PUL Pauses_VVZ )_PUR Yes_ITJ ._PUN
+N._NP0 Well_AV0 are_VBB you_PNP going_VVG to_TO0 say_VVI ?_PUN
+P._NN1-NP0 Yes_ITJ ._PUN
+N._NP0 Well_AV0 what_DTQ is_VBZ it_PNP ?_PUN
+P._NP0 I_PNP do_VDB n't_XX0 want_VVI to_TO0 sound_VVI arrogant_AJ0 by_PRP saying_VVG it_PNP ._PUN
+N._NP0 We_PNP excuse_VVB you_PNP ,_PUN go_VVB for_PRP it_PNP ._PUN
+P._NP0 A_ZZ0 friendly_AJ0 person_NN1 ,_PUN someone_PNI who_PNQ is_VBZ good_AJ0 to_PRP session_NN1 with_PRP ,_PUN someone_PNI who_PNQ can_VM0 appreciate_VVI someone_PNI else_AV0 's_POS skating_VVG and_CJC not_XX0 to_TO0 judge_VVI them_PNP as_CJS to_PRP what_DTQ they_PNP can_VM0 do_VDI but_CJC also_AV0 who_PNQ they_PNP are_VBB and_CJC how_AVQ they_PNP are_VBB ._PUN
+Sorry_AJ0 if_CJS it_PNP sounds_VVZ dumb_AJ0 ._PUN
+N._NP0 Thank_VVB you_PNP very_AV0 much_AV0 Peter_NP0 Hellicar_NP0-NN1 ._PUN
+P.Thank_NP0 you_PNP very_AV0 much_DT0 Andrew_NP0 McDermott_NP0 and_CJC Louise_NP0 Hellicar_NP0-NN1 ._PUN
+N._NP0 Goodbye_NN1 ._PUN
+PS_NN1 ._PUN
+Thanks_NN2 to_PRP Edina_NP0 ,_PUN Donovan_NP0 and_CJC Lifes_NN2 a_AT0 Beach_NN1 ._PUN
+Interview_NN1-VVB by_PRP Andrew_NP0 McDermott_NP0 All_DT0 photos_NN2 by_PRP Donovan_NP0 Pennant_NN1
+Doing_VDG a_AT0 wheelie_NN1 on_PRP one_PNI-CRD 's_POS nose_NN1 sounds_VVZ painful_AJ0 —_PUN but_CJC not_XX0 when_AVQ-CJS it_PNP 's_VBZ done_VDN like_PRP this_DT0 ._PUN
+Pete_NP0 ,_PUN nose-wheelie_NN1-AJ0 ,_PUN urban_AJ0 lifestyle_NN1 ._PUN
+SEQUENCE_NN1 :_PUN Gap_NN1 ,_PUN no_ITJ ,_PUN make_VVB that_DT0 a_AT0 chasm_NN1 ollie_NN1 ._PUN
+Town_NN1 centre_NN1
+BELOW_AV0 :_PUN Bench_NN1 work_NN1-VVB ,_PUN old_AJ0 man_NN1 ._PUN
+OPPOSITE_AJ0 PAGE_NN1 :_PUN Slide_VVB on_AVP down_AVP ._PUN
+Do_VDB you_PNP really_AV0 need_VVI a_AT0 caption_NN1 for_PRP these_DT0 two_CRD photos_NN2 ?_PUN
+Do_VDB you_PNP really_AV0 want_VVI to_TO0 know_VVI what_DTQ is_VBZ going_VVG on_AVP ,_PUN and_CJC where_CJS they_PNP took_VVD place_NN1 ?_PUN
+For_PRP instance_NN1 ,_PUN is_VBZ it_PNP really_AV0 important_AJ0 to_TO0 realise_VVI that_CJT the_AT0 ollie_NN1 to_TO0 nosepick_VVI above_AV0 is_VBZ on_PRP an_AT0 exceptionally_AV0 harsh_AJ0 bank_NN1 in_PRP Nottingham_NP0 ?_PUN
+Or_CJC how_AVQ about_PRP the_AT0 lion_NN1 sculpture_NN1 on_PRP the_AT0 left_NN1 with_PRP Pete_NP0 nosepicking_VVG the_AT0 top_NN1 of_PRF that_DT0 ?_PUN
+Here_AV0 's_VBZ a_AT0 blatant_AJ0 lie_NN1-VVB coming_VVG up_AVP :_PUN he_PNP ollied_VVD on_AVP to_PRP the_AT0 lion_NN1 's_POS head_NN1 ._PUN
+FARNBOROUGH_NP0 RETROSPECTIVE_AJ0
+Farnborough_NP0 Ramp_NN1
+Text_NN1 by_PRP Ian_NP0 Cocking_NP0
+Born_VVN in_PRP November_NP0 1979_CRD from_PRP the_AT0 ashes_NN2 of_PRF Wokingham_NP0 skatepark_NN1-VVB ,_PUN deceased_AJ0 October_NP0 1990_CRD ._PUN
+The_AT0 Farnborough_NP0 half_NN1 pipe_NN1 was_VBD the_AT0 oldest_AJS free_AJ0 standing_NN1 skateboard_NN1 ramp_NN1 in_PRP the_AT0 UK_NP0 until_PRP last_ORD Autumn_NN1 ._PUN
+For_PRP many_DT0 of_PRF the_AT0 big_AJ0 names_NN2 in_PRP British_AJ0 skating_NN1-VVG Farnborough_NP0 holds_VVZ an_AT0 element_NN1 of_PRF nostalgia_NN1 and_CJC sentimental_AJ0 value_NN1 that_CJT will_VM0 never_AV0 be_VBI forgotten_VVN ._PUN
+The_AT0 high_AJ0 point_NN1 in_PRP the_AT0 ramp_NN1 's_POS history_NN1 has_VHZ to_TO0 be_VBI the_AT0 period_NN1 from_PRP 1984_CRD until_CJS just_AV0 before_PRP-CJS the_AT0 recent_AJ0 skateboard_NN1 boom_NN1 that_CJT started_VVD around_AV0 1986/7_CRD ._PUN
+This_DT0 was_VBD the_AT0 time_NN1 that_CJT Farnborough_NP0 was_VBD the_AT0 place_NN1 to_TO0 be_VBI for_PRP many_DT0 reasons_NN2 ._PUN
+It_PNP was_VBD the_AT0 widest_AJS ramp_NN1 ,_PUN it_PNP had_VHD various_AJ0 height_NN1 sections_NN2 ,_PUN many_DT0 of_PRF the_AT0 better_AJC skaters_NN2 ,_PUN the_AT0 convenience_NN1 of_PRF the_AT0 nearby_AJ0 shopping_NN1 precinct_NN1 ,_PUN and_CJC just_AV0 the_AT0 funniest_AJS and_CJC best_AJS skate_NN1 sessions_NN2 ._PUN
+Many_DT0 of_PRF the_AT0 local_AJ0 and_CJC regular_AJ0 skaters_NN2 from_PRP this_DT0 era_NN1 went_VVD on_AVP to_TO0 become_VVI house-hold_NN1 names_NN2 in_PRP the_AT0 UK_NP0 and_CJC International_AJ0 skate_NN1 scene_NN1 ;_PUN people_NN0 such_DT0 as_PRP Steve_NP0 Douglas_NP0 ,_PUN Bod_NP0 Boyle_NP0 ,_PUN Danny_NP0 Webster_NP0 ,_PUN Sean_NP0 Goff_NP0 ,_PUN Mark_NP0 Abrook_NP0 ,_PUN Barry_NP0 Abrook_NP0 ,_PUN Shane_NP0 Rouse_NP0 ,_PUN Phil_NP0 Burgoyne_NP0 ,_PUN Davross_NP0 ,_PUN Gary_NP0 Lee_NP0 ,_PUN Don_NP0 Brider_NP0-NN1 ,_PUN Rodga_NP0 Harvey_NP0 and_CJC many_DT0 many_DT0 others_NN2 ._PUN
+Even_AV0 from_PRP the_AT0 more_AV0 recent_AJ0 past_PRP a_AT0 younger_AJC Pete_NP0 Dossett_NP0 or_CJC Jason_NP0 Lunn_NP0 would_VM0 have_VHI been_VBN seen_VVN working_VVG out_AVP on_PRP the_AT0 Farnborough_NP0 ramp_NN1 ._PUN
+As_CJS I_PNP said_VVD earlier_AV0 in_PRP its_DPS heyday_NN1 Farnborough_NP0 was_VBD the_AT0 place_NN1 to_TO0 be_VBI ._PUN
+Despite_PRP its_DPS strong_AJ0 local_AJ0 following_NN1-VVG even_AV0 the_AT0 boys_NN2 were_VBD often_AV0 outnumbered_VVN by_PRP the_AT0 H-BOYS_NN2 ,_PUN Pig_NN1 City_NN1 ,_PUN Crystal_NP0 Palace_NP0 and_CJC many_DT0 other_AJ0 skate_NN1 scenes_NN2 ._PUN
+One_CRD Summer_NN1 in_PRP particular_AJ0 visiting_VVG-AJ0 European_AJ0 skaters_NN2 mainly_AV0 from_PRP France_NP0 and_CJC Germany_NP0 outnumbered_VVD the_AT0 English_NN1 ,_PUN with_PRP the_AT0 German_AJ0-NN1 contingent_NN1 actually_AV0 living_VVG on_AVP or_CJC in_PRP the_AT0 ramp_NN1 ._PUN
+Of_PRF course_NN1 during_PRP the_AT0 ramp_NN1 's_POS 11_CRD year_NN1 history_NN1 as_CJS well_AV0 as_CJS making_VVG professional_AJ0 skaters_NN2 it_PNP has_VHZ attracted_VVN a_AT0 fair_AJ0 few_DT0 ._PUN
+Here_AV0 's_VBZ a_AT0 list_NN1 of_PRF pros_NN2 that_CJT have_VHB dropped_VVN in_AVP on_PRP at_PRP least_AV0 one_CRD Farnborough_NP0 session_NN1 :_PUN Neil_NP0 Blender_NN1 ,_PUN Billy_NP0 Ruff_NN1 ,_PUN Claus_NP0 Grabke_NP0 ,_PUN Jeff_NP0 Hedges_NN2-VVZ ,_PUN Rodney_NP0 Mullen_NP0 ,_PUN Brad_NP0 Bowman_NP0 ,_PUN Mike_NP0 McGill_NP0 ,_PUN John_NP0 Lucero_NP0 ,_PUN Lance_NP0 Mountain_NP0 ,_PUN Rick_NP0 Demontrond_NP0 (_PUL Spidey_NP0 )_PUR ,_PUN Todd_NP0 Swank_VVB-NN1 ,_PUN Kevin_NP0 Stabb_NP0 ,_PUN Adrian_NP0 Demain_NP0 ,_PUN Puttis_NP0-NN1 ,_PUN and_CJC ,_PUN most_AV0 recently_AV0 ,_PUN Gary_NP0 Valentine_NP0 ._PUN
+History_NN1
+Here_AV0 is_VBZ a_AT0 brief_AJ0 history_NN1 of_PRF the_AT0 ramp_NN1 and_CJC some_DT0 background_NN1 to_PRP those_DT0 behind_PRP the_AT0 scenes_NN2 ._PUN
+1979–1980_CRD
+The_AT0 Farnborough_NP0 ramp_NN1 was_VBD actually_AV0 two_CRD halfpipes_NN2 joined_VVN-VVD together_AV0 ._PUN
+The_AT0 first_ORD 16_CRD feet_NN2 of_PRF ramp_NN1 arrived_VVD-VVN from_PRP the_AT0 then_AJ0 defunct_AJ0 skatepark_NN1 in_PRP Wokingham_NP0 in_PRP November_NP0 1979_CRD ._PUN
+Derek_NP0 Seaton_NP0 (_PUL a_AT0 father_NN1 of_PRF a_AT0 skater_NN1 )_PUR made_VVD the_AT0 arrangements_NN2 and_CJC one_CRD Sunday_NP0 the_AT0 ramp_NN1 arrived_VVD ._PUN
+At_PRP first_ORD the_AT0 ramp_NN1 was_VBD set_VVN up_AVP without_PRP any_DT0 flat_AJ0 bottom_NN1 or_CJC platforms_NN2 and_CJC three_CRD feet_NN2 of_PRF vert_NN1 ,_PUN the_AT0 ramp_NN1 remained_VVD-VVN like_PRP this_DT0 for_PRP about_AV0 half_DT0 a_AT0 year_NN1 ._PUN
+This_DT0 made_VVD-VVN for_PRP some_DT0 tight_AJ0 weightless_AJ0 riding_NN1 ._PUN
+1980_CRD
+The_AT0 local_AJ0 skateboard_NN1 club_NN1 voted_VVD-VVN to_TO0 take_VVI down_AVP the_AT0 three_CRD foot_NN1 of_PRF vert_NN1 and_CJC use_VVB the_AT0 vert_NN1 sections_NN2 to_TO0 make_VVI up_AVP a_AT0 flat_AJ0 bottom_NN1 ._PUN
+Guildford_NP0 skatepark_NN1 was_VBD demolished_VVN and_CJC as_PRP a_AT0 result_NN1 Farnborough_NP0 was_VBD noticed_VVN for_PRP the_AT0 first_ORD time_NN1 outside_PRP the_AT0 immediate_AJ0 area_NN1 ._PUN
+1981_CRD
+Andover_NP0 pool_NN1 was_VBD now_AV0 the_AT0 centre_NN1 of_PRF southern_AJ0 skating_NN1 ,_PUN after_PRP a_AT0 coup_NN1 at_PRP Andover_NP0 a_AT0 few_DT0 decided_VVD-VVN to_TO0 stop_VVI off_AVP at_PRP Farnborough_NP0 and_CJC were_VBD very_AV0 surprised_AJ0 by_PRP the_AT0 level_NN1-AJ0 skating_VVG-NN1 by_PRP the_AT0 locals_NN2 ._PUN
+Farnborough_NP0 subsequently_AV0 had_VHD its_DPS first_ORD piece_NN1 of_PRF national_AJ0 coverage_NN1 by_PRP the_AT0 way_NN1 of_PRF Alpine_AJ0 sports_NN2 newsletter_NN1 ._PUN
+The_AT0 ESA_NP0 also_AV0 made_VVD-VVN the_AT0 decision_NN1 to_TO0 include_VVI Farnborough_NP0 into_PRP that_DT0 year_NN1 's_POS competition_NN1 series_NN0 (_PUL which_DTQ was_VBD organised_VVN solely_AV0 by_PRP Shane_NP0 Rouse_NP0 ,_PUN who_PNQ did_VDD this_DT0 up_AVP until_CJS 1986_CRD )_PUR ._PUN
+Danny_NP0 Webster_NP0 came_VVD out_AVP of_PRF retirement_NN1 to_TO0 join_VVI the_AT0 Farnborough_NP0 locals_NN2 in_PRP the_AT0 first_ORD comp_NN1 there_AV0 ._PUN
+Other_AJ0-NN1 notables_NN2-VVZ this_DT0 year_NN1 were_VBD the_AT0 backflipping_AJ0-NN1 roller_NN1 skaters_NN2 Richard_NP0 Mason_NP0 and_CJC Mick_NP0 Beausang_NP0-NN1 who_PNQ even_AV0 threw_VVD in_PRP-AVP a_AT0 half_DT0 twist_VVB-NN1 until_CJS he_PNP broke_VVD his_DPS wrist_NN1 ._PUN
+Mr_NP0 Sean_NP0 Goff_NP0-NN1 from_PRP Oxford_NP0 now_AV0 skated_VVD at_PRP Farnborough_NP0 too_AV0 ._PUN
+1982_CRD
+This_DT0 year_NN1 the_AT0 flat_AJ0 bottom_NN1 was_VBD extended_VVN to_PRP 12_CRD ft_NN0 and_CJC the_AT0 ramp_NN1 completely_AV0 resurfaced_VVD ._PUN
+As_PRP a_AT0 result_NN1 Farnborough_NP0 took_VVD over_AVP from_PRP Andover_NP0 as_PRP the_AT0 place_NN1 to_TO0 skate_VVI so_AV0 Andover_NP0 closed_VVD down_AVP in_PRP late_AJ0 1982/early_UNC 1983_CRD ._PUN
+The_AT0 old_AJ0 Andover_NP0 locals_NN2 such_DT0 as_PRP the_AT0 Abrooks_NP0 became_VVD Farnborough_NP0 locals_NN2 ._PUN
+Once_AV0 again_AV0 Farnborough_NP0 hosted_VVD another_DT0 comp_NN1 ._PUN
+This_DT0 was_VBD to_TO0 become_VVI an_AT0 annual_AJ0 event_NN1 if_CJS not_XX0 the_AT0 annual_AJ0 event_NN1 in_PRP the_AT0 British_AJ0 Skater_NN1 's_POS diary_NN1 ._PUN
+The_AT0 local_AJ0 skaters_NN2 took_VVD over_AVP the_AT0 running_NN1 of_PRF the_AT0 skate_NN1 club_NN1 ._PUN
+The_AT0 committee_NN1 became_VVD Ian_NP0 Cocking_NP0 ,_PUN Shane_NP0 Rouse_NP0 ,_PUN Mark_NP0 Evans_NP0 and_CJC Joe_NP0 Evans_NP0 ._PUN
+Membership_NN1 of_PRF the_AT0 club_NN1 was_VBD enforced_VVN to_TO0 provide_VVI funds_NN2 to_TO0 improve_VVI the_AT0 ramp_NN1 ._PUN
+If_CJS you_PNP do_VDB n't_XX0 pay_VVI you_PNP do_VDB n't_XX0 skate_VVI ._PUN
+1983_CRD
+More_DT0 of_PRF the_AT0 same_DT0 but_CJC more_DT0 visitors_NN2 from_PRP London_NP0 and_CJC Brighton_NP0 etc_AV0 ._PUN
+Music_NN1 became_VVD an_AT0 important_AJ0 part_NN1 of_PRF any_DT0 skate_NN1-VVB session_NN1 ,_PUN notably_AV0 sounds_VVZ this_DT0 year_NN1 were_VBD the_AT0 Higsons_NP0 ,_PUN B52_UNC 's_POS and_CJC New_AJ0 Order_NN1 ._PUN
+Neil_NP0 Blender_NN1 and_CJC Billy_NP0 Ruff_NN1 were_VBD the_AT0 first_ORD pros_NN2 from_PRP the_AT0 States_NP0 to_TO0 skate_VVI the_AT0 ramp_NN1 ._PUN
+Then_AV0 local_AJ0 Danny_NP0 Webster_NP0 skated_VVD well_AV0 'ard_AJ0 and_CJC picked_VVD up_AVP G&S_UNC sponsorship_NN1 from_PRP the_AT0 US_NP0 pros_NN2 ._PUN
+Steve_NP0 Douglas_NP0 's_POS Fanzine_NP0-NN1 ‘_PUQ Go_VVB for_PRP It_PNP ’_PUQ started_VVD this_DT0 year_NN1 ,_PUN and_CJC from_PRP a_AT0 piece_NN1 of_PRF folded_AJ0 photocopied_AJ0 paper_NN1 ,_PUN it_PNP eventually_AV0 went_VVD on_AVP to_TO0 become_VVI a_AT0 printed_AJ0 glossy_AJ0 skate_NN1 mag_NN1 covering_VVG much_DT0 of_PRF the_AT0 skate_NN1 scene_NN1 at_PRP the_AT0 time_NN1 and_CJC the_AT0 next_ORD few_DT0 years_NN2 for_PRP which_DTQ the_AT0 Farnborough_NP0 scene_NN1 played_VVD a_AT0 major_AJ0 part_NN1 if_CJS not_XX0 the_AT0 main_AJ0 part_NN1 ._PUN
+The_AT0 original_AJ0 Farnborough_NP0 ramp_NN1 was_VBD one_CRD of_PRF two_CRD 16_CRD foot_NN1-VVB wide_AJ0 half_NN1 pipes_NN2 from_PRP the_AT0 skatepark_NN1 at_PRP Billy_NP0 Smart_NP0 's_POS circus_NN1 permanently_AV0 based_VVN in_PRP Winkfield_NP0 ,_PUN Berkshire_NP0 ._PUN
+When_CJS this_DT0 skatepark_NN1 closed_VVD down_AVP one_CRD ramp_NN1 went_VVD to_PRP Wokingham_NP0 ._PUN
+This_DT0 then_AV0 later_AV0 went_VVD on_AVP to_TO0 become_VVI the_AT0 Farnborough_NP0 ramp_NN1 ._PUN
+The_AT0 other_AJ0 ramp_NN1 went_VVD to_PRP Andover_NP0 so_AV0 the_AT0 two_CRD identical_AJ0 ramps_NN2 remained_VVD some_DT0 50_CRD miles_NN2 apart_AV0 for_PRP about_AV0 6_CRD years_NN2 ._PUN
+Al_NP0 ;_PUN though_CJS the_AT0 two_CRD ramps_NN2 were_VBD identical_AJ0 no_AT0 one_PNI had_VHD previously_AV0 considered_VVN joining_VVG them_PNP together_AV0 until_PRP now_AV0 ._PUN
+Andover_NP0 had_VHD closed_VVN down_AVP and_CJC the_AT0 ramp_NN1 was_VBD just_AV0 waiting_VVG for_PRP fate_NN1 ._PUN
+As_CJS it_PNP happened_VVD the_AT0 new_AJ0 ramp_NN1 section_NN1 was_VBD only_AV0 just_AV0 rescued_VVN from_PRP a_AT0 bulldozer_NN1 in_PRP the_AT0 nick_NN1 of_PRF time_NN1 as_CJS the_AT0 skate_NN1 scene_NN1 said_VVD a_AT0 final_AJ0 goodbye_NN1 to_PRP Andover_NP0 skatepark_NN1-VVB ._PUN
+1984_CRD
+The_AT0 dream_NN1 to_TO0 join_VVI the_AT0 two_CRD ramps_NN2 together_AV0 to_TO0 make_VVI a_AT0 32ft_NN0 wide_AJ0 superramp_NN1 was_VBD finally_AV0 realised_VVN-VVD this_DT0 year_NN1 and_CJC the_AT0 work_NN1 was_VBD completed_VVN in_PRP March_NP0 ._PUN
+This_DT0 improvement_NN1 made_VVD Farnborough_NP0 so_AV0 much_AV0 wider_AJC then_AV0 any_DT0 other_AJ0 UK_NP0 ramp_NN1 ._PUN
+Despite_PRP the_AT0 ramp_NN1 's_POS size_NN1 only_AV0 16ft_NN0 of_PRF 64ft_NN0 of_PRF lip_NN1 was_VBD platformed_AJ0-VVN course_NN1 the_AT0 dosh_NN1 had_VHD run_VVN out_AVP ._PUN
+Even_AV0 on_PRP the_AT0 ramp_NN1 's_POS first_ORD weekend_NN1 it_PNP had_VHD a_AT0 visitor_NN1 from_PRP the_AT0 States_NP0 ,_PUN a_AT0 Mr_NP0 Keith_NP0 Stevenson_NP0 who_PNQ is_VBZ probably_AV0 better_AV0 known_VVN as_PRP Bill_NP0-NN1 Runaway_NN1 from_PRP Thrasher_NP0-NN1 magazine_NN1 ._PUN
+Sessions_NN2 just_AV0 got_VVD better_AJC and_CJC better_AJC ._PUN
+Farnborough_NP0 was_VBD being_VBG swamped_VVN by_PRP skaters_NN2 from_PRP all_AV0 over_PRP Europe_NP0 ._PUN
+Bod_NN1-NP0 was_VBD beginning_VVG to_TO0 show_VVI the_AT0 making_NN1 of_PRF a_AT0 future_AJ0 pro_NN1 ._PUN
+Sean_NP0 Goff_NP0 makes_VVZ anything_PNI ._PUN
+Old_AJ0 time_NN1 pro_PRP Brad_NP0 Bowman_NP0 drops_VVZ in_AVP on_PRP this_DT0 year_NN1 's_POS comp_NN1 and_CJC shows_VVZ good_AJ0 stylish_AJ0 skating_NN1 ,_PUN unlike_PRP Davross_NN1-NP0 who_PNQ amazed_VVD visiting_VVG-AJ0 US_NP0 skaters_NN2 Lance_NP0 Mountain_NP0 ,_PUN John_NP0 Lucero_NP0 ,_PUN Steve_NP0 Keenan_NP0-NN1 and_CJC Spidey_NP0-NN1 with_PRP his_DPS unstylish_AJ0 but_CJC entertaining_AJ0 hang-ups_NN2 (_PUL yeah_ITJ Jase_NP0 )_PUR ._PUN
+Mike_NP0 McGill_NP0 dropped_VVD in_PRP-AVP one_CRD evening_NN1 but_CJC really_AV0 did_VDD n't_XX0 enjoy_VVI the_AT0 8ft_NN0 transitions_NN2 unlike_PRP Roddy_NP0 Mullen_NP0 who_PNQ just_AV0 shredded_VVD-VVN the_AT0 flat_AJ0 concrete_AJ0-NN1 area_NN1 surrounding_VVG the_AT0 ramp_NN1 ._PUN
+The_AT0 skating_NN1 of_PRF this_DT0 period_NN1 did_VDD n't_XX0 rely_VVI too_AV0 heavily_AV0 on_PRP lip_NN1 tricks_NN2-VVZ ._PUN
+Lip_NN1 tricks_NN2 were_VBD less_AV0 intricate_AJ0 then_AV0 of_PRF late_AV0 and_CJC were_VBD really_AV0 only_AV0 in_PRP order_NN1 to_TO0 achieve_VVI the_AT0 main_AJ0 goals_NN2 of_PRF big_AJ0 airs_NN2 and_CJC hands_NN2 plants_NN2 ._PUN
+When_CJS Danny_NP0 returned_VVD from_PRP the_AT0 States_NP0 Sean_NP0 was_VBD well_AJ0 into_PRP ultra_AV0 stalled_AJ0-VVD hand_NN1 plants_NN2 assisted_VVN by_PRP 2_CRD or_CJC 3_CRD platform_NN1 spectators_NN2 so_AV0 in_PRP a_AT0 doubles_NN2 act_VVB-NN1 with_PRP Mark_NP0 Abrook_NP0 ,_PUN Danny_NP0 had_VHD to_TO0 go_VVI one_PNI better_AV0 by_PRP actually_AV0 making_VVG a_AT0 hand_NN1 plant_NN1 on_PRP Mark_NP0 's_POS back_NN1 whilst_CJS Mark_NP0 was_VBD doing_VDG a_AT0 backside_NN1 grind_NN1-VVB ._PUN
+John_NP0 Lucero_NP0 stayed_VVD around_AVP so_AV0 long_AJ0-AV0 everyone_PNI thought_VVD he_PNP was_VBD a_AT0 local_NN1 until_CJS he_PNP went_VVD back_AVP to_PRP the_AT0 States_NP0 ._PUN
+Gary_NP0 Lee_NP0 was_VBD perfecting_VVG his_DPS limpy_AJ0 limpy_AJ0 along_AVP with_PRP Mark_NP0 Abrook_NP0 going_VVG after_PRP-CJS anything_PNI female_AJ0 and_CJC poor_AJ0 Mark_NP0 Potter_NP0 was_VBD sexually_AV0 assaulted_VVN by_PRP something_PNI canine_AJ0 ._PUN
+1985_CRD
+The_AT0 platform_NN1 is_VBZ extended_VVN across_PRP the_AT0 low_AJ0 section_NN1 and_CJC a_AT0 2ft_NN0 tombstone_NN1 added_VVD-VVN ._PUN
+A_ZZ0 photographers_NN2 platform_NN1 on_PRP the_AT0 platform-less_DT0 side_NN1 became_VVD a_AT0 permanent_AJ0 fixture_NN1 allowing_VVG photographers_NN2 to_TO0 get_VVI next_ORD to_PRP the_AT0 lip_NN1 to_TO0 capture_VVI the_AT0 action_NN1 ._PUN
+Farnborough_NP0 and_CJC Crystal_NP0 Palace_NP0 ,_PUN the_AT0 two_CRD skate_NN1-VVB centres_NN2 of_PRF southern_AJ0 skating_NN1 ,_PUN hold_VVB friendly_AJ0 comps_NN2 on_PRP each_DT0 others_NN2 ramps_NN2 for_PRP the_AT0 ‘_PUQ Whip_NN1 Lash_NN1-NP0 ’_PUQ trophy_NN1 ,_PUN Danny_NP0 Wins_VVZ-NN2 ._PUN
+Barry_NP0 Abrook_NP0 became_VVD the_AT0 first_ORD UK_NP0 skater_NN1 to_TO0 spin_VVI a_AT0 540_CRD and_CJC make_VVB it_PNP ._PUN
+Billy_NP0 Ruff_NN1 and_CJC Todd_NP0 Swank_VVB-NN1 join_VVB in_PRP-AVP the_AT0 fun_NN1 at_PRP this_DT0 years_NN2 Farnborough_NP0 ._PUN
+Even_AV0 the_AT0 local_AJ0 TV_NN1 came_VVD down_AVP to_TO0 check_VVI it_PNP out_AVP and_CJC actually_AV0 make_VVB use_NN1 of_PRF some_DT0 good_AJ0 footage_NN1 ._PUN
+The_AT0 ramp_NN1 is_VBZ moved_VVN around_PRP-AVP the_AT0 corner_NN1 of_PRF the_AT0 sports_NN2 centre_NN1-VVB into_PRP perpetual_AJ0 shade_NN1 ._PUN
+This_DT0 summer_NN1 's_POS skate_NN1 sessions_NN2 were_VBD amongst_PRP the_AT0 best_AJS but_CJC the_AT0 endless_AJ0 rain_NN1 was_VBD a_AT0 drag_NN1 ._PUN
+1986_CRD
+Because_CJS of_PRF the_AT0 condition_NN1 of_PRF the_AT0 ramp_NN1 ,_PUN action_NN1-VVB this_DT0 year_NN1 got_VVD-VVN off_AVP to_PRP a_AT0 slow_AJ0 start_NN1 with_PRP the_AT0 ramp_NN1 's_POS resurfacing_NN1 being_VBG the_AT0 prime_AJ0 objective_NN1 ._PUN
+This_DT0 year_NN1 Farnborough_NP0 skateboard_NN1 club_NN1 is_VBZ reformed_VVN-AJ0 again_AV0 with_PRP Doug_NP0 Cameron_NP0 as_PRP the_AT0 main_AJ0 man_NN1 co-ordinating_VVG the_AT0 years_NN2 comp_NN1 ._PUN
+Kevin_NP0 Stabb_NP0 from_PRP the_AT0 USA_NP0 was_VBD over_AVP in_PRP the_AT0 jam_NN1 ,_PUN or_CJC was_VBD it_PNP an_AT0 illusion_NN1 ?_PUN
+More_AV0 new_AJ0 blood_NN1 was_VBD emerging_VVG-AJ0 ._PUN
+This_DT0 was_VBD the_AT0 time_NN1 when_AVQ a_AT0 younger_AJC Jason_NP0 Lunn_NP0 and_CJC Pete_NP0 Dossett_NP0 would_VM0 have_VHI been_VBN seen_VVN skating_VVG at_PRP Farnborough_NP0 ._PUN
+1986_CRD was_VBD also_AV0 the_AT0 year_NN1 of_PRF more_DT0 TV_NN1 coverage_NN1 ._PUN
+SPLASH_NN1 came_VVD down_AVP to_TO0 view_VVI Europe_NP0 's_VBZ best_AJS after_PRP the_AT0 European_AJ0 Championships_NN2 at_PRP Warrington_NP0 ._PUN
+Puttis_NN1-NP0 was_VBD the_AT0 only_AJ0 non-Brit_NN1-AJ0 to_TO0 turn_VVI up_AVP ._PUN
+Most_DT0 of_PRF the_AT0 locals_NN2 made_VVD an_AT0 appearance_NN1 ramp_NN1 skating_VVG on_PRP the_AT0 telly_NN1 which_DTQ looked_VVD quite_AV0 good_AJ0 but_CJC the_AT0 street_NN1 skating_VVG bit_NN1 was_VBD quite_AV0 lame_AJ0 ._PUN
+1987_CRD
+Farnborough_NP0 decides_VVZ to_TO0 get_VVI a_AT0 metal_NN1 surface_NN1 ._PUN
+Many_DT0 people_NN0 's_POS good_AJ0 intentions_NN2 go_VVB to_TO0 pot_VVI as_CJS-PRP Ian_NP0 Cocking_NP0 does_VDZ the_AT0 work_NN1 virtually_AV0 single_AJ0 handed_VVD-VVN ._PUN
+This_DT0 was_VBD also_AV0 the_AT0 year_NN1 when_AVQ the_AT0 exodus_NN1 away_AV0 from_PRP Farnborough_NP0 began_VVD ._PUN
+Southsea_NP0 was_VBD the_AT0 main_AJ0 attraction_NN1 but_CJC Latimer_NP0 Road_NP0 contributed_VVD to_PRP drawing_VVG away_AV0 the_AT0 London_NP0 skaters_NN2 ._PUN
+This_DT0 is_VBZ probably_AV0 the_AT0 last_ORD of_PRF what_DTQ can_VM0 be_VBI described_VVN as_PRP a_AT0 traditional_AJ0 Farnborough_NP0 year_NN1 ,_PUN although_CJS many_DT0 of_PRF the_AT0 old_AJ0 faces_NN2 were_VBD disappearing_VVG-AJ0 ,_PUN many_DT0 new_AJ0 faces_NN2 were_VBD emerging_VVG too_AV0 ._PUN
+Many_DT0 of_PRF the_AT0 now_AV0 Bracknell_NP0 scene_NN1 were_VBD starting_VVG to_TO0 skate_VVI Farnborough_NP0 this_DT0 year_NN1 as_CJS were_VBD West_NP0 Byfleet_NP0 and_CJC Fleet_NN1-AJ0 skate_NN1-VVB scenes_NN2 ._PUN
+1988_CRD
+The_AT0 final_AJ0 improvement_NN1 is_VBZ made_VVN to_PRP the_AT0 ramp_NN1 by_PRP platforming_VVG all_DT0 of_PRF the_AT0 remaining_AJ0 unplatformed_AJ0 lip_NN1 and_CJC adding_VVG a_AT0 small_AJ0 tombstone_NN1 ._PUN
+A_AT0 comp_NN1 is_VBZ held_VVN by_PRP popular_AJ0 demand_NN1 ,_PUN but_CJC although_CJS there_EX0 was_VBD a_AT0 good_AJ0 turnout_NN1 by_PRP competitors_NN2 and_CJC supporters_NN2 ,_PUN it_PNP seemed_VVD as_PRP if_CJS the_AT0 old_AJ0 Farnborough_NP0 magic_NN1 had_VHD gone_VVN forever_AV0 despite_PRP some_DT0 damn_AJ0 radical_AJ0-NN1 action_NN1 from_PRP Jeff_NP0 Hedges_NN2-VVZ ._PUN
+1989_CRD
+The_AT0 new_AJ0 ramp_NN1 at_PRP Bracknell_NP0 draws_VVZ away_AV0 any_DT0 half-way_AV0-AJ0 decent_AJ0 vert_NN1 skaters_NN2 that_CJT were_VBD still_AV0 skating_VVG Farnborough_NP0 except_PRP-CJS the_AT0 Fleet_NN1-AJ0 skaters_NN2 ,_PUN in_PRP particular_AJ0 Mike_NP0 Bews_NP0 who_PNQ was_VBD keeping_VVG some_DT0 old_AJ0 Farnborough_NP0 traditions_NN2 going_VVG with_PRP some_DT0 hard_AJ0 core_NN1 skating_VVG-NN1 ._PUN
+The_AT0 only_AJ0 person_NN1 from_PRP the_AT0 old_AJ0 skateboard_NN1 club_NN1 still_AV0 around_AVP on_PRP the_AT0 Farnborough_NP0 scene_NN1 (_PUL Ian_NP0 Cocking_NP0 )_PUR transfers_VVZ-NN2 control_NN1-VVB of_PRF the_AT0 ramp_NN1 to_PRP the_AT0 council_NN1 who_PNQ decided_VVD to_TO0 close_VVI the_AT0 ramp_NN1 immediately_AV0 by_PRP placing_VVG-NN1 skips_NN2-VVZ on_PRP the_AT0 ramp_NN1 ._PUN
+Ian_NP0 Cocking_NP0 just_AV0 about_AV0 manages_VVZ to_TO0 persuade_VVI the_AT0 council_NN1 that_CJT the_AT0 ramp_NN1 is_VBZ worth_PRP keeping_VVG so_AV0 the_AT0 ramp_NN1 is_VBZ fixed_VVN up_AVP but_CJC a_AT0 botch_NN1 job_NN1 on_PRP one_CRD piece_NN1 of_PRF coping_NN1-VVG makes_VVZ any_DT0 trick_NN1-VVB other_NN1-AJ0 then_AV0 just_AV0 plain_AJ0 rock_NN1 'n'_CJC rolls_NN2-VVZ virtually_AV0 impossible_AJ0 ._PUN
+This_DT0 year_NN1 Farnborough_NP0 also_AV0 has_VHZ a_AT0 skate_NN1 scene_NN1 emerging_VVG from_PRP Farnborough_NP0 itself_PNX for_PRP the_AT0 first_ORD time_NN1 since_PRP about_AV0 1981_CRD ._PUN
+1990_CRD
+The_AT0 surface_NN1 of_PRF the_AT0 ramp_NN1 especially_AV0 around_PRP-AVP the_AT0 low_AJ0 section_NN1 starts_VVZ peeling_VVG up_AVP ._PUN
+The_AT0 ramp_NN1 begins_VVZ to_TO0 be_VBI known_VVN as_PRP the_AT0 cheese_NN1 grater_NN1 ._PUN
+The_AT0 ramp_NN1 is_VBZ still_AV0 heavily_AV0 used_VVN despite_PRP it_PNP 's_VBZ small_AJ0 transitions_NN2 and_CJC general_AJ0 condition_NN1 ._PUN
+Endless_AJ0 letters_NN2 to_PRP the_AT0 council_NN1 about_PRP the_AT0 state_NN1 of_PRF the_AT0 ramp_NN1 and_CJC the_AT0 botch_NN1 job_NN1 on_PRP the_AT0 coping_NN1 are_VBB ignored_VVN but_CJC the_AT0 council_NN1 decided_VVD-VVN to_TO0 install_VVI some_DT0 close_AJ0 circuit_NN1 TV_NN1 for_PRP a_AT0 good_AJ0 proportion_NN1 of_PRF what_DTQ repairs_VVZ to_PRP the_AT0 ramp_NN1 would_VM0 have_VHI cost_VVN ._PUN
+Mini_AJ0 ramps_NN2 and_CJC midi_AJ0 ramps_NN2 in_PRP the_AT0 nearby_AJ0 area_NN1 in_PRP conjunction_NN1 with_PRP the_AT0 Farnborough_NP0 pipe_NN1-VVB accelerate_VVB the_AT0 development_NN1 of_PRF the_AT0 new_AJ0 locals_NN2 particularly_AV0 Mark_NP0 Potter_NP0 and_CJC Brian_NP0 Saunders_NP0 ._PUN
+Mike_NP0 Bews_NP0 was_VBD just_AV0 getting_VVG better_AJC and_CJC better_AJC and_CJC is_VBZ beginning_VVG to_TO0 look_VVI like_PRP-CJS the_AT0 making_NN1 of_PRF yet_AV0 another_DT0 pro_NN1 reared_VVN-VVD in_PRP Farnborough_NP0 ._PUN
+The_AT0 local_AJ0 skaters_NN2 take_VVB it_PNP upon_PRP themselves_PNX to_TO0 remove_VVI some_DT0 dangerous_AJ0 panelling_NN1 designed_VVN-VVD to_TO0 withstand_VVI loose_AJ0 board_NN1 ,_PUN however_AVQ the_AT0 local_AJ0 council_NN1 see_VVB this_DT0 as_PRP an_AT0 act_NN1 of_PRF vandalism_NN1 and_CJC feeling_NN1-VVG are_VBB strong_AJ0 amongst_PRP some_DT0 councillors_NN2 to_TO0 get_VVI rid_VVN of_PRF the_AT0 ramp_NN1 ._PUN
+The_AT0 incorrectly_AV0 fitted_VVN-AJ0 coping_VVG-NN1 is_VBZ sorted_VVN out_AVP by_PRP the_AT0 skaters_NN2 allowing_VVG full_AJ0 skate_NN1 action_NN1 to_TO0 commence_VVI but_CJC not_XX0 for_PRP long_AV0 ._PUN
+Eventually_AV0 an_AT0 accident_NN1 happens_VVZ on_PRP the_AT0 dangerous_AJ0 peeling_NN1 metal_NN1 surface_NN1 ,_PUN the_AT0 council_NN1 inspect_VVB the_AT0 ramp_NN1 and_CJC decide_VVB to_TO0 close_VVI it_PNP ._PUN
+The_AT0 skips_NN2 go_VVB on_AVP and_CJC they_PNP do_VDB n't_XX0 come_VVI off_AVP ,_PUN and_CJC in_PRP early_AJ0 October_NP0 the_AT0 ramp_NN1 is_VBZ gone_VVN ._PUN
+Rumours_NN2 are_VBB that_CJT it_PNP may_VM0 reappear_VVI somewhere_AV0 else_AV0 ,_PUN perhaps_AV0 Basingstoke_NP0 ,_PUN but_CJC who_PNQ knows_VVZ ?_PUN
+1991_CRD
+Last_ORD word_NN1 from_PRP the_AT0 local_AJ0 council_NN1 was_VBD that_CJT they_PNP were_VBD in_PRP favour_NN1 of_PRF providing_VVG some_DT0 form_NN1 of_PRF skateboard_NN1 facility_NN1 ._PUN
+It_PNP also_AV0 seems_VVZ as_PRP if_CJS they_PNP are_VBB at_PRP last_ORD more_AV0 prepared_VVN-AJ0 to_TO0 listen_VVI to_PRP the_AT0 needs_NN2 of_PRF the_AT0 local_AJ0 skaters_NN2 and_CJC on_PRP top_NN1 of_PRF this_DT0 a_AT0 local_AJ0 developer_NN1 has_VHZ pledged_VVN ten_CRD thousand_CRD pounds_NN2 towards_PRP the_AT0 new_AJ0 facility_NN1 so_CJS the_AT0 future_NN1 do_VDB n't_XX0 look_VVI so_AV0 gloomy_AJ0 after_PRP all_DT0 ._PUN
+Memories_NN2 …_PUN
+‘_PUQ Farnborough_NP0 was_VBD one_CRD of_PRF the_AT0 major_AJ0 ramps_NN2 in_PRP English_AJ0-NN1 skate_NN1 history_NN1 ._PUN
+It_PNP was_VBD always_AV0 there_AV0 and_CJC a_AT0 good_AJ0 time_NN1 ._PUN ’_PUQ
+…_PUN Sean_NP0 Goff_NP0-NN1 ._PUN
+‘_PUQ I_PNP have_VHB many_DT0 good_AJ0 memories_NN2 of_PRF fun_AJ0 ramp_NN1 sessions_NN2 ,_PUN especially_AV0 on_PRP Friday_NP0 evenings_NN2 and_CJC the_AT0 weekends_NN2 ._PUN
+A_AT0 sad_AJ0 loss_NN1 to_PRP English_AJ0-NN1 skating_NN1-VVG history_NN1 ._PUN ’_PUQ
+…_PUN Shane_NP0 Rouse_NP0 ._PUN
+‘_PUQ Farnborough_NP0 is_VBZ where_AVQ it_PNP all_DT0 began_VVD for_PRP a_AT0 lot_NN1 of_PRF people_NN0 ._PUN
+It_PNP was_VBD visited_VVN by_PRP numerous_AJ0 American_AJ0 Pros_NN2 and_CJC hosted_VVD various_AJ0 competitions_NN2 which_DTQ will_VM0 always_AV0 be_VBI remembered_VVN by_PRP a_AT0 lot_NN1 of_PRF skaters_NN2 and_CJC spectators_NN2 ,_PUN you_PNP know_VVB who_PNQ you_PNP are_VBB ._PUN
+May_VM0 it_PNP never_AV0 be_VBI forgotten_VVN ._PUN ’_PUQ
+…_PUN Mark_VVB-NN1 Abrook_NP0 ._PUN
+‘_PUQ A_AT0 place_NN1 where_AVQ all_DT0 the_AT0 skaters_NN2 were_VBD long_AV0-AJ0 standing_VVG-NN1 friends_NN2 ,_PUN a_AT0 personal_AJ0 learning_NN1 ground_NN1 ,_PUN where_CJS recognised_AJ0 skaters_NN2 of_PRF today_AV0 blossomed_VVD and_CJC a_AT0 whole_AJ0 lot_NN1 of_PRF fun_NN1-AJ0 ._PUN ’_PUQ
+…_PUN Barry_NP0 Abrook_NP0 ._PUN
+‘_PUQ It_PNP was_VBD the_AT0 biggest_AJS small_AJ0 ramp_NN1 of_PRF its_DPS time_NN1 and_CJC there_EX0 was_VBD always_AV0 a_AT0 good_AJ0 long_AJ0-AV0 hard_AJ0-AV0 grinding_AJ0-NN1 session_NN1 happening_VVG-NN1 with_PRP all_DT0 my_DPS bros_NN2 from_PRP near_AV0 and_CJC far_AV0-AJ0 ._PUN ’_PUQ
+…_PUN Gary_NP0 Lee_NP0 ._PUN
+Shane_NP0 Rouse_NP0 ,_PUN floating_AJ0-VVG frontside_NN1 during_PRP the_AT0 Summer_NN1 of_PRF 1982_CRD ._PUN
+Ian_NP0 Cocking_NP0 ,_PUN frontside_NN1 ollie_NN1 ,_PUN 1981_CRD ._PUN
+Neil_NP0 Blender_NN1 ,_PUN one_CRD of_PRF the_AT0 first_ORD US_NP0 pros_NN2 to_TO0 visit_VVI Farnborough_NP0 ._PUN
+Handplant_VVB-NN1 ,_PUN 1983_CRD
+1983_CRD
+Danny_NP0 Webster_NP0 ,_PUN early_AV0-AJ0 Caballerial_AJ0 ,_PUN 1983_CRD
+Joe_NP0 Evans_NP0 ,_PUN one_CRD of_PRF the_AT0 regular_AJ0 locals_NN2 ,_PUN till_CJS he_PNP moved_VVD to_PRP Texas_NP0 ._PUN
+Sweeper_NN1 ,_PUN 1983_CRD ._PUN
+Check_VVB the_AT0 coping_NN1 ._PUN
+Real_AJ0 pool_NN1 stuff_NN1 ._PUN
+The_AT0 then_AJ0 youthful_AJ0 Gary_NP0 Lee_NP0 ,_PUN backside_NN1 ._PUN
+1983_CRD
+1984_CRD
+Claus_NP0 Grabke_NP0 ,_PUN on_PRP a_AT0 visit_NN1 during_PRP 1984_CRD
+A_AT0 young_AJ0 Barry_NP0 Abrook_NP0 and_CJC frontside_NN1 rock_NN1 in_PRP 1985_CRD ._PUN
+No_AT0 bum_NN1 fluff_NN1-VVB yet_AV0 !_PUN
+Sean_NP0 Goff_NP0-NN1 goofing_VVG around_AVP in_PRP his_DPS pyjamas_NN2 at_PRP the_AT0 Whiplash_NN1-NP0 2_CRD comp_NN1 around_AV0 1985_CRD ._PUN
+Vintage_NN1 Steve_NP0 Douglas_NP0 pushing_VVG the_AT0 limits_NN2 of_PRF the_AT0 fake_AJ0 ollie_NN1 at_PRP the_AT0 Whiplash_NN1-NP0 comp._NN1 1985_CRD ._PUN
+Danny_NP0 blasting_VVG a_AT0 frigid_AJ0 air_NN1 on_PRP the_AT0 now_AV0 32_CRD ft_NN0 wide_AJ0 ramp_NN1 ._PUN
+ABOVE_AV0 :_PUN The_AT0 ramp_NN1 in_PRP 1985_CRD ._PUN
+BELOW_AV0 :_PUN Lance_NP0 Mountain_NP0 popped_VVD over_AVP in_PRP 1984_CRD ._PUN
+Lucien_AJ0 Hendrickse_NN1-NP0 sadding_VVG a_AT0 plant_NN1 during_PRP the_AT0 comp_NN1 in_PRP 1986_CRD ._PUN
+Bod_VVB-NN1 ,_PUN method_NN1 air_NN1 ,_PUN 1986_CRD ._PUN
+A_AT0 real_AJ0 local_AJ0 ,_PUN Ian_NP0 Cocking_NP0 ,_PUN layback_NN1 air_NN1 during_PRP 1988_CRD ._PUN
+The_AT0 metal_NN1 surface_NN1 being_VBG put_VVN on_AVP in_PRP 1987_CRD ._PUN
+Note_VVB-NN1 mainly_AV0 rollerskaters_NN2 helping_VVG-NN1 ._PUN
+Neil_NP0 Danns_NP0 ,_PUN 1988_CRD
+Davie_NP0 Phillips_NP0 ,_PUN mid_AJ0 full_AJ0 tilt_NN1 backside_NN1 boneless._NN0 1988_CRD ._PUN
+1990_CRD
+FAREWELL_ITJ TO_PRP DISCO_NN1 DAN-Z_NP0 'S_POS
+Story_NN1 and_CJC Photos_NN2 by_PRP Meany_NP0-NN1 ._PUN
+Threatened_VVN with_PRP imminent_AJ0 closure_NN1 —_PUN his_DPS prime_AJ0 Liverpool_NP0 city_NN1 centre_NN1 ramp_NN1 was_VBD needed_VVN for_PRP something_PNI far_AV0 less_AV0 interestin'_AJ0 —_PUN Neil_NP0 Danns_NP0 threw_VVD a_AT0 skate_NN1 jam/party_NN1-VVB to_TO0 leave_VVI a_AT0 few_DT0 good_AJ0 memories_NN2 of_PRF what_DTQ ,_PUN despite_PRP the_AT0 ramp_NN1 's_POS inadequacies_NN2 was_VBD the_AT0 focus_NN1 of_PRF the_AT0 local_AJ0 skate_NN1 scene_NN1 ._PUN
+Patched_VVN together_AV0 from_PRP the_AT0 remnants_NN2 of_PRF the_AT0 Docklands_NP0 ramp_NN1 which_DTQ some_DT0 yonks_NN0 back_NN1 had_VHD been_VBN acquired_VVN by_PRP Neil_NP0 ,_PUN Liverpool_NP0 's_POS mini_NN1 was_VBD a_AT0 pretty_AV0 unconventional_AJ0 affair_NN1 —_PUN big_AJ0 transistors_NN2 tweaked_VVN with_PRP smaller_AJC ones_NN2 ,_PUN no_AT0 more_AV0 then_AV0 a_AT0 few_DT0 feet_NN2 of_PRF flat_AJ0 bottom_NN1 —_PUN and_CJC it_PNP rode_VVD like_PRP a_AT0 ditch_NN1 ._PUN
+It_PNP 's_VBZ weird_AJ0 dimensions_NN2 were_VBD merely_AV0 the_AT0 result_NN1 of_PRF maximum_AJ0 usage_NN1 of_PRF the_AT0 available_AJ0 space_NN1 and_CJC materials_NN2 …_PUN it_PNP was_VBD punk_NN1 and_CJC we_PNP loved_VVD it_PNP ._PUN
+Unfortunately_AV0 ,_PUN all_DT0 good_AJ0 things_NN2 come_VVB to_PRP an_AT0 end_NN1 and_CJC ,_PUN as_CJS expected_VVN sooner_AV0 or_CJC later_AV0 ,_PUN our_DPS ramp_NN1 would_VM0 be_VBI sucked_VVN off_AVP to_PRP the_AT0 great_AJ0 skatepark_NN1 graveyard_NN1 in_PRP the_AT0 sky_NN1 to_TO0 join_VVI Chester_NP0 ,_PUN Warrington_NP0 ,_PUN Preston_NP0 ,_PUN Rhyl_NP0 ,_PUN etc._AV0 …_PUN everything_PNI this_DT0 part_NN1 of_PRF the_AT0 country_NN1 ever_AV0 gets_VVZ ._PUN
+Being_VBG as_CJS Liverpool_NP0 had_VHD never_AV0 seen_VVN a_AT0 skate_NN1 comp_NN1 before_AV0 ,_PUN the_AT0 atmosphere_NN1 at_PRP Dan-Z_NP0 's_POS was_VBD riotous_AJ0 —_PUN even_AV0 though_CJS it_PNP was_VBD only_AV0 a_AT0 mini_AJ0 ramp_NN1 ._PUN
+To_TO0 add_VVI a_AT0 bit_NN1 of_PRF spice_NN1 to_PRP the_AT0 proceedings_NN2 a_AT0 sketchy_AJ0 transition_NN1 had_VHD been_VBN tacked_VVN on_PRP one_CRD end_NN1 of_PRF the_AT0 ramp_NN1 and_CJC that_DT0 was_VBD the_AT0 main_AJ0 focus_NN1 of_PRF attention_NN1 ,_PUN especially_AV0 in_PRP the_AT0 grown-ups_NN2 group_NN1-VVB ._PUN
+The_AT0 under_AV0 16's_CRD ,_PUN or_CJC whatever_DTQ the_AT0 category_NN1 was_VBD ,_PUN were_VBD mostly_AV0 content_AJ0 with_PRP rock_NN1 fakie_NN1 ,_PUN tail_NN1 tap_NN1-VVB ,_PUN rock_NN1-VVB fakie_NN1 ,_PUN tail_NN1 tap_NN1-VVB ,_PUN melan_AJ0 type_NN1 runs_VVZ-NN2 ._PUN
+Young_AJ0 H_ZZ0 from_PRP Wallasey_NP0 was_VBD a_AT0 pretty_AV0 major_AJ0 exception_NN1 to_PRP this_DT0 rule_NN1 —_PUN he_PNP did_VDD the_AT0 drop_NN1-VVB in_AVP-PRP of_PRF doom_NN1 off_PRP the_AT0 extension_NN1 to_PRP flat_AJ0 bottom_AJ0-NN1 hipper_NN1 ,_PUN slashed_VVN-VVD about_PRP-AVP did_VDD mass_NN1-AJ0 ollies_VVZ-NN2 onto_PRP the_AT0 extension_NN1 ,_PUN laybacks_NN2 ,_PUN wore_VVD an_AT0 agnostic_AJ0 Front_AJ0-NN1 tee_NN1 ,_PUN and_CJC generally_AV0 skated_VVD-VVN like_CJS he_PNP 'd_VHD been_VBN around_AVP since_CJS-PRP the_AT0 sevs_NN2 and_CJC was_VBD a_AT0 dwarf_NN1 just_AV0 pretending_VVG to_TO0 be_VBI under_AV0 16_CRD ._PUN
+Most_DT0 of_PRF the_AT0 time_NN1 he_PNP was_VBD on_PRP the_AT0 ramp_NN1 the_AT0 crowd_NN1 was_VBD screamin'_VVG !_PUN
+The_AT0 other_AJ0 noticeable_AJ0 youngster_NN1 was_VBD Tez_NP0 ._PUN
+He_PNP was_VBD a_AT0 different_AJ0 type_NN1 of_PRF skater_NN1 but_CJC he_PNP did_VDD plenty_PNI of_PRF modern_AJ0 lip_NN1 stuff_NN1 including_PRP backside_NN1 smith_NN1 stop_NN1-VVB to_PRP fakie_NN1 ,_PUN and_CJC much_AV0 other_AJ0 to-fakie_AJ0-NN1 weirdness_NN1 ._PUN
+No-one_PNI was_VBD quite_AV0 sure_AJ0 whether_CJS they_PNP were_VBD meant_VVN to_TO0 be_VBI in_PRP fancy_AJ0 dress_NN1 but_CJC anyhow_AV0 there_EX0 were_VBD a_AT0 couple_NN1 decent_AJ0 Santa_NP0 's_POS ,_PUN a_AT0 smith_NN1 grinding_NN1-AJ0 policeman_NN1 ,_PUN and_CJC a_AT0 ridiculous_AJ0 looking_VVG-AJ0 Dave_NP0 ‘_PUQ Kowabunga-Mutant-Ninja-Turtle-Most-Unfortunately-named-clothing-company-of-the-century_UNC ’_PUQ Davis_NP0 ,_PUN dressed_VVN in_PRP poncho_NN1 and_CJC sombrero_NN1 ._PUN
+Taking_VVG the_AT0 biscuit_NN1 though_CJS was_VBD Mr_NP0 Andy_NP0 Preston_NP0 who_PNQ donned_VVD a_AT0 ridiculously_AV0 extravagant_AJ0 full_AJ0 length_NN1 [_PUL right_AV0 down_AVP over_PRP his_DPS board_NN1 ]_PUR Easter_NP0 Island_NP0 statue_NN1 disguise_NN1-VVB and_CJC dropped_VVD in_AVP ._PUN
+After_PRP making_VVG it_PNP across_PRP the_AT0 ramp_NN1 once_AV0 ,_PUN unable_AJ0 to_TO0 see_VVI where_AVQ the_AT0 hell_NN1 he_PNP was_VBD going_VVG ,_PUN he_PNP slammed_VVD like_PRP a_AT0 sack_NN1 of_PRF spuds_NN2 ._PUN
+Wott_DTQ a_AT0 hero_NN1 !_PUN
+Midway_AV0 through_PRP the_AT0 afternoon_NN1 there_EX0 was_VBD the_AT0 longest_AJS grind_NN1-VVB comp_NN1 ,_PUN in_PRP which_DTQ dreadlocked_VVD local_AJ0 favourite_NN1-AJ0 Colin_NP0 was_VBD beaten_VVN surprisingly_AV0 by_PRP Richie_NP0 ,_PUN the_AT0 Pete_NP0 Rodgers_NP0 for_PRP the_AT0 nineties_CRD ,_PUN whose_DTQ reliably_AV0 long_AJ0 stand-ups_NN2 proved_VVD-VVN too_AV0 much_DT0 for_PRP everyone_PNI else_AV0 ._PUN
+Then_AV0 ,_PUN with_PRP the_AT0 coffee_NN1 and_CJC barmcakes_NN2-VVZ running_VVG-AJ0 low_AV0-AJ0 it_PNP was_VBD onto_PRP the_AT0 finals_NN2 ._PUN
+Neil_NP0 and_CJC D._NP0 Davis_NP0 did_VDD n't_XX0 bother_VVI entering_VVG the_AT0 comp_NN1 so_AV0 as_CJS to_TO0 give_VVI everyone_PNI else_AV0 a_AT0 chance_NN1 …_PUN and_CJC I_PNP ca_VM0 n't_XX0 really_AV0 think_VVI of_PRF anyone_PNI who_PNQ particularly_AV0 merits_VVZ a_AT0 mention_NN1 …_PUN oh_ITJ ,_PUN apart_AV0 from_PRP Z-boy_AJ0-NN1 Fez_NN1-NP0 who_PNQ wore_VVD stripy_AJ0 skin_NN1 tight_AJ0 trousers_NN2 and_CJC looked_VVD ridiculous_AJ0 …_PUN do_VDB n't_XX0 know_VVI the_AT0 results_NN2 —_PUN and_CJC hey_ITJ !_PUN
+Where_AVQ were_VBD the_AT0 betties_NN2 ?_PUN
+Page_NN1-VVB from_PRP Jargon_NN1 of_PRF Delinquents_NN2 'zine_NN1 ._PUN
+Jeff_NP0 ,_PUN one_CRD foot_NN1 ollie_NN1 tailgrab_NN1-VVB ._PUN
+Just_AV0 how_AVQ many_DT0 people_NN0 have_VHB gotten_VVN their_DPS mug_NN1 into_PRP a_AT0 skate_NN1 mag_NN1 doing_VDG this_DT0 anyhow_AV0 ?_PUN
+Dave_NP0 Davies_NP0 wearing_VVG what_DTQ might_VM0 be_VBI considered_VVN to_TO0 be_VBI his_DPS next_ORD Kowabunga_NN1-NP0 range_NN1 ._PUN
+On_PRP the_AT0 other_AJ0 hand_NN1 ,_PUN it_PNP 's_VBZ not_XX0 ._PUN
+Yippy_AJ0 skippy_AJ0 yip_NN1 ._PUN
+As_CJS the_AT0 captions_NN2 become_VVB crazier_AJC and_CJC the_AT0 photos_NN2 become_VVB larger_AJC ,_PUN the_AT0 skaters_NN2 '_POS names_NN2 become_VVB smaller_AJC ._PUN
+This_DT0 guy_NN1 is_VBZ simply_AV0 known_VVN as_PRP H._NP0
+There_EX0 must_VM0 be_VBI a_AT0 song_NN1 about_PRP a_AT0 guy_NN1 named_VVN Colin_NP0 somewhere_AV0 in_PRP the_AT0 great_AJ0 existence_NN1 of_PRF music_NN1 ._PUN
+But_CJC then_AV0 again_AV0 ,_PUN there_EX0 are_VBB n't_XX0 that_CJT many_DT0 words_NN2 rhyming_VVG-NN1 with_PRP ‘_PUQ Colin_NP0 ’_PUQ are_VBB there_EX0 ?_PUN
+Unlike_PRP Brian_NP0 ,_PUN of_PRF course_NN1 ._PUN
+This_DT0 guy_NN1 —_PUN Colin_NP0 —_PUN rocking_VVG all_AV0 over_PRP the_AT0 extension_NN1 ._PUN
+Andy_NP0 Preston_NP0 came_VVD dressed_VVN as_PRP an_AT0 Eater_NP0 Island_NP0 Statue_NN1 —_PUN and_CJC slammed_VVD as_AV0 hard_AV0-AJ0 as_CJS one_PNI too_AV0 ._PUN
+You_PNP 'd_VM0 be_VBI forgiven_VVN for_PRP thinking_VVG that_CJT Meany_NP0-NN1 's_POS camera_NN1 equipment_NN1 probably_AV0 went_VVD ‘_PUQ crunch_NN1-VVB ’_PUQ on_PRP this_DT0 one_PNI ._PUN
+But_CJC with_PRP lightning_NN1 reflexes_NN2 Meany_NP0-NN1 pulled_VVD the_AT0 gear_NN1 well_AV0 clear_AJ0 of_PRF Robbie_NP0 Recipe_NN1 's_POS sweeper_NN1 ,_PUN yet_AV0 still_AV0 took_VVD this_DT0 shot_NN1 ._PUN
+Professional_AJ0-NN1 ._PUN
+Pure_AJ0 pro_NN1 ._PUN
+Er_UNC …_PUN forgot_VVD who_PNQ this_DT0 is_VBZ …_PUN so_AV0 let's_VM0 just_AV0 give_VVI him_PNP the_AT0 popular_AJ0 name_NN1 ‘_PUQ Local_NN1 ’_PUQ ,_PUN when_CJS in_PRP fact_NN1 he_PNP probably_AV0 is_VBZ n't_XX0 ._PUN
+But_CJC however_AV0 ,_PUN he_PNP is_VBZ doing_VDG a_AT0 wheeler_NN1 typo_NN1 thing_NN1 ,_PUN almost_AV0 a_AT0 grind_NN1 ,_PUN atop_PRP the_AT0 extension_NN1 ._PUN
+He_PNP 's_VBZ a_AT0 Z-Boy_NP0 ._PUN
+Australia_NP0
+A_AT0 pictorial_NN1 of_PRF some_DT0 sorts_NN2 ,_PUN down_AVP under_PRP-AVP ._PUN
+All_DT0 Photos_NN2 by_PRP David_NP0 Pang_NN1 ._PUN
+Byron_NP0 Convey_VVB ,_PUN stalefish_NN1 ,_PUN Fairfield_NP0 Ramp_NN1 ._PUN
+I_PNP think_VVB I_PNP met_VVD his_DPS persian_AJ0-NN1 cat_NN1 once_AV0 ,_PUN during_PRP a_AT0 persian_AJ0 cat_NN1 fair_AJ0-AV0 in_PRP Paris_NP0 ._PUN
+The_AT0 end_NN1 of_PRF a_AT0 long_AJ0 day_NN1 …_PUN
+Micheal_NP0 Mullhil_NP0-NN1 ,_PUN Mute_AJ0 air_NN1 ,_PUN Woden_NP0 ACT_NN1-VVB Ramp_NN1 ._PUN
+Trevor_NP0 King_NP0-NN1 ,_PUN backside_NN1 carve_VVB-NN1 ,_PUN Woden_NP0 ACT_NN1-VVB bowl_NN1 ._PUN
+Blake_NP0 Convey_VVB ,_PUN ollie_NN1 grab_NN1-VVB ,_PUN mini_AJ0 ramp_NN1 ,_PUN ACT_VVB-NN1 ._PUN
+Micheal_NP0 Donovan_NP0 ,_PUN handrail_VVB-NN1 ,_PUN Fyshwick_NP0 ACT_NN1-VVB ._PUN
+Patch_NN1-VVB Nugent_NN1-NP0 ,_PUN air_NN1 to_PRP fakie_NN1 ,_PUN mini_AJ0 ramp_NN1 ,_PUN tucked_VVD-VVN somewhere_AV0 in_PRP someone_PNI 's_POS backyard_NN1 in_PRP some_DT0 town_NN1 ,_PUN some_DT0 state_NN1-VVB ._PUN
+TOP_NN1-VVB :_PUN Oh_ITJ lordy_NN1 ,_PUN what_DTQ a_AT0 fine_AJ0 pool_NN1 ,_PUN let's_VM0 take_VVI a_AT0 dive_NN1 and_CJC swim_NN1-VVB ._PUN
+Not_XX0 quite_AV0 —_PUN the_AT0 Bowl_NN1 in_PRP Woden_NP0 ,_PUN ACT_NN1-VVB is_VBZ a_AT0 super_AJ0 example_NN1 of_PRF post_NN1 modern_AJ0 day_NN1 victorian_AJ0-NN1 architecture_NN1 ._PUN
+Lovely_AJ0 ._PUN
+ABOVE_AV0 LEFT_VVD-AJ0 :_PUN Jamie_NP0 Vanberr_NP0 ,_PUN ollie_NN1 with_PRP his_DPS front_AJ0-NN1 side_NN1 up_AVP ,_PUN to_PRP tail_NN1 ,_PUN in_PRP Erindale_NP0 ._PUN
+ABOVE_PRP CENTRE_NN1 :_PUN John_NP0 Finlay_NP0 ,_PUN with_PRP a_AT0 slashbackgnarler_NN1 ,_PUN frontside_NN1 ,_PUN Curb_NP0 N'_CJC Coping_VVG ,_PUN his_DPS shop_NN1 in_PRP Sydney_NP0 ._PUN
+ABOVE_PRP RIGHT_NN1 :_PUN That_DT0 man_NN1 Lee_NP0 Ralph_NP0 ,_PUN Smith_NP0 wearing-down-his_DPS trucks_NN2 stunt_VVB-NN1 ,_PUN Riot_NN1-VVB contest/ramp_NN1 ._PUN
+Jamie_NP0-NN1 Vanberr_NP0-NN1 (_PUL again_AV0 ?_PUN )_PUR performing_VVG his_DPS wonder_NN1-AJ0 magician-like_AJ0 trickery_NN1 ._PUN
+Cut_VVB the_AT0 crap_NN1 —_PUN he_PNP 's_VBZ doing_VDG a_AT0 handrail_NN1-VVB down_AVP-PRP a_AT0 flight_NN1 of_PRF steps_NN2 ,_PUN that_DT0 's_VBZ all_DT0 ._PUN
+Woden_NP0 ,_PUN ACT_VVB-NN1 ._PUN
+Corey_NP0 O'Brien_NP0 ,_PUN smithy_NN1 smith_NN1 smith_NN1 smith_NN1 ._PUN
+So_AV0 nur_UNC ._PUN
+What_DTQ ?_PUN
+You_PNP want_VVB to_TO0 know_VVI where_AVQ ?_PUN
+All_AV0 right_AV0 then_AV0 ,_PUN St_NP0 Mary_NP0 's_POS ramp_NN1 ,_PUN NSW_NP0 ._PUN
+RIGHT_AV0 :_PUN Micheal_NP0 Luzar_NP0-NN1 ,_PUN a_AT0 stoinking_AJ0 good_AJ0 freestyle_NN1 move_NN1-VVB ._PUN
+Ollieing_NP0 ,_PUN grabbing_VVG ,_PUN twisting_VVG-AJ0 ,_PUN landing_VVG-NN1 ._PUN
+Hot_AJ0 ._PUN
+He_PNP 's_VBZ cool_AJ0-AV0 ._PUN
+St_NP0 Mary_NP0 's_POS ,_PUN NSW_NP0 ._PUN
+BOTTOM_NN1-VVB :_PUN Fnnnar_NP0 ,_PUN beside_PRP that_DT0 ,_PUN Cameron_NP0 Black_NP0 tweaks_VVZ-NN2 with_PRP the_AT0 power_NN1 of_PRF a_AT0 rhino_NN0 on_PRP heat_NN1 off_PRP this_DT0 fly-off_AJ0 ._PUN
+Some_DT0 street_NN1 comp_NN1 somewhere_AV0 ._PUN
+BELOW_AV0 :_PUN Rob_NP0 Whallan_NP0 —_PUN this_DT0 Tailside_NN1 won_VVD the_AT0 vote_NN1 of_PRF the_AT0 judges_NN2 ,_PUN enabling_VVG him_PNP to_TO0 win_VVI victory_NN1 during_PRP the_AT0 World_NN1 Baseball_NN1 Invitational_NP0 ._PUN
+What_DTQ a_AT0 man_NN1 ._PUN
+Woden_NP0 ramp_NN1 ,_PUN ACT_VVB-NN1 ._PUN
+1000_CRD WORDS_NN2
+A_AT0 picture_NN1 is_VBZ worth_PRP …_PUN
+Ed_NP0 Templeton_NP0 ._PUN
+Bin_VVB-NN1 Ollie_NP0 from_PRP pool_NN1 ._PUN
+Ca_NP0 ,_PUN USA._NP0 •_PUN Kline_NP0 ._PUN
+Florian_NP0 Bohm_NP0 ._PUN
+Germany_NP0 ._PUN
+•_PUN Thomas_NP0 Kalak_NP0 ._PUN
+Mike_NP0 Crumb_NN1 ._PUN
+Phillips_NP0 '_POS Park_NN1-NP0 ,_PUN Dallas_NP0 ._PUN
+•_PUN Paul_NP0 Duffy_NP0 ._PUN
+Local_NN1-AJ0 ,_PUN Peanut_NN1 Bowl_NN1 ,_PUN Texas_NP0 ._PUN
+•_PUN Paul_NP0 Duffy_NP0 ._PUN
+Mark_NP0 Heintzman_NP0-NN1 ._PUN
+Melanchollie_NN1-NP0 ,_PUN curb_VVB ._PUN
+•_PUN Florian_NP0 Bohm_NP0 ._PUN
+Omar_NP0 Hassan_NP0 ,_PUN mini_AJ0 ramp_NN1 ,_PUN CA_NP0 ,_PUN USA._NP0 •_PUN Brad_NP0 McDonald_NP0 ._PUN
+Dave_NP0 Davies_NP0 ,_PUN smithy_NN1 in_PRP Texas_NP0 ._PUN
+•_PUN Paul_NP0 Duffy_NP0 ._PUN
+Alan_NP0 Bird_NP0 ,_PUN front_AJ0 truck_NN1 grind_NN1-VVB ,_PUN Chico_NP0 ,_PUN Ca_NP0 ,_PUN USA._NP0 •_PUN Brad_NP0 McDonald_NP0 ._PUN
+Gator_NN1-NP0 ,_PUN mini_AJ0 ramp_NN1 ,_PUN Ca_NP0 ,_PUN USA._NP0 •_PUN Brad_NP0 McDonald_NP0 ._PUN
+Mail_NN1-VVB
+A_AT0 while_NN1 ago_AV0 ,_PUN Skateboard_NN1-VVB !_PUN used_VM0 to_TO0 run_VVI a_AT0 letters_NN2 page_NN1-VVB —_PUN well_AV0 ,_PUN it_PNP 's_VBZ back_AVP ._PUN
+Witness_VVB the_AT0 re-birth_NN1 of_PRF the_AT0 SB_NP0 !_PUN
+Mail_NN1-VVB Page_NN1 ._PUN
+Read_VVB typical_AJ0 and_CJC not_XX0 so_AV0 typical_AJ0 letter_NN1 fare_NN1-VVB from_PRP people_NN0 just_AV0 like_PRP you_PNP —_PUN readers_NN2 ._PUN
+and_CJC if_CJS these_DT0 people_NN0 ,_PUN who_PNQ are_VBB just_AV0 like_PRP you_PNP ,_PUN write_VVB in_AVP and_CJC have_VHB their_DPS letters_NN2 printed_VVN here_AV0 ,_PUN why_AVQ ca_VM0 n't_XX0 you_PNP write_VVI in_AVP and_CJC receive_VVI the_AT0 same_DT0 treatment_NN1 ?_PUN
+Published_AJ0-VVN satisfaction_NN1 ._PUN
+Of_PRF course_NN1 ,_PUN not_XX0 just_AV0 any_DT0 old_AJ0 fart_NN1 can_VM0 write_VVI in_AVP with_PRP ‘_PUQ please_AV0 sir_NN1 ,_PUN some_DT0 stickers_NN2 please_AV0 ’_PUQ and_CJC hope_VVB-NN1 to_TO0 get_VVI anything_PNI printed_VVN-AJ0 —_PUN we_PNP need_VVB good_AJ0 solid_AJ0 letter_NN1 writing_VVG-NN1 about_PRP anything_PNI you_PNP feel_VVB like_PRP in_PRP the_AT0 skateboard_NN1 world_NN1 ._PUN
+For_PRP instance_NN1 ,_PUN tell_VVB us_PNP about_PRP your_DPS scene_NN1 ,_PUN ask_VVB why_AVQ things_NN2 happen_VVB or_CJC do_VDB n't_XX0 ,_PUN send_VVB us_PNP a_AT0 few_DT0 photos_NN2 ,_PUN whatever_DTQ ._PUN
+Up_AVP to_PRP you_PNP ._PUN
+S_ZZ0 E_ZZ0 N_ZZ0 D_ZZ0 :_PUN
+Skateboard_VVB-NN1 !_PUN
+Mail_NN1-VVB ,_PUN PO_NN1 BOX_NN1 1300_CRD ,_PUN DORCHESTER_NP0 ,_PUN DORSET_NP0 ,_PUN DT1_UNC 11FN_UNC ._PUN
+Sponsorship_NN1
+Dear_ITJ SB_NP0 !_PUN
+Myself_PNX and_CJC a_AT0 mate_NN1 are_VBB making_VVG a_AT0 video_NN1 in_PRP the_AT0 hope_NN1 of_PRF sponsorship_NN1 ,_PUN even_AV0 if_CJS it_PNP is_VBZ just_AV0 some_DT0 wheels_NN2 or_CJC something_PNI ._PUN
+So_AV0 we_PNP were_VBD wondering_VVG if_CJS you_PNP would_VM0 send_VVI us_PNP some_DT0 addresses_NN2 of_PRF skateboard_NN1 companies_NN2 that_CJT might_VM0 sponsor_VVI us_PNP ,_PUN eg_AV0 Powell_NP0 ,_PUN Santa_NP0 Cruz_NP0 or_CJC someone_PNI ._PUN
+We_PNP are_VBB doing_VDG this_DT0 because_CJS some_DT0 kids_NN2 always_AV0 tell_VVB us_PNP ‘_PUQ oh_ITJ ,_PUN we_PNP can_VM0 do_VDI that_DT0 but_CJC with_PRP my_DPS legs_NN2 tied_VVN behind_PRP my_DPS back_NN1 ’_PUQ which_DTQ can_VM0 be_VBI very_AV0 annoying_AJ0 ._PUN
+We_PNP would_VM0 be_VBI very_AV0 grateful_AJ0 if_CJS you_PNP could_VM0 send_VVI us_PNP addresses_NN2-VVZ ,_PUN unless_CJS you_PNP would_VM0 be_VBI interested_AJ0 in_PRP sponsoring_VVG two_CRD young_AJ0 ,_PUN budding_VVG-AJ0 16_CRD year_NN1 old_AJ0 skaters_NN2 ._PUN
+Yours_PNP thrashingly_AV0 Darran_NP0 Miles_NP0 ._PUN
+Bournemouth_NP0 Dorset_NP0
+For_PRP one_PNI-CRD ,_PUN we_PNP do_VDB n't_XX0 sponsor_VVI skaters_NN2 ,_PUN so_CJS you_PNP can_VM0 count_VVI us_PNP out_AVP there_AV0 ._PUN
+Next_ORD ,_PUN if_CJS you_PNP want_VVB to_TO0 try_VVI to_TO0 get_VVI sponsorship_NN1 then_AV0 write_VVB to_PRP the_AT0 importers_NN2 or_CJC dealers_NN2 in_PRP this_DT0 country_NN1 —_PUN their_DPS addresses_NN2 are_VBB in_PRP the_AT0 ads_NN2 of_PRF this_DT0 magazine_NN1 —_PUN do_VDB n't_XX0 try_VVI writing_VVG direct_AJ0-AV0 to_PRP the_AT0 USA_NP0 ,_PUN they_PNP wo_VM0 n't_XX0 want_VVI to_TO0 know_VVI ._PUN
+Videos_NN2 are_VBB an_AT0 idea_NN1 ,_PUN but_CJC make_VVB sure_AJ0 they_PNP are_VBB good_AJ0 ._PUN
+Anyway_AV0 ,_PUN I_PNP 'm_VBB sure_AJ0 that_CJT those_DT0 people_NN0 you_PNP know_VVB who_PNQ can_VM0 skate_VVI with_PRP their_DPS legs_NN2 tied_VVN behind_PRP their_DPS backs_NN2 are_VBB definitely_AV0 worthy_AJ0 of_PRF flowage_NN1 ._PUN
+SB_NP0 !_PUN
+PRINCE_NN1 'S_POS TRUSS_NP0
+Dear_AJ0 sir_NN1 ,_PUN
+I_PNP am_VBB writing_VVG on_PRP behalf_NN1 of_PRF the_AT0 Princes_NN2 Trust_NN1 Community_NN1 Venture_NN1-VVB in_PRP Cornwall_NP0 ._PUN
+For_PRP part_NN1 of_PRF our_DPS course_NN1 we_PNP have_VHB to_TO0 organise_VVI a_AT0 community_NN1 project_NN1 ,_PUN which_DTQ entails_VVZ fundraising_NN1 and_CJC planning_NN1-VVG ._PUN
+We_PNP considered_VVD several_DT0 ideas_NN2 but_CJC the_AT0 one_PNI we_PNP felt_VVD to_TO0 be_VBI most_AV0 beneficial_AJ0 to_PRP the_AT0 local_AJ0 community_NN1 was_VBD a_AT0 skateboard_NN1 ramp/halfpipe_NN1 ._PUN
+We_PNP are_VBB therefore_AV0 looking_VVG for_PRP sponsors_NN2 to_TO0 help_VVI the_AT0 project_NN1 ._PUN
+Hopefully_AV0 this_DT0 may_VM0 lead_VVI to_PRP publicity_NN1 for_PRP these_DT0 benefactors_NN2 ._PUN
+Yours_PNP sincerely_AV0 Vikki_NP0 Anderson_NP0 3–5_CRD Commercial_NP0 Square_NP0 ,_PUN Camborne_NP0 Cornwall_NP0 ,_PUN TR14_UNC 8DY_UNC
+You_PNP could_VM0 try_VVI writing_VVG-NN1 to_PRP a_AT0 ramp_NN1 builder_NN1 ,_PUN like_PRP Rare_AJ0 Unit_NN1 or_CJC Freestyle_NP0-NN1 Ramps_NN2 for_PRP example_NN1 ._PUN
+They_PNP might_VM0 oblige_VVI ._PUN
+Generally_AV0 ,_PUN sponsors_NN2 for_PRP local_AJ0 ramps_NN2 are_VBB a_AT0 very_AV0 rare_AJ0 creature_NN1 indeed_AV0 —_PUN local_AJ0 fund_NN1 raising_NN1 is_VBZ definitely_AV0 the_AT0 best_AJS way_NN1 to_TO0 pay_VVI for_PRP a_AT0 ramp_NN1 ._PUN
+Or_CJC ,_PUN you_PNP could_VM0 privatise_VVI it_PNP and_CJC charge_NN1-VVB for_PRP skate_NN1 sessions_NN2 ,_PUN but_CJC making_VVG it_PNP successful_AJ0 this_DT0 way_NN1 is_VBZ a_AT0 hard_AJ0 slog_NN1 ,_PUN what_DTQ with_PRP the_AT0 initial_AJ0-NN1 funding_NN1 for_PRP equipment_NN1 ,_PUN paying_VVG to_TO0 keep_VVI the_AT0 ramps_NN2 skateable_AJ0 ,_PUN and_CJC improving_VVG the_AT0 park_NN1 ,_PUN all_DT0 out_AVP of_PRF skate_NN1 session_NN1 fees_NN2 ._PUN
+Ask_VVB Scoff_NN1-NP0 ._PUN
+So_AV0 ,_PUN go_VVB for_PRP fund_NN1 raising_NN1 ._PUN
+and_CJC good_AJ0 luck_NN1 !_PUN
+SB_NP0 !_PUN
+RACISM_NN1
+Dear_AJ0 Steve_NP0 Kane_NP0 ,_PUN
+I_PNP have_VHB just_AV0 read_VVN your_DPS piece_NN1 about_PRP this_DT0 year_NN1 's_POS Munster_NP0 competition_NN1 ._PUN
+As_CJS the_AT0 English_AJ0 might_VM0 say_VVI :_PUN what_DTQ a_AT0 load_NN1 of_PRF bollocks_NN2 !_PUN
+It_PNP 's_VBZ a_AT0 shame_NN1 that_CJT someone_PNI as_AV0 obviously_AV0 capable_AJ0 of_PRF expressing_VVG himself_PNX as_CJS you_PNP is_VBZ given_VVN to_PRP such_DT0 bursts_NN2 of_PRF undisguised_AJ0 racism_NN1 and_CJC ignorance_NN1 ._PUN
+I_PNP mean_VVB ,_PUN when_AVQ was_VBD the_AT0 last_ORD time_NN1 ANYBODY_PNI bothered_VVD mentioning_VVG the_AT0 War_NN1 in_PRP any_DT0 public_AJ0 forum_NN1 ,_PUN let_VVB alone_AJ0 in_PRP a_AT0 skateboard_NN1 magazine_NN1 ?_PUN
+Mind_VVB you_PNP ,_PUN it_PNP 's_VBZ not_XX0 such_DT0 a_AT0 surprise_NN1 coming_VVG from_PRP one_PNI who_PNQ is_VBZ self-confessedly_AV0 arrogant_AJ0 and_CJC opinionated_VVD and_CJC whose_DTQ only_AJ0 accolade_NN1 is_VBZ that_CJT he_PNP edits_VVZ a_AT0 magazine_NN1 ._PUN
+It_PNP seems_VVZ (_PUL from_PRP the_AT0 recent_AJ0 development_NN1 of_PRF your_DPS journalistic_AJ0 style_NN1 )_PUR that_DT0-CJT ‘_PUQ editorship_NN1 ’_PUQ has_VHZ inflated_VVN your_DPS ego_NN1 to_PRP the_AT0 point_NN1 of_PRF eradicating_VVG your_DPS sense_NN1 of_PRF judgement_NN1 ._PUN
+Still_AV0 ,_PUN the_AT0 magazine_NN1 looks_VVZ better_AJC and_CJC better_AV0 and_CJC Paul_NP0 Duffy_NP0 and_CJC Marco_NP0 Contati_NP0 take_VVB great_AJ0 photographs_NN2 ._PUN
+Hope_VVB to_TO0 meet_VVI you_PNP next_ORD year_NN1 ,_PUN
+Jonny_NP0 Weber_NP0 Munchen_NP0 Deutschland_NP0
+Thanks_NN2 for_PRP the_AT0 heartfelt_AJ0 letter_NN1 Jonny_NN1-NP0 ._PUN
+However_AV0 ,_PUN Steve_NP0 Kane_NP0 is_VBZ no_AV0 longer_AV0 on_PRP Skateboard_NN1 !_PUN 's_POS staff_NN0 ._PUN
+SB_NP0 !_PUN
+A_AT0 bit_NN1 more_AV0 retrospective_AJ0 —_PUN Ian_NP0 Cocking_NP0 ,_PUN f/s_ZZ0 ollie_NN1 ,_PUN Farnborough_NP0 ,_PUN 1983_CRD ._PUN

@@ -1,0 +1,1185 @@
+The_AT0 official_AJ0 magazine_NN1 of_PRF the_AT0 Sub-Aqua_AJ0 Association_NN1 SCUBA_NN1-NP0 World_NN1 No_AT0 24_CRD COMPETITION_NN1 WIN_VVB-NN1 A_AT0 BEAVER_NN1-VVB DRYSUIT_NN1-NP0 CARTOON_NN1 FUN_NN1 WILL_VM0 IVOR_NP0 EVER_AV0 GO_VVI DOWN_AVP WITH_PRP SALLY_NP0 ?_PUN
+COMMERCIAL_AJ0 DIVING_AJ0-NN1 DIVER_NN1 DEPLOYMENT_NN1 THE_AT0 SAFE_AJ0 WAY_NN1 PLUS_PRP ALL_DT0 THE_AT0 LATEST_AJS NEWS_NN1 FROM_PRP THE_AT0 DIVING_AJ0-NN1 WORLD_NN1 CAVE_NN1 DIVING_NN1-AJ0 WORLD_NN1 RECORD_NN1 BROKEN_VVN IN_PRP YORKSHIRE_NP0 'S_POS BOWELS_NN2 DIVING_NN1 HOLIDAYS_NN2 AUSTRALIA_NP0 EXPENSIVE_AJ0 BUT_CJC WORTH_PRP EVERY_AT0 PENNY_NN1 LEARNING_VVG TO_TO0 DIVE_VVI PUFFIN_NN1 GOOD_AJ0 FUN_NN1-AJ0 FIONA_NP0 CONACHER_NP0 JUMPS_VVZ IN_AVP EQUIPMENT_NN1 FOUR_CRD DIVE_NN1-VVB COMPUTERS_NN2 REVIEWED_VVN-VVD
+CONTENTS_NN2
+SCUBA_NP0-NN1 WORLD_NN1 OCTOBER_NP0 1991_CRD
+COMMENT_VVB-NN1
+Hans_NP0 Hass_NP0-NN1 on_PRP how_AVQ the_AT0 continents_NN2 were_VBD formed_VVN ._PUN
+LETTERS_NN2
+Revealing_VVG-AJ0 what_DTQ you_PNP ,_PUN the_AT0 readers_NN2 ,_PUN really_AV0 think_VVB ._PUN
+EQUIPMENT_NN1
+Focusing_VVG on_PRP dive_NN1 computers_NN2 ;_PUN their_DPS intricacies_NN2 and_CJC usefulness_NN1 ._PUN
+CAVE_NN1-NP0 DIVING_NN1
+Gavin_NP0 Newman_NP0 was_VBD there_AV0 when_CJS the_AT0 record_NN1 was_VBD broken_VVN-AJ0 ._PUN
+COMMERCIAL_AJ0 DIVING_NN1
+James_NP0 Chapman_NP0 looks_VVZ at_PRP safe_AJ0 diver_NN1 deployment_NN1 ._PUN
+TRADE_NN1-VVB GOSSIP_NN1-VVB
+The_AT0 latest_AJS news_NN1 and_CJC events_NN2 from_PRP the_AT0 diving_AJ0-NN1 world_NN1 ._PUN
+COMPETITION_NN1
+Send_VVB in_AVP your_DPS entry_NN1 today_AV0 and_CJC you_PNP could_VM0 win_VVI a_AT0 Beaver_NN1 drysuit_NN1 !_PUN
+Qs_UNC &_CJC As_CJS
+Improve_VVB your_DPS knowledge_NN1 with_PRP Dave_NP0 Thomas_NP0 ._PUN
+UK_NP0 DIVING_NN1
+Sampling_VVG-NN1 Oban_NP0 's_POS pleasures_NN2 ;_PUN Fiona_NP0 Conacher_NP0 learns_VVZ to_TO0 dive_VVI ._PUN
+AQUATIC_AJ0 LIFE_NN1
+Andy_NP0 Purcell_NP0 focuses_VVZ on_PRP three_CRD wrasse_NN1 from_PRP the_AT0 Mediterranean_AJ0 ._PUN
+SAA_NP0 NEWS_NN1
+Keep_VVB up_AVP to_TO0 date_NN1 with_PRP the_AT0 latest_AJS news_NN1 and_CJC events_NN2 from_PRP the_AT0 SAA_NP0 ._PUN
+MARINE_AJ0 BIOLOGY_NN1
+Alan_NP0 Major_NP0 on_PRP ‘_PUQ sails_NN2 ’_PUQ and_CJC ‘_PUQ swords_NN2 ’_PUQ ._PUN
+DIVING_AJ0-VVG HOLIDAYS_NN2
+Chris_NP0 Howes_NP0 spends_VVZ a_AT0 pretty_AJ0 penny_NN1 ,_PUN with_PRP no_AT0 regrets_NN2 ._PUN
+CARTOON_NN1
+‘_PUQ Fool_VVB-NN1 at_PRP the_AT0 Pool_NN1 ’_PUQ Ivor_NP0 Bend_NN1 meets_VVZ Sally_NP0 down_AVP at_PRP the_AT0 club_NN1 ._PUN
+Above_AV0 :_PUN Drifting_VVG slowly_AV0 up_AVP-PRP the_AT0 reef_NN1 wall_NN1 ,_PUN curious_AJ0 fish_NN0 surround_VVB a_AT0 diver_NN1 ._PUN
+Taken_VVN on_AVP the_AT0 Great_AJ0 Barrier_NN1 Reef_NN1 by_PRP Chris_NP0 Howes_NP0 ._PUN
+Cover_VVB-NN1 :_PUN Fiona_NP0 Conacher_NP0-NN1 kits_NN2 up_AVP helped_VVD-VVN by_PRP Duncan_NP0 McKelvie_NP0 from_PRP the_AT0 Puffin_NP0 Dive_NN1-VVB School_NN1 ._PUN
+Photograph_NN1-VVB by_PRP Andrew_NP0 Mounter_NP0-NN1 ._PUN
+COMMENT_VVB-NN1
+The_AT0 Landlubber_NP0-NN1 's_POS World_NN1
+The_AT0 oceans_NN2 provide_VVB us_PNP with_PRP much_DT0 more_DT0 than_CJS pleasure_NN1 for_PRP the_AT0 diver_NN1 and_CJC beautiful_AJ0 photographs_NN2 for_PRP the_AT0 photographer_NN1 ;_PUN they_PNP also_AV0 give_VVB us_PNP invaluable_AJ0 knowledge_NN1 ._PUN
+This_DT0 issue_NN1 ,_PUN Hans_NP0 Hass_NP0 explains_VVZ the_AT0 origins_NN2 and_CJC movements_NN2 of_PRF the_AT0 continents_NN2 ._PUN
+Along_PRP the_AT0 coasts_NN2 the_AT0 ground_NN1 falls_VVZ gradually_AV0 to_PRP about_AV0 100_CRD fathoms_NN2 ._PUN
+These_DT0 platforms_NN2 stretching_VVG round_PRP-AVP the_AT0 continents_NN2 are_VBB called_VVN the_AT0 continental_AJ0 shelf_NN1 ._PUN
+Then_AV0 there_EX0 is_VBZ a_AT0 much_AV0 steeper_AJC drop_NN1 up_AVP to_PRP 2,000_CRD fathoms_NN2 ._PUN
+Soundings_NN2 have_VHB shown_VVN that_CJT along_PRP these_DT0 precipices_NN2 are_VBB vertical-sided_AJ0 chasms_NN2 which_DTQ would_VM0 often_AV0 dwarf_VVI the_AT0 Grand_AJ0 Canyon_NN1-NP0 ._PUN
+How_AVQ did_VDD these_DT0 chasms_NN2 come_VVI about_AVP ;_PUN what_DTQ forces_NN2 fashioned_VVD them_PNP ?_PUN
+Originally_AV0 the_AT0 ocean_NN1 floor_NN1 was_VBD thought_VVN of_PRF as_AV0 one_CRD desolate_AJ0 plain_NN1 ._PUN
+There_EX0 are_VBB such_DT0 plains_NN2 ,_PUN but_CJC the_AT0 typical_AJ0 profile_NN1 of_PRF the_AT0 seabed_NN1 is_VBZ one_PNI that_CJT contains_VVZ gigantic_AJ0 mountain_NN1 ranges_NN2-VVZ ,_PUN innumerable_AJ0 equally_AV0 huge_AJ0 volcanoes_NN2 ,_PUN and_CJC gorges_NN2 of_PRF a_AT0 depth_NN1 never_AV0 dreamed_VVD of_PRF furrowing_VVG the_AT0 deep-sea_AJ0 floor_NN1 ._PUN
+What_DTQ is_VBZ the_AT0 meaning_NN1 of_PRF these_DT0 gorges_NN2 ,_PUN the_AT0 oceanographers_NN2 asked_VVD themselves_PNX ._PUN
+And_CJC what_DTQ in_PRP particular_AJ0 ,_PUN is_VBZ the_AT0 meaning_NN1 of_PRF a_AT0 very_AV0 remarkable_AJ0 gorge_NN1 ,_PUN well_AV0 over_PRP-AVP a_AT0 mile_NN1 deep_AJ0-NN1 ,_PUN running_VVG along_PRP-AVP the_AT0 crest_NN1 of_PRF the_AT0 highest_AJS underwater_AJ0 range_NN1 ,_PUN the_AT0 mid-Atlantic_NP0 ridge_NN1 ?_PUN
+This_DT0 range_NN1 is_VBZ the_AT0 mightiest_AJS geological_AJ0 formation_NN1 on_PRP our_DPS planet_NN1 ._PUN
+Starting_VVG-NN1 near_PRP Iceland_NP0 ,_PUN it_PNP ends_VVZ near_PRP California_NP0 ._PUN
+It_PNP is_VBZ about_AV0 48,000_CRD miles_NN2 long_AJ0 ._PUN
+In_PRP the_AT0 Atlantic_NP0 its_DPS average_AJ0-NN1 breadth_NN1 is_VBZ nearly_AV0 100_CRD miles_NN2 ,_PUN and_CJC many_DT0 of_PRF its_DPS peaks_NN2 tower_NN1 10,000_CRD feet_NN2 above_PRP the_AT0 seabed_NN1 ._PUN
+At_PRP some_DT0 places_NN2 the_AT0 peaks_NN2 rise_VVB-NN1 above_PRP water_NN1 —_PUN for_PRP example_NN1 as_PRP the_AT0 Azores_NP0 ;_PUN known_VVN to_PRP us_PNP as_PRP islands_NN2 ._PUN
+Their_DPS highest_AJS summit_NN1 ,_PUN the_AT0 Pico_NP0 Alto_NP0 ,_PUN has_VHZ an_AT0 altitude_NN1 of_PRF 30,000_CRD feet_NN2 when_CJS measured_VVN from_PRP the_AT0 seabed_NN1 ._PUN
+And_CJC on_PRP the_AT0 ridge_NN1 of_PRF this_DT0 endless_AJ0 mountain_NN1 chain_NN1 runs_VVZ this_DT0 strange_AJ0 chasm_NN1 ,_PUN for_PRP the_AT0 most_AV0 part_NN1 almost_AV0 7,000_CRD feet_NN2 deep_AJ0 ,_PUN which_DTQ can_VM0 be_VBI traced_VVN right_AV0 along_PRP the_AT0 backbone_NN1 ._PUN
+What_DTQ can_VM0 the_AT0 significance_NN1 be_VBI ?_PUN
+The_AT0 explanation_NN1 of_PRF this_DT0 furrow_NN1 was_VBD discovered_VVN in_PRP the_AT0 1960s_CRD and_CJC restored_VVD the_AT0 reputation_NN1 of_PRF a_AT0 German_AJ0 geophysicist_NN1 who_PNQ proposed_VVD a_AT0 hypothesis_NN1 which_DTQ most_DT0 people_NN0 disregarded_VVD-VVN ._PUN
+Alfred_NP0 Wegener_NP0 was_VBD a_AT0 keen_AJ0 thinker_NN1 and_CJC a_AT0 daring_AJ0 pioneer_NN1 ._PUN
+In_PRP 1915_CRD he_PNP wrote_VVD :_PUN The_AT0 Origin_NN1 of_PRF Continents_NN2 and_CJC Oceans_NN2 ._PUN
+The_AT0 claims_NN2 he_PNP made_VVD went_VVD directly_AV0 against_PRP traditional_AJ0 thought_NN1 ._PUN
+His_DPS theory_NN1 was_VBD ridiculed_VVN-AJ0 and_CJC dismissed_VVD ._PUN
+However_AV0 ,_PUN several_DT0 people_NN0 before_PRP him_PNP —_PUN Francis_NP0 Bacon_NP0 even_AV0 —_PUN had_VHD been_VBN struck_VVN by_PRP the_AT0 amazing_AJ0 correspondence_NN1 between_PRP the_AT0 coastlines_NN2 of_PRF the_AT0 African_AJ0 and_CJC South_NP0 American_AJ0 continents_NN2 ._PUN
+This_DT0 ,_PUN Wegener_NP0 explained_VVD ,_PUN was_VBD because_CJS the_AT0 continents_NN2 were_VBD not_XX0 fixed_VVN-AJ0 ,_PUN but_CJC drifted_VVD like_PRP ships_NN2 on_PRP the_AT0 earth_NN1 's_POS surface_NN1 ._PUN
+And_CJC that_CJT whereas_CJS the_AT0 earth_NN1 's_POS actual_AJ0 mantle_NN1 ,_PUN which_DTQ appears_VVZ on_PRP the_AT0 ocean_NN1 floor_NN1 ,_PUN consists_VVZ of_PRF heavy_AJ0 rocks_NN2 —_PUN predominantly_AV0 silicon_NN1 and_CJC magnesium_NN1 (_PUL sima_NN1 )_PUR —_PUN the_AT0 continents_NN2 are_VBB made_VVN of_PRF lighter_AJC material_NN1 :_PUN igneous_AJ0 rocks_NN2 and_CJC crystalline_AJ0 schists_NN2 (_PUL sial_NN1 )_PUR ._PUN
+According_VVG to_PRP Wegener_NP0-NN1 ,_PUN the_AT0 sial_NN1 masses_NN2 of_PRF the_AT0 continents_NN2 shifted_VVN-VVD on_PRP the_AT0 earth_NN1 's_POS actual_AJ0 mantle_NN1 ,_PUN the_AT0 sima_NN1 foundation_NN1 ._PUN
+Originally_AV0 a_AT0 sial_NN1 crust_NN1 had_VHD enveloped_VVN the_AT0 earth_NN1 ,_PUN but_CJC it_PNP then_AV0 split_VVD on_PRP one_CRD side_NN1 and_CJC compressed_VVN-VVD into_PRP the_AT0 solid_AJ0 mass_NN1 of_PRF the_AT0 present-day_AJ0 continents_NN2 ._PUN
+This_DT0 was_VBD surrounded_VVN by_PRP the_AT0 Pacific_NP0 Ocean_NP0 ._PUN
+Then_AV0 about_AV0 200_CRD million_CRD years_NN2 ago_AV0 ,_PUN this_DT0 gigantic_AJ0 earth-mass_NN1 split_VVN into_PRP several_DT0 parts_NN2 ._PUN
+South_NN1 America_NP0 separated_VVD-VVN from_PRP Africa_NP0 ,_PUN while_CJS Antarctica_NP0 and_CJC Australia_NP0 —_PUN still_AV0 joined_VVN together_AV0 —_PUN drifted_VVD southwards_AV0 ._PUN
+On_PRP the_AT0 eastern_AJ0 side_NN1 another_DT0 split_NN1 opened_VVD up_AVP ,_PUN giving_VVG birth_NN1 to_PRP India_NP0 ,_PUN which_DTQ drifted_VVD away_AV0 from_PRP Africa_NP0 ._PUN
+Then_AV0 Antarctica_NP0 and_CJC Australia_NP0 became_VVD separate_AJ0 land-masses_NN2 ,_PUN drifting_VVG on_AVP-PRP independently_AV0 ,_PUN while_CJS North_NP0 and_CJC South_NN1 America_NP0 moved_VVD farther_AV0 and_CJC farther_AV0 from_PRP Africa_NP0 ,_PUN Europe_NP0 and_CJC Asia_NP0 ._PUN
+This_DT0 produced_VVD the_AT0 Atlantic_NP0 on_PRP one_CRD side_NN1 and_CJC the_AT0 Indian_NP0 Ocean_NP0 and_CJC Red_NP0 Sea_NP0 on_PRP the_AT0 other_NN1 ._PUN
+The_AT0 Pacific_NP0 became_VVD correspondingly_AV0 smaller_AJC ._PUN
+Wegener_NP0-NN1 's_POS main_AJ0 difficulty_NN1 was_VBD how_AVQ to_TO0 explain_VVI this_DT0 remarkable_AJ0 movement_NN1 ._PUN
+He_PNP based_VVD his_DPS explanation_NN1 on_PRP a_AT0 movement_NN1 away_AV0 from_PRP the_AT0 poles_NN2 and_CJC a_AT0 westerly_AJ0 drift_NN1 of_PRF the_AT0 land-masses_NN2 ._PUN
+That_DT0 such_DT0 shifts_NN2 did_VDD indeed_AV0 take_VVI place_NN1 ,_PUN is_VBZ shown_VVN by_PRP the_AT0 geological_AJ0 and_CJC biological_AJ0 conformity_NN1 at_PRP the_AT0 edges_NN2 which_DTQ once_AV0 joined_VVD together_AV0 ._PUN
+However_AV0 ,_PUN the_AT0 clue_NN1 to_PRP the_AT0 forces_NN2 which_DTQ shift_VVB the_AT0 continents_NN2 ,_PUN is_VBZ provided_VVN by_PRP the_AT0 chasm_NN1 which_DTQ stretches_VVZ along_PRP-AVP the_AT0 ridge_NN1 of_PRF the_AT0 gigantic_AJ0 submarine_NN1 ranges_NN2-VVZ ._PUN
+Through_PRP this_DT0 rift_NN1 ,_PUN lava_NN1 from_PRP the_AT0 earth_NN1 's_POS core_NN1 constantly_AV0 flows_VVZ ._PUN
+The_AT0 whole_AJ0 mountain_NN1 chain_NN1 originated_VVN-VVD from_PRP this_DT0 cleft_NN1-AJ0 as_CJS-PRP lava_NN1 surged_VVD up_AVP and_CJC spilled_VVD down_AVP on_PRP both_DT0 sides_NN2 ._PUN
+How_AVQ does_VDZ one_PNI know_VVI this_DT0 so_AV0 precisely_AV0 today_AV0 ?_PUN
+Oceanographers_NN2 have_VHB found_VVN conclusive_AJ0 proof_NN1 ._PUN
+When_CJS lava_NN1 solidifies_VVZ ,_PUN its_DPS tiny_AJ0 ferrous_AJ0 particles_NN2 align_VVB themselves_PNX ,_PUN like_PRP magnetic_AJ0 needles_NN2 ,_PUN with_PRP the_AT0 earth_NN1 's_POS magnetic_AJ0 field_NN1 ._PUN
+They_PNP are_VBB a_AT0 frozen_AJ0 compass_NN1 ._PUN
+It_PNP is_VBZ now_AV0 established_VVN that_CJT the_AT0 North_NN1 and_CJC South_NN1 Poles_NN2 exchange_VVB-NN1 places_NN2 about_PRP every_AT0 500,000_CRD years_NN2 ._PUN
+If_CJS lava_NN1 solidifies_VVZ 500,000_CRD years_NN2 later_AV0 ,_PUN the_AT0 congealed_AJ0 magnetic_AJ0 needles_NN2 will_VM0 point_VVI the_AT0 opposite_AJ0 way_NN1 ._PUN
+A_AT0 study_NN1 of_PRF rock_NN1 samples_NN2-VVZ from_PRP the_AT0 right_NN1-AJ0 and_CJC left_AJ0-NN1 of_PRF the_AT0 chasm_NN1 ,_PUN has_VHZ shown_VVN that_CJT its_DPS magnetisation_NN1 switches_VVZ round_AVP at_PRP regular_AJ0 intervals_NN2 ._PUN
+This_DT0 has_VHZ been_VBN used_VVN to_TO0 prove_VVI that_CJT the_AT0 seabed_NN1 to_PRP the_AT0 right_NN1-AJ0 and_CJC left_AJ0-NN1 of_PRF the_AT0 rift_NN1 was_VBD forced_VVN away_AV0 by_PRP the_AT0 outflow_NN1 of_PRF lava_NN1 ,_PUN and_CJC set_VVN-VVD in_PRP motion_NN1 ._PUN
+The_AT0 upper_AJ0 layer_NN1 of_PRF the_AT0 seabed_NN1 is_VBZ relatively_AV0 thin_AJ0 (_PUL about_AV0 12_CRD to_PRP 25_CRD miles_NN2 deep_AJ0 )_PUR compared_VVN to_PRP the_AT0 viscous_AJ0 interior_NN1 ._PUN
+Hence_AV0 ,_PUN the_AT0 continents_NN2 ,_PUN islands_NN2 ,_PUN and_CJC submarine_NN1 ranges_NN2-VVZ drift_VVB-NN1 on_PRP-AVP these_DT0 thinner_AJC plates_NN2 ,_PUN like_PRP conveyor_NN1 belts_NN2 ._PUN
+There_EX0 are_VBB then_AV0 three_CRD possibilities_NN2 :_PUN first_ORD ,_PUN their_DPS edges_NN2 may_VM0 slide_VVI along_AVP against_PRP each_DT0 other_NN1 ;_PUN second_ORD ,_PUN they_PNP may_VM0 move_VVI away_AV0 from_PRP each_DT0 other_NN1 —_PUN then_AV0 fresh_AJ0 lava_NN1 emerges_VVZ from_PRP the_AT0 crack_NN1 which_DTQ is_VBZ formed_VVN between_PRP them_PNP ;_PUN third_ORD ,_PUN they_PNP may_VM0 move_VVI towards_PRP each_DT0 other_NN1 ,_PUN one_CRD plate_NN1 sliding_VVG under_PRP the_AT0 other_NN1 ._PUN
+Wegener_NP0-NN1 had_VHD already_AV0 realised_VVN that_CJT the_AT0 Himalayas_NP0 originated_VVD due_AJ0 to_PRP the_AT0 Indian_AJ0 continental_AJ0 table_NN1 sliding_VVG under_PRP-AVP its_DPS Asiatic_AJ0 counterpart_NN1 ._PUN
+And_CJC it_PNP is_VBZ now_AV0 recognised_VVN that_CJT the_AT0 great_AJ0 mountain_NN1 chains_NN2 are_VBB always_AV0 found_VVN on_PRP the_AT0 side_NN1 of_PRF the_AT0 continental_AJ0 plate_NN1 facing_VVG the_AT0 direction_NN1 of_PRF its_DPS drift_NN1 ._PUN
+They_PNP arched_VVD up_AVP because_CJS they_PNP resisted_VVD further_AJC movement_NN1 ._PUN
+Sixty_CRD five_CRD years_NN2 ago_AV0 our_DPS continents_NN2 were_VBD regarded_VVN as_CJS absolutely_AV0 fixed_VVN-AJ0 ._PUN
+This_DT0 idea_NN1 ,_PUN deeply_AV0 rooted_VVN in_PRP human_AJ0 consciousness_NN1 ,_PUN has_VHZ now_AV0 been_VBN discredited_VVN ._PUN
+And_CJC it_PNP was_VBD not_XX0 a_AT0 diver_NN1 ,_PUN but_CJC our_DPS landlubbing_AJ0-NN1 friend_NN1 the_AT0 oceanographer_NN1 ,_PUN who_PNQ discovered_VVD this_DT0 ._PUN
+What_DTQ 's_VBZ more_AV0 ,_PUN he_PNP did_VDD it_PNP without_PRP getting_VVG his_DPS feet_NN2 wet_VVN ._PUN
+COMPETITION_NN1 WINNER_NN1
+After_PRP being_VBG swamped_VVN by_PRP people_NN0 demanding_VVG that_CJT we_PNP give_VVB them_PNP the_AT0 freebie_NN1 SEAL_NN1-VVB course_NN1 ,_PUN we_PNP have_VHB ,_PUN after_CJS long_AJ0-AV0 and_CJC difficult_AJ0 nights_NN2 of_PRF deliberation_NN1 ,_PUN come_VVB to_PRP a_AT0 decision_NN1 ._PUN
+The_AT0 vast_AJ0 majority_NN1 of_PRF you_PNP got_VVD all_DT0 three_CRD questions_NN2 right_AV0 ._PUN
+Those_DT0 of_PRF you_PNP who_PNQ did_VDD n't_XX0 are_VBB guilty_AJ0 of_PRF not_XX0 reading_VVG the_AT0 questions_NN2 properly_AV0 ._PUN
+But_CJC first_ORD ,_PUN some_DT0 of_PRF the_AT0 more_AV0 interesting_AJ0 entries_NN2 ._PUN
+We_PNP had_VHD to_TO0 reject_VVI William_NP0 Smith_NP0 ,_PUN from_PRP Warley_NP0 ,_PUN because_CJS we_PNP were_VBD n't_XX0 entirely_AV0 sure_AJ0 what_DTQ prompted_VVD him_PNP to_TO0 enter_VVI ._PUN
+He_PNP said_VVD :_PUN ‘_PUQ Pool_NN1 nights_NN2 would_VM0 be_VBI a_AT0 lot_NN1 more_AV0 exciting_AJ0 after_PRP explosives_NN2 training_NN1-VVG ._PUN ’_PUQ
+Just_AV0 what_DTQ did_VDD you_PNP have_VHI in_PRP mind_NN1 ?_PUN
+Stephen_NP0 Brown_NP0 ,_PUN from_PRP Rochdale_NP0 ,_PUN reasoned_VVD :_PUN ‘_PUQ Your_DPS help_NN1 and_CJC advice_NN1 is_VBZ what_DTQ I_PNP seek_VVB ,_PUN to_PRP further_AV0 my_DPS skills_NN2 in_PRP diving_AJ0-VVG technique_NN1 ._PUN ’_PUQ
+While_CJS Brian_NP0 Cunningham_NP0 ,_PUN from_PRP Birmingham_NP0 ,_PUN made_VVD no_AT0 bones_NN2 about_PRP it_PNP :_PUN ‘_PUQ I_PNP would_VM0 like_VVI to_TO0 learn_VVI from_PRP the_AT0 best_AJS ,_PUN not_XX0 the_AT0 rest_NN1 ._PUN ’_PUQ
+However_AV0 ,_PUN the_AT0 winner_NN1 of_PRF the_AT0 SEALY_AJ0 competition_NN1 is_VBZ …_PUN
+Eric_NP0 Sutherland_NP0 ,_PUN from_PRP Coldstream_NP0 in_PRP Berwickshire_NP0 ,_PUN for_PRP declaring_VVG :_PUN ‘_PUQ For_PRP diving_VVG that_DT0-CJT 's_VBZ different_AJ0 —_PUN the_AT0 choices_NN2 are_VBB endless_AJ0 ._PUN
+The_AT0 skilful_AJ0 instruction_NN1 ensures_VVZ fun_AJ0-NN1 that_CJT-DT0 's_VBZ bendless_AJ0 !_PUN ’_PUQ
+So_AV0 ,_PUN well_AV0 done_VDN to_PRP Eric_NP0 ,_PUN and_CJC to_PRP all_DT0 those_DT0 who_PNQ entered_VVD but_CJC were_VBD n't_XX0 quite_AV0 so_AV0 lucky_AJ0 ._PUN
+And_CJC many_DT0 thanks_NN2 to_PRP West_NN1 Coast_NN1 Diver_NN1-NP0 Training_NN1 School_NN1 for_PRP sponsoring_VVG the_AT0 competition_NN1 ._PUN
+SCUBA_NP0-NN1 WORLD_NN1 LETTERS_NN2
+Sit_VVB down_AVP ,_PUN get_VVB scribbling_VVG and_CJC send_VVB your_DPS letters_NN2 and_CJC pictures_NN2 to_PRP 18_CRD Market_NP0 Street_NP0 ,_PUN Poole_NP0 ,_PUN Dorset_NP0 ,_PUN BH15_UNC 1NF_NN0 ._PUN
+There_EX0 's_VBZ a_AT0 prize_NN1 for_PRP the_AT0 best_AJS letter_NN1 each_DT0 month_NN1 ._PUN
+Letter_NN1 of_PRF the_AT0 month_NN1
+Dear_AJ0 Scuba_NP0 World_NN1
+We_PNP recently_AV0 returned_VVD from_PRP a_AT0 holiday_NN1 in_PRP Barbados_NP0 where_AVQ we_PNP successfully_AV0 completed_VVD-VVN the_AT0 PADI_NP0 certification_NN1 for_PRP Open_AJ0 Water_NN1 Diver_NN1 ._PUN
+Having_VHG enjoyed_VVN ourselves_PNX so_AV0 much_DT0 and_CJC being_VBG impressed_VVN by_PRP the_AT0 professionalism_NN1 shown_VVN by_PRP our_DPS instructor_NN1 and_CJC other_AJ0 divers_NN2 at_PRP the_AT0 centre_NN1 ,_PUN we_PNP decided_VVD to_TO0 pursue_VVI our_DPS new_AJ0 hobby_NN1 when_CJS we_PNP returned_VVD home_AV0 ._PUN
+Despite_PRP being_VBG taken_VVN aback_AV0 by_PRP the_AT0 cost_NN1 of_PRF kitting_VVG ourselves_PNX out_AVP ,_PUN we_PNP went_VVD along_AVP to_PRP the_AT0 local_AJ0 diving_AJ0-NN1 club_NN1 ,_PUN full_AJ0 of_PRF enthusiasm_NN1 ._PUN
+When_CJS we_PNP walked_VVD through_PRP the_AT0 door_NN1 ,_PUN we_PNP were_VBD briefly_AV0 acknowledged_VVN-VVD ._PUN
+We_PNP were_VBD finally_AV0 approached_VVN by_PRP a_AT0 young_AJ0 man_NN1 who_PNQ turned_VVD out_AVP to_TO0 be_VBI the_AT0 club_NN1 's_POS diving_AJ0-NN1 instructor_NN1 ._PUN
+To_PRP our_DPS utter_AJ0 dismay_NN1 and_CJC astonishment_NN1 ,_PUN he_PNP told_VVD us_PNP that_CJT our_DPS certificates_NN2 meant_VVD nothing_PNI at_PRP all_DT0 to_PRP him_PNP or_CJC BSAC_NP0 and_CJC that_CJT ‘_PUQ even_AV0 if_CJS Jacques_NP0 Cousteau_NP0 were_VBD to_TO0 come_VVI along_AVP with_PRP a_AT0 PADI_NP0 qualification_NN1 ,_PUN no_AT0 notice_NN1 would_VM0 be_VBI taken_VVN of_PRF it_PNP ._PUN ’_PUQ
+And_CJC although_CJS there_EX0 may_VM0 be_VBI equivalent_AJ0 grades_NN2 between_PRP PADI_NP0 and_CJC BSAC_NP0-NN1 ,_PUN they_PNP were_VBD n't_XX0 recognised_VVN by_PRP him_PNP or_CJC the_AT0 club_NN1 ._PUN
+We_PNP were_VBD at_PRP great_AJ0 pains_NN2 to_TO0 explain_VVI that_CJT we_PNP were_VBD novices_NN2 and_CJC aware_AJ0 that_CJT-DT0 diving_VVG-NN1 in_PRP Barbados_NP0 was_VBD unlike_AJ0 diving_NN1 in_PRP the_AT0 UK_NP0 and_CJC were_VBD told_VVN that_CJT ‘_PUQ courses_NN2 taken_VVN on_AVP holiday_NN1 mean_VVB nothing_PNI at_PRP all_DT0 ’_PUQ and_CJC that_CJT we_PNP should_VM0 be_VBI prepared_AJ0 to_TO0 snorkel_VVI around_AVP-PRP a_AT0 pool_NN1 for_PRP six_CRD months_NN2 should_VM0 he_PNP deem_VVI it_PNP necessary_AJ0 ,_PUN and_CJC that_CJT even_AV0 if_CJS we_PNP did_VDD dive_VVI to_PRP any_DT0 standard_NN1-AJ0 we_PNP would_VM0 be_VBI taken_VVN on_AVP a_AT0 dive_NN1 (_PUL presumably_AV0 in_PRP a_AT0 pool_NN1 )_PUR ,_PUN and_CJC ‘_PUQ ripped_VVD down_AVP ’_PUQ until_CJS we_PNP eventually_AV0 failed_VVD-VVN a_AT0 test_NN1 ._PUN
+Last_ORD ,_PUN but_CJC not_XX0 least_AV0 ,_PUN we_PNP were_VBD told_VVN that_CJT learning_VVG the_AT0 theoretical_AJ0 side_NN1 of_PRF diving_NN1 might_VM0 mean_VVI that_CJT we_PNP would_VM0 be_VBI unable_AJ0 to_TO0 dive_VVI in_PRP-AVP open_AJ0 water_NN1 for_PRP anything_PNI between_PRP six_CRD and_CJC 18_CRD months_NN2 ._PUN
+But_CJC we_PNP decided_VVD we_PNP would_VM0 persevere_VVI and_CJC opted_VVD-VVN to_TO0 try_VVI diving_AJ0-NN1 centres_NN2 that_CJT advertised_VVD PADI_NP0 ._PUN
+It_PNP was_VBD a_AT0 centre_NN1 in_PRP Peterborough_NP0 who_PNQ immediately_AV0 urged_VVD-VVN us_PNP to_TO0 come_VVI down_AVP and_CJC have_VHI a_AT0 look_NN1 round_AVP ._PUN
+When_CJS we_PNP got_VVD there_AV0 ,_PUN we_PNP were_VBD introduced_VVN to_PRP several_DT0 divers_NN2 who_PNQ swapped_VVD telephone_NN1 numbers_NN2 with_PRP us_PNP and_CJC it_PNP was_VBD suggested_VVN that_CJT we_PNP have_VHB a_AT0 dive_NN1 with_PRP an_AT0 instructor_NN1 to_TO0 re-orient_VVI us_PNP to_PRP diving_VVG-NN1 in_PRP this_DT0 country_NN1 ._PUN
+We_PNP were_VBD thrilled_AJ0 ._PUN
+This_DT0 centre_NN1 is_VBZ a_AT0 prime_AJ0 example_NN1 of_PRF diving_AJ0-VVG professionalism_NN1 and_CJC camaraderie_NN1 ,_PUN and_CJC echoes_VVZ the_AT0 attitude_NN1 of_PRF the_AT0 PADI_NP0 instructor_NN1 who_PNQ taught_VVD us_PNP in_PRP Barbados_NP0 ._PUN
+We_PNP have_VHB made_VVN arrangements_NN2 to_TO0 dive_VVI ,_PUN to_TO0 hire_VVI the_AT0 necessary_AJ0 equipment_NN1 and_CJC spend_VVB as_AV0 much_DT0 time_NN1 at_PRP the_AT0 centre_NN1 as_CJS we_PNP want_VVB ._PUN
+We_PNP would_VM0 like_VVI to_TO0 point_VVI out_AVP that_CJT many_DT0 people_NN0 at_PRP the_AT0 centre_NN1 told_VVD us_PNP that_CJT the_AT0 attitudes_NN2 we_PNP had_VHD encountered_VVN were_VBD less_AV0 prevalent_AJ0 now_AV0 than_CJS they_PNP had_VHD been_VBN in_PRP the_AT0 past_NN1 ,_PUN and_CJC would_VM0 continue_VVI to_TO0 diminish_VVI ._PUN
+We_PNP were_VBD introduced_VVN to_PRP both_AV0 PADI_NP0 and_CJC BSAC_AJ0 divers_NN2 who_PNQ without_PRP exception_NN1 ,_PUN apologised_VVD on_PRP behalf_NN1 of_PRF BSAC_NP0-NN1 ._PUN
+We_PNP have_VHB not_XX0 yet_AV0 come_VVN across_PRP anyone_PNI who_PNQ has_VHZ been_VBN able_AJ0 to_TO0 offer_VVI a_AT0 reasonable_AJ0 explanation_NN1 for_PRP a_AT0 rather_AV0 disheartening_AJ0 introduction_NN1 to_PRP diving_NN1-VVG ._PUN
+Any_DT0 comments_NN2 from_PRP BSAC_NP0-NN1 would_VM0 be_VBI appreciated_VVN ._PUN
+John_NP0 Thompson_NP0 &_CJC Katherine_NP0 Lee_NP0 ,_PUN Hendon_NP0 ,_PUN London_NP0 ._PUN
+Unfortunately_AV0 ,_PUN BSAC_NP0-NN1 have_VHB not_XX0 replied_VVN ,_PUN Ed_NP0 ._PUN
+Dear_AJ0 Scuba_NP0 World_NN1
+At_PRP present_NN1 I_PNP am_VBB the_AT0 ROV_NP0 (_PUL remote_AJ0 operated_VVN vehicle_NN1 )_PUR supervisor_NN1 on_PRP board_NN1 the_AT0 Ataawhai_NN1-NP0 ,_PUN working_VVG for_PRP Brunei_NP0 Shell_NN1-VVB Petroleum_NN1 ,_PUN doing_VDG oil_NN1 and_CJC gas_NN1-VVB offshore_AJ0 platform_NN1 inspections_NN2 ._PUN
+My_DPS home_NN1 in_PRP the_AT0 States_NP0 is_VBZ located_VVN in_PRP the_AT0 beautiful_AJ0 Florida_NP0 Keys_NP0 ._PUN
+My_DPS wife_NN1 and_CJC I_PNP both_AV0 dive_VVB when_CJS I_PNP am_VBB at_PRP home_NN1 and_CJC we_PNP have_VHB a_AT0 number_NN1 of_PRF friends_NN2 who_PNQ run_VVB dive_NN1-VVB charter_NN1 operations_NN2 in_PRP the_AT0 Keys_NN2 ._PUN
+Plus_PRP my_DPS wife_NN1 and_CJC I_PNP have_VHB surveyed_VVN several_DT0 of_PRF the_AT0 local_AJ0 pubs_NN2 for_PRP congeniality_NN1 and_CJC cleanliness_NN1 in_PRP the_AT0 bathrooms_NN2 ._PUN
+We_PNP would_VM0 be_VBI quite_AV0 happy_AJ0 to_TO0 pass_VVI on_AVP this_DT0 information_NN1 to_PRP persons_NN2 planning_VVG on_PRP-AVP visiting_VVG-AJ0 and/or_CJC diving_VVG-NN1 in_PRP the_AT0 Florida_NP0 Keys_NP0 ._PUN
+Divers_NN2 may_VM0 write_VVI ,_PUN phone_VVI or_CJC fax_VVI us_PNP ,_PUN at_PRP no_AT0 cost_NN1 of_PRF course_NN1 ._PUN
+My_DPS wife_NN1 and_CJC I_PNP are_VBB looking_VVG forward_AV0 to_TO0 contact_VVI from_PRP your_DPS readers_NN2 and_CJC eventually_AV0 meeting_VVG some_DT0 of_PRF our_DPS diving_AJ0-NN1 cousins_NN2 from_PRP the_AT0 ‘_PUQ Motherland_NN1 ’_PUQ ._PUN
+May_VM0 all_DT0 your_DPS bubbles_NN2 be_VBI happy_AJ0 ones_NN2 ._PUN
+Respectfully_AV0 ,_PUN
+Steve_NP0 and_CJC Debra_NP0 Heide_NP0-NN1 ._PUN
+This_DT0 is_VBZ a_AT0 great_AJ0 offer_NN1 ,_PUN but_CJC unfortunately_AV0 you_PNP did_VDD n't_XX0 include_VVI your_DPS address_NN1 ,_PUN fax_NN1-VVB or_CJC telephone_NN1-VVB number_NN1 ._PUN
+Do_VDB you_PNP think_VVI that_CJT you_PNP could_VM0 send_VVI it_PNP on_AVP-PRP ?_PUN
+Thanks_NN2 ,_PUN Ed_NP0 ._PUN
+Illegal_AJ0 practice_NN1
+Dear_AJ0 Scuba_NP0 World_NN1
+I_PNP wish_VVB to_TO0 notify_VVI other_AJ0 divers_NN2 that_CJT while_CJS diving_VVG in_PRP Cornwall_NP0 earlier_AV0 this_DT0 year_NN1 ,_PUN my_DPS buddy_NN1 and_CJC I_PNP were_VBD charged_VVN £2_NN0 each_DT0 for_PRP just_AV0 walking_VVG down_AVP-PRP the_AT0 slip_NN1 for_PRP a_AT0 shore_NN1 dive_NN1-VVB ._PUN
+The_AT0 harbour_NN1 master_NN1 at_PRP Million_CRD Cove_NN1 said_VVD we_PNP must_VM0 pay_VVI the_AT0 £2_NN0 each_DT0 to_PRP the_AT0 National_AJ0 Trust_NN1 ._PUN
+I_PNP would_VM0 like_VVI to_TO0 know_VVI if_CJS anyone_PNI else_AV0 has_VHZ had_VHN to_TO0 pay_VVI for_PRP shore_NN1 dives_VVZ as_CJS I_PNP am_VBB told_VVN this_DT0 is_VBZ an_AT0 illegal_AJ0 practice_NN1 ._PUN
+Ian_NP0 Blake_NP0 ,_PUN Eastleigh_NP0 ,_PUN Hants_NP0 ._PUN
+Diving_AJ0-VVG Prejudice_NN1
+Dear_AJ0 Scuba_NP0 World_NN1
+I_PNP respond_VVB to_PRP your_DPS articles_NN2 ‘_PUQ Join_VVB Up_AVP ’_PUQ and_CJC ‘_PUQ Promoting_VVG the_AT0 Sport_NN1 ’_PUQ ,_PUN Scuba_NP0 World_NN1 July_NP0 1991_CRD ._PUN
+I_PNP have_VHB been_VBN a_AT0 member_NN1 of_PRF one_CRD of_PRF the_AT0 organisations_NN2 mentioned_VVD-VVN in_AVP-PRP ‘_PUQ Join_VVB Up_AVP ’_PUQ for_PRP some_DT0 12_CRD years_NN2 ._PUN
+In_PRP which_DTQ time_NN1 I_PNP have_VHB been_VBN a_AT0 victim_NN1 of_PRF the_AT0 clique_NN1 set_NN1 ,_PUN if_CJS your_DPS face_NN1 does_VDZ n't_XX0 fit_VVI ,_PUN your_DPS training_NN1 can_VM0 wait_VVI ;_PUN also_AV0 the_AT0 ‘_PUQ Hooray_ITJ Henry_NP0 ’_PUQ brigade_NN1 ,_PUN the_AT0 difference_NN1 between_PRP the_AT0 men_NN2 and_CJC the_AT0 boys_NN2 is_VBZ the_AT0 price_NN1 of_PRF their_DPS toys_NN2 ,_PUN types_NN2 ._PUN
+A_AT0 great_AJ0 many_DT0 divers_NN2 will_VM0 know_VVI what_DTQ I_PNP 'm_VBB driving_VVG at_PRP ._PUN
+I_PNP feel_VVB ,_PUN even_AV0 now_AV0 ,_PUN there_EX0 is_VBZ too_AV0 much_DT0 prejudice_NN1 and_CJC politics_NN1 in_PRP diving_NN1-VVG ._PUN
+These_DT0 two_CRD factors_NN2 alone_AV0 may_VM0 well_AV0 be_VBI responsible_AJ0 for_PRP making_VVG would-be_AJ0 divers_NN2 leave_VVB-NN1 and_CJC go_VVB on_AVP to_PRP other_AJ0 things_NN2 ._PUN
+True_AJ0 ,_PUN you_PNP have_VHB politics_NN1 in_PRP all_DT0 walks_NN2 of_PRF life_NN1 ,_PUN however_AV0 in_PRP diving_NN1-VVG ,_PUN some_DT0 seem_VVB to_TO0 thrive_VVI off_AVP putting_VVG organisations_NN2 and_CJC individuals_NN2 down_AVP because_CJS of_PRF their_DPS allegiance_NN1 or_CJC training_NN1 methods_NN2 ._PUN
+It_PNP 's_VBZ about_AV0 time_NN1 that_CJT most_DT0 of_PRF these_DT0 types_NN2 were_VBD out_AVP of_PRF diving_NN1-VVG ._PUN
+Fortunately_AV0 they_PNP are_VBB few_DT0 in_PRP number_NN1 ,_PUN but_CJC I_PNP 'm_VBB sorry_AJ0 to_TO0 say_VVI they_PNP will_VM0 always_AV0 be_VBI around_AVP ._PUN
+I_PNP would_VM0 say_VVI to_PRP any_DT0 prospective_AJ0 newcomer_NN1 ,_PUN choose_VVB your_DPS training_NN1 organisation_NN1 to_TO0 suit_VVI your_DPS needs_NN2 ,_PUN and_CJC enjoy_VVB your_DPS training_NN1 and_CJC future_AJ0 diving_NN1 ,_PUN but_CJC beware_VVB of_PRF those_DT0 who_PNQ would_VM0 try_VVI and_CJC make_VVI you_PNP prejudiced_VVD-VVN against_PRP all_DT0 others_NN2 ._PUN
+Yours_PNP in_PRP diving_NN1-VVG ,_PUN AR_ITJ ,_PUN Cheshire_NP0 ._PUN
+Calorie-consuming_NN1
+Dear_AJ0 Scuba_NP0 World_NN1
+I_PNP have_VHB only_AV0 recently_AV0 completed_VVN my_DPS open_AJ0 water_NN1 diver_NN1 training_NN1 ,_PUN so_CJS I_PNP am_VBB still_AV0 a_AT0 novice_NN1 at_PRP the_AT0 sport_NN1 ._PUN
+I_PNP use_VVB this_DT0 to_TO0 excuse_VVI the_AT0 possible_AJ0 ignorance_NN1 which_DTQ my_DPS question_NN1 may_VM0 make_VVI apparent_AJ0 !_PUN
+I_PNP am_VBB currently_AV0 reading_VVG Horace_NP0 Dobbs_NP0 '_POS ‘_PUQ The_AT0 Great_AJ0 Diving_NN1 Adventure_NN1 ’_PUQ ,_PUN in_PRP which_DTQ he_PNP states_VVZ that_CJT diving_NN1 is_VBZ one_CRD of_PRF the_AT0 most_AV0 calorie-consuming_AJ0 sports_NN2 there_EX0 is_VBZ ._PUN
+I_PNP just_AV0 do_VDB n't_XX0 understand_VVI why_AVQ this_DT0 should_VM0 be_VBI the_AT0 case_NN1 ._PUN
+Diving_VVG-NN1 to_PRP me_PNP has_VHZ never_AV0 seemed_VVN particularly_AV0 energetic_AJ0 ,_PUN and_CJC certainly_AV0 one_PNI-CRD does_VDZ n't_XX0 swim_VVI at_PRP speed_NN1 when_CJS sports_NN2 diving_VVG-NN1 ._PUN
+Nevertheless_AV0 ,_PUN my_DPS appetite_NN1 whenever_AVQ I_PNP return_VVB from_PRP a_AT0 dive_NN1 ,_PUN certainly_AV0 supports_VVZ the_AT0 theory_NN1 that_CJT a_AT0 lot_NN1 of_PRF calories_NN2 have_VHB been_VBN consumed_VVN and_CJC need_VVB-NN1 to_TO0 be_VBI replaced_VVN !_PUN !_PUN !_PUN
+I_PNP hope_VVB you_PNP can_VM0 explain_VVI this_DT0 mystery_NN1 to_PRP me_PNP ._PUN
+Yours_PNP faithfully_AV0 ,_PUN Jackie_NP0 Wyn_NP0 ,_PUN Teddington_NP0 ,_PUN Middlesex_NP0 ._PUN
+Phil_NP0 Bryson_NP0-NN1 of_PRF the_AT0 Diving_NN1-AJ0 Diseases_NN2 Research_VVB-NN1 Centre_NN1 (_PUL DDRC_NP0 )_PUR replies_VVZ :_PUN
+‘_PUQ As_AV0 far_AV0 as_CJS I_PNP am_VBB concerned_AJ0 diving_NN1 is_VBZ not_XX0 an_AT0 excessive_AJ0 calorie-consuming_AJ0-NN1 sport_NN1 ,_PUN and_CJC certainly_AV0 from_PRP the_AT0 numbers_NN2 of_PRF divers_NN2 that_CJT I_PNP see_VVB who_PNQ are_VBB overweight_AJ0 ,_PUN I_PNP do_VDB not_XX0 actually_AV0 believe_VVI that_CJT the_AT0 statement_NN1 in_PRP ‘_PUQ The_AT0 Great_AJ0 Diving_NN1 Adventure_NN1 ’_PUQ ,_PUN by_PRP Horace_NP0 Hobbs_NP0 ,_PUN is_VBZ actually_AV0 borne_VVN out_AVP ._PUN
+It_PNP is_VBZ true_AJ0 that_CJT a_AT0 lot_NN1 of_PRF divers_NN2 drink_VVB a_AT0 fair_AJ0 quantity_NN1 of_PRF beer_NN1 ._PUN
+Several_DT0 of_PRF the_AT0 people_NN0 that_CJT I_PNP have_VHB dived_VVN with_PRP have_VHB been_VBN grossly_AV0 overweight_AJ0 ,_PUN enjoyed_VVD-VVN being_VBG so_AV0 ,_PUN and_CJC are_VBB completely_AV0 at_PRP home_NN1 in_PRP the_AT0 water_NN1 swimming_VVG around_AVP like_PRP walruses_NN2 ._PUN
+I_PNP think_VVB that_CJT diving_NN1 can_VM0 be_VBI as_PRP calorie_NN1 consuming_AJ0 as_CJS you_PNP would_VM0 like_VVI it_PNP to_TO0 be_VBI ._PUN ’_PUQ
+Popular_AJ0 wrecks_NN2
+Dear_AJ0 Scuba_NP0 World_NN1
+We_PNP are_VBB currently_AV0 compiling_VVG material_NN1 for_PRP a_AT0 book_NN1 which_DTQ will_VM0 illustrate_VVI plans_NN2 and_CJC photographs_NN2 of_PRF popular_AJ0 wrecks_NN2 around_PRP the_AT0 British_AJ0 Isles_NN2 ._PUN
+We_PNP would_VM0 like_VVI suggestions_NN2 from_PRP divers_NN2 on_PRP wrecks_NN2 they_PNP would_VM0 like_VVI to_TO0 see_VVI included_VVN ._PUN
+RW_NP0 Sellwood_NP0 ,_PUN CRS_NP0 (_PUL Epsom_NP0 )_PUR Ltd._AJ0 ,_PUN Marine_AJ0 Draughting_NP0-NN1 ,_PUN 43_CRD Delaporte_NP0 Close_NP0 ,_PUN Epsom_NP0 ,_PUN Surrey_NP0 KT17_UNC 4AF_UNC ._PUN
+Tel_NN1-NP0 :_PUN (_PUL 0372_CRD )_PUR 728728_CRD ._PUN
+Accidental_AJ0 Pick-up_NN1 ?_PUN
+Dear_AJ0 Scuba_NP0 World_NN1
+During_PRP a_AT0 training_NN1 session_NN1 on_PRP Sunday_NP0 4_CRD August_NP0 ,_PUN at_PRP Dorothea_NP0 quarry_NN1 ,_PUN an_AT0 incident_NN1 occurred_VVD ._PUN
+Being_VBG in_PRP the_AT0 vicinity_NN1 ,_PUN I_PNP helped_VVD remove_VVB the_AT0 casualty_NN1 's_POS kit_NN1 before_PRP ditching_VVG my_DPS own_DT0 in_PRP order_NN1 to_TO0 phone_VVI the_AT0 rescue_NN1 services_NN2 ._PUN
+All_DT0 items_NN2 were_VBD dumped_VVN together_AV0 (_PUL in_PRP such_DT0 a_AT0 position_NN1 as_CJS they_PNP should_VM0 not_XX0 fall_VVI into_PRP the_AT0 water_NN1 )_PUR ._PUN
+When_CJS I_PNP returned_VVD ,_PUN to_PRP my_DPS horror_NN1 ,_PUN I_PNP discovered_VVD a_AT0 dive_NN1 computer_NN1 I_PNP had_VHD borrowed_VVN was_VBD missing_VVG-AJ0 ._PUN
+My_DPS kit_NN1 being_VBG near_PRP the_AT0 casualty_NN1 (_PUL by_PRP now_AV0 conscious_AJ0 )_PUR ,_PUN I_PNP thought_VVD it_PNP may_VM0 have_VHI been_VBN mistakenly_AV0 picked_VVN-VVD up_AVP ._PUN
+I_PNP notified_VVD the_AT0 police_NN2 on_PRP site_NN1 and_CJC passed_VVD-VVN on_PRP-AVP my_DPS phone_NN1 number_NN1 to_PRP all_DT0 diving_AJ0 parties_NN2 present_AJ0 ._PUN
+To_PRP date_NN1 (_PUL 15_CRD August_NP0 )_PUR nobody_PNI has_VHZ contacted_VVN me_PNP ._PUN
+I_PNP would_VM0 appeal_VVI to_PRP anyone_PNI who_PNQ may_VM0 have_VHI found_VVN a_AT0 Suunto-ML_AJ0 wrist_NN1 computer_NN1 on_PRP site_NN1 to_TO0 contact_VVI me_PNP or_CJC Caernarfon_NP0 police_NN2 station_NN1 ._PUN
+I_PNP sincerely_AV0 hope_VVB that_CJT it_PNP has_VHZ been_VBN picked_VVN up_AVP by_PRP accident_NN1 and_CJC that_CJT I_PNP will_VM0 be_VBI re-united_VVN with_PRP it_PNP soon_AV0 ,_PUN as_CJS I_PNP find_VVB it_PNP hard_AJ0 to_TO0 believe_VVI that_CJT such_DT0 an_AT0 incident_NN1 could_VM0 lead_VVI to_PRP its_DPS deliberate_AJ0 theft_NN1 ._PUN
+Paul_NP0 Wood_NP0 ,_PUN Tel_NN1 :_PUN 0286_CRD 86304_CRD
+Speaking_VVG from_PRP bitter_AJ0 experience_NN1
+Dear_AJ0 Scuba_NP0 World_NN1
+I_PNP was_VBD interested_AJ0 to_TO0 read_VVI your_DPS recent_AJ0 articles_NN2 on_PRP commercial_AJ0 diver_NN1 training_NN1 ,_PUN which_DTQ were_VBD very_AV0 good_AJ0-AV0 as_AV0 far_AV0-AJ0 as_CJS they_PNP went_VVD ._PUN
+But_CJC the_AT0 plain_AJ0-NN1 truth_NN1 of_PRF the_AT0 matter_NN1 is_VBZ that_CJT there_EX0 are_VBB just_AV0 not_XX0 enough_DT0 jobs_NN2 available_AJ0 for_PRP all_DT0 the_AT0 newly_AV0 qualified_AJ0 divers_NN2 pumped_VVD-VVN out_AVP by_PRP these_DT0 companies_NN2 ._PUN
+I_PNP speak_VVB from_PRP bitter_AJ0 experience_NN1 as_CJS I_PNP have_VHB worked_VVN as_PRP a_AT0 diver_NN1 for_PRP just_AV0 five_CRD days_NN2 since_PRP qualifying_VVG as_PRP a_AT0 part_NN1 111_CRD diver_NN1 in_PRP December_NP0 1990_CRD ,_PUN and_CJC the_AT0 situation_NN1 is_VBZ not_XX0 that_AV0 much_AV0 better_AJC ,_PUN as_AV0 far_AV0-AJ0 as_CJS I_PNP can_VM0 tell_VVI ,_PUN for_PRP part_NN1 1s_CRD ._PUN
+I_PNP could_VM0 not_XX0 ,_PUN in_PRP all_DT0 conscience_NN1 ,_PUN advise_VVB anybody_PNI to_TO0 embark_VVI on_PRP-AVP a_AT0 commercial_AJ0 diving_AJ0-NN1 career_NN1 at_PRP present_NN1 ,_PUN especially_AV0 if_CJS that_DT0 person_NN1 has_VHZ to_TO0 borrow_VVI the_AT0 money_NN1 needed_VVN-VVD for_PRP the_AT0 training_NN1 ._PUN
+Instead_AV0 I_PNP would_VM0 advise_VVI that_DT0 person_NN1 to_TO0 wait_VVI until_CJS-PRP the_AT0 economy_NN1 picks_VVZ up_AVP ,_PUN and_CJC maybe_AV0 then_AV0 there_EX0 will_VM0 be_VBI an_AT0 increase_NN1 in_PRP demand_NN1 ._PUN
+Do_VDB not_XX0 believe_VVI the_AT0 optimistic_AJ0 write-ups_NN2 in_PRP the_AT0 training_NN1 brochures_NN2 ._PUN
+I_PNP would_VM0 urge_VVI anybody_PNI thinking_VVG of_PRF commercial_AJ0 diving_NN1-AJ0 to_TO0 benefit_VVI not_XX0 just_AV0 from_PRP my_DPS experience_NN1 ,_PUN but_CJC also_AV0 from_PRP the_AT0 dozens_CRD of_PRF other_AJ0 commercial_AJ0 divers_NN2 I_PNP know_VVB and_CJC have_VHB heard_VVN from_PRP ._PUN
+Yours_PNP faithfully_AV0 ,_PUN Andrew_NP0 Harrison_NP0 ,_PUN Solihull_NP0
+Subscription_NN1 Winner_NN1
+John_NP0 Brushwood_NN1 from_PRP Hook_NP0 End_NN1 ,_PUN has_VHZ been_VBN hand-picked_AJ0 from_PRP this_DT0 month_NN1 's_POS lucky_AJ0 dip_NN1-VVB ,_PUN as_PRP the_AT0 winner_NN1 of_PRF a_AT0 year_NN1 's_POS supply_NN1 of_PRF Scuba_NP0 World_NN1 ._PUN
+This_DT0 means_VVZ you_PNP get_VVB them_PNP at_PRP no_AT0 cost_NN1 at_PRP all_DT0 ._PUN
+Your_DPS cheque_NN1 will_VM0 be_VBI returned_VVN ._PUN
+Expect_VVB it_PNP on_PRP-AVP your_DPS doormat_NN1 in_PRP due_AJ0 course_NN1 ._PUN
+EQUIPMENT_NN1
+Just_AV0 an_AT0 expensive_AJ0 toy_NN1 ?_PUN
+Is_VBZ the_AT0 dive_NN1 computer_NN1 the_AT0 result_NN1 of_PRF a_AT0 fiendish_AJ0 plot_NN1 by_PRP manufacturers_NN2 to_TO0 relieve_VVI the_AT0 diver_NN1 of_PRF hard_AJ0-AV0 earned_AJ0-VVN cash_NN1 ?_PUN
+Or_CJC is_VBZ it_PNP a_AT0 viable_AJ0 substitute_NN1 for_PRP the_AT0 dive_NN1 table_NN1 ?_PUN
+Four_CRD dive_NN1-VVB computers_NN2 were_VBD reviewed_VVN ;_PUN read_VVB on_AVP —_PUN the_AT0 results_NN2 may_VM0 surprise_VVI you_PNP ._PUN
+The_AT0 DataMax_NN1-NP0 Sport_NN1 Computer_NN1
+reviewed_VVN by_PRP Nick_NP0 Herbert_NP0
+Oceanic_AJ0 are_VBB renowned_AJ0 for_PRP their_DPS innovative_AJ0 designs_NN2 and_CJC precision_NN1 building_NN1 ._PUN
+Now_AV0 they_PNP 've_VHB taken_VVN a_AT0 plunge_NN1 into_PRP the_AT0 dive_NN1 computer_NN1 market_NN1 and_CJC the_AT0 outcome_NN1 is_VBZ the_AT0 DataMax_NN1-NP0 Sport_NN1 ._PUN
+First_ORD impressions_NN2 are_VBB of_PRF a_AT0 compact_AJ0 unit_NN1 ,_PUN encased_VVN-VVD in_PRP-AVP a_AT0 heavy-duty_AJ0 rubber_AJ0-NN1 wrist_NN1 pod_NN1 ,_PUN with_PRP clearly_AV0 readable_AJ0 figures_NN2 on_PRP its_DPS LCD_NN1 display_NN1 and_CJC one_CRD actuating_AJ0 button_NN1 underneath_PRP the_AT0 screen_NN1 —_PUN at_PRP last_ORD a_AT0 move_NN1 away_AV0 from_PRP water_NN1 activated_VVD ‘_PUQ touch-type_AJ0 ’_PUQ buttons_NN2 ._PUN
+Strapping_VVG-AJ0 the_AT0 DataMax_NN1 onto_PRP one_PNI-CRD 's_POS wrist_NN1 shows_VVZ up_AVP one_CRD of_PRF its_DPS few_DT0 faults_NN2 ._PUN
+The_AT0 rubber_AJ0-NN1 strap_NN1 is_VBZ too_AV0 short_AJ0 to_TO0 fit_VVI around_PRP-AVP the_AT0 bulky_AJ0 cuff_NN1 of_PRF a_AT0 membrane_NN1 drysuit_NN1 without_PRP either_AV0 stretching_VVG the_AT0 strap_NN1 or_CJC wearing_VVG the_AT0 computer_NN1 over_PRP-AVP your_DPS wrist_NN1 seal_NN1-VVB ._PUN
+Not_XX0 good_AJ0 for_PRP seal_NN1 longevity_NN1 or_CJC dry_AJ0 arms_NN2 ._PUN
+On_PRP the_AT0 plus_NN1 side_NN1 though_CJS ,_PUN this_DT0 is_VBZ a_AT0 simple-to-use_AJ0 device_NN1 that_CJT-DT0 is_VBZ far_AV0 less_AV0 bulky_AJ0 ,_PUN thus_AV0 less_AV0 liable_AJ0 to_TO0 snag_VVI in_PRP wreckage_NN1 ,_PUN than_CJS many_DT0 of_PRF its_DPS rivals_NN2 ._PUN
+Activation_NN1 is_VBZ simple_AJ0 too_AV0 ._PUN
+At_PRP the_AT0 start_NN1 of_PRF your_DPS diving_AJ0 day_NN1 ,_PUN just_AV0 press_VVB the_AT0 face_NN1 button_NN1-VVB once_AV0 and_CJC watch_VVB the_AT0 bar_NN1 graph_NN1 around_PRP the_AT0 perimeter_NN1 of_PRF the_AT0 display_NN1 countdown_NN1 while_CJS the_AT0 DataMax_NN1-NP0 Sport_NN1 zeroes_VVZ itself_PNX to_PRP your_DPS current_AJ0 altitude_NN1 ,_PUN checks_VVZ all_DT0 internal_AJ0 functions_NN2 and_CJC battery_NN1 power_NN1 ._PUN
+After_CJS this_DT0 self-diagnostic_AJ0 check_NN1 ,_PUN the_AT0 screen_NN1 normally_AV0 reverts_VVZ to_PRP surface_NN1 mode_NN1 ._PUN
+If_CJS there_EX0 is_VBZ anything_PNI wrong_AV0-AJ0 internally_AV0 ,_PUN or_CJC insufficient_AJ0 battery_NN1 power_NN1 ,_PUN the_AT0 screen_NN1 could_VM0 stay_VVI lit_NN1 ,_PUN flash_VVB-NN1 ,_PUN or_CJC shut_VVD down_AVP ,_PUN depending_VVG on_PRP the_AT0 error_NN1 ._PUN
+Try_VVB activating_VVG again_AV0 ,_PUN or_CJC wait_VVB a_AT0 little_AJ0 while_NN1 before_PRP re-activation_NN1 ._PUN
+If_CJS the_AT0 error_NN1 still_AV0 does_VDZ n't_XX0 clear_VVI ,_PUN return_VVB it_PNP to_PRP Oceanic_AJ0 ._PUN
+With_PRP an_AT0 expected_AJ0 life_NN1 of_PRF three_CRD years_NN2 for_PRP the_AT0 lithium_NN1 battery_NN1 ,_PUN there_EX0 should_VM0 n't_XX0 be_VBI any_DT0 problems_NN2 with_PRP this_DT0 unit_NN1 ,_PUN but_CJC Oceanic_AJ0 UK_NP0 guarantee_VVB a_AT0 three_CRD day_NN1 turnround_NN1 on_PRP battery_NN1 changes_NN2 ,_PUN and_CJC service_NN1-VVB like_PRP this_DT0 is_VBZ good_AJ0 to_TO0 hear_VVI about_PRP ._PUN
+With_PRP all_DT0 indications_NN2 normal_AJ0 and_CJC the_AT0 pre-dive_AJ0-NN1 planning_NN1 sequence_NN1 (_PUL scrolling_VVG-AJ0 )_PUR indicating_VVG sensible_AJ0 no-stop_AJ0-NN1 times_NN2 for_PRP given_AJ0 depths_NN2 in_PRP metres_NN2 ,_PUN you_PNP can_VM0 begin_VVI your_DPS descent_NN1 ._PUN
+Once_AV0 below_AV0 five_CRD feet_NN2 ,_PUN the_AT0 PDPS_NP0 mode_NN1 changes_NN2-VVZ to_TO0 dive_VVI mode_NN1 and_CJC the_AT0 depth_NN1 indicator_NN1 shows_VVZ the_AT0 depth_NN1 to_PRP the_AT0 nearest_AJS metre_NN1 ._PUN
+The_AT0 dive_NN1 time_NN1 digits_NN2 count_VVB down_AVP to_PRP time_NN1 remaining_VVG before_PRP decompression_NN1 ,_PUN while_CJS the_AT0 bar_NN1 graph_NN1 begins_VVZ counting_VVG up_AVP —_PUN showing_VVG tissue_NN1 loading_NN1 ._PUN
+Every_AT0 10_CRD seconds_NN2 the_AT0 display_NN1 changes_NN2-VVZ to_TO0 show_VVI elapsed_AJ0-VVN bottom_AJ0-NN1 time_NN1 on_PRP an_AT0 otherwise_AV0 clear_AJ0 screen_NN1 ,_PUN to_TO0 avoid_VVI confusion_NN1 ._PUN
+This_DT0 bottom_AJ0-NN1 time_NN1 display_NN1 remains_VVZ on_AVP for_PRP three_CRD seconds_NN2 ,_PUN then_AV0 reverts_VVZ to_PRP normal_AJ0 dive_NN1 display_NN1-VVB for_PRP 10_CRD seconds_NN2 ,_PUN and_CJC so_AV0 the_AT0 sequence_NN1 continues_VVZ ._PUN
+Once_CJS you_PNP have_VHB become_VVN mentally_AV0 adjusted_VVN to_PRP the_AT0 countdown_NN1 display_VVB-NN1 it_PNP becomes_VVZ very_AV0 logical_AJ0 and_CJC you_PNP will_VM0 wonder_VVI why_AVQ they_PNP do_VDB n't_XX0 all_DT0 work_VVI this_DT0 way_NN1 !_PUN
+At_PRP the_AT0 end_NN1 of_PRF a_AT0 dive_NN1 to_PRP 28_CRD metres_NN2 for_CJS 27_CRD minutes_NN2 total_AJ0-NN1 ,_PUN the_AT0 tissue_NN1 loading_NN1-VVG bar_NN1 graph_NN1 had_VHD filled_VVN to_PRP within_PRP one_CRD segment/division_NN1 of_PRF the_AT0 caution_NN1 zone_NN1 ._PUN
+This_DT0 meant_VVD that_CJT a_AT0 decompression_NN1 stop_NN1 was_VBD not_XX0 required_VVN-AJ0 and_CJC that_CJT these_DT0 parameters_NN2 would_VM0 be_VBI stored_VVN in_PRP the_AT0 memory_NN1 ,_PUN to_TO0 be_VBI compensated_VVN for_PRP on_PRP the_AT0 next_ORD dive_NN1 ._PUN
+Had_VHD we_PNP stayed_VVN longer_AV0 at_PRP that_DT0 depth_NN1 ,_PUN necessitating_VVG a_AT0 stop_NN1 ,_PUN it_PNP would_VM0 have_VHI been_VBN shown_VVN on_PRP the_AT0 bar_NN1 graph_NN1 (_PUL deco_NN1 stop_NN1-VVB ceiling_NN1 )_PUR and_CJC the_AT0 main_AJ0 display_NN1 for_PRP the_AT0 duration_NN1 of_PRF that_DT0 stop_NN1 ._PUN
+Dive_VVB-NN1 number_NN1 two_CRD that_DT0 day_NN1 was_VBD to_PRP 17_CRD metres_NN2 for_CJS 23_CRD minutes_NN2 ,_PUN resulting_VVG in_PRP a_AT0 tissue_NN1 loading_VVG-NN1 on_PRP the_AT0 bar_NN1 graph_NN1 only_AV0 halfway_AV0-AJ0 round_PRP the_AT0 no_NN1 decom_NN1-VVB zone_NN1 ._PUN
+Once_AV0 again_AV0 ,_PUN no_AT0 stops_NN2 were_VBD required_VVN (_PUL other_AJ0 than_CJS the_AT0 usual_AJ0 safety_NN1 stop_NN1-VVB at_PRP three_CRD metres_NN2 )_PUR and_CJC there_EX0 was_VBD a_AT0 feeling_NN1 that_CJT this_DT0 computer_NN1 would_VM0 have_VHI coped_VVN with_PRP far_AV0 more_AV0 strenuous_AJ0 dives_NN2 with_PRP ease_NN1 ._PUN
+To_TO0 sum_VVI it_PNP all_DT0 up_AVP ,_PUN the_AT0 DataMax_NN1-NP0 Sport_NN1 monitors_VVZ the_AT0 depth_NN1 and_CJC time_NN1 ,_PUN calculating_VVG and_CJC displaying_VVG remaining_AJ0 dive_NN1 time_NN1 based_VVN on_PRP 12_CRD tissue_NN1 compartments_NN2 and_CJC a_AT0 Haldanean_AJ0 model_NN1 of_PRF your_DPS decompression_NN1 status_NN1 ._PUN
+In_PRP essence_NN1 ,_PUN it_PNP tells_VVZ you_PNP how_AVQ much_DT0 time_NN1 you_PNP have_VHB left_VVN before_PRP reaching_VVG the_AT0 no-decompression_AJ0-NN1 limit_NN1 and_CJC also_AV0 how_AVQ to_TO0 manage_VVI decompression_NN1 stops_VVZ if_CJS you_PNP inadvertently_AV0 exceed_VVB that_DT0-CJT limit_NN1-VVB ,_PUN or_CJC elect_VVB to_TO0 enter_VVI decompression_NN1 ._PUN
+Pre-dive_AJ0 planning_NN1 ,_PUN ascent_NN1 rate_NN1 warning_NN1 ,_PUN logbook_NN1 display_NN1-VVB and_CJC a_AT0 choice_NN1 of_PRF wrist_NN1 or_CJC console_VVB-NN1 mountings_NN2 ,_PUN are_VBB just_AV0 a_AT0 few_DT0 of_PRF the_AT0 many_DT0 features_NN2 offered_VVN by_PRP Oceanic_AJ0 ._PUN
+However_AV0 ,_PUN the_AT0 instruction_NN1 manual_NN1 ,_PUN though_CJS extremely_AV0 comprehensive_AJ0 ,_PUN is_VBZ written_VVN in_PRP that_DT0 awful_AJ0 Americanese_NN0 which_DTQ makes_VVZ similar_AJ0 pamphlets_NN2 printed_VVN in_PRP Japan_NP0 almost_AV0 a_AT0 pleasure_NN1 to_TO0 read_VVI !_PUN
+One_CRD final_AJ0 point_NN1 to_TO0 consider_VVI is_VBZ that_CJT this_DT0 computer_NN1 has_VHZ a_AT0 variable_AJ0-NN1 rate_NN1 ascent_NN1 warning_NN1 ._PUN
+This_DT0 means_VVZ you_PNP can_VM0 ascend_VVI at_PRP 18_CRD metres/minute_UNC from_PRP a_AT0 (_PUL maximum_NN1-AJ0 )_PUR depth_NN1 of_PRF 75_CRD metres_NN2 up_AVP to_PRP 18_CRD metres_NN2 ._PUN
+From_PRP 18_CRD metres_NN2 up_AVP to_PRP six_CRD metres_NN2 ,_PUN the_AT0 ascent_NN1 rate_NN1 warning_NN1 will_VM0 flash_VVI if_CJS you_PNP exceed_VVB 13_CRD metres/minute_UNC ,_PUN and_CJC from_PRP six_CRD metres_NN2 to_PRP the_AT0 surface_NN1 you_PNP should_VM0 not_XX0 exceed_VVI a_AT0 very_AV0 safe_AJ0 nine_CRD metres_NN2 per_PRP minute_NN1 ._PUN
+Many_DT0 of_PRF the_AT0 local_AJ0 scallop_NN1 divers_NN2 in_PRP the_AT0 Poole_NP0 area_NN1 swear_VVB by_PRP these_DT0 computers_NN2 ,_PUN if_CJS for_PRP no_AT0 other_AJ0 reason_NN1 than_CJS reliability_NN1 and_CJC price_NN1-VVB —_PUN and_CJC this_DT0 type_NN1 of_PRF diver_NN1 is_VBZ notoriously_AV0 difficult_AJ0 to_TO0 please_VVI ._PUN
+Worth_PRP a_AT0 thought_NN1 when_CJS you_PNP 're_VBB contemplating_VVG which_DTQ computer_NN1 you_PNP 'll_VM0 cough_VVI up_AVP cash_NN1 for_PRP ._PUN
+For_PRP a_AT0 recommended_AJ0 retail_AJ0 price_NN1 of_PRF £218.00_NN0 (_PUL wrist-mounted_AJ0-NN1 models_NN2 )_PUR ,_PUN this_DT0 is_VBZ excellent_AJ0 value_NN1 for_PRP anyone_PNI 's_POS money_NN1 ._PUN
+The_AT0 Ace_AJ0-NN1 Pro-File_NN1
+reviewed_VVN by_PRP Brian_NP0 Woodward_NP0
+Manufactured_VVN by_PRP Quatek_NP0 Ltd_AJ0 ,_PUN the_AT0 Ace_AJ0-NN1 Pro-File_NN1 is_VBZ a_AT0 state_NN1 of_PRF the_AT0 art_NN1 dive_NN1-VVB computer_NN1 that_CJT-DT0 is_VBZ fully_AV0 interactive_AJ0 with_PRP any_DT0 IBM-compatible_AJ0 personal_AJ0 computer_NN1 (_PUL PC_NN0 )_PUR ._PUN
+As_PRP-CJS a_AT0 dive_NN1 computer_NN1 it_PNP logs_VVZ depth_NN1 ,_PUN temperature_NN1 and_CJC cylinder_NN1 pressure_NN1 as_CJS functions_NN2 of_PRF time_NN1 ,_PUN but_CJC by_PRP using_VVG different_AJ0 sensors_NN2 it_PNP can_VM0 also_AV0 log_VVI up_AVP to_PRP eight_CRD other_AJ0 parameters_NN2 simultaneously_AV0 ,_PUN and_CJC control_NN1-VVB 12_CRD external_AJ0 devices_NN2 like_PRP switches_NN2 and_CJC relays_NN2-VVZ ._PUN
+During_PRP a_AT0 dive_NN1 ,_PUN Pro-File_NN1 measures_VVZ the_AT0 depth_NN1 every_AT0 half_DT0 second_NN1 and_CJC stores_VVZ-NN2 the_AT0 digitised_AJ0 value_NN1 ._PUN
+The_AT0 memory_NN1 is_VBZ dynamic_AJ0 ,_PUN so_AV0 that_CJT when_CJS it_PNP is_VBZ full_AJ0 ,_PUN after_PRP-CJS 500_CRD minutes_NN2 ,_PUN it_PNP is_VBZ overwritten_VVN to_TO0 give_VVI one_CRD second_NN1 precision_NN1 after_PRP 1000_CRD minutes_NN2 ,_PUN two_CRD second_ORD precision_NN1 after_PRP 2000_CRD minutes_NN2 ,_PUN and_CJC so_AV0 on_AV0 ._PUN
+The_AT0 memory_NN1 's_POS contents_NN2 can_VM0 be_VBI transferred_VVN-AJ0 post-dive_NN1-AJ0 to_PRP a_AT0 PC_NN1 by_PRP the_AT0 electronic_AJ0 interface_NN1 ,_PUN Datalink_NP0 ._PUN
+Hence_AV0 you_PNP can_VM0 store_VVI dive_NN1-VVB profiles_NN2-VVZ on_PRP print_NN1-VVB out_AVP copies_NN2 for_PRP your_DPS log_NN1 book_NN1 ._PUN
+For_PRP decompression_NN1 sickness_NN1 ,_PUN your_DPS dive_NN1 history_NN1 is_VBZ available_AJ0 in_PRP graphic_AJ0 detail_NN1 for_PRP hyperbaric_AJ0 specialists_NN2 to_TO0 consult_VVI ._PUN
+Pro-File_NN1-VVB is_VBZ a_AT0 convenient_AJ0 size_NN1 (_PUL 101×82×35mm_UNC )_PUR and_CJC displays_VVZ essential_AJ0 information_NN1 clearly_AV0 and_CJC unambiguously_AV0 ._PUN
+Electroluminescent_AJ0 backlighting_NN1 ,_PUN lasting_VVG 10_CRD hours_NN2 between_PRP charges_NN2 ,_PUN gives_VVZ a_AT0 clear_AJ0 display_NN1-VVB even_AV0 in_PRP total_AJ0 darkness_NN1 ,_PUN as_CJS I_PNP discovered_VVD on_PRP-AVP one_CRD dive_NN1-VVB to_PRP 36_CRD metres_NN2 ._PUN
+This_DT0 wrist_NN1 model_NN1-VVB I_PNP tried_VVD was_VBD designed_VVN for_PRP air_NN1 diving_NN1-VVG and_CJC programmed_VVN-VVD with_PRP the_AT0 Bühlmann_NP0-NN1 ZHL12_UNC algorithm_NN1 with_PRP automatic_AJ0-NN1 ranging_VVG-AJ0 from_PRP 3,500_CRD metres_NN2 above_PRP sea_NN1 level_NN1 to_PRP 100_CRD metres_NN2 depth_NN1 ._PUN
+I_PNP found_VVD it_PNP easy_AJ0-AV0 to_TO0 use_VVI during_PRP both_AV0 non-decompression_AJ0 and_CJC decompression_NN1 dives_VVZ ._PUN
+A_AT0 console_NN1-VVB model_NN1 is_VBZ also_AV0 available_AJ0 and_CJC a_AT0 mixed_AJ0 gas_NN1 algorithm_NN1 can_VM0 be_VBI programmed_VVN ._PUN
+Before_PRP diving_NN1-VVG ,_PUN you_PNP can_VM0 display_VVI information_NN1 from_PRP a_AT0 menu_NN1 —_PUN in_PRP alphanumerics_NN2 rather_AV0 than_CJS symbols_NN2 or_CJC graphics_NN0 —_PUN by_PRP bridging_VVG a_AT0 pair_NN0 of_PRF metal_NN1 contacts_NN2-VVZ with_PRP moist_AJ0 fingers_NN2 ._PUN
+While_CJS diving_VVG-AJ0 ,_PUN the_AT0 menu_NN1 is_VBZ inaccessible_AJ0 and_CJC all_DT0 functions_NN2 are_VBB automatic_AJ0 ._PUN
+For_PRP monitoring_VVG-NN1 cylinder_NN1 pressure_NN1 ,_PUN Pro-File_NN1 has_VHZ a_AT0 socket_NN1 connected_VVN by_PRP an_AT0 electrical_AJ0 cable_NN1 to_PRP a_AT0 340-bar_AJ0 transducer_NN1 in_PRP the_AT0 first_ORD stage_NN1 of_PRF a_AT0 demand_NN1 valve_NN1 ;_PUN use_NN1-VVB of_PRF the_AT0 cable_NN1 is_VBZ optional_AJ0 ,_PUN but_CJC without_PRP it_PNP some_DT0 of_PRF the_AT0 features_NN2 are_VBB lost_VVN ._PUN
+The_AT0 socket_NN1 also_AV0 allows_VVZ connection_NN1 to_PRP a_AT0 PC_NN1 via_PRP Datalink_NP0-NN1 or_CJC to_PRP a_AT0 mains_NN1 charger_NN1 ._PUN
+Altogether_AV0 there_EX0 are_VBB some_DT0 three_CRD dozen_CRD functions_NN2 ,_PUN alarms_NN2 and_CJC information_NN1 modes_NN2 ._PUN
+Some_DT0 of_PRF these_DT0 are_VBB selected_VVN by_PRP prompts_NN2 on_PRP the_AT0 set-up_NN1 screen_NN1 ;_PUN for_PRP example_NN1 ,_PUN you_PNP can_VM0 set_VVI novice_NN1 or_CJC expert_NN1-AJ0 mode_NN1 ._PUN
+In_PRP novice_NN1 mode_NN1 ,_PUN the_AT0 screen_NN1 shows_VVZ current_AJ0 depth_NN1 ,_PUN no-stop_AJ0 time_NN1 ,_PUN dive_VVB-NN1 time_NN1 and_CJC cylinder_NN1 contents_NN2 ._PUN
+In_PRP expert_NN1-AJ0 mode_NN1 ,_PUN the_AT0 display_NN1 toggles_NN2-VVZ from_PRP the_AT0 novice_NN1 screen_NN1 to_PRP a_AT0 peripheral_AJ0 screen_NN1 which_DTQ shows_VVZ dive_NN1-VVB time_NN1 and_CJC air_NN1 time_NN1 in_PRP large_AJ0 digits_NN2 ,_PUN and_CJC current_AJ0 depth_NN1 ,_PUN no-stop_AJ0 time_NN1 ,_PUN maximum_AJ0 depth_NN1 and_CJC temperature_NN1 ._PUN
+Vital_AJ0 information_NN1 is_VBZ therefore_AV0 always_AV0 displayed_VVN ._PUN
+The_AT0 dive_NN1 planning_NN1-VVG screen_NN1 is_VBZ a_AT0 look-ahead_AV0 facility_NN1 showing_VVG a_AT0 selection_NN1 of_PRF depths_NN2 and_CJC no-stop_AJ0 times_NN2 depending_VVG on_PRP your_DPS current_AJ0 decompression_NN1 status_NN1 ._PUN
+The_AT0 dive_NN1 log_NN1 screen_NN1 displays_VVZ maximum_AJ0 depth_NN1 ,_PUN dive_VVB-NN1 time_NN1 and_CJC surface_NN1 interval_NN1 for_PRP the_AT0 last_ORD ten_CRD dives_VVZ-NN2 ._PUN
+A_AT0 dive_NN1-VVB simulator_NN1 allows_VVZ you_PNP to_TO0 plan_VVI dives_NN2 and_CJC predict_VVB stops_NN2 ._PUN
+On_PRP descent_NN1 ,_PUN below_AV0 1.5_CRD metres_NN2 the_AT0 Pro-File_NN1 starts_VVZ its_DPS diving_AJ0-NN1 mode_NN1 automatically_AV0 and_CJC models_NN2-VVZ the_AT0 uptake_NN1 and_CJC release_NN1 of_PRF nitrogen_NN1 for_PRP 16_CRD tissue_NN1 types_NN2 ._PUN
+Cylinder_NN1 pressure_NN1 ,_PUN air_NN1 time_NN1 remaining_VVG at_PRP current_AJ0 depth_NN1 ,_PUN and_CJC remaining_AJ0-VVG no-stop_AJ0-NN1 time_NN1 are_VBB continuously_AV0 updated_VVN-VVD ._PUN
+If_CJS the_AT0 remaining_AJ0 air_NN1 time_NN1 is_VBZ less_DT0 than_CJS the_AT0 no-stop_AJ0 time_NN1 required_VVN ,_PUN the_AT0 cylinder_NN1 content_NN1-AJ0 display_NN1 flashes_VVZ air_NN1 time_NN1 ._PUN
+An_AT0 alarm_NN1 sounds_NN2-VVZ and_CJC a_AT0 ‘_PUQ 1_CRD ’_PUQ flashes_VVZ if_CJS you_PNP are_VBB within_PRP one_CRD minute_NN1 of_PRF a_AT0 stop_NN1 ._PUN
+Pro-File_NN1 calculates_VVZ decompression_NN1 requirements_NN2 for_PRP any_DT0 ascent_NN1 rate_NN1 ._PUN
+Going_VVG up_AVP faster_AV0 triggers_VVZ a_AT0 flashing_AJ0 rate_NN1 indicator_NN1 and_CJC an_AT0 audible_AJ0 alarm_NN1 ._PUN
+During_PRP a_AT0 decompression_NN1 dive_NN1-VVB in_PRP novice_NN1 mode_NN1 ,_PUN only_AV0 the_AT0 deepest_AJS stop_NN1-VVB depth_NN1 and_CJC time_NN1 are_VBB shown_VVN ._PUN
+You_PNP must_VM0 wait_VVI at_PRP that_DT0 depth_NN1 ,_PUN within_PRP 0.5_CRD metres_NN2 ,_PUN until_CJS a_AT0 shallower_AJC depth_NN1 or_CJC a_AT0 new_AJ0 no-stop_AJ0-NN1 time_NN1 is_VBZ indicated_VVN ._PUN
+During_PRP a_AT0 decompression_NN1 dive_NN1-VVB in_PRP expert_NN1-AJ0 mode_NN1 ,_PUN the_AT0 ceiling_NN1 is_VBZ displayed_VVN at_PRP progressively_AV0 increasing_AJ0-VVG depths_NN2 and_CJC times_NN2 ,_PUN together_AV0 with_PRP a_AT0 flashing_NN1-AJ0 ascend_VVB warning_NN1 ._PUN
+All_DT0 stops_NN2-VVZ and_CJC times_NN2 are_VBB displayed_VVN so_AV0 your_DPS ascent_NN1 profile_NN1 is_VBZ known_VVN in_PRP advance_NN1 ._PUN
+In_PRP both_DT0 modes_NN2 ,_PUN dive_VVB-NN1 time_NN1 reads_VVZ in_PRP-AVP minutes_NN2 and_CJC seconds_NN2 ,_PUN while_CJS the_AT0 time_NN1 left_VVN-VVD at_PRP a_AT0 stop_NN1 decrements_NN2 in_PRP minutes_NN2 ._PUN
+After_PRP surfacing_VVG ,_PUN Pro-File_NN1 allows_VVZ two_CRD minutes_NN2 before_CJS the_AT0 next_ORD descent_NN1 is_VBZ programmed_VVN as_PRP a_AT0 separate_AJ0 dive_NN1 ._PUN
+During_PRP the_AT0 surface_NN1 interval_NN1 ,_PUN the_AT0 fly_NN1-AJ0 time_NN1 screen_NN1 displays_VVZ one_CRD of_PRF four_CRD sets_NN2 of_PRF information_NN1 :_PUN Warning/do_UNC not_XX0 fly_VVB-NN1 for_PRP …_PUN hrs_NN2 …_PUN mins_NN2 ;_PUN safe_AJ0 to_TO0 fly/time_VVI to_PRP tissue_NN1 desat_NN1-VVB …_PUN hrs_NN2 …_PUN mins_NN2 ;_PUN safe_AJ0 to_PRP fly/tissues_UNC desaturated_AJ0-VVN ;_PUN and_CJC ,_PUN should_VM0 a_AT0 decompression_NN1 incident_NN1 have_VHB occurred_VVN :_PUN Warning/do_UNC not_XX0 fly_NN1-VVB ._PUN
+Should_VM0 you_PNP miss_VVI a_AT0 decompression_NN1 stop_NN1-VVB ,_PUN an_AT0 emergency_NN1 screen_NN1 shows_VVZ-NN2 missed_AJ0-VVD decompression_NN1 stop_NN1-VVB ,_PUN including_PRP the_AT0 ceiling_NN1 and_CJC stop_VVB-NN1 time_NN1 of_PRF the_AT0 missed_AJ0 stop_NN1 and_CJC the_AT0 numbers_NN2 of_PRF the_AT0 tissues_NN2 affected_VVN ._PUN
+Pro-File_NN1 compensates_VVZ automatically_AV0 at_PRP the_AT0 reduced_AJ0 atmospheric_AJ0 pressure_NN1 for_PRP dives_NN2 up_AVP to_PRP 3,500_CRD metres_NN2 altitude_NN1 ._PUN
+On_PRP ascent_NN1 to_PRP altitude_NN1 after_PRP diving_VVG at_PRP sea_NN1 level_NN1 ,_PUN the_AT0 display_NN1 automatically_AV0 comes_VVZ on_AVP ,_PUN warning_NN1 of_PRF DCS_NP0 risks_NN2 ._PUN
+A_AT0 multi-user_AJ0 mode_NN1 is_VBZ available_AJ0 for_PRP recognised_AJ0 dive_NN1 schools_NN2 ._PUN
+Up_AVP to_PRP four_CRD divers_NN2 can_VM0 use_VVI one_CRD computer_NN1 since_CJS individual_AJ0 dive_NN1 logs_NN2 can_VM0 be_VBI stored_VVN in_PRP separate_AJ0 areas_NN2 of_PRF memory_NN1 ._PUN
+There_EX0 is_VBZ also_AV0 a_AT0 dual_AJ0 mode_NN1 available_AJ0 for_PRP two_CRD divers_NN2 ._PUN
+A_AT0 variety_NN1 of_PRF features_NN2 can_VM0 be_VBI added_VVN by_PRP re-programming_NN1-VVG ,_PUN including_PRP a_AT0 redesigned_AJ0 display_NN1 incorporating_VVG graphics_NN0 ,_PUN icons_NN2 or_CJC almost_AV0 any_DT0 foreign_AJ0 language_NN1 ._PUN
+Pro-File_NN1 's_POS reprogrammability_NN1 allows_VVZ the_AT0 decompression_NN1 algorithm_NN1 to_TO0 be_VBI updated_VVN-AJ0 or_CJC changed_VVN ,_PUN and_CJC personal_AJ0 information_NN1 ,_PUN like_PRP name_NN1 and_CJC telephone_NN1-VVB number_NN1 ,_PUN displayed_VVD-VVN ._PUN
+Every_AT0 model_NN1 has_VHZ a_AT0 pre-programmed_AJ0 serial_NN1 number_NN1 that_CJT identifies_VVZ the_AT0 purchaser_NN1 ._PUN
+It_PNP also_AV0 makes_VVZ possible_AJ0 a_AT0 variety_NN1 of_PRF display_NN1 options_NN2 ._PUN
+So_AV0 what_DTQ is_VBZ the_AT0 Pro-File_NN1 like_VVB to_TO0 dive_VVI with_PRP ?_PUN
+Since_CJS Pro-File_NN1 is_VBZ a_AT0 data_NN0 logger_NN1 it_PNP can_VM0 log_VVI parameters_NN2 other_AJ0 than_CJS those_DT0 required_VVN-AJ0 for_PRP it_PNP to_TO0 function_VVI as_PRP a_AT0 dive_NN1 computer_NN1 (_PUL depth_NN1 ,_PUN temperature_NN1 and_CJC air_NN1 data_NN0 as_PRP functions_NN2 of_PRF time_NN1 )_PUR ._PUN
+For_PRP example_NN1 ,_PUN I_PNP plan_VVB to_TO0 use_VVI it_PNP (_PUL with_PRP Quatek_NP0 's_POS permission_NN1 )_PUR for_PRP logging_VVG-NN1 divers_NN2 '_POS heart_NN1 rates_NN2 and_CJC breathing_VVG rates_NN2 ,_PUN and_CJC also_AV0 for_PRP underwater_AJ0 navigation_NN1 as_PRP part_NN1 of_PRF a_AT0 research_NN1 programme_NN1 at_PRP Loughborough_NP0 University_NN1 ._PUN
+I_PNP tried_VVD both_AV0 novice_NN1 mode_NN1 and_CJC expert_NN1-AJ0 mode_NN1 ._PUN
+My_DPS main_AJ0 impressions_NN2 are_VBB that_CJT it_PNP is_VBZ easy_AJ0 to_TO0 use_VVI and_CJC displays_VVZ information_NN1 clearly_AV0 ._PUN
+It_PNP is_VBZ compatible_AJ0 with_PRP a_AT0 personal_AJ0 computer_NN1 ;_PUN I_PNP found_VVD it_PNP simple_AJ0 to_TO0 transfer_VVI Pro-File_NN1 's_POS stored_AJ0 data_NN0 and_CJC to_TO0 display_VVI any_DT0 dive_NN1-VVB profile_NN1 ._PUN
+My_DPS criticisms_NN2 are_VBB mostly_AV0 minor_AJ0 and_CJC personal_AJ0 ._PUN
+I_PNP would_VM0 prefer_VVI an_AT0 analogue_AJ0 contents_NN2 display_VVB-NN1 because_CJS it_PNP is_VBZ more_AV0 eye-catching_AJ0 and_CJC less_AV0 likely_AJ0 to_TO0 be_VBI misread_VVN ._PUN
+The_AT0 strap_NN1 is_VBZ a_AT0 strong_AJ0 rubber_NN1-AJ0 one_CRD-PNI but_CJC I_PNP found_VVD I_PNP had_VHD to_TO0 overtighten_VVI it_PNP at_PRP the_AT0 surface_NN1 ,_PUN otherwise_AV0 it_PNP became_VVD loose_AJ0-AV0 when_CJS my_DPS drysuit_NN1 seal_NN1 compressed_VVN-VVD at_PRP depth_NN1 ._PUN
+These_DT0 criticisms_NN2 apart_AV0 ,_PUN I_PNP found_VVD Pro-File_NN1-VVB an_AT0 impressive_AJ0 computer_NN1 whose_DTQ potential_AJ0-NN1 versatility_NN1 puts_VVZ it_PNP ,_PUN quite_AV0 literally_AV0 ,_PUN in_PRP a_AT0 class_NN1 of_PRF its_DPS own_DT0 ._PUN
+Pro-File_NN1 retails_VVZ at_PRP £398_NN0 (_PUL including_PRP a_AT0 hard_AJ0 case_NN1 )_PUR ,_PUN Datalink_VVB at_PRP £95_NN0 ,_PUN the_AT0 DV_CRD pressure_NN1 sensor_NN1 and_CJC cable_NN1-VVB at_PRP £77_NN0 and_CJC a_AT0 12-volt_NN1 charger_NN1 (_PUL an_AT0 alternative_NN1-AJ0 to_PRP the_AT0 mains_NN1 charger_NN1 supplied_VVN )_PUR at_PRP £20_NN0 ._PUN
+The_AT0 Suunto_NN1-NP0 Solution_NN1
+reviewed_VVN by_PRP Martin_NP0 Pritchard_NP0
+The_AT0 Finnish_AJ0 instrument_NN1 maker_NN1 Suunto_NN1-NP0 ,_PUN has_VHZ produced_VVN a_AT0 new_AJ0 unit_NN1 called_VVN-VVD the_AT0 Solution_NN1 ._PUN
+It_PNP is_VBZ certainly_AV0 a_AT0 state_NN1 of_PRF the_AT0 art_NN1 unit_NN1 ,_PUN offering_VVG an_AT0 impressive_AJ0 36_CRD functions_NN2 which_DTQ range_VVB-NN1 from_PRP three_CRD altitude_NN1 settings_NN2 ,_PUN to_PRP an_AT0 internal_AJ0 memory_NN1 capable_AJ0 of_PRF storing_VVG up_AVP to_PRP eight_CRD hours_NN2 of_PRF diving_AJ0-VVG profiles_NN2 ,_PUN and_CJC if_CJS that_DT0 's_VBZ not_XX0 enough_AV0 ,_PUN you_PNP can_VM0 interface_VVI it_PNP with_PRP a_AT0 personal_AJ0 computer_NN1 and_CJC relive_VVB your_DPS dive_NN1 profiles_NN2-VVZ in_PRP your_DPS own_DT0 home_NN1 ._PUN
+The_AT0 solution_NN1 displays_VVZ all_DT0 the_AT0 essential_AJ0 information_NN1 on_PRP depths_NN2 ,_PUN times_NN2 and_CJC decompression_NN1 requirements_NN2 ._PUN
+The_AT0 computer_NN1 's_POS micro_AJ0 processor_NN1 automatically_AV0 models_VVZ the_AT0 absorption_NN1 and_CJC release_NN1 of_PRF nitrogen_NN1 (_PUL it_PNP uses_VVZ a_AT0 modified_AJ0 Haldanian_AJ0 model_NN1 based_VVN on_PRP nine_CRD tissue_NN1 compartments_NN2 )_PUR during_PRP all_DT0 phases_NN2 of_PRF diving_NN1-AJ0 ,_PUN including_PRP ascents_NN2 ,_PUN surface_NN1 intervals_NN2 and_CJC repetitive_AJ0 diving_NN1 ._PUN
+The_AT0 information_NN1 is_VBZ displayed_VVN in_PRP a_AT0 simple_AJ0 and_CJC logical_AJ0 fashion_NN1 ._PUN
+When_CJS diving_VVG-NN1 ,_PUN the_AT0 unit_NN1 displays_VVZ present_AJ0-NN1 and_CJC maximum_AJ0 depth_NN1 ,_PUN elapsed_AJ0 time_NN1 ,_PUN remaining_VVG-AJ0 no-decompression_AJ0 time_NN1 ,_PUN ascent_NN1 rate_NN1 and_CJC water_NN1 temperature_NN1 ._PUN
+If_CJS the_AT0 no-decompression_AJ0 time_NN1 is_VBZ exceeded_VVN ,_PUN the_AT0 Solution_NN1 displays_VVZ ascent_NN1 time_NN1 and_CJC the_AT0 depth_NN1 at_PRP which_DTQ stops_VVZ are_VBB needed_VVN ._PUN
+After_PRP surfacing_VVG the_AT0 Solution_NN1 remains_VVZ active_AJ0 and_CJC displays_VVZ time_NN1 elapsed_VVN-VVD since_PRP surfacing_VVG ,_PUN time_NN1 until_CJS complete_AJ0 desaturation_NN1 ,_PUN maximum_AJ0 depth_NN1 and_CJC dive_VVB-NN1 time_NN1 of_PRF your_DPS last_ORD dive_NN1-VVB ,_PUN and_CJC amount_NN1 of_PRF available_AJ0 no-decompression_AJ0-NN1 time_NN1 for_PRP planning_VVG the_AT0 next_ORD dive_NN1 ._PUN
+The_AT0 unit_NN1 will_VM0 automatically_AV0 activate_VVI if_CJS submerged_VVN-AJ0 ,_PUN but_CJC should_VM0 be_VBI activated_VVN prior_AJ0 to_PRP diving_VVG ,_PUN either_AV0 by_PRP immersing_VVG it_PNP in_PRP water_NN1 or_CJC placing_VVG-NN1 moistened_AJ0-VVD fingertips_NN2 on_PRP the_AT0 two_CRD on_PRP contacts_NN2 ._PUN
+After_CJS-PRP a_AT0 short_AJ0 audible_AJ0 beep_NN1-VVB the_AT0 start_NN1 up_PRP-AVP display_NN1-VVB elements_NN2 turn_VVB on_AVP ._PUN
+Then_AV0 the_AT0 current_AJ0 altitude_NN1 mode_NN1 selected_VVN is_VBZ displayed_VVN ._PUN
+This_DT0 is_VBZ followed_VVN by_PRP the_AT0 ready_AJ0 display_NN1 ,_PUN confirming_VVG that_CJT the_AT0 Solution_NN1 is_VBZ ready_AJ0 to_TO0 dive_VVI ,_PUN which_DTQ alternates_VVZ approximately_AV0 every_AT0 30_CRD seconds_NN2 with_PRP the_AT0 dive_NN1 planning_NN1-VVG display_NN1-VVB ._PUN
+Once_AV0 a_AT0 depth_NN1 of_PRF 1.5_CRD metres_NN2 is_VBZ exceeded_VVN ,_PUN the_AT0 Solution_NN1 enters_VVZ into_PRP dive_NN1 mode_NN1 and_CJC displays_VVZ the_AT0 no-decompression_AJ0 time_NN1 available_AJ0 ,_PUN current_AJ0 depth_NN1 ,_PUN elapsed_VVD-AJ0 dive_NN1-VVB time_NN1 and_CJC water_NN1 temperature_NN1 ._PUN
+A_AT0 bar_NN1 graph_NN1 shows_VVZ present_AJ0 depth_NN1 and_CJC maximum_AJ0 depth_NN1 reached_VVD-VVN ._PUN
+If_CJS your_DPS dive_NN1 exceeds_VVZ the_AT0 no-decompression_AJ0 time_NN1 ,_PUN it_PNP flashes_VVZ the_AT0 notation_NN1 asc_NN1 time_NN1 (_PUL ascent_NN1 time_NN1 )_PUR and_CJC the_AT0 minimum_AJ0-NN1 amount_NN1 of_PRF time_NN1 ,_PUN in_PRP minutes_NN2 ,_PUN needed_VVD-VVN to_TO0 make_VVI the_AT0 ascent_NN1 ._PUN
+A_AT0 depth_NN1 bar_NN1 graph_NN1 indicates_VVZ the_AT0 ceiling_NN1 (_PUL shallowest_AJS depth_NN1 )_PUR you_PNP can_VM0 ascend_VVI to_PRP at_PRP any_DT0 one_CRD time_NN1 ._PUN
+All_DT0 depth_NN1 bars_VVZ-NN2 shallower_AJC than_CJS the_AT0 ceiling_NN1 ,_PUN constantly_AV0 blink_VVB-NN1 ._PUN
+A_AT0 good_AJ0 feature_NN1 of_PRF the_AT0 Solution_NN1 is_VBZ that_CJT it_PNP offers_VVZ flexibility_NN1 in_PRP the_AT0 depth_NN1 of_PRF the_AT0 decompression_NN1 range_NN1 ,_PUN so_AV0 that_CJT for_PRP an_AT0 indicated_AJ0 ceiling_NN1 of_PRF three_CRD metres_NN2 it_PNP will_VM0 accept_VVI that_CJT you_PNP are_VBB in_PRP the_AT0 correct_AJ0 range_NN1 if_CJS you_PNP are_VBB between_PRP nine_CRD and_CJC three_CRD metres_NN2 depth_NN1 ._PUN
+If_CJS you_PNP ascend_VVB above_PRP the_AT0 decompression_NN1 ceiling_NN1 ,_PUN the_AT0 amount_NN1 of_PRF ascent_NN1 time_NN1 will_VM0 be_VBI replaced_VVN by_PRP a_AT0 flashing_AJ0 error_NN1 warning_NN1 and_CJC flashing_VVG downward_AJ0 pointing_AJ0-VVG arrow_NN1 ._PUN
+You_PNP have_VHB three_CRD minutes_NN2 to_TO0 descend_VVI to_PRP below_AV0 the_AT0 ceiling_NN1 before_CJS the_AT0 Solution_NN1 goes_VVZ into_PRP error_NN1 mode_NN1 ._PUN
+Once_AV0 asc_NN1 time_NN1 reaches_VVZ zero_CRD and_CJC is_VBZ replaced_VVN with_PRP no_AT0 dec_NN1 time_NN1 ,_PUN you_PNP can_VM0 surface_NN1 ._PUN
+On_PRP ascent_NN1 ,_PUN the_AT0 ascent_NN1 speed_NN1 monitor_NN1 becomes_VVZ visible_AJ0 ._PUN
+If_CJS the_AT0 ascent_NN1 speed_NN1 is_VBZ exceeded_VVN ,_PUN a_AT0 flashing_AJ0 slow_AJ0 warning_NN1 is_VBZ given_VVN ._PUN
+On_PRP ascending_AJ0 to_PRP 1.5_CRD metres_NN2 or_CJC shallower_AJC ,_PUN the_AT0 Solution_NN1 enters_VVZ surface_NN1 mode_NN1 ._PUN
+It_PNP displays_VVZ maximum_AJ0 depth_NN1 and_CJC elapsed_AJ0-VVD dive_NN1-VVB time_NN1 ._PUN
+The_AT0 time_NN1 elapsed_VVN-VVD since_PRP surfacing_VVG is_VBZ shown_VVN with_PRP the_AT0 notation_NN1 surf_NN1 time_NN1 ._PUN
+This_DT0 alternates_VVZ with_PRP the_AT0 amount_NN1 of_PRF time_NN1 until_CJS desaturation_NN1 is_VBZ achieved_VVN (_PUL no_AT0 flying_AJ0 time_NN1 )_PUR ,_PUN signified_VVN by_PRP an_AT0 image_NN1 of_PRF an_AT0 aeroplane_NN1 ._PUN
+The_AT0 unit_NN1 remains_VVZ active_AJ0 until_CJS desaturation_NN1 is_VBZ achieved_VVN ,_PUN then_AV0 turns_VVZ itself_PNX off_AVP ._PUN
+If_CJS you_PNP dive_VVB within_PRP 10_CRD minutes_NN2 of_PRF surfacing_VVG-NN1 ,_PUN the_AT0 Solution_NN1 considers_VVZ it_PNP a_AT0 continuation_NN1 of_PRF the_AT0 first_ORD dive_NN1 ._PUN
+If_CJS you_PNP dive_VVB after_PRP a_AT0 surface_NN1 interval_NN1 of_PRF more_AV0 than_CJS 10_CRD minutes_NN2 ,_PUN the_AT0 Solution_NN1 will_VM0 consider_VVI it_PNP a_AT0 second_ORD dive_NN1-VVB ,_PUN and_CJC dive_VVB-NN1 time_NN1 will_VM0 start_VVI again_AV0 from_PRP zero_CRD ._PUN
+Decompression_NN1 times_NN2 are_VBB scrolled_VVN through_AVP on_PRP the_AT0 display_NN1 for_PRP repetitive_AJ0 dive_NN1 planning_NN1 ._PUN
+Should_VM0 the_AT0 battery_NN1 run_VVI down_AVP ,_PUN the_AT0 notation_NN1 bat_NN1 will_VM0 be_VBI displayed_VVN and_CJC it_PNP should_VM0 not_XX0 be_VBI used_VVN until_CJS serviced_VVN ._PUN
+I_PNP have_VHB used_VVN the_AT0 Solution_NN1 for_PRP six_CRD dives_VVZ-NN2 ,_PUN the_AT0 majority_NN1 of_PRF these_DT0 required_AJ0 decompression_NN1 and_CJC at_PRP all_DT0 times_NN2 it_PNP performed_VVD faultlessly_AV0 ._PUN
+The_AT0 display_NN1 was_VBD clear_AJ0 and_CJC easy_AJ0 to_TO0 read_VVI ,_PUN with_PRP decompression_NN1 data_NN0 well_AV0 presented_VVN and_CJC easy_AJ0 to_TO0 follow_VVI ._PUN
+Computers_NN2 in_PRP general_AJ0 have_VHB undoubtedly_AV0 allowed_VVN us_PNP more_DT0 dive_NN1 time_NN1 ,_PUN but_CJC a_AT0 consequence_NN1 of_PRF this_DT0 is_VBZ that_DT0-CJT ascent_NN1 speeds_NN2 are_VBB now_AV0 critical_AJ0 ._PUN
+With_PRP that_DT0 point_NN1 in_PRP mind_NN1 I_PNP particularly_AV0 like_VVB the_AT0 Solution_NN1 's_POS ascent_NN1 speed_NN1 monitor_NN1-VVB ,_PUN which_DTQ was_VBD very_AV0 easy_AJ0 to_TO0 use_VVI ._PUN
+Another_DT0 function_NN1 of_PRF the_AT0 Solution_NN1 ,_PUN is_VBZ the_AT0 ability_NN1 to_TO0 display_VVI dive_NN1-VVB profiles_NN2 for_PRP the_AT0 previous_AJ0 eight_CRD hours_NN2 diving_VVG-AJ0 and_CJC for_PRP dive_NN1 simulation_NN1 ._PUN
+This_DT0 is_VBZ almost_AV0 as_AV0 much_DT0 fun_NN1-AJ0 as_CJS going_VVG diving_VVG and_CJC is_VBZ the_AT0 ability_NN1 to_TO0 interface_VVI the_AT0 Solution_NN1 with_PRP a_AT0 desk_NN1 top_NN1-AJ0 computer_NN1 and_CJC record_NN1-VVB ,_PUN organise_VVB and_CJC recall_VVB all_DT0 normal_AJ0 logbook_NN1 information_NN1 and_CJC also_AV0 any_DT0 dive_NN1-VVB profiles_NN2-VVZ from_PRP the_AT0 Solution_NN1 's_POS internal_AJ0 memory_NN1 ._PUN
+The_AT0 whole_AJ0 program_NN1 works_VVZ very_AV0 well_AV0 ,_PUN I_PNP still_AV0 seem_VVB to_TO0 have_VHI problems_NN2 in_PRP getting_VVG to_PRP grips_NN2 with_PRP some_DT0 areas_NN2 ._PUN
+It_PNP appears_VVZ to_TO0 be_VBI aimed_VVN squarely_AV0 at_PRP what_DTQ the_AT0 Americans_NN2 would_VM0 call_VVI a_AT0 ‘_PUQ resort_NN1 diver_NN1 ’_PUQ ,_PUN rather_AV0 than_CJS someone_PNI like_PRP me_PNP who_PNQ dives_VVZ several_DT0 times_NN2 a_AT0 week_NN1 in_PRP-AVP more_DT0 or_CJC less_AV0 the_AT0 same_DT0 areas_NN2 ._PUN
+I_PNP thoroughly_AV0 enjoyed_VVD using_VVG the_AT0 program_NN1 and_CJC if_CJS you_PNP are_VBB a_AT0 PC_NN1 and_CJC Solution_NN1 owning_VVG diver_NN1 ,_PUN you_PNP wo_VM0 n't_XX0 be_VBI able_AJ0 to_TO0 live_VVI without_PRP the_AT0 interface_NN1 ._PUN
+Complaints_NN2 ?_PUN
+None_PNI really_AV0 ,_PUN but_CJC a_AT0 couple_NN1 of_PRF points_NN2 are_VBB worthy_AJ0 of_PRF mention_NN1 ._PUN
+The_AT0 Solution_NN1 is_VBZ equipped_VVN with_PRP an_AT0 audible_AJ0 alarm_NN1 which_DTQ is_VBZ emitted_VVN-AJ0 when_CJS the_AT0 ascent_NN1 speed_NN1 exceeds_VVZ 10_CRD metres_NN2 per_PRP minute_NN1 ,_PUN when_AVQ the_AT0 dive_NN1 becomes_VVZ a_AT0 decompression_NN1 dive_NN1-VVB and_CJC when_CJS the_AT0 decompression_NN1 ceiling_NN1 is_VBZ reached_VVN ._PUN
+In_PRP reality_NN1 this_DT0 is_VBZ inaudible_AJ0 under_PRP water_NN1 so_AV0 do_VDB n't_XX0 rely_VVI on_PRP it_PNP to_TO0 give_VVI you_PNP a_AT0 reminder_NN1 ._PUN
+The_AT0 unit_NN1 I_PNP had_VHD for_PRP review_NN1 was_VBD the_AT0 wrist_NN1 mounted_AJ0-VVD version_NN1 which_DTQ had_VHD a_AT0 rubber_AJ0 strap_NN1 with_PRP a_AT0 built_VVN in_AVP expander_NN1 ._PUN
+I_PNP never_AV0 felt_VVD happy_AJ0 with_PRP it_PNP ,_PUN and_CJC on_PRP two_CRD occasions_NN2 found_VVD-VVN that_CJT it_PNP had_VHD worked_VVN its_DPS way_NN1 down_AVP-PRP my_DPS arm_NN1 and_CJC was_VBD loose_AJ0-AV0 around_PRP-AVP my_DPS wrist_NN1 ._PUN
+To_TO0 be_VBI fair_AJ0-AV0 ,_PUN Suunto_NP0-NN1 recommend_VVB that_CJT it_PNP is_VBZ worn_VVN just_AV0 above_PRP the_AT0 wrist_NN1 joint_NN1-AJ0 and_CJC it_PNP would_VM0 be_VBI unlikely_AJ0 to_TO0 move_VVI from_PRP that_DT0 position_NN1 ._PUN
+I_PNP could_VM0 not_XX0 wear_VVI it_PNP there_AV0 because_CJS of_PRF my_DPS drysuit_NN1 cuff_NN1 ,_PUN and_CJC had_VHD it_PNP just_AV0 above_PRP the_AT0 cuff_NN1 to_PRP sleeve_NN1 joint_NN1-AJ0 ._PUN
+The_AT0 recommended_AJ0 retail_AJ0 price_NN1 of_PRF the_AT0 Solution_NN1 is_VBZ £310_NN0 and_CJC the_AT0 Interface_NN1 is_VBZ £149.95_NN0 ._PUN
+Both_DT0 are_VBB inclusive_AJ0 of_PRF VAT_NN1 ._PUN
+All_DT0 in_PRP all_DT0 ,_PUN I_PNP thought_VVD it_PNP was_VBD an_AT0 excellent_AJ0 unit_NN1 and_CJC ended_VVD up_AVP buying_VVG one_PNI-CRD myself_PNX ._PUN
+The_AT0 Aladin_NN1-NP0 Pro_NN1
+reviewed_VVN by_PRP Frank_NP0 Pembridge_NP0
+Since_CJS the_AT0 introduction_NN1 of_PRF dive_NN1 computers_NN2 onto_PRP the_AT0 market_NN1 ,_PUN I_PNP have_VHB been_VBN reluctant_AJ0 to_TO0 buy_VVI one_PNI ._PUN
+Firstly_AV0 because_CJS of_PRF the_AT0 cost_NN1 ,_PUN and_CJC secondly_AV0 because_CJS I_PNP was_VBD firm_AJ0 in_PRP my_DPS belief_NN1 that_CJT there_EX0 was_VBD no_AT0 substitute_NN1-AJ0 for_PRP a_AT0 reliable_AJ0 watch_NN1 ,_PUN an_AT0 accurate_AJ0 depth_NN1 gauge_NN1 and_CJC a_AT0 thorough_AJ0 working_AJ0 knowledge_NN1 of_PRF a_AT0 well_AV0 proven_VVN set_NN1 of_PRF decompression_NN1 tables_NN2 ._PUN
+However_AV0 ,_PUN a_AT0 few_DT0 months_NN2 ago_AV0 ,_PUN a_AT0 friend_NN1 showed_VVD me_PNP his_DPS latest_AJS acquisition_NN1 ,_PUN the_AT0 all-singing-all-dancing_AJ0-NN1 computer_NN1 which_DTQ did_VDD just_AV0 about_AV0 everything_PNI except_PRP dive_NN1 for_PRP you_PNP ._PUN
+After_CJS-PRP a_AT0 demonstration_NN1 of_PRF this_DT0 bit_NN1 of_PRF electronic_AJ0 wizardry_NN1 called_VVN-VVD Aladin_NN1-NP0 Pro_NN1 ,_PUN I_PNP was_VBD surprised_AJ0 to_TO0 discover_VVI it_PNP used_VVD Professor_NP0 Bühlmann_NP0 's_POS tables_NN2 as_PRP its_DPS basis_NN1 and_CJC ,_PUN as_CJS well_AV0 as_CJS an_AT0 instruction_NN1 manual_NN1 ,_PUN it_PNP also_AV0 came_VVD with_PRP a_AT0 set_NN1 of_PRF Bühlmann_NP0-NN1 tables_NN2 ._PUN
+Manufactured_VVN by_PRP UWATEC_NN1 of_PRF Switzerland_NP0 ,_PUN the_AT0 Aladin_NN1-NP0 Pro_NN1 is_VBZ a_AT0 robust_AJ0 ,_PUN compact_AJ0 with_PRP a_AT0 mounted_AJ0 dive_NN1 computer_NN1 ._PUN
+It_PNP provides_VVZ all_DT0 the_AT0 necessary_AJ0 information_NN1 relating_VVG to_PRP actual_AJ0 depth_NN1 ,_PUN maximum_AJ0 depth_NN1 time_NN1 ,_PUN no-stop_AJ0 time_NN1 ,_PUN decompression_NN1 time_NN1 ,_PUN ascent_NN1 rate_NN1 warnings_NN2 ,_PUN surface_NN1 interval_NN1 ,_PUN nitrogen_NN1 clearance_NN1 time_NN1 ,_PUN safe_AJ0 flying_AJ0-NN1 time_NN1 and_CJC a_AT0 recall_NN1-VVB for_PRP a_AT0 scroll_NN1 read_VVN-VVD out_AVP of_PRF the_AT0 last_ORD nine_CRD dives_VVZ-NN2 ._PUN
+Seeing_VVG my_DPS interest_NN1 was_VBD now_AV0 aroused_VVN ,_PUN I_PNP was_VBD invited_VVN to_TO0 try_VVI the_AT0 unit_NN1 myself_PNX on_PRP a_AT0 day_NN1 's_POS diving_NN1 ._PUN
+I_PNP used_VVD the_AT0 Aladin_NN1-NP0 Pro_NN1 on_PRP a_AT0 series_NN0 of_PRF shallow_AJ0 training_NN1 dives_VVZ ._PUN
+After_PRP first_ORD working_VVG my_DPS times_NN2 on_PRP my_DPS Bühlmann_NN1-NP0 decompression_NN1 work_NN1-VVB sheet_NN1 ,_PUN I_PNP found_VVD that_CJT the_AT0 Aladin_NN1-NP0 Pro_NN1 complemented_VVD the_AT0 SAA_NP0 tables_NN2 when_CJS diving_VVG-AJ0 defensively_AV0 ,_PUN though_CJS I_PNP must_VM0 stress_VVI ,_PUN I_PNP used_VVD the_AT0 instrument_NN1 as_PRP a_AT0 backup_NN1 to_TO0 assist_VVI the_AT0 previously_AV0 worked_VVN-VVD out_AVP dive_NN1-VVB profiles_NN2 ._PUN
+After_PRP using_VVG the_AT0 Aladin_NN1-NP0 Pro_NN1 ,_PUN I_PNP was_VBD ,_PUN to_TO0 say_VVI the_AT0 least_AV0 ,_PUN very_AV0 impressed_AJ0 ._PUN
+It_PNP fulfilled_VVD all_DT0 functions_NN2 and_CJC provided_CJS all_DT0 the_AT0 information_NN1 that_CJT a_AT0 diver_NN1 needs_NN2 in_PRP order_NN1 to_TO0 eliminate_VVI any_DT0 possible_AJ0 problem_NN1 areas_NN2 encountered_VVN on_PRP a_AT0 dive_NN1 ._PUN
+I_PNP especially_AV0 liked_VVD the_AT0 two_CRD stage_NN1 ,_PUN visual_AJ0 and_CJC audio_NN1-AJ0 ,_PUN too_AV0 fast_AJ0 ascent_NN1 warnings_NN2 ._PUN
+Also_AV0 ,_PUN in_PRP the_AT0 event_NN1 of_PRF a_AT0 decompression_NN1 incident_NN1 ,_PUN it_PNP provides_VVZ the_AT0 chamber_NN1 operator_NN1 with_PRP an_AT0 accurate_AJ0 record_NN1 of_PRF dives_NN2 done_VDN ;_PUN something_PNI that_CJT the_AT0 dive_NN1 log_NN1 does_VDZ not_XX0 always_AV0 state_VVI in_PRP-AVP enough_DT0 detail_NN1 ._PUN
+On_PRP handing_VVG back_AVP the_AT0 computer_NN1 I_PNP put_VVB aside_AV0 any_DT0 previous_AJ0 prejudices_NN2 and_CJC purchased_VVD my_DPS own_DT0 ._PUN
+Now_AV0 I_PNP would_VM0 not_XX0 like_VVI to_TO0 be_VBI without_PRP it_PNP ._PUN
+The_AT0 Aladin_NN1-NP0 Pro_NN1 retails_VVZ at_PRP £311_NN0 inclusive_AJ0 of_PRF VAT_NN1 ._PUN
+CAVE_NN1-NP0 DIVING_NN1
+5_CRD Hours_NN2 In_PRP Yorkshire_NP0 's_POS Bowels_NN2
+The_AT0 divers_NN2 created_VVD-VVN artificial_AJ0 air_NN1 bells_NN2 in_PRP the_AT0 roof_NN1 of_PRF an_AT0 alcove_NN1 to_TO0 swap_VVI valves_NN2 from_PRP used_AJ0 tanks_NN2 to_PRP fresh_AJ0 ones_NN2 ._PUN
+They_PNP were_VBD thousands_CRD of_PRF feet_NN2 into_PRP the_AT0 sump_NN1 !_PUN
+Gavin_NP0 Newman_NP0 was_VBD there_AV0 to_TO0 record_VVI a_AT0 world_NN1 record_NN1 breaking_VVG cave_NN1 dive_NN1-VVB ._PUN
+The_AT0 worst_AJS dive_NN1-VVB in_PRP the_AT0 world_NN1 ?_PUN
+Not_XX0 an_AT0 unreasonable_AJ0 way_NN1 to_TO0 describe_VVI a_AT0 world_NN1 record_NN1 breaking_VVG dive_NN1-VVB just_AV0 completed_VVN ,_PUN not_XX0 in_PRP the_AT0 sunny_AJ0 Red_NP0 Sea_NP0 ,_PUN or_CJC the_AT0 idyllic_AJ0 Caribbean_NP0 ,_PUN but_CJC on_PRP our_DPS own_DT0 doorstep_NN1 —_PUN in_PRP the_AT0 Yorkshire_NP0 Dales_NN2 ._PUN
+The_AT0 underwater_AJ0 connection_NN1 of_PRF King_NP0 Pot_NP0 ,_PUN in_PRP East_NN1 Kingsdale_NP0 ,_PUN and_CJC Keld_NP0 Head_NN1 ,_PUN in_PRP West_NN1 Kingsdale_NP0 ,_PUN and_CJC the_AT0 subsequent_AJ0 through_PRP dive_NN1 ,_PUN is_VBZ a_AT0 significant_AJ0 landmark_NN1 in_PRP the_AT0 history_NN1 of_PRF underwater_AJ0 cave_NN1 exploration_NN1 in_PRP Britain_NP0 and_CJC on_PRP a_AT0 world_NN1 scale_NN1 ._PUN
+It_PNP was_VBD Geoff_NP0 Yeadon_NP0 and_CJC Oliver_NP0 Statham_NP0 who_PNQ made_VVD the_AT0 first_ORD connection_NN1 in_PRP the_AT0 jigsaw_NN1 ,_PUN 12_CRD years_NN2 ago_AV0 ._PUN
+They_PNP dived_VVD from_PRP Kingsdale_NP0 Master_NN1 Cave_NN1 to_PRP Keld_NP0-NN1 Head_NN1 ,_PUN a_AT0 distance_NN1 of_PRF 1829_CRD metres_NN2 ,_PUN setting_VVG Kingsdale_NP0 firmly_AV0 at_PRP the_AT0 head_NN1 of_PRF the_AT0 world_NN1 map_NN1 ._PUN
+Even_AV0 at_PRP that_DT0 time_NN1 it_PNP was_VBD known_VVN ,_PUN from_PRP dye_NN1 tracing_VVG experiments_NN2 ,_PUN that_CJT the_AT0 caves_NN2 in_PRP East_NN1 Kingsdale_NP0 ,_PUN particularly_AV0 King_NP0 Pot_NP0 ,_PUN were_VBD linked_VVN to_PRP Keld_NP0-NN1 Head_NN1 ._PUN
+So_AV0 the_AT0 search_NN1 for_PRP a_AT0 route_NN1 through_PRP-AVP was_VBD on_AVP ._PUN
+While_CJS many_DT0 people_NN0 dabbled_VVD ,_PUN it_PNP 's_VBZ a_AT0 little_AV0 known_VVN-AJ0 fact_NN1 even_AV0 in_PRP cave_NN1 diving_NN1-VVG circles_NN2 ,_PUN that_CJT Geoff_NP0 Yeadon_NP0 ,_PUN often_AV0 diving_VVG-AJ0 alone_AV0-AJ0 ,_PUN logged_VVN-VVD over_AV0 18,000_CRD metres_NN2 of_PRF diving_NN1-VVG looking_VVG for_PRP the_AT0 King_NP0 Pot_NP0 inlet_NN1 ._PUN
+Back_AVP in_PRP 1980_CRD Geoff_NP0 Yeadon_NP0 had_VHD told_VVN Geoff_NP0 Crossley_NP0 that_CJT it_PNP was_VBD his_DPS ambition_NN1 to_TO0 see_VVI King_NP0 Pot_NP0 and_CJC the_AT0 East_NN1 Kingsdale_NP0 Master_NN1 Cave_NN1-NP0 ,_PUN linked_VVN to_PRP West_NN1 Kingsdale_NP0 and_CJC Keld_NP0 Head_NN1 ._PUN
+However_AVQ he_PNP did_VDD n't_XX0 think_VVI it_PNP would_VM0 be_VBI done_VDN during_PRP his_DPS own_DT0 diving_AJ0-NN1 career_NN1 …_PUN
+Very_AV0 appropriate_AJ0 therefore_AV0 ,_PUN that_CJT-DT0 11_CRD years_NN2 later_AV0 ,_PUN it_PNP was_VBD to_TO0 be_VBI Geoff_NP0 Yeadon_NP0 ,_PUN at_PRP the_AT0 age_NN1 of_PRF 40_CRD ,_PUN watched_VVN by_PRP Geoff_NP0 Crossley_NP0 ,_PUN that_CJT-DT0 linked_VVD the_AT0 lines_NN2 connecting_VVG the_AT0 two_CRD caves_NN2 ._PUN
+A_AT0 silent_AJ0 handshake_NN1 across_PRP the_AT0 joined_AJ0 lines_NN2 ,_PUN over_AV0 1.5_CRD kilometres_NN2 from_PRP base_NN1 and_CJC at_PRP a_AT0 depth_NN1 of_PRF 30_CRD metres_NN2 ,_PUN concluded_VVD-VVN over_AVP-PRP a_AT0 decade_NN1 of_PRF searching_VVG-AJ0 ._PUN
+Yeadon_NP0-NN1 had_VHD eventually_AV0 found_VVN the_AT0 King_NP0 Pot_NP0 inlet_NN1 back_AVP in_PRP 1986_CRD ._PUN
+But_CJC due_AJ0 to_PRP other_AJ0 commitments_NN2 and_CJC the_AT0 very_AV0 constricted_AJ0 nature_NN1 of_PRF the_AT0 passage_NN1 ,_PUN it_PNP was_VBD not_XX0 pursued_VVN at_PRP the_AT0 time_NN1 ._PUN
+Towards_PRP the_AT0 end_NN1 of_PRF 1990_CRD ,_PUN working_VVG from_PRP Kingsdale_NP0 Master_NN1 Cave_NN1-NP0 ,_PUN Crossley_NP0 and_CJC Yeadon_NP0 ,_PUN joined_VVN by_PRP John_NP0 Cordingley_NP0 and_CJC Russell_NP0 Carter_NP0 ,_PUN managed_VVD-VVN to_TO0 force_VVI a_AT0 route_NN1 through_AVP-PRP into_PRP the_AT0 King_NP0 Pot_NP0 main_AJ0 water_NN1 ._PUN
+The_AT0 route_NN1 was_VBD very_AV0 tight_AJ0-AV0 and_CJC could_VM0 only_AV0 be_VBI passed_VVN using_VVG small_AJ0 cylinders_NN2 ._PUN
+Some_DT0 sustained_AJ0 underwater_AJ0 excavation_NN1 by_PRP Crossley_NP0 and_CJC Yeadon_NP0 ,_PUN opened_VVD a_AT0 route_NN1 passable_AJ0 with_PRP big_AJ0 tanks_NN2 ,_PUN enabling_VVG-AJ0 exploration_NN1 beyond_AV0 ._PUN
+While_CJS large_AJ0 enough_AV0 ,_PUN the_AT0 new_AJ0 route_NN1 ,_PUN called_VVN Cobble_NN1-NP0 Inlet_NN1 ,_PUN was_VBD still_AV0 only_AV0 14–18_CRD inches_NN2 high_AJ0 ,_PUN and_CJC comprised_VVD an_AT0 intimidating_AJ0 series_NN0 of_PRF squeezes_NN2 for_PRP some_DT0 90_CRD metres_NN2 ._PUN
+The_AT0 two_CRD teams_NN2 then_AV0 ‘_PUQ leapfrogged_VVD ’_PUQ up_AVP the_AT0 King_NP0 Pot_NP0 series_NN0 ,_PUN while_CJS Rupert_NP0 Skorupka_NP0 was_VBD doing_VDG some_DT0 impressive_AJ0 dives_NN2-VVZ downstream_AV0 from_PRP the_AT0 King_NP0 Pot_NP0 end_NN1-VVB ._PUN
+The_AT0 carry_VVB into_PRP this_DT0 dive_NN1 site_NN1 was_VBD particularly_AV0 tight_AV0-AJ0 ,_PUN wet_AJ0 and_CJC nasty_AJ0 ._PUN
+Once_AV0 in_PRP the_AT0 water_NN1 the_AT0 diving_NN1 followed_VVD a_AT0 tortuous_AJ0 corkscrewing_AJ0-NN1 route_NN1 reaching_VVG a_AT0 maximum_AJ0 depth_NN1 of_PRF 34.5_CRD metres_NN2 ._PUN
+Over_PRP a_AT0 series_NN0 of_PRF dives_NN2 ,_PUN Skorupka_NP0 eventually_AV0 reached_VVN-VVD a_AT0 point_NN1 some_DT0 420_CRD metres_NN2 from_PRP base_NN1 at_PRP 30_CRD metres_NN2 depth_NN1 ._PUN
+So_AV0 by_PRP June_NP0 1991_CRD ,_PUN the_AT0 two_CRD teams_NN2 working_VVG from_PRP the_AT0 West_NN1 Kingsdale_NP0 end_NN1-VVB ,_PUN had_VHD pushed_VVN the_AT0 end_NN1 of_PRF the_AT0 line_NN1 to_PRP 1435_CRD metres_NN2 from_PRP base_NN1 ._PUN
+The_AT0 surveys_NN2 now_AV0 indicated_VVD that_CJT the_AT0 gap_NN1 between_PRP the_AT0 two_CRD lines_NN2 should_VM0 only_AV0 be_VBI approximately_AV0 90_CRD metres_NN2 ._PUN
+On_PRP 7_CRD June_NP0 it_PNP was_VBD Yeadon_NP0 's_POS and_CJC Crossley_NP0 's_POS day_NN1 to_TO0 dive_VVI ._PUN
+After_PRP laying_VVG 95_CRD metres_NN2 of_PRF new_AJ0 line_NN1 ,_PUN Skorupka_NP0 's_POS line_NN1 met_VVN-VVD and_CJC the_AT0 connection_NN1 was_VBD made_VVN ._PUN
+As_PRP-CJS a_AT0 fitting_AJ0 tribute_NN1 to_PRP all_DT0 his_DPS years_NN2 of_PRF work_NN1 towards_PRP this_DT0 moment_NN1 ,_PUN it_PNP was_VBD to_TO0 be_VBI Yeadon_NP0-NN1 who_PNQ finally_AV0 tied_VVD-VVN the_AT0 East_NN1 and_CJC West_NN1 Kingsdale_NP0 lines_NN2 together_AV0 ._PUN
+Because_CJS the_AT0 connection_NN1 was_VBD not_XX0 made_VVN exactly_AV0 half_DT0 way_NN1 between_PRP the_AT0 two_CRD caves_NN2 ,_PUN this_DT0 dive_NN1 actually_AV0 involved_VVN-VVD some_DT0 3.5_CRD kilometres_NN2 of_PRF diving_NN1-VVG ._PUN
+It_PNP lasted_VVD six_CRD hours_NN2 and_CJC five_CRD minutes_NN2 and_CJC included_VVD two_CRD hours_NN2 and_CJC 20_CRD minutes_NN2 of_PRF decompression_NN1 !_PUN
+So_AV0 with_PRP the_AT0 connection_NN1 made_VVD-VVN ,_PUN the_AT0 through_AJ0 dive_NN1 was_VBD on_AVP ._PUN
+However_AVQ the_AT0 weather_NN1 and_CJC other_AJ0 commitments_NN2 meant_VVD this_DT0 did_VDD n't_XX0 take_VVI place_NN1 until_PRP 3_CRD August_NP0 ._PUN
+Starting_VVG-NN1 at_PRP 6am_AV0 ,_PUN a_AT0 team_NN1 of_PRF 20_CRD ‘_PUQ sherpas_NN2 ’_PUQ carried_VVD-VVN tanks_NN2 ,_PUN valves_NN2 ,_PUN drysuits_NN2 and_CJC other_AJ0 equipment_NN1 ,_PUN though_CJS the_AT0 tortuous_AJ0 lower_AJC entrance_NN1 to_PRP King_NP0 Pot_NP0 and_CJC on_AVP to_PRP the_AT0 downstream_AJ0 sump_NN1 ._PUN
+Each_DT0 diver_NN1 kitted_VVN up_AVP with_PRP 470_CRD cubic_AJ0 feet_NN2 of_PRF air_NN1 each_DT0 in_PRP four_CRD tanks_NN2 ,_PUN two_CRD side_NN1 mounted_VVN-VVD and_CJC two_CRD front_AJ0-NN1 mounted_AJ0-VVD ,_PUN breathing_VVG through_PRP Poseidon_NP0 valves_NN2 ._PUN
+Northern_AJ0 Diver_NN1 drysuits_NN2 ,_PUN five_CRD lamps_NN2 ,_PUN compasses_NN2 ,_PUN knives_NN2 ,_PUN depth_NN1 gauges_NN2 ,_PUN watches_NN2-VVZ ,_PUN decompression_NN1 tables_NN2 ,_PUN and_CJC Aladin_NP0-NN1 Pro_AJ0 computers_NN2 completed_VVD the_AT0 equipment_NN1 ._PUN
+At_PRP 10.20am_AV0 ,_PUN Yeadon_NP0 and_CJC Crossley_NP0 disappeared_VVD into_PRP the_AT0 King_NP0 Pot_NP0 sump_NN1-VVB pool_NN1 ._PUN
+They_PNP emerged_VVD ,_PUN more_AV0 than_CJS five_CRD hours_NN2 later_AV0 ,_PUN into_PRP the_AT0 sunlight_NN1 at_PRP the_AT0 Keld_NN1-NP0 Head_NN1 pool_NN1 ._PUN
+Because_CJS of_PRF the_AT0 caves_NN2 '_POS varying_AJ0 depths_NN2 ,_PUN 25_CRD minutes_NN2 decompression_NN1 was_VBD required_VVN before_PRP removing_VVG the_AT0 two_CRD front_AJ0 mounted_AJ0 cylinders_NN2 ,_PUN and_CJC pushing_VVG them_PNP ahead_AV0 through_PRP the_AT0 16_CRD inch_NN1 high_AJ0 Cobble_NN1 Inlet_NN1 passage_NN1 ._PUN
+Once_CJS rekitted_VVN ,_PUN a_AT0 long_AJ0 swim_NN1 led_VVD to_PRP collecting_VVG a_AT0 fifth_ORD tank_NN1 ,_PUN staged_VVD 900_CRD metres_NN2 from_PRP Keld_NP0-NN1 Head_NN1 the_AT0 previous_AJ0 day_NN1 ._PUN
+Now_AV0 wearing_VVG five_CRD tanks_NN2 ,_PUN the_AT0 final_AJ0 distance_NN1 to_PRP Keld_NP0-NN1 Head_NN1 took_VVD some_DT0 two_CRD hours_NN2 ,_PUN including_PRP a_AT0 one_CRD hour_NN1 decompression_NN1 stop_NN1-VVB ,_PUN calculated_VVN by_PRP the_AT0 Aladin_NN1 computers_NN2 100_CRD metres_NN2 from_PRP the_AT0 entrance_NN1 !_PUN
+At_PRP 3.1_CRD kilometers_NN2 ,_PUN this_DT0 dive_NN1 is_VBZ the_AT0 longest_AJS underwater_AJ0 traverse_NN1 of_PRF two_CRD cave_NN1 systems_NN2 in_PRP the_AT0 world_NN1 ._PUN
+However_AVQ it_PNP is_VBZ not_XX0 the_AT0 distance_NN1 ,_PUN but_CJC the_AT0 conditions_NN2 under_PRP which_DTQ it_PNP was_VBD achieved_VVN that_CJT set_VVB this_DT0 dive_NN1-VVB apart_AV0 ._PUN
+On_PRP the_AT0 through_AJ0 dive_NN1 ,_PUN visibility_NN1 was_VBD never_AV0 better_AJC than_CJS four_CRD feet_NN2 and_CJC often_AV0 zero_CRD ;_PUN reading_VVG-NN1 gauges_NN2 ,_PUN even_AV0 with_PRP five_CRD lights_NN2 ,_PUN was_VBD impossible_AJ0 !_PUN
+All_DT0 other_AJ0 world_NN1 class_NN1 through_PRP dives_NN2 have_VHB been_VBN made_VVN in_PRP places_NN2 such_DT0 as_PRP Florida_NP0 ,_PUN with_PRP crystal_NN1 clear_AJ0-AV0 warm_AJ0 water_NN1 and_CJC roomy_AJ0 passages_NN2 ,_PUN often_AV0 using_VVG underwater_AJ0 scooters_NN2 ._PUN
+To_TO0 swim_VVI a_AT0 distance_NN1 of_PRF 3.1_CRD kilometres_NN2 in_PRP five_CRD hours_NN2 ,_PUN with_PRP a_AT0 solid_AJ0 roof_NN1 and_CJC no_AT0 air_NN1 space_NN1 above_AV0 you_PNP ,_PUN visibility_NN1 often_AV0 zero_CRD and_CJC only_AV0 a_AT0 thin_AJ0 nylon_NN1 line_NN1-VVB to_TO0 follow_VVI ,_PUN must_VM0 be_VBI most_DT0 people_NN0 's_POS idea_NN1 of_PRF the_AT0 worst_AJS dive_NN1-VVB in_PRP the_AT0 world_NN1 …_PUN
+With_PRP the_AT0 Keld_NN1-NP0 Head_NN1 system_NN1 now_AV0 the_AT0 longest_AJS underwater_AJ0 cave_NN1 in_PRP Europe_NP0 ,_PUN at_PRP some_DT0 6.5_CRD kilometres_NN2 ,_PUN what_DTQ were_VBD Yeadon_NP0 's_POS and_CJC Crossley_NP0 's_POS thoughts_NN2 on_PRP the_AT0 dive_NN1 :_PUN
+‘_PUQ Well_AV0 if_CJS that_DT0 's_VBZ where_AVQ the_AT0 King_NP0 Pot_NP0 water_NN1 was_VBD coming_VVG in_AVP ,_PUN where_AVQ 's_VBZ the_AT0 Marble_NN1 Steps_NN2-VVZ Pot_VVB-NN1 inlet_NN1 …_PUN ?_PUN
+I_PNP suspect_VVB that_CJT time_NN1 and_CJC a_AT0 lot_NN1 more_DT0 work_NN1-VVB will_VM0 tell_VVI ._PUN
+Watch_VVB this_DT0 space_NN1 ._PUN
+Looking_VVG calm_AJ0 and_CJC collected_AJ0 ,_PUN Geoff_NP0 Yeadon_NP0 and_CJC Geoff_NP0 Crossley_NP0 appear_VVB from_PRP Keld_NP0-NN1 Head_NN1 after_PRP their_DPS world_NN1 record_NN1 breaking_VVG dive_NN1 ._PUN
+Sherpas_NN2 ferry_VVB-NN1 equipment_NN1 to_PRP King_NP0 Pot_NP0 's_POS lower_AJC entrance_NN1 ._PUN
+Above_PRP top_NN1-AJ0 :_PUN Geoff_NP0 Yeadon_NP0 counts_VVZ up_AVP-PRP the_AT0 empties_NN2 ._PUN
+Above_AV0 :_PUN Yeadon_NP0 and_CJC Crossley_NP0 celebrate_VVB five_CRD hours_NN2 in_PRP Yorkshire_NP0 's_POS bowels_NN2 !_PUN
+A_AT0 major_AJ0 difficulty_NN1 the_AT0 divers_NN2 faced_VVD-VVN was_VBD caused_VVN by_PRP a_AT0 lack_NN1 of_PRF valves_NN2 ._PUN
+Swapping_VVG-NN1 valves_NN2 from_PRP used_AJ0 tanks_NN2 to_PRP fresh_AJ0 ones_NN2 ,_PUN thousands_CRD of_PRF feet_NN2 into_PRP the_AT0 sump_NN1 ,_PUN was_VBD neither_AV0 easy_AJ0 nor_CJC desirable_AJ0 ._PUN
+To_TO0 stop_VVI muddy_AJ0 water_NN1 getting_VVG into_PRP the_AT0 valves_NN2 ,_PUN they_PNP had_VHD to_TO0 find_VVI an_AT0 alcove_NN1 in_PRP the_AT0 roof_NN1 ,_PUN and_CJC create_VVB an_AT0 artificial_AJ0 air_NN1 bell_NN1 by_PRP opening_VVG a_AT0 tank_NN1 and_CJC filling_VVG the_AT0 alcove_NN1 with_PRP air_NN1 ._PUN
+Only_AV0 then_AV0 could_VM0 the_AT0 swop_NN1 ,_PUN from_PRP one_CRD tank_NN1 to_PRP another_DT0 ,_PUN take_VVB place_NN1 ._PUN
+However_AVQ UWI_NN2 came_VVD to_PRP their_DPS rescue_NN1 and_CJC provided_CJS enough_DT0 extra_AJ0 valves_NN2 to_TO0 cover_VVI all_DT0 tanks_NN2 ._PUN
+They_PNP also_AV0 helped_VVD out_AVP with_PRP the_AT0 Aladin_NN1-NP0 Pro_PRP dive_NN1-VVB computers_NN2 ._PUN
+The_AT0 divers_NN2 would_VM0 like_VVI to_TO0 express_VVI their_DPS gratitude_NN1 ._PUN
+COMMERCIAL_AJ0 DIVING_NN1
+For_PRP Safety_NN1 's_POS Sake_NN1
+A_AT0 diver_NN1 jumped_VVD from_PRP a_AT0 boat_NN1 ,_PUN landed_VVN-VVD on_PRP the_AT0 anchor_NN1 and_CJC fell_VVD into_PRP the_AT0 sea_NN1 ._PUN
+Paralysed_VVN-AJ0 from_PRP the_AT0 waist_NN1 down_AVP ,_PUN he_PNP was_VBD lucky_AJ0 to_TO0 get_VVI out_AVP alive_AJ0 ._PUN
+James_NP0 Chapman_NP0 looks_VVZ at_PRP the_AT0 advances_NN2 that_CJT have_VHB since_AV0 been_VBN made_VVN in_PRP diver_NN1 deployment_NN1 and_CJC recovery_NN1 ._PUN
+Diver_NN1-NP0 deployment_NN1 in_PRP the_AT0 90s_CRD ,_PUN in_PRP the_AT0 offshore_AJ0 oil_NN1 and_CJC gas_NN1 industry_NN1 ,_PUN has_VHZ determined_VVN that_CJT divers_NN2 should_VM0 enter_VVI and_CJC leave_VVI the_AT0 water_NN1 in_PRP as_AV0 safe_AJ0 and_CJC speedy_AJ0 a_AT0 manner_NN1 as_CJS possible_AJ0 ._PUN
+This_DT0 includes_VVZ being_VBG able_AJ0 to_TO0 recover_VVI an_AT0 injured_AJ0 diver_NN1 ._PUN
+One_CRD particular_AJ0 incident_NN1 occurred_VVD when_CJS an_AT0 air_NN1 diver_NN1 jumped_VVD into_PRP the_AT0 sea_NN1 ,_PUN and_CJC illustrates_VVZ the_AT0 need_NN1 for_PRP these_DT0 safety_NN1 measures_NN2 ._PUN
+Instead_AV0 of_PRF entering_VVG the_AT0 water_NN1 ,_PUN he_PNP landed_VVD straddled_VVD-VVN on_PRP an_AT0 anchor_NN1 which_DTQ was_VBD racked_VVN at_PRP the_AT0 stern_NN1 ._PUN
+He_PNP then_AV0 fell_VVD into_PRP the_AT0 water_NN1 ,_PUN paralysed_VVN from_PRP the_AT0 waist_NN1 down_AVP ._PUN
+The_AT0 only_AJ0 way_NN1 out_AVP was_VBD by_PRP climbing_VVG a_AT0 ladder_NN1 ._PUN
+He_PNP had_VHD to_TO0 pull_VVI himself_PNX up_AVP with_PRP help_NN1 from_PRP other_AJ0 divers_NN2 who_PNQ pulled_VVD his_DPS umbilical_AJ0 ,_PUN and_CJC anything_PNI else_AV0 they_PNP could_VM0 get_VVI hold_NN1 of_PRF ._PUN
+It_PNP was_VBD only_AV0-AJ0 after_PRP-CJS a_AT0 considerable_AJ0 struggle_NN1 that_CJT the_AT0 diver_NN1 was_VBD dragged_VVN to_PRP the_AT0 deck_NN1 ._PUN
+This_DT0 incident_NN1 shows_VVZ that_CJT diver_NN1 deployment_NN1 and_CJC recovery_NN1 should_VM0 be_VBI in_PRP a_AT0 basket_NN1 ._PUN
+There_EX0 are_VBB two_CRD distinct_AJ0 aspects_NN2 to_PRP the_AT0 offshore_AJ0 diving_AJ0-NN1 industry_NN1 ._PUN
+Diving_VVG up_AVP to_PRP 50_CRD metres_NN2 (_PUL 165_CRD feet_NN2 )_PUR and_CJC diving_VVG-NN1 in_PRP excess_NN1 of_PRF that_DT0 depth_NN1 ._PUN
+This_DT0 is_VBZ determined_VVN by_PRP the_AT0 Diving_NN1-AJ0 Operations_NN2 at_PRP Work_NN1 Regulations_NN2 1981_CRD ,_PUN which_DTQ state_VVB that_CJT-DT0 for_PRP diving_AJ0-VVG operations_NN2 below_AV0 50_CRD metres_NN2 ,_PUN a_AT0 diving_AJ0 bell_NN1 will_VM0 be_VBI used_VVN ,_PUN and_CJC that_CJT divers_NN2 shall_VM0 breathe_VVI mixed_AJ0 gas_NN1 ._PUN
+This_DT0 bell_NN1 has_VHZ to_TO0 meet_VVI the_AT0 requirements_NN2 of_PRF schedule_NN1 six_CRD of_PRF the_AT0 DOWRs_NP0 ._PUN
+The_AT0 configuration_NN1 and_CJC deployment_NN1 of_PRF diving_AJ0-VVG bells_NN2 is_VBZ defined_VVN ,_PUN but_CJC in_PRP the_AT0 air_NN1 range_NN1-VVB it_PNP is_VBZ not_XX0 clear_AJ0 cut_VVN and_CJC therefore_AV0 controversial_AJ0 ._PUN
+The_AT0 most_AV0 basic_AJ0 air_NN1 diving_NN1-AJ0 deployment_NN1 system_NN1 is_VBZ the_AT0 open_AJ0 basket_NN1 ._PUN
+A_AT0 box_NN1 structure_NN1 with_PRP steel_NN1 mesh_NN1 on_PRP three_CRD sides_NN2 ,_PUN it_PNP is_VBZ lowered_VVN-AJ0 and_CJC lifted_VVN by_PRP a_AT0 winch_NN1 and_CJC ‘_PUQ A_ZZ0 ’_PUQ frame_NN1 ._PUN
+It_PNP takes_VVZ one_CRD or_CJC two_CRD divers_NN2 with_PRP umbilicals_NN2 that_CJT are_VBB paid_VVN out_AVP by_PRP tenders_NN2 on_PRP the_AT0 surface_NN1 ._PUN
+At_PRP depth_NN1 ,_PUN they_PNP leave_VVB the_AT0 basket_NN1 ,_PUN swim_VVB-NN1 to_PRP the_AT0 work_NN1 site_NN1 and_CJC their_DPS umbilicals_NN2 pass_VVB through_PRP-AVP the_AT0 basket_NN1 ._PUN
+The_AT0 length_NN1 of_PRF these_DT0 umbilicals_NN2 means_VVZ that_CJT ,_PUN in_PRP most_DT0 cases_NN2 ,_PUN the_AT0 tender_NN1 can_VM0 not_XX0 tend_VVI the_AT0 diver_NN1 in_PRP the_AT0 true_AJ0 sense_NN1 ,_PUN and_CJC may_VM0 not_XX0 be_VBI able_AJ0 to_TO0 pull_VVI him_PNP back_AVP in_PRP an_AT0 emergency_NN1 ._PUN
+However_AV0 ,_PUN with_PRP two_CRD divers_NN2 in_PRP the_AT0 water_NN1 at_PRP the_AT0 same_DT0 time_NN1 ,_PUN one_PNI can_VM0 aid_VVI the_AT0 other_AJ0-NN1 ,_PUN and_CJC there_EX0 is_VBZ always_AV0 the_AT0 standby_AJ0-NN1 diver_NN1 on_PRP the_AT0 vessel_NN1 ,_PUN ready_AJ0 for_PRP immediate_AJ0 response_NN1 ._PUN
+But_CJC ,_PUN because_CJS the_AT0 umbilical_AJ0 goes_VVZ-NN2 through_PRP the_AT0 basket_NN1 ,_PUN the_AT0 diver_NN1 can_VM0 always_AV0 find_VVI his_DPS way_NN1 back_AVP ._PUN
+And_CJC with_PRP divers_NN2 on_PRP long_AJ0-AV0 bottom_AJ0-NN1 times_NN2 ,_PUN the_AT0 supervisor_NN1 needs_VVZ them_PNP to_TO0 return_VVI quickly_AV0 to_PRP the_AT0 basket_NN1 ,_PUN so_AV0 that_CJT he_PNP can_VM0 recover_VVI them_PNP for_PRP in-water_AJ0 decompression_NN1 ._PUN
+The_AT0 basket_NN1 also_AV0 provides_VVZ a_AT0 limited_AJ0 safe_AJ0 haven_NN1 since_CJS it_PNP carries_VVZ one_CRD or_CJC two_CRD cylinders_NN2 of_PRF compressed_AJ0 air_NN1 ._PUN
+If_CJS anything_PNI should_VM0 happen_VVI to_PRP a_AT0 diver_NN1 's_POS umbilical_AJ0 ,_PUN mask_NN1-VVB or_CJC helmet_NN1 ,_PUN this_DT0 air_NN1 supply_NN1 can_VM0 be_VBI used_VVN ,_PUN either_AV0 through_PRP a_AT0 demand_NN1 valve_NN1 ,_PUN a_AT0 hose_NN1 connected_VVN by_PRP a_AT0 quick_AJ0-AV0 connect_VVB ,_PUN or_CJC a_AT0 hose_NN1 end_VVB-NN1 fed_VVN up_AVP through_PRP the_AT0 neck_NN1 dam_NN1 of_PRF the_AT0 helmet_NN1 ._PUN
+The_AT0 diver_NN1 can_VM0 then_AV0 be_VBI recovered_VVN to_PRP the_AT0 surface_NN1 in_PRP a_AT0 safe_AJ0 and_CJC controlled_AJ0-VVD manner_NN1 ._PUN
+The_AT0 wet_AJ0 bell_NN1 ,_PUN or_CJC open_AJ0 bell_NN1 ,_PUN is_VBZ also_AV0 common_AJ0 in_PRP the_AT0 air_NN1 range_NN1 ._PUN
+It_PNP is_VBZ not_XX0 a_AT0 bell_NN1 as_CJS described_VVN in_PRP schedule_NN1 six_CRD ,_PUN since_CJS it_PNP is_VBZ open_AJ0 to_PRP the_AT0 water_NN1 ._PUN
+But_CJC it_PNP does_VDZ have_VHI a_AT0 dome_NN1 which_DTQ holds_VVZ a_AT0 bubble_NN1 of_PRF air_NN1 giving_VVG a_AT0 safe_AJ0 haven_NN1 if_CJS needed_VVN ._PUN
+This_DT0 has_VHZ proved_VVN itself_PNX with_PRP divers_NN2 who_PNQ have_VHB vomited_VVN in_PRP their_DPS mask_NN1 or_CJC had_VHD mechanical_AJ0 failures_NN2 and_CJC have_VHB had_VHN to_TO0 remove_VVI their_DPS mask_NN1 ._PUN
+The_AT0 bell_NN1 is_VBZ usually_AV0 serviced_VVN by_PRP a_AT0 main_AJ0 umbilical_AJ0 with_PRP individual_AJ0 diver_NN1 umbilicals_NN2-VVZ terminating_VVG-AJ0 in_PRP the_AT0 bell_NN1 ._PUN
+It_PNP can_VM0 carry_VVI three_CRD divers_NN2 ._PUN
+Two_CRD lock_VVB-NN1 out_AVP and_CJC one_CRD stays_VVZ inside_AV0 to_TO0 act_VVI as_PRP tender_AJ0 ._PUN
+Alternatively_AV0 ,_PUN two_CRD divers_NN2 can_VM0 work_VVI from_PRP it_PNP while_CJS the_AT0 standby_AJ0-NN1 diver_NN1 remains_VVZ on_PRP the_AT0 surface_NN1 ._PUN
+When_CJS air_NN1 divers_NN2 are_VBB deployed_VVN from_PRP a_AT0 dynamically_AV0 positioned_VVN-AJ0 vessel_NN1 (_PUL DP_NP0 )_PUR ,_PUN either_AV0 from_PRP a_AT0 basket_NN1 or_CJC wet_AJ0 bell_NN1 ,_PUN a_AT0 tender_NN1-AJ0 will_VM0 be_VBI inside_AV0 to_TO0 tend_VVI the_AT0 umbilicals_NN2 ._PUN
+A_ZZ0 DP_NP0 vessel_NN1 uses_VVZ its_DPS main_AJ0 propellers_NN2 and_CJC thrusters_NN2 to_TO0 remain_VVI on_PRP location_NN1 ,_PUN and_CJC a_AT0 diver_NN1 's_POS umbilical_AJ0 must_VM0 never_AV0 be_VBI long_AJ0 enough_AV0 to_TO0 become_VVI fouled_VVN-AJ0 in_PRP them_PNP ._PUN
+If_CJS this_DT0 happens_VVZ ,_PUN it_PNP can_VM0 be_VBI cut_VVN or_CJC drawn_VVN in_AVP-PRP ,_PUN and_CJC the_AT0 diver_NN1 killed_VVD-VVN ._PUN
+In_PRP most_DT0 cases_NN2 ,_PUN divers_NN2 working_VVG at_PRP those_DT0 depths_NN2 tend_VVB to_TO0 reach_VVI the_AT0 limits_NN2 of_PRF maximum_AJ0 bottom_AJ0-NN1 time_NN1 ,_PUN and_CJC so_AV0 a_AT0 speedy_AJ0 assent_NN1 to_PRP the_AT0 surface_NN1 is_VBZ not_XX0 desirable_AJ0 ._PUN
+Divers_NN2 in_PRP a_AT0 bell_NN1 are_VBB more_AV0 easily_AV0 controlled_VVN by_PRP the_AT0 supervisor_NN1 ._PUN
+It_PNP gives_VVZ a_AT0 stable_AJ0 platform_NN1 for_PRP in-water_AJ0 decompression_NN1 ,_PUN allowing_VVG accurate_AJ0 water_NN1 stops_VVZ ._PUN
+As_CJS with_PRP the_AT0 basket_NN1 ,_PUN divers_NN2 are_VBB recovered_VVN from_PRP the_AT0 water_NN1 to_PRP the_AT0 surface_NN1 ,_PUN where_CJS they_PNP transfer_VVB to_PRP the_AT0 decompression_NN1 chamber_NN1 ._PUN
+This_DT0 surface_NN1 interval_NN1 between_PRP leaving_VVG the_AT0 bell_NN1 and_CJC entering_VVG the_AT0 decompression_NN1 chamber_NN1 ,_PUN became_VVD a_AT0 point_NN1 of_PRF contention_NN1 within_PRP the_AT0 medical_AJ0 profession_NN1 ._PUN
+Some_DT0 believe_VVB that_CJT it_PNP is_VBZ undesirable_AJ0 and_CJC that_CJT the_AT0 diver_NN1 should_VM0 transfer_VVI under_PRP pressure_NN1 ._PUN
+To_PRP this_DT0 end_NN1 ,_PUN the_AT0 mini_AJ0-NN1 bell_NN1 was_VBD designed_VVN ._PUN
+It_PNP is_VBZ neither_AV0 a_AT0 schedule_NN1 six_CRD type_NN1 bell_NN1 ,_PUN nor_CJC an_AT0 open_AJ0 wet_AJ0 bell_NN1 ._PUN
+It_PNP is_VBZ closer_AJC to_PRP the_AT0 former_DT0 but_CJC is_VBZ restricted_VVN by_PRP dispensation_NN1 to_PRP working_VVG in_PRP the_AT0 50_CRD metre_NN1 (_PUL 165_CRD feet_NN2 )_PUR water_NN1 depth_NN1 ._PUN
+It_PNP is_VBZ lighter_AJC in_PRP weight_NN1 and_CJC does_VDZ not_XX0 need_VVI the_AT0 heavy_AJ0 winches_NN2 and_CJC guide_VVB-NN1 frame_NN1 of_PRF the_AT0 deep_AJ0 diving_AJ0-NN1 bells_NN2 ._PUN
+It_PNP also_AV0 has_VHZ an_AT0 advantage_NN1 in_PRP that_DT0 it_PNP can_VM0 be_VBI installed_VVN on_PRP the_AT0 smaller_AJC air_NN1 range_NN1 diving_NN1-AJ0 support_NN1-VVB vessels_NN2 ._PUN
+The_AT0 mini_AJ0-NN1 bell_NN1 carries_VVZ two_CRD divers_NN2 ,_PUN while_CJS the_AT0 standby_AJ0-NN1 diver_NN1 remains_VVZ on_PRP the_AT0 surface_NN1 ._PUN
+A_AT0 main_AJ0 umbilical_AJ0 services_NN2 the_AT0 bell_NN1 and_CJC the_AT0 divers_NN2 '_POS individual_AJ0-NN1 umbilicals_NN2 ._PUN
+When_CJS the_AT0 bell_NN1 is_VBZ deployed_VVN ,_PUN the_AT0 divers_NN2 descend_VVB fully_AV0 dressed_VVN ._PUN
+At_PRP depth_NN1 they_PNP feed_VVB out_AVP their_DPS umbilicals_NN2 and_CJC swim_VVB-NN1 to_PRP the_AT0 work_NN1 site_NN1 ._PUN
+They_PNP act_VVB as_PRP a_AT0 standby_NN1-AJ0 for_PRP each_DT0 other_NN1 and_CJC can_VM0 call_VVI the_AT0 third_ORD diver_NN1 if_CJS required_VVN-AJ0 ._PUN
+After_PRP completing_VVG their_DPS dive_NN1 ,_PUN they_PNP re-enter_VVB the_AT0 bell_NN1 ._PUN
+Once_CJS the_AT0 inner_AJ0 door_NN1 is_VBZ closed_VVN-AJ0 and_CJC sealed_VVD-AJ0 ,_PUN the_AT0 bell_NN1 is_VBZ recovered_VVN to_PRP the_AT0 surface_NN1 and_CJC locked_VVN-VVD onto_PRP a_AT0 decompression_NN1 chamber_NN1 ._PUN
+The_AT0 divers_AJ0 transfer_NN1-VVB under_PRP pressure_NN1 to_TO0 complete_VVI the_AT0 decompression_NN1 profile_NN1 ._PUN
+The_AT0 bell_NN1 can_VM0 then_AV0 be_VBI detached_VVN from_PRP the_AT0 chamber_NN1 and_CJC deployed_VVN with_PRP another_DT0 pair_NN0 of_PRF divers_NN2 ._PUN
+That_CJT the_AT0 mini_AJ0-NN1 bell_NN1 does_VDZ not_XX0 carry_VVI a_AT0 tender_AJ0 ,_PUN and_CJC the_AT0 standby_AJ0-NN1 diver_NN1 stays_VVZ-NN2 on_PRP the_AT0 surface_NN1 ,_PUN caused_VVD a_AT0 dispute_NN1 among_PRP diving_AJ0-VVG contractors_NN2 ._PUN
+So_AV0 to_TO0 improve_VVI safety_NN1 ,_PUN the_AT0 umbili_NN2 wheel_NN1 was_VBD developed_VVN ._PUN
+The_AT0 divers_NN2 '_POS umbilicals_NN2 are_VBB spooled_VVN on_PRP large_AJ0 wheels_NN2 set_VVB vertically_AV0 on_PRP either_DT0 side_NN1 of_PRF the_AT0 bell_NN1 ._PUN
+These_DT0 can_VM0 be_VBI spooled_VVN in_AVP-PRP or_CJC out_AVP by_PRP the_AT0 divers_NN2 ,_PUN from_PRP a_AT0 control_NN1 unit_NN1 ._PUN
+The_AT0 supervisor_NN1 has_VHZ a_AT0 similar_AJ0 control_NN1 unit_NN1 on_PRP the_AT0 surface_NN1 for_PRP emergencies_NN2 ._PUN
+All_DT0 deep_AJ0-AV0 diving_NN1-VVG beyond_PRP 50_CRD metres_NN2 requires_VVZ a_AT0 schedule_NN1 six_CRD diving_AJ0 bell_NN1 which_DTQ can_VM0 carry_VVI two_CRD or_CJC three_CRD divers_NN2 ._PUN
+But_CJC one_CRD diver_NN1 always_AV0 remains_VVZ in_PRP the_AT0 bell_NN1 to_TO0 act_VVI as_PRP bellman_NN1 and_CJC ,_PUN in_PRP an_AT0 emergency_NN1 ,_PUN lock_VVB-NN1 out_AVP and_CJC go_VVB to_PRP the_AT0 divers_NN2 '_POS aid_NN1 ._PUN
+Divers_NN2 committed_VVN-AJ0 to_PRP saturation_NN1 ,_PUN enter_VVB the_AT0 bell_NN1 from_PRP the_AT0 chambers_NN2 and_CJC carry_VVB out_AVP checks_NN2 ._PUN
+This_DT0 ensures_VVZ everything_PNI works_VVZ ,_PUN valves_NN2 are_VBB correctly_AV0 positioned_VVN and_CJC that_CJT-DT0 all_DT0 the_AT0 necessary_AJ0 equipment_NN1 is_VBZ carried_VVN ._PUN
+When_CJS they_PNP are_VBB ready_AJ0 to_TO0 be_VBI deployed_VVN ,_PUN the_AT0 doors_NN2 of_PRF the_AT0 bell_NN1 and_CJC chamber_NN1 are_VBB sealed_VVN-AJ0 ._PUN
+The_AT0 bell_NN1 is_VBZ then_AV0 disconnected_VVN ._PUN
+At_PRP depth_NN1 ,_PUN the_AT0 inside_AJ0-NN1 pressure_NN1 of_PRF the_AT0 bell_NN1 is_VBZ equalised_VVN to_PRP the_AT0 outside_AJ0 depth_NN1 ._PUN
+With_PRP the_AT0 inner_AJ0 and_CJC outer_AJ0 doors_NN2 open_VVB ,_PUN the_AT0 first_ORD diver_NN1 dresses_NN2 and_CJC locks_VVZ-NN2 out_AVP ._PUN
+Once_CJS the_AT0 first_ORD diver_NN1 is_VBZ stable_AJ0 ,_PUN on_PRP a_AT0 three_CRD man_NN1 bell_NN1 run_VVB the_AT0 second_ORD diver_NN1 does_VDZ the_AT0 same_DT0 ._PUN
+With_PRP the_AT0 two_CRD umbilicals_NN2 deployed_VVN ,_PUN the_AT0 bellman_NN1 has_VHZ the_AT0 lonely_AJ0 task_NN1 of_PRF remaining_VVG-AJ0 in_PRP the_AT0 bell_NN1 until_CJS the_AT0 run_NN1 is_VBZ complete_AJ0 ._PUN
+When_CJS the_AT0 divers_AJ0 return_NN1-VVB ,_PUN he_PNP coils_VVZ up_AVP the_AT0 umbilicals_NN2 ._PUN
+The_AT0 inner_AJ0 door_NN1 is_VBZ closed_VVN-AJ0 and_CJC sealed_VVD-AJ0 ,_PUN and_CJC the_AT0 bell_NN1 is_VBZ lifted_VVN to_PRP the_AT0 surface_NN1 and_CJC locked_VVN-VVD onto_PRP the_AT0 system_NN1 ._PUN
+The_AT0 bell_NN1 is_VBZ serviced_VVN through_PRP a_AT0 main_AJ0 umbilical_AJ0 ,_PUN but_CJC carries_VVZ gas_NN1 cylinders_NN2 on_PRP the_AT0 outside_AJ0-NN1 for_PRP emergencies_NN2 ._PUN
+Its_DPS transponder_NN1 means_VVZ it_PNP can_VM0 be_VBI located_VVN if_CJS it_PNP becomes_VVZ detached_AJ0-VVN from_PRP its_DPS lift_NN1 wire_NN1 and_CJC umbilical_AJ0 ._PUN
+If_CJS the_AT0 main_AJ0 communications_NN2 fail_VVB ,_PUN the_AT0 divers_AJ0 return_NN1-VVB to_PRP the_AT0 bell_NN1 ._PUN
+The_AT0 supervisor_NN1 can_VM0 see_VVI from_PRP the_AT0 depth_NN1 gauge_NN1-VVB that_CJT they_PNP have_VHB made_VVN a_AT0 seal_NN1 ,_PUN and_CJC contact_VVB-NN1 between_PRP bell_NN1 and_CJC supervisor_NN1 would_VM0 then_AV0 be_VBI via_PRP a_AT0 through_AJ0 water_NN1 communications_NN2 system_NN1 ._PUN
+All_DT0 divers_NN2 working_VVG in_PRP the_AT0 North_NP0 Sea_NP0 use_NN1-VVB umbilicals_NN2-VVZ ._PUN
+They_PNP provide_VVB breathing_VVG gas_NN1 to_PRP the_AT0 helmet_NN1 ,_PUN communications_NN2 wires_NN2 ,_PUN the_AT0 hot_AJ0 water_NN1 hose_NN1 (_PUL this_DT0 must_VM0 not_XX0 be_VBI used_VVN in_PRP air_NN1 diving_NN1-VVG )_PUR ,_PUN a_AT0 phunumofathometer_NN1 (_PUL used_VVN to_TO0 obtain_VVI the_AT0 divers_NN2 '_POS depth_NN1 )_PUR ,_PUN closed_AJ0 circuit_NN1 television_NN1 and_CJC light_AJ0 cables_NN2 ,_PUN and_CJC for_PRP mixed_AJ0 gas_NN1 bell_NN1 diving_NN1 —_PUN a_AT0 gas_NN1 reclaim_VVB-NN1 hose_NN1 ._PUN
+Now_AV0 ,_PUN diver_NN1 deployment_NN1 systems_NN2 are_VBB accepted_VVN as_CJS normal_AJ0 offshore_AJ0 practise_NN1-VVB ,_PUN and_CJC go_VVB a_AT0 long_AJ0 way_NN1 to_PRP making_VVG commercial_AJ0 diving_NN1 safer_AJC ._PUN
+Left_AJ0-VVD :_PUN An_AT0 air_NN1 diver_NN1 leaps_VVZ-NN2 into_PRP the_AT0 water_NN1 —_PUN now_AV0 unacceptable_AJ0 as_PRP-CJS a_AT0 method_NN1 of_PRF diver_NN1 deployment_NN1 in_PRP the_AT0 offshore_AJ0 oil_NN1 and_CJC gas_NN1 industry_NN1 ._PUN
+Inset_NN1 :_PUN An_AT0 air_NN1 diver_NN1 being_VBG deployed_VVN in_PRP a_AT0 diving_AJ0 basket_NN1 ._PUN
+A_AT0 schedule_NN1 6_CRD mixed_AJ0-VVD gas_NN1 diving_NN1-AJ0 bell_NN1 ._PUN
+Note_VVB the_AT0 emergency_NN1 gas_NN1 bottles_NN2 on_PRP the_AT0 side_NN1 ._PUN
+Trade_NN1-VVB Gossip_NN1-VVB
+PC_NN1 based_VVN chart_NN1 plotter_NN1
+PC_NP0 Wayplanner_NP0 ,_PUN the_AT0 innovative_AJ0 chart_NN1 plotting_VVG-NN1 and_CJC route_NN1 planning_NN1-VVG software_NN1 program_NN1 from_PRP PC_NN0 Maritime_AJ0 ,_PUN is_VBZ now_AV0 in_PRP a_AT0 new_AJ0 extended_AJ0 version_NN1 ._PUN
+Navigators_NN2 can_VM0 use_VVI PC_NN1 Wayplanner_NN1-NP0 for_PRP detailed_AJ0 route_NN1 planning_NN1 ._PUN
+The_AT0 program_NN1 calculates_VVZ route_NN1 plans_NN2-VVZ incorporating_VVG tidal_AJ0 stream_NN1 ,_PUN displays_VVZ-NN2 predicted_AJ0-VVD ground_NN1 track_NN1 and_CJC indicates_VVZ optimal_AJ0 departure_NN1 ,_PUN passage_NN1 and_CJC rendezvous_NN0 times_VVZ ._PUN
+It_PNP also_AV0 calculates_VVZ tidal_AJ0 heights_NN2 for_PRP ports_NN2 worldwide_AV0 ,_PUN and_CJC plots_NN2 tidal_AJ0 height_NN1 curves_NN2 directly_AV0 on_PRP screen_NN1 ._PUN
+The_AT0 PC_NN1 Wayplanner_NN1 is_VBZ economical_AJ0 and_CJC flexible_AJ0 since_CJS it_PNP runs_VVZ on_PRP ordinary_AJ0 IBM-type_AJ0-NN1 personal_AJ0 computers_NN2 ._PUN
+The_AT0 navigator_NN1 can_VM0 simply_AV0 link_VVI his_DPS PC_NN1 or_CJC laptop_NN1 with_PRP an_AT0 NMEA_NN1 or_CJC Navstar_NP0-NN1 2000_CRD series_NN0 cable_NN1-VVB to_PRP a_AT0 Decca_NP0 ,_PUN Loran_NP0-NN1 ,_PUN Satnav_NP0-NN1 or_CJC GPS_NN2 receiver_NN1 ,_PUN and_CJC the_AT0 PC_NN1 becomes_VVZ a_AT0 chart_NN1 plotter_NN1 ._PUN
+The_AT0 navigator_NN1 can_VM0 set_VVI waypoints_NN2 by_PRP ‘_PUQ pointing_VVG ’_PUQ directly_AV0 to_PRP positions_NN2 on_PRP electronic_AJ0 charts_NN2 on_PRP the_AT0 PC_NN1 's_POS screen_NN1 ;_PUN no_AT0 need_NN1 for_PRP any_DT0 key_AJ0-NN1 pressing_AJ0-VVG ._PUN
+He_PNP can_VM0 also_AV0 store_VVI waypoints_NN2 with_PRP a_AT0 descriptive_AJ0 name_NN1 ,_PUN not_XX0 just_AV0 a_AT0 number_NN1 ,_PUN and_CJC transmit_VVB way_NN1 points_VVZ-NN2 to_PRP the_AT0 receiver_NN1 when_CJS required_VVN ._PUN
+This_DT0 saves_VVZ hours_NN2 of_PRF time_NN1 and_CJC greatly_AV0 reduces_VVZ errors_NN2 caused_VVN by_PRP inaccurate_AJ0 key_NN1-AJ0 pressing_VVG-AJ0 ._PUN
+Specialist_NN1-AJ0 users_NN2 ,_PUN such_DT0 as_PRP divers_NN2 ,_PUN fishermen_NN2 or_CJC charter_NN1-VVB skippers_NN2 ,_PUN can_VM0 record_VVI and_CJC plot_VVI their_DPS own_DT0 data_NN0 on_PRP the_AT0 Wayplanner_AJC electronic_AJ0 charts_NN2 —_PUN for_PRP example_NN1 ,_PUN fishing_NN1 ground_NN1 information_NN1 ,_PUN wreck_VVB-NN1 positions_NN2 ,_PUN seabed_NN1 data_NN0 —_PUN either_AV0 onto_PRP the_AT0 electronic_AJ0 charts_NN2 supplied_VVD-VVN ,_PUN or_CJC onto_PRP transparent_AJ0 overlay_NN1-VVB charts_NN2 ._PUN
+You_PNP can_VM0 create_VVI your_DPS own_DT0 large_AJ0 scale_NN1 charts_NN2 ,_PUN with_PRP a_AT0 geographic_AJ0 grid_NN1 if_CJS desired_VVN ,_PUN containing_VVG specialist_NN1-AJ0 detail_NN1-VVB not_XX0 recorded_VVN on_PRP published_AJ0 charts_NN2 ._PUN
+This_DT0 facility_NN1 is_VBZ especially_AV0 useful_AJ0 where_CJS large_AJ0 scale_NN1 charts_NN2 are_VBB used_VVN with_PRP GPS_NN2 for_PRP accurate_AJ0 position_NN1 information_NN1 ._PUN
+PC_NP0 Wayplanner_NP0 costs_VVZ £129.95_NN0 ._PUN
+Electronic_AJ0 charts_NN2 are_VBB available_AJ0 in_PRP various_AJ0 area_NN1 sets_NN2-VVZ ,_PUN and_CJC cost_VVB £80_NN0 ._PUN
+The_AT0 NMEA_NN1-NP0 interface_NN1-VVB cable_NN1 costs_VVZ £75_NN0 ;_PUN the_AT0 Navstar_NN1-NP0 2000_CRD interface_NN1 costs_VVZ £49.95_NN0 ._PUN
+Contact_VVB-NN1 :_PUN PC_NN1 Maritime_AJ0 Ltd._AJ0 ,_PUN The_AT0 Computer_NN1 Complex_NN1 ,_PUN Somerset_NP0 Place_NP0 ,_PUN Stoke_NP0 ,_PUN Plymouth_NP0 ,_PUN Devon_NP0 PL3_UNC 4BB_UNC ._PUN
+Tel_NN1-NP0 :_PUN (_PUL 0752_CRD )_PUR 550341_CRD ._PUN
+Get_VVB Involved_AJ0 in_PRP Underwater_AJ0 Archaeology_NN1
+The_AT0 Nautical_AJ0 Archaeology_NN1 Society_NN1 are_VBB running_VVG a_AT0 series_NN0 of_PRF part_NN1 1_CRD and_CJC part_NN1 11_CRD courses_NN2 at_PRP various_AJ0 places_NN2 around_PRP the_AT0 country_NN1 ._PUN
+Part_NN1 1_CRD is_VBZ a_AT0 weekend_NN1 course_NN1 of_PRF illustrated_AJ0 lectures_NN2 and_CJC a_AT0 practical_AJ0 pool_NN1 session_NN1 that_CJT-DT0 presents_VVZ a_AT0 broad-based_AJ0 introduction_NN1 to_PRP the_AT0 subject_NN1 ._PUN
+Part_NN1 11_CRD consists_VVZ of_PRF a_AT0 series_NN0 of_PRF more_AV0 advanced_AJ0 lectures_NN2 ,_PUN building_VVG-NN1 on_PRP the_AT0 theory_NN1 and_CJC techniques_NN2 introduced_VVN in_PRP part_NN1 1_CRD ._PUN
+They_PNP can_VM0 be_VBI attended_VVN individually_AV0 but_CJC are_VBB also_AV0 offered_VVN as_PRP a_AT0 weekend_NN1 course_NN1 ._PUN
+In_PRP addition_NN1 to_PRP the_AT0 lectures_NN2 ,_PUN part_NN1 11_CRD participants_NN2 attend_VVB two_CRD days_NN2 of_PRF conferences_NN2 related_VVN-VVD to_PRP archaeology_NN1 and_CJC undertake_VVB a_AT0 short_AJ0 practical_AJ0 survey_NN1 project_NN1 ._PUN
+Listed_VVN below_AV0 are_VBB the_AT0 courses_NN2 that_CJT are_VBB already_AV0 open_AJ0 for_PRP applicants_NN2 ._PUN
+More_DT0 will_VM0 be_VBI organised_VVN over_PRP-AVP the_AT0 winter_NN1 ._PUN
+NAS_NP0 course_NN1 schedule_NN1 1991_CRD
+An_AT0 NAS_NP0 part_NN1 1_CRD course_NN1 is_VBZ an_AT0 ideal_AJ0 way_NN1 to_TO0 become_VVI involved_AJ0 in_PRP underwater_AJ0 archaeology_NN1 or_CJC simply_AV0 satisfy_VVB your_DPS curiosity_NN1 as_CJS to_PRP what_DTQ it_PNP 's_VBZ all_DT0 about_AVP ._PUN
+All_DT0 the_AT0 principal_AJ0-NN1 tutors_NN2 of_PRF NAS_NP0 courses_NN2 are_VBB actively_AV0 engaged_VVN in_PRP fieldwork_NN1 or_CJC research_NN1-VVB and_CJC many_DT0 of_PRF the_AT0 venues_NN2 offer_VVB the_AT0 opportunity_NN1 to_TO0 visit_VVI museums_NN2 ,_PUN historic_AJ0 monuments_NN2 ,_PUN ships_NN2 ,_PUN archaeological_AJ0 laboratories_NN2 or_CJC maritime_AJ0 museums_NN2 ._PUN
+First_ORD Aid_NN1 Kit_NN1
+For_PRP those_DT0 who_PNQ participate_VVB in_AVP-PRP relatively_AV0 high_AJ0 risk_NN1 sports_NN2 such_DT0 as_PRP diving_NN1-VVG ,_PUN a_AT0 good_AJ0 first_ORD aid_NN1 kit_NN1 should_VM0 be_VBI essential_AJ0 ._PUN
+Although_CJS ,_PUN too_AV0 often_AV0 people_NN0 rely_VVB on_PRP out_AVP of_PRF date_NN1 and_CJC inadequate_AJ0 equipment_NN1 ._PUN
+Specialist_NN1-AJ0 diving_NN1-AJ0 equipment_NN1 distributor_NN1 ,_PUN Sea_NN1 &_CJC Sea_NN1 ,_PUN has_VHZ produced_VVN a_AT0 purpose_NN1 designed_VVN-VVD first_ORD aid_NN1 box_NN1 for_PRP divers_NN2 and_CJC other_AJ0 water_NN1 users_NN2 ._PUN
+The_AT0 kit_NN1 is_VBZ housed_VVN in_PRP a_AT0 tough_AJ0 ,_PUN high_AJ0 impact_NN1 polycarbonate_NN1-AJ0 polymer_NN1 briefcase_NN1 ._PUN
+A_AT0 silicone_NN1 O-ring_NN1 ensures_VVZ the_AT0 case_NN1 is_VBZ airtight_AJ0 and_CJC completely_AV0 sealed_VVN ._PUN
+There_EX0 is_VBZ a_AT0 choice_NN1 of_PRF seven_CRD sizes_NN2 so_CJS it_PNP will_VM0 fit_VVI any_DT0 space_NN1 ._PUN
+Typically_AV0 ,_PUN each_DT0 kit_NN1 will_VM0 include_VVI bandages_NN2 ,_PUN plasters_NN2 ,_PUN emergency_NN1 survival_NN1 blanket_NN1 ,_PUN burns_VVZ kit_NN1 and_CJC non-prescription_AJ0 drugs_NN2 ._PUN
+Prices_NN2 start_VVB at_PRP £35_NN0 for_PRP the_AT0 basic_AJ0 medical_AJ0 kit_NN1 ,_PUN and_CJC cases_NN2 cost_VVB from_PRP £175_NN0 ._PUN
+For_PRP further_AJC details_NN2 on_PRP specific_AJ0 first_ORD aid_NN1 boxes_NN2 contact_VVB-NN1 :_PUN Vic_NP0 Bonfante_NP0-NN1 at_PRP Sea_NN1 &_CJC Sea_NN1 ,_PUN on_PRP (_PUL 0803_CRD )_PUR 663012_CRD ._PUN
+Versatile_AJ0 Format_NN1
+Photech_VVB-NN1 Engineering_NN1 Ltd._AJ0 has_VHZ produced_VVN an_AT0 underwater_AJ0 housing_NN1 system_NN1 for_PRP format_NN1 cameras_NN2 which_DTQ allows_VVZ the_AT0 user_NN1 to_TO0 start_VVI with_PRP a_AT0 basic_AJ0 housing_NN1 system_NN1 and_CJC build_VVB on_PRP it_PNP ,_PUN take_VVB full_AJ0 advantage_NN1 of_PRF their_DPS camera_NN1 system_NN1 and_CJC even_AV0 to_TO0 change_VVI camera_NN1 systems_NN2 altogether_AV0 at_PRP a_AT0 relatively_AV0 small_AJ0 cost_NN1 ._PUN
+Constructed_VVN in_PRP magnesium/aluminium_NN1 alloy_NN1 ,_PUN the_AT0 housing_NN1 is_VBZ linked_VVN to_PRP the_AT0 camera_NN1 via_PRP a_AT0 processing_NN1 unit_NN1 which_DTQ controls_VVZ the_AT0 camera_NN1 functions_NN2 ._PUN
+Discrete_AJ0 servo_NN1 motor_NN1 units_NN2 operate_VVB each_DT0 camera_NN1 control_NN1 and_CJC linked_VVN-AJ0 into_PRP the_AT0 system_NN1 is_VBZ an_AT0 LED_NN1 unit_NN1 which_DTQ displays_VVZ present_AJ0 set_NN1 shutter_NN1 speed_NN1 ,_PUN present_AJ0-NN1 set_NN1 aperture_NN1 ,_PUN present_AJ0-NN1 set_NN1 focused_VVD-AJ0 distance_NN1 and_CJC exposure_NN1 count_NN1-VVB ._PUN
+In_PRP addition_NN1 ,_PUN the_AT0 LED_NN1 display_NN1 shows_VVZ a_AT0 battery_NN1 state_NN1-VVB indicator_NN1 and_CJC a_AT0 warning_NN1 light_NN1 which_DTQ indicates_VVZ water_NN1 ingress_NN1 into_PRP the_AT0 housing_NN1 system_NN1 ._PUN
+The_AT0 housing_NN1 is_VBZ designed_VVN to_TO0 handle_VVI all_DT0 major_AJ0 makes_NN2-VVZ of_PRF medium_AJ0-NN1 format_NN1 camera_NN1 ,_PUN although_CJS other_AJ0 camera_NN1 systems_NN2 can_VM0 be_VBI accommodated_VVN to_PRP special_AJ0 order_NN1 ,_PUN and_CJC it_PNP can_VM0 take_VVI lenses_NN2 from_PRP 40mm_NN0 to_PRP 120mm_NN0 macro_NN1 ._PUN
+Additional_AJ0 items_NN2 which_DTQ make_VVB the_AT0 system_NN1 even_AV0 more_AV0 versatile_AJ0 include_VVB a_AT0 flat_AJ0 port_NN1 for_PRP normal_AJ0 and_CJC close-up_AJ0 photography_NN1 ,_PUN dome_NN1 port_NN1 for_PRP wide_AJ0 angle_NN1 photography_NN1 and_CJC extension_NN1 sections_NN2 which_DTQ effectively_AV0 lengthen_VVB the_AT0 housing_NN1 and_CJC allow_VVB the_AT0 use_NN1 of_PRF additional_AJ0 lenses_NN2 ,_PUN and_CJC lenses_NN2 with_PRP extension_NN1 tubes_NN2 ._PUN
+The_AT0 standard_AJ0-NN1 housing_NN1 comes_VVZ with_PRP a_AT0 flat_AJ0 viewing_NN1 port_NN1 giving_VVG a_AT0 reversed_AJ0 viewfinder_NN1 image_NN1 looking_VVG vertically_AV0 down_AVP into_PRP the_AT0 housing_NN1 ._PUN
+A_AT0 reflex_AJ0 prism_NN1 finder_NN1 is_VBZ supplied_VVN as_PRP an_AT0 add_VVB on_PRP-AVP extra_AJ0 ._PUN
+Because_CJS all_DT0 controls_NN2 and_CJC control_NN1-VVB units_NN2 are_VBB connected_VVN by_PRP flexible_AJ0 wires_NN2 ,_PUN controls_NN2 can_VM0 be_VBI grouped_VVN conveniently_AV0 around_PRP-AVP the_AT0 handles_NN2 ._PUN
+This_DT0 enables_VVZ smooth_AJ0 changing_NN1 of_PRF controls_NN2 ._PUN
+Since_CJS full_AJ0 control_NN1 state_NN1-VVB information_NN1 is_VBZ displayed_VVN in_PRP the_AT0 viewfinder_NN1 port_NN1 of_PRF the_AT0 housing_NN1 ,_PUN the_AT0 photographer_NN1 can_VM0 keep_VVI both_DT0 hands_NN2 on_PRP the_AT0 housing_NN1 and_CJC the_AT0 eyes_NN2 on_PRP the_AT0 viewfinder_NN1 port_NN1 ,_PUN concentrating_VVG on_PRP picture_NN1 taking_VVG rather_AV0 than_CJS housing_VVG-NN1 operation_NN1 ._PUN
+For_PRP more_DT0 information_NN1 contact_VVB :_PUN Photech_VVB Engineering_NN1 Ltd._AJ0 ,_PUN Bryn_NP0 Arthur_NP0 ,_PUN Penisarwaun_NP0 ,_PUN Nr_PRP ._PUN
+Caernarfon_NP0 ,_PUN Gwynedd_NP0 LL55_UNC 3BT_UNC ._PUN
+Black_AJ0 Box_NN1 Recovered_VVN-VVD
+More_AV0 than_CJS 11_CRD years_NN2 after_CJS it_PNP mysteriously_AV0 crashed_VVD-VVN with_PRP the_AT0 loss_NN1 of_PRF 81_CRD lives_NN2 ,_PUN the_AT0 black_AJ0 box_NN1 flight_NN1 recorder_NN1 of_PRF an_AT0 Italian_NN1-AJ0 DC9_UNC airliner_NN1 has_VHZ been_VBN recovered_VVN from_PRP waters_NN2 3,400_CRD metres_NN2 deep_AJ0 off_PRP the_AT0 Italian_AJ0-NN1 coast_NN1 ._PUN
+British_AJ0 offshore_AJ0 survey_NN1 contractor_NN1 ,_PUN Wimpol_NP0 ,_PUN located_VVD the_AT0 device_NN1 in_PRP the_AT0 Tyrrhenian_AJ0 sea_NN1 ,_PUN just_AV0 north_NN1 of_PRF the_AT0 island_NN1 of_PRF Ustica_NP0 ,_PUN during_PRP a_AT0 wider_AJC search_NN1 for_PRP wreckage_NN1 from_PRP the_AT0 aircraft_NN0 ._PUN
+Previous_AJ0 explorations_NN2 ,_PUN in_PRP 1987_CRD and_CJC 1988_CRD ,_PUN failed_VVD-VVN to_TO0 discover_VVI anything_PNI that_CJT could_VM0 help_VVI explain_VVI why_AVQ the_AT0 plane_NN1 crashed_VVD on_PRP-AVP its_DPS routine_NN1 flight_NN1 from_PRP Bologna_NP0 to_PRP Palermo_NP0 in_PRP June_NP0 1980_CRD ._PUN
+Since_CJS the_AT0 project_NN1 started_VVD ,_PUN many_DT0 pieces_NN2 of_PRF DC9_UNC wreckage_NN1 have_VHB been_VBN discovered_VVN ._PUN
+The_AT0 flight_NN1 recorder_NN1 itself_PNX was_VBD positively_AV0 identified_VVN on_PRP 13_CRD July_NP0 ,_PUN partially_AV0 buried_VVN on_PRP the_AT0 seabed_NN1 ,_PUN and_CJC was_VBD successfully_AV0 lifted_VVN onto_PRP the_AT0 deck_NN1 of_PRF the_AT0 support_NN1 vessel_NN1 ,_PUN Valiant_AJ0 Service_NN1 ,_PUN five_CRD days_NN2 later_AV0 ._PUN
+The_AT0 recorder_NN1 is_VBZ being_VBG transported_VVN inside_PRP a_AT0 specially_AV0 fabricated_VVN-AJ0 container_NN1 to_PRP the_AT0 Air_NN1 Accident_NN1 Investigation_NN1 branch_NN1 of_PRF the_AT0 Department_NN1 of_PRF Transport_NN1 at_PRP Farnborough_NP0 ,_PUN where_AVQ the_AT0 data_NN0 it_PNP contains_VVZ will_VM0 be_VBI processed_VVN ._PUN
+Further_AJC photo-documentation_NN1 of_PRF the_AT0 wreckage_NN1 is_VBZ now_AV0 under_PRP way_NN1 ,_PUN and_CJC the_AT0 team_NN1 expect_VVB that_CJT more_DT0 evidence_NN1 will_VM0 be_VBI lifted_VVN on_PRP the_AT0 cause_NN1 of_PRF the_AT0 crash_NN1 ._PUN
+Cylinder_NN1 Protectors_NN2
+Helios_NN2 (_PUL Safety_NN1 &_CJC Rescue_NN1 Products_NN2 )_PUR Ltd._AJ0 ,_PUN announces_VVZ the_AT0 launch_NN1 of_PRF a_AT0 new_AJ0 generation_NN1 of_PRF cylinder_NN1 protectors_NN2 ._PUN
+Made_VVN in_PRP tough_AJ0-NN1 ,_PUN impact_NN1-VVB absorbing_VVG-AJ0 braided_AJ0 netting_NN1 ,_PUN Helios_NP0 cylinder_NN1 protectors_NN2 encompass_VVB a_AT0 full_AJ0 range_NN1 of_PRF cylinder_NN1 sizes_NN2 catering_VVG for_PRP the_AT0 needs_NN2 of_PRF all_DT0 breathing_NN1 apparatus_NN1 and_CJC Scuba_NP0-NN1 users_NN2 —_PUN and_CJC in_PRP a_AT0 range_NN1 of_PRF colours_NN2 including_PRP blue_AJ0-NN1 ,_PUN red_AJ0-NN1 and_CJC yellow_AJ0 ._PUN
+Theses_NN2 cylinder_NN1 protectors_NN2 will_VM0 stay_VVI tight_AV0-AJ0 on_PRP the_AT0 cylinder_NN1 ,_PUN giving_VVG effective_AJ0 protection_NN1 from_PRP impacts_NN2 and_CJC scratches_NN2 ._PUN
+Yet_AV0 they_PNP are_VBB quick_AJ0 to_TO0 drain_VVI and_CJC dry_VVI ._PUN
+They_PNP are_VBB resistant_AJ0 to_PRP cleaning_NN1 agents_NN2 and_CJC chemicals_NN2 and_CJC allow_VVB cylinder_NN1 markings_NN2 to_TO0 be_VBI easily_AV0 read_VVN-VVD ._PUN
+These_DT0 protectors_NN2 are_VBB compatible_AJ0 with_PRP most_DT0 cylinder_NN1 mounting_VVG kits_NN2 ,_PUN very_AV0 robust_AJ0 and_CJC economic_AJ0 in_PRP service_NN1 ._PUN
+Helios_NP0 cylinder_NN1 nets_NN2 are_VBB available_AJ0 from_PRP authorised_AJ0 dealers_NN2 ._PUN
+They_PNP retail_VVB at_PRP around_AV0 £14_NN0 with_PRP a_AT0 no_NN1 quibble_NN1-VVB 12_CRD month_NN1 guarantee_NN1-VVB ._PUN
+Helios_NP0 protectors_NN2 displace_VVB the_AT0 need_NN1 for_PRP a_AT0 cylinder_NN1 boot_NN1-VVB and_CJC other_AJ0 protective_AJ0 coverings_NN2 ._PUN
+Exclusive_AJ0 to_PRP Coral_NN1 Marine_AJ0-NN1 Seapen_NP0 Books_NN2
+Coral_NN1 Marine_NN1 have_VHB been_VBN appointed_VVN exclusive_AJ0 distributors_NN2 in_PRP the_AT0 UK_NP0 and_CJC Eire_NP0 for_PRP Seapen_NP0 books_NN2 ._PUN
+This_DT0 includes_VVZ Shlomo_NP0 Cohen_NP0 's_POS Diver_NP0-NN1 's_POS Guides_NN2 ._PUN
+There_EX0 are_VBB four_CRD titles_NN2 in_PRP this_DT0 range_NN1 ;_PUN the_AT0 Red_NP0 Sea_NP0 ,_PUN Cayman_NP0 Islands_NP0 ,_PUN Bahamas_NP0 ,_PUN and_CJC the_AT0 upper_AJ0 Florida_NP0 Keys_NP0 ._PUN
+These_DT0 guides_NN2 ensure_VVB that_CJT divers_AJ0 travelling_NN1-VVG to_PRP these_DT0 destinations_NN2 do_VDB not_XX0 miss_VVI any_DT0 of_PRF the_AT0 best_AJS dive_NN1-VVB sites_NN2 ._PUN
+The_AT0 Red_NP0 Sea_NP0 guide_NN1 is_VBZ illustrated_VVN with_PRP full_AJ0 colour_NN1 aerial_AJ0 photographs_NN2 with_PRP overlays_NN2 showing_VVG suggested_AJ0-VVN underwater_AJ0 routes_NN2 ._PUN
+The_AT0 other_AJ0 guides_NN2 have_VHB detailed_VVN 3-D_AJ0 illustrations_NN2 of_PRF the_AT0 landscape_NN1 and_CJC dive_VVB-NN1 sites_NN2 ,_PUN giving_VVG suggested_AJ0 routes_NN2 ,_PUN as_CJS well_AV0 as_CJS points_NN2 of_PRF particular_AJ0 interest_NN1 to_TO0 note_VVI on_PRP the_AT0 dive_NN1 ._PUN
+Each_DT0 guide_NN1 also_AV0 includes_VVZ full_AJ0 colour_NN1 underwater_AJ0 photographs_NN2 illustrating_VVG the_AT0 marine_AJ0 life_NN1 you_PNP could_VM0 expect_VVI to_TO0 see_VVI ._PUN
+And_CJC they_PNP are_VBB useful_AJ0 reference_NN1 books_NN2 ._PUN
+Each_DT0 one_PNI gives_VVZ a_AT0 history_NN1 of_PRF the_AT0 area_NN1 ,_PUN a_AT0 list_NN1 of_PRF all_DT0 the_AT0 local_AJ0 dive_NN1 operators_NN2 and_CJC the_AT0 services_NN2 they_PNP offer_VVB ,_PUN as_CJS well_AV0 as_CJS many_DT0 other_AJ0 useful_AJ0 names_NN2 and_CJC addresses_VVZ-NN2 including_PRP photographic_AJ0 specialists_NN2 ._PUN
+The_AT0 recommended_AJ0 retail_AJ0 price_NN1 is_VBZ £13.99_NN0 ._PUN
+Trade_NN1-VVB enquiries_NN2 are_VBB welcome_AJ0 ._PUN
+For_PRP further_AJC information_NN1 contact_VVB :_PUN Coral_NN1 Marine_NN1-AJ0 ,_PUN Broadway_NP0-NN1 House_NN1 ,_PUN 21_CRD Broadway_NP0-NN1 ,_PUN Maidenhead_NP0 ,_PUN Berks_NP0 SL6_UNC 1JK_UNC ._PUN
+Tel_NN1-NP0 :_PUN (_PUL 0628_CRD )_PUR 810654_CRD ._PUN
+Fax_VVB-NN1 :_PUN (_PUL 0628_CRD )_PUR 770892_CRD ._PUN
+News_NN1 in_PRP Brief_AJ0
+Log-It_AJ0-NN1 Have_VHB Moved_VVN
+Log-It_AJ0 Design_NN1 and_CJC Marketing_NN1 ,_PUN manufacturers_NN2 of_PRF diving_AJ0-VVG logbooks_NN2 ,_PUN have_VHB moved_VVN to_PRP :_PUN 67_CRD Avon_NP0 Road_NP0 ,_PUN Devizes_NP0 ,_PUN Wiltshire_NP0 SN10_UNC 1PS_UNC ._PUN
+Tel_NN1-NP0 :_PUN (_PUL 0380_CRD )_PUR 724546_CRD ._PUN
+Log-It_AJ0 wish_NN1-VVB to_TO0 apologise_VVI to_PRP its_DPS customers_NN2 for_PRP any_DT0 inconvenience_VVB-NN1 this_DT0 move_NN1 may_VM0 have_VHI caused_VVN ._PUN
+PADI_NP0 —_PUN Expulsions_NN2
+To_TO0 help_VVI ensure_VVI diving_AJ0 community_NN1 safety_NN1 ,_PUN PADI_NP0 now_AV0 publish_VVB the_AT0 names_NN2 of_PRF PADI_NP0 divemasters_NN2 ,_PUN assistant_AJ0 instructors_NN2 and_CJC instructors_NN2 who_PNQ have_VHB been_VBN suspended_VVN or_CJC expelled_VVN-VVD from_PRP PADI_NP0 ,_PUN and_CJC therefore_AV0 may_VM0 no_AV0 longer_AV0 teach_VVI PADI_NP0 courses_NN2 or_CJC issue_VVB-NN1 PADI_NP0 certifications_NN2 ._PUN
+The_AT0 names_NN2 are_VBB listed_VVN in_PRP PADI_NP0 's_POS member_NN1 magazine_NN1 ,_PUN The_AT0 Undersea_AJ0-NN1 Journal_NN1 ._PUN
+Divers_NN2 wishing_VVG to_TO0 verify_VVI whether_CJS an_AT0 instructor_NN1 is_VBZ qualified_VVN-AJ0 to_TO0 teach_VVI PADI_NP0 courses_NN2 ,_PUN can_VM0 call_VVI Karl_NP0 Shreeves_VVZ on_AVP-PRP :_PUN (_PUL 714_CRD )_PUR 540_CRD 7234_CRD ._PUN
+One_CRD Stop_NN1-VVB Shopping_NN1
+69_CRD Diving_NN1 offers_VVZ divers_NN2 a_AT0 showroom_NN1 for_PRP the_AT0 world_NN1 's_POS best_AJS diving_AJ0-NN1 equipment_NN1 ._PUN
+All_DT0 items_NN2 are_VBB kept_VVN in_PRP stock_NN1 ,_PUN plus_PRP necessary_AJ0 facilities_NN2 and_CJC services_NN2 are_VBB in-house_AJ0 ._PUN
+After_PRP-CJS seven_CRD months_NN2 in_PRP business_NN1 ,_PUN 69_CRD Diving_NN1 are_VBB now_AV0 expanding_VVG-AJ0 to_TO0 enlarge_VVI their_DPS range_NN1 to_TO0 cover_VVI everything_PNI the_AT0 individual_AJ0 diver_NN1 or_CJC club_NN1 could_VM0 require_VVI ._PUN
+Phase_NN1-VVB one_CRD of_PRF this_DT0 expansion_NN1 is_VBZ nearly_AV0 complete_AJ0 and_CJC will_VM0 increase_VVI the_AT0 diving_AJ0 retail_AJ0 space_NN1 to_PRP 2,500_CRD square_AJ0 feet_NN2 ._PUN
+Phase_NN1 two_CRD will_VM0 expand_VVI this_DT0 space_NN1 still_AV0 further_AV0 and_CJC will_VM0 take_VVI place_NN1 this_DT0 year_NN1 ._PUN
+Contact_VVB-NN1 :_PUN 69_CRD Diving_NN1 ,_PUN 59–61_CRD High_AJ0 Street_NN1 ,_PUN Ewell_NP0 ,_PUN Surrey_NP0 KT17_UNC 1RX_UNC ._PUN
+Tel_NN1-NP0 :_PUN (_PUL 081_CRD )_PUR 786_CRD 7821_CRD ._PUN
+Gill_NP0 Net_AJ0-NN1 Phone-in_NN1
+An_AT0 investigation_NN1 into_PRP the_AT0 use_NN1 and_CJC effects_NN2 of_PRF synthetic_AJ0 gill_NN1 nets_NN2 around_PRP the_AT0 coast_NN1 of_PRF England_NP0 and_CJC Wales_NP0 is_VBZ being_VBG undertaken_VVN by_PRP the_AT0 Royal_AJ0 Society_NN1 for_PRP the_AT0 Protection_NN1 of_PRF Birds_NN2 ._PUN
+A_AT0 previous_AJ0 study_NN1 into_PRP gill_NN1 net_NN1-AJ0 use_NN1-VVB and_CJC its_DPS effects_NN2 in_PRP southwest_NN1 England_NP0 revealed_VVD a_AT0 minimum_NN1 of_PRF 1,800_CRD birds_NN2 had_VHD drowned_VVN between_PRP 1988_CRD and_CJC 1991_CRD ._PUN
+To_TO0 help_VVI investigate_VVI gill_NN1 net_NN1-AJ0 use_NN1-VVB and_CJC bird_NN1 deaths_NN2 elsewhere_AV0 around_PRP the_AT0 coast_NN1 ,_PUN the_AT0 Society_NN1 has_VHZ set_VVN up_AVP a_AT0 confidential_AJ0 phone_NN1 line_NN1 ._PUN
+Dr_NP0 Nancy_NP0 Harrison_NP0 ,_PUN RSPB_NP0 marine_AJ0 policy_NN1 officer_NN1 ,_PUN said_VVD :_PUN ‘_PUQ Any_DT0 information_NN1 about_PRP the_AT0 use_NN1 of_PRF gill_NN1 nets_NN2 and_CJC the_AT0 effects_NN2 they_PNP have_VHB on_PRP marine_AJ0 life_NN1 ,_PUN will_VM0 help_VVI us_PNP to_TO0 understand_VVI the_AT0 true_AJ0 extent_NN1 and_CJC nature_NN1 of_PRF the_AT0 problem_NN1 ,_PUN and_CJC to_TO0 identify_VVI any_DT0 trouble_NN1 spots_NN2 ._PUN ’_PUQ
+Anyone_PNI who_PNQ has_VHZ any_DT0 information_NN1 should_VM0 ring_VVI Sandy_AJ0 on_PRP :_PUN (_PUL 0767_CRD )_PUR 680551_CRD and_CJC ask_VVB for_PRP the_AT0 Gill_NP0 Net_AJ0-NN1 Hot-line_NN1 ,_PUN or_CJC write_VVB to_PRP Dr_NP0 Nancy_NP0 Harrison_NP0 ,_PUN RSPB_NP0 Marine_AJ0 Policy_NN1 Officer_NN1 ,_PUN RSPB_NP0 ,_PUN The_AT0 Lodge_NP0-NN1 ,_PUN Sandy_NP0 ,_PUN Bedfordshire_NP0 SG19_UNC 2DL_UNC ._PUN
+COMPETITION_NN1
+Get_VVB Beavering_NP0 And_CJC Win_VVB A_AT0 Drysuit_NN1-NP0 !_PUN
+Well_AV0 ,_PUN stone_VVB-NN1 the_AT0 beavers_NN2 ,_PUN it_PNP 's_VBZ another_DT0 fabulous_AJ0 drysuit_NN1 offer_NN1-VVB ._PUN
+This_DT0 month_NN1 's_POS prize_NN1 has_VHZ been_VBN donated_VVN by_PRP Beaver_NP0-NN1 ,_PUN one_CRD of_PRF Britain_NP0 's_POS foremost_AJS manufacturers_NN2 of_PRF suits_NN2 ._PUN
+For_PRP those_DT0 who_PNQ want_VVB to_TO0 get_VVI wet_AJ0 but_CJC stay_VVB dry_AJ0 ,_PUN simply_AV0 answer_VVB the_AT0 three_CRD easy_AJ0 questions_NN2 below_AV0 ,_PUN and_CJC then_AV0 spot_VVB the_AT0 fish_NN0 to_TO0 win_VVI Beaver_NP0-NN1 's_POS superb_AJ0 Iceberg_NN1 drysuit_NN1 ._PUN
+Beaver_VVB-NN1 claim_VVB-NN1 that_CJT this_DT0 is_VBZ a_AT0 top_AJ0 quality_NN1 suit_NN1-VVB ._PUN
+It_PNP is_VBZ made_VVN from_PRP 8mm_NN0 DAIWA_NP0 neoprene_NN1 ._PUN
+This_DT0 has_VHZ a_AT0 micro-cellular_AJ0 construction_NN1 that_CJT gives_VVZ great_AJ0 comfort_NN1 and_CJC flexibility_NN1 ,_PUN yet_AV0 wo_VM0 n't_XX0 tear_VVI or_CJC separate_VVI ._PUN
+The_AT0 suit_NN1 comes_VVZ complete_AJ0 with_PRP dimpled_AJ0 knee_NN1 pads_NN2 ,_PUN thigh_NN1 pocket_NN1 ,_PUN moulded_AJ0-VVN sure_AJ0 grip_NN1 soled_VVD boots_NN2 ,_PUN heel_NN1 protectors_NN2 ,_PUN and_CJC a_AT0 separate_AJ0 hood_NN1 ._PUN
+It_PNP also_AV0 has_VHZ a_AT0 heavyweight_NN1 dry_AJ0 back_NN1 zip_NN1-VVB ,_PUN and_CJC soft_AJ0 DAIWA_NP0 neoprene_NN1 wrist_NN1 and_CJC neck_NN1-VVB seals_NN2-VVZ ._PUN
+There_EX0 is_VBZ a_AT0 range_NN1 of_PRF 12_CRD sizes_NN2 ,_PUN meaning_VVG there_EX0 's_VBZ a_AT0 suit_NN1 to_TO0 accurately_AV0 fit_VVI almost_AV0 everyone_PNI ._PUN
+So_AV0 why_AVQ pay_VVI extra_AJ0 and_CJC wait_VVB longer_AJC for_PRP one_PNI that_CJT-DT0 's_VBZ made-to-measure_AJ0 ?_PUN
+It_PNP comes_VVZ in_PRP black_NN1 and_CJC blue_NN1 ,_PUN or_CJC black_AJ0 and_CJC red_AJ0-NN1 ,_PUN as_CJS standard_AJ0-NN1 ,_PUN but_CJC there_EX0 is_VBZ also_AV0 a_AT0 range_NN1 of_PRF 225_CRD colour_NN1-VVB combinations_NN2 ._PUN
+Options_NN2 include_VVB a_AT0 knife_NN1 sheath_NN1 ,_PUN or_CJC an_AT0 additional_AJ0 pocket_NN1 ,_PUN a_AT0 dimpled_AJ0 seat_NN1 patch_NN1 and_CJC a_AT0 front_AJ0 convenience_NN1 zip_NN1-VVB ._PUN
+Now_AV0 you_PNP know_VVB the_AT0 details_NN2 ,_PUN fill_VVB in_AVP the_AT0 entry_NN1 form_NN1-VVB and_CJC return_VVB it_PNP to_PRP Scuba_NP0 World_NN1 no_AT0 later_AJC than_CJS 1_CRD November_NP0 1991_CRD ._PUN
+Winners_NN2 will_VM0 be_VBI notified_VVN by_PRP telephone_NN1 ,_PUN (_PUL if_CJS appropriate_AJ0 )_PUR ,_PUN so_AV0 please_AV0 include_VVB your_DPS work_NN1 number_NN1 if_CJS that_DT0 's_VBZ where_AVQ you_PNP will_VM0 be_VBI ._PUN
+Entries_NN2 on_PRP photocopies_NN2 of_PRF this_DT0 page_NN1 will_VM0 not_XX0 be_VBI accepted_VVN ._PUN
+The_AT0 editor_NN1 's_POS decision_NN1 is_VBZ final_AJ0 in_PRP all_DT0 matters_NN2 relating_VVG to_PRP the_AT0 competition_NN1 ._PUN
+Send_VVB to_PRP :_PUN Dry_AJ0 As_CJS-PRP A_ZZ0 Beaver_NP0-NN1 ,_PUN 18_CRD Market_NP0 Street_NP0 ,_PUN Poole_NP0 ,_PUN Dorset_NP0 BH15_UNC 1NF_NN0 ._PUN
+ENTRY_NN1 FORM_NN1-VVB
+Answer_VVB the_AT0 three_CRD questions_NN2 below_AV0 and_CJC then_AV0 look_VVB at_PRP the_AT0 photograph_NN1 on_PRP the_AT0 right_NN1 ._PUN
+All_DT0 you_PNP have_VHB to_TO0 do_VDI is_VBZ spot_VVI the_AT0 fish_NN0 ._PUN
+In_PRP this_DT0 case_NN1 ,_PUN it_PNP is_VBZ a_AT0 two_CRD foot_NN1 pike_NN0 ._PUN
+So_AV0 ,_PUN is_VBZ it_PNP lurking_VVG-AJ0 in_PRP the_AT0 weeds_NN2 or_CJC is_VBZ it_PNP swimming_VVG behind_PRP the_AT0 photographer_NN1 ?_PUN
+It_PNP could_VM0 be_VBI neither_AV0 ._PUN
+Put_VVB an_AT0 X_ZZ0 on_PRP the_AT0 spot_NN1 where_AVQ you_PNP think_VVB its_DPS eye_NN1 should_VM0 be_VBI ._PUN
+Scuba_NN1-NP0 World_NN1 in_PRP its_DPS magnanimity_NN1 has_VHZ given_VVN you_PNP five_CRD chances_NN2 to_TO0 get_VVI it_PNP right_AJ0 ._PUN
+Who_PNQ says_VVZ we_PNP are_VBB not_XX0 generous_AJ0 ._PUN
+1_CRD ._PUN
+When_CJS we_PNP say_VVB that_CJT Beaver_NN1-NP0 is_VBZ giving_VVG away_AV0 an_AT0 iceberg_NN1 we_PNP do_VDB not_XX0 mean_VVI a_AT0 lettuce_NN1 ._PUN
+What_DTQ do_VDB we_PNP mean_VVI ?_PUN
+2_CRD ._PUN
+Name_NN1-VVB three_CRD features_NN2 of_PRF Beaver_NP0-NN1 's_POS top_AJ0-NN1 quality_NN1 competition_NN1 prize_NN1 ._PUN
+3_CRD ._PUN
+How_AVQ many_DT0 standard_AJ0 sizes_NN2 do_VDB Beaver_NP0-NN1 offer_VVI and_CJC why_AVQ is_VBZ this_DT0 important_AJ0 ?_PUN
+Now_AV0 put_VVD your_DPS five_CRD Xs_CRD on_PRP the_AT0 photograph_NN1 and_CJC spot_NN1-VVB that_CJT fish_NN0 !_PUN
+Name_NN1-VVB :_PUN Address_NN1-VVB :_PUN Daytime_NN1 tel_NN1 :_PUN
+QUIZ_NN1-VVB
+Questions_NN2 &_CJC …_PUN
+By_PRP Dave_NP0 Thomas_NP0
+You_PNP 've_VHB got_VVN to_TO0 be_VBI green_AJ0 today_AV0 ,_PUN it_PNP seems_VVZ ._PUN
+But_CJC how_AVQ does_VDZ the_AT0 conservation_NN1 ,_PUN anti-pollution_AJ0 stance_NN1 affect_NN1-VVB divers_NN2 ?_PUN
+Are_VBB we_PNP delicate_AJ0 mistletoe_NN1 ,_PUN paying_VVG-AJ0 lip_NN1 service_NN1 to_PRP the_AT0 green_AJ0 theme_NN1 ,_PUN or_CJC full-blown_AJ0 Lincoln_NP0 green_NN1-AJ0 ?_PUN
+Once_AV0 ,_PUN fellow_AJ0 divers_NN2 would_VM0 be_VBI envious_AJ0 if_CJS you_PNP brought_VVD a_AT0 nice-sized_AJ0 crab_NN1 to_PRP the_AT0 surface_NN1 ._PUN
+Now_AV0 it_PNP 's_VBZ likely_AJ0 someone_PNI in_PRP the_AT0 boat_NN1 will_VM0 say_VVI :_PUN ‘_PUQ Put_VVB it_PNP back_AVP ,_PUN ’_PUQ or_CJC :_PUN ‘_PUQ You_PNP should_VM0 have_VHI left_VVN it_PNP alone_AJ0 ._PUN ’_PUQ
+Spearfishing_NP0 went_VVD out_AVP long_AV0 ago_AV0 ,_PUN branded_VVN-AJ0 as_CJS-PRP cruelty_NN1 (_PUL and_CJC one_CRD of_PRF our_DPS senior_AJ0 club_NN1 members_NN2 can_VM0 testify_VVI not_XX0 just_AV0 for_PRP that_DT0 reason_NN1 ._PUN
+He_PNP had_VHD a_AT0 spear_NN1 stuck_VVN in_PRP his_DPS face_NN1 )_PUR ._PUN
+So_AV0 how_AVQ long_AV0-AJ0 is_VBZ it_PNP before_CJS social_AJ0 pressure_NN1 makes_VVZ it_PNP a_AT0 case_NN1 of_PRF look_NN1 —_PUN but_CJC do_VDB n't_XX0 touch_VVI ?_PUN
+There_EX0 are_VBB plans_NN2 to_TO0 ban_VVI powerboats_NN2 from_PRP their_DPS last_ORD refuge_NN1 in_PRP the_AT0 Lake_NP0 District_NP0 ,_PUN Windermere_NP0 ,_PUN because_CJS of_PRF pollution_NN1 ,_PUN bank_NN1-VVB erosion_NN1 and_CJC safety_NN1 ._PUN
+So_AV0 is_VBZ it_PNP ridiculous_AJ0 to_TO0 predict_VVI a_AT0 time_NN1 when_AVQ amateurs_NN2 '_POS dive_NN1 boats_NN2 are_VBB banned_VVN from_PRP some_DT0 areas_NN2 of_PRF our_DPS coastline_NN1 under_PRP similar_AJ0 arguments_NN2 ?_PUN
+Whenever_AVQ crab_NN1 and_CJC lobster_NN1 pots_NN2 produce_VVB a_AT0 sparse_AJ0 harvest_NN1 ,_PUN fishermen_NN2 do_VDB n't_XX0 blame_VVI themselves_PNX for_PRP looting_VVG the_AT0 sea_NN1 bed_NN1 —_PUN it_PNP 's_VBZ those_DT0 damned_AJ0 divers_NN2 again_AV0 ._PUN
+And_CJC it_PNP is_VBZ always_AV0 us_PNP who_PNQ are_VBB rowdies_NN2 in_PRP the_AT0 pub_NN1 ,_PUN who_PNQ choke_VVB harbour_NN1 fronts_NN2 with_PRP gear_NN1 ,_PUN and_CJC are_VBB heard_VVN swearing_NN1-VVG and_CJC shouting_VVG among_PRP the_AT0 seaside_NN1 trippers_NN2 —_PUN never_AV0 the_AT0 local_AJ0 yobs_NN2 ,_PUN is_VBZ it_PNP ._PUN
+So_AV0 are_VBB restrictions_NN2 about_AVP to_TO0 tighten_VVI like_PRP a_AT0 drysuit_NN1 seal_NN1-VVB around_PRP-AVP our_DPS necks_NN2 ?_PUN
+Will_VM0 we_PNP forever_AV0 be_VBI free_AJ0 to_TO0 roam_VVI the_AT0 underwater_AJ0 kingdom_NN1 ,_PUN to_TO0 bring_VVI home_AV0 our_DPS supper_NN1 ?_PUN
+Or_CJC am_VBB I_PNP just_AV0 a_AT0 moaning_AJ0 old_AJ0 crone_NN1 ?_PUN
+If_CJS that_DT0 's_VBZ not_XX0 enough_AV0 for_PRP you_PNP to_TO0 think_VVI about_PRP ,_PUN try_VVB these_DT0 questions_NN2 ._PUN
+1_CRD ._PUN
+What_DTQ is_VBZ the_AT0 valsalva_NN1 manoeuvre_NN1-VVB ?_PUN
+Is_VBZ it_PNP
+a_AT0 :_PUN
+The_AT0 smearing_NN1 of_PRF vaseline_NN1 on_PRP drysuit_NN1 cuffs_VVZ to_TO0 help_VVI get_VVI them_PNP on_AVP ;_PUN
+b_ZZ0 :_PUN
+Buddy_NP0-NN1 breathing_VVG at_PRP depths_NN2 below_AV0 30_CRD metres_NN2 or_CJC
+c_ZZ0 :_PUN
+Clearing_VVG your_DPS ears_NN2 to_TO0 cope_VVI with_PRP pressure_NN1 changes_NN2 ._PUN
+2_CRD ._PUN
+Why_AVQ is_VBZ it_PNP important_AJ0 to_TO0 vent_VVI the_AT0 fuel_NN1 tank_NN1 before_PRP setting_VVG off_AVP on_PRP a_AT0 boat_NN1 dive_NN1-VVB ?_PUN
+3_CRD ._PUN
+Feeling_VVG a_AT0 bit_NN1 nervous_AJ0 before_PRP a_AT0 deep_AJ0 dive_NN1-VVB ?_PUN
+Caution_NN1-VVB is_VBZ a_AT0 good_AJ0 sign_NN1 ,_PUN but_CJC why_AVQ should_VM0 n't_XX0 you_PNP have_VHI a_AT0 fag_NN1 to_TO0 calm_VVI your_DPS nerves_NN2 ?_PUN
+4_CRD ._PUN
+It_PNP 's_VBZ hard_AJ0 work_NN1 pumping_VVG up_AVP-PRP the_AT0 inflatable_AJ0 with_PRP a_AT0 foot_NN1 pump_NN1 ,_PUN so_AV0 why_AVQ not_XX0 use_VVI someone_PNI 's_POS drysuit_NN1 inflator_NN1 instead_AV0 ?_PUN
+5_CRD ._PUN
+It_PNP sounds_VVZ like_PRP the_AT0 most_AV0 boring_AJ0 radio_NN1 show_NN1-VVB ,_PUN but_CJC the_AT0 shipping_NN1 forecast_NN1 is_VBZ vital_AJ0 to_PRP seagoers_NN2 ._PUN
+Do_VDB you_PNP know_VVI where_AVQ the_AT0 following_AJ0 areas_NN2 are_VBB ?_PUN
+a_AT0 :_PUN
+Sole_AJ0-NN1
+b_ZZ0 :_PUN
+Trafalgar_NP0 ;_PUN
+c_ZZ0 :_PUN
+Malin_NN1-NP0 ._PUN
+6_CRD ._PUN
+You_PNP 've_VHB hired_VVN a_AT0 hard_AJ0 boat_NN1 —_PUN at_PRP great_AJ0 cost_NN1 —_PUN but_CJC the_AT0 skipper_NN1 insists_VVZ the_AT0 weather_NN1 is_VBZ too_AV0 bad_AJ0 to_TO0 reach_VVI your_DPS planned_AJ0 site_NN1 ._PUN
+He_PNP says_VVZ he_PNP 'll_VM0 take_VVI you_PNP somewhere_AV0 else_AV0 ._PUN
+Is_VBZ he_PNP just_AJ0 being_VBG awkward_AJ0 ?_PUN
+7_CRD ._PUN
+An_AT0 easy_AJ0 way_NN1 to_TO0 impress_VVI novices_NN2 is_VBZ by_PRP quoting_VVG the_AT0 latin_NN1 names_NN2 of_PRF various_AJ0 sea_NN1 creatures_NN2 ._PUN
+But_CJC there_EX0 's_VBZ one_PNI which_DTQ is_VBZ a_AT0 doddle_NN1 to_TO0 remember_VVI ._PUN
+What_DTQ is_VBZ it_PNP ?_PUN
+8_CRD ._PUN
+If_CJS asked_VVN to_TO0 ‘_PUQ zip_VVI me_PNP up_AVP ’_PUQ by_PRP a_AT0 drysuit_NN1 diver_NN1 ,_PUN why_AVQ is_VBZ it_PNP a_AT0 good_AJ0 idea_NN1 to_TO0 offer_VVI him_PNP the_AT0 loop_NN1 of_PRF the_AT0 closed_AJ0 zip_NN1 afterwards_AV0 ?_PUN
+9_CRD ._PUN
+There_EX0 is_VBZ no_AT0 need_NN1 to_TO0 worry_VVI if_CJS someone_PNI asks_VVZ you_PNP to_TO0 ‘_PUQ pull_VVI down_AVP the_AT0 elephant_NN1 's_POS trunk_NN1 ’_PUQ —_PUN why_AVQ ?_PUN
+10_CRD ._PUN
+Where_AVQ will_VM0 you_PNP find_VVI the_AT0 following_AJ0 famous_AJ0 dives_NN2 ?_PUN
+a_AT0 :_PUN
+The_AT0 Hispania_NP0-NN1 ;_PUN
+b_ZZ0 :_PUN
+Wolf_NP0-NN1 Rock_NN1 ;_PUN
+c_ZZ0 :_PUN
+The_AT0 Green_AJ0 Holes_NN2 ._PUN
+Answers_NN2
+1_CRD ._PUN
+c._AV0 2_CRD ._PUN
+If_CJS you_PNP do_VDB n't_XX0 ,_PUN the_AT0 boat_NN1 could_VM0 stop_VVI suddenly_AV0 as_CJS fuel_NN1 dries_VVZ up_AVP ,_PUN owing_VVG to_PRP the_AT0 vacuum_NN1 created_VVN in_PRP the_AT0 tank_NN1 ._PUN
+The_AT0 sudden_AJ0 jerk_NN1 could_VM0 throw_VVI someone_PNI overboard_AV0 ._PUN
+The_AT0 tank_NN1 itself_PNX could_VM0 split_VVI ,_PUN spilling_VVG fuel_NN1 over_PRP the_AT0 boat_NN1 and_CJC leaving_VVG none_PNI left_VVD to_TO0 get_VVI home_AV0 !_PUN 3_CRD ._PUN
+Cigarettes_NN2 increase_VVB the_AT0 carbon_NN1 monoxide_NN1 level_NN1 in_PRP the_AT0 blood_NN1 ._PUN
+If_CJS your_DPS fill_NN1 is_VBZ also_AV0 a_AT0 bit_NN1 dodgy_AJ0 you_PNP 're_VBB more_AV0 susceptible_AJ0 to_PRP CO_NN1 poisoning_NN1 ,_PUN with_PRP the_AT0 risk_NN1 of_PRF blacking_VVG out_AVP underwater_AV0 ._PUN
+4_CRD ._PUN
+Have_VHB you_PNP ever_AV0 heard_VVN an_AT0 inflatable_AJ0 go_NN1 B-A-N-G_NN1 !_PUN !_PUN !_PUN
+Inflatables_NP0 do_VDB not_XX0 need_VVI great_AJ0 pressure_NN1 to_TO0 keep_VVI them_PNP hard_AV0 enough_AV0 for_PRP the_AT0 sea_NN1 ._PUN
+They_PNP are_VBB just_AV0 not_XX0 built_VVN to_TO0 take_VVI 232_CRD bar_NN1 and_CJC can_VM0 be_VBI heard_VVN three_CRD miles_NN2 away_AV0 when_CJS they_PNP blow_VVB ._PUN
+5._CRD a_AT0 :_PUN South_NN1 West_NN1 of_PRF Land_NP0 's_POS End_NP0 ;_PUN b_ZZ0 :_PUN Off_PRP the_AT0 coast_NN1 of_PRF mid-South_NN1 Portugal_NP0 c_ZZ0 :_PUN off_PRP Northern_NP0 Ireland_NP0 ,_PUN West_NN1 Scotland_NP0 and_CJC Cumbria_NP0 ._PUN
+6_CRD ._PUN
+No_ITJ ,_PUN he_PNP 's_VBZ perfectly_AV0 right_AJ0 ._PUN
+The_AT0 skipper_NN1 is_VBZ legally_AV0 responsible_AJ0 for_PRP your_DPS safety_NN1 and_CJC has_VHZ the_AT0 final_AJ0 say_NN1 over_AVP-PRP where_CJS you_PNP go_VVB ._PUN
+He_PNP could_VM0 be_VBI sued_VVN or_CJC even_AV0 prosecuted_VVN if_CJS anything_PNI went_VVD wrong_AJ0 ._PUN
+7_CRD ._PUN
+The_AT0 conger_NN1 eel_NN0 ._PUN
+Latin_AJ0 name_NN1 …_PUN conger_VVB-NN1 conger_NN1-VVB !_PUN 8_CRD ._PUN
+So_AV0 he_PNP can_VM0 give_VVI it_PNP a_AT0 final_AJ0 tug_NN1-VVB to_TO0 check_VVI it_PNP is_VBZ closed_VVN-AJ0 ._PUN
+If_CJS he_PNP then_AV0 gets_VVZ wet_AJ0 ,_PUN he_PNP ca_VM0 n't_XX0 blame_VVI you_PNP !_PUN 9_CRD ._PUN
+It_PNP 's_VBZ the_AT0 name_NN1 given_VVN to_PRP the_AT0 bilge_NN1 drain_NN1-VVB tube_NN1 on_PRP inflatables._NN0 10._CRD a_AT0 :_PUN The_AT0 Sound_NN1 of_PRF Mull_NP0 ;_PUN b_ZZ0 :_PUN Seven_CRD miles_NN2 southwest_NN1 of_PRF Land_NP0 's_POS End_NP0 ;_PUN c_ZZ0 :_PUN At_PRP Doolin_NP0 on_PRP the_AT0 west_NN1 coast_NN1 of_PRF Ireland_NP0 ._PUN
+UK_NP0 DIVING_NN1
+Obandoned_VVD to_PRP pleasure_NN1
+This_DT0 is_VBZ the_AT0 point_NN1 of_PRF view_NN1 of_PRF one_CRD novice_NN1 who_PNQ discovered_VVD that_CJT diving_NN1 offers_VVZ much_DT0 more_DT0 than_CJS a_AT0 free_AJ0 lunch_NN1 ,_PUN but_CJC should_VM0 never_AV0 be_VBI taken_VVN without_PRP tissues_NN2 ._PUN
+Fiona_NP0 Conacher_NP0 dives_VVZ Oban_NP0 ._PUN
+After_PRP a_AT0 particularly_AV0 strenuous_AJ0 session_NN1 of_PRF mask_NN1 clearing_NN1 ,_PUN we_PNP took_VVD off_AVP-PRP our_DPS masks_NN2 ._PUN
+Confronted_VVN by_PRP a_AT0 vista_NN1 of_PRF happy_AJ0 ,_PUN smiling_VVG-AJ0 snot-encrusted_AJ0-NN1 faces_NN2 ,_PUN I_PNP took_VVD a_AT0 deep_AJ0 breath_NN1 ,_PUN stuck_VVD my_DPS face_NN1 under_PRP water_NN1 and_CJC removed_VVD the_AT0 hangovers_NN2 ._PUN
+I_PNP was_VBD not_XX0 told_VVN that_DT0-CJT mask_NN1-VVB clearing_NN1 displaces_VVZ everything_PNI !_PUN
+Neither_DT0 was_VBD I_PNP told_VVN to_TO0 examine_VVI in_PRP minute_NN1 detail_NN1 ,_PUN every_AT0 blade_NN1 of_PRF grass_NN1 that_CJT my_DPS kit_NN1 was_VBD to_TO0 come_VVI in_PRP contact_NN1 with_PRP ._PUN
+And_CJC Seil_NP0 Island_NP0 is_VBZ memorable_AJ0 ,_PUN partly_AV0 for_PRP the_AT0 vast_AJ0 piles_NN2 of_PRF dog_NN1 dirt_NN1 banked_VVN-VVD against_PRP the_AT0 dive_NN1 site_NN1 ._PUN
+I_PNP learnt_VVD things_NN2 that_CJT are_VBB neither_AV0 discussed_VVN in_PRP manuals_NN2 nor_CJC by_PRP hardened_AJ0 divers_NN2 who_PNQ have_VHB seen_VVN it_PNP all_DT0 before_AV0 ._PUN
+For_PRP instance_NN1 ,_PUN if_CJS the_AT0 person_NN1 next_ORD to_PRP you_PNP in_PRP the_AT0 pool_NN1 starts_VVZ frothing_VVG-AJ0 and_CJC fizzing_AJ0-VVG ,_PUN it_PNP means_VVZ that_CJT his_DPS ‘_PUQ O_ZZ0 ’_PUQ ring_NN1-VVB has_VHZ probably_AV0 broken_VVN-AJ0 ._PUN
+Running_VVG-NN1 away_AV0 from_PRP him_PNP in_PRP-AVP fins_NN2 is_VBZ not_XX0 only_AV0-AJ0 impossible_AJ0 ,_PUN it_PNP is_VBZ also_AV0 rather_AV0 unfair_AJ0 ._PUN
+And_CJC kit_NN1 ._PUN
+Kit_NN1 is_VBZ very_AV0 important_AJ0 ._PUN
+To_TO0 turn_VVI a_AT0 compass_NN1 bezel_NN1-VVB with_PRP fingers_NN2 resembling_VVG a_AT0 pound_NN1 of_PRF pork_NN1 sausages_NN2 is_VBZ not_XX0 easy_AJ0 ._PUN
+Men_NN2 's_POS gloves_NN2 with_PRP short_AJ0 fingers_NN2 do_VDB not_XX0 equal_AJ0 women_NN2 's_POS gloves_NN2 ._PUN
+However_AV0 ,_PUN the_AT0 one_CRD thing_NN1 I_PNP was_VBD most_AV0 emphatically_AV0 told_VVN ,_PUN was_VBD that_DT0-CJT learning_NN1-VVG to_TO0 dive_VVI was_VBD going_VVG to_TO0 be_VBI fun_AJ0 ._PUN
+The_AT0 people_NN0 who_PNQ said_VVD it_PNP were_VBD telling_VVG the_AT0 truth_NN1 ._PUN
+But_CJC when_CJS I_PNP said_VVD I_PNP was_VBD doing_VDG it_PNP in_PRP Scotland_NP0 ,_PUN people_NN0 just_AV0 shivered_VVD ._PUN
+On_PRP this_DT0 point_NN1 they_PNP were_VBD quite_AV0 wrong_AJ0 ._PUN
+Duncan_NP0 and_CJC Avis_NP0 McKelvie_NP0 ,_PUN who_PNQ run_VVB the_AT0 Puffin_NP0 Dive_NN1-VVB School_NN1 in_PRP Oban_NP0 ,_PUN have_VHB a_AT0 very_AV0 sensible_AJ0 attitude_NN1 towards_PRP diver_NN1 training_NN1 ._PUN
+They_PNP put_VVB all_DT0 their_DPS divers_NN2 in_PRP drysuits_NN2 ._PUN
+I_PNP can_VM0 not_XX0 think_VVI of_PRF one_CRD argument_NN1 against_PRP staying_VVG warm_AJ0 and_CJC dry_AJ0 ._PUN
+Not_XX0 even_AV0 for_PRP novices_NN2 ._PUN
+Besides_PRP the_AT0 Gulf_NP0 Stream_NN1 runs_VVZ past_PRP Oban_NP0 and_CJC the_AT0 water_NN1 is_VBZ a_AT0 good_AJ0 three_CRD degrees_NN2 warmer_AJC than_CJS Scotland_NP0 's_POS east_NN1 coast_NN1 ._PUN
+So_AV0 fears_NN2-VVZ of_PRF cutting_VVG the_AT0 ice_NN1 before_PRP diving_VVG in_AVP ,_PUN should_VM0 be_VBI cast_VVN aside_AV0 ._PUN
+I_PNP was_VBD to_TO0 study_VVI the_AT0 PADI_NP0 five_CRD day_NN1 open_AJ0 water_NN1 course_NN1 and_CJC two_CRD day_NN1 advanced_AJ0-VVD course_NN1 ._PUN
+Puffin_NP0 itself_PNX ,_PUN is_VBZ right_AV0-AJ0 next_ORD door_NN1 to_PRP at_PRP least_AV0 two_CRD dive_NN1-VVB sites_NN2 and_CJC within_PRP a_AT0 short_AJ0 drive_NN1 of_PRF many_DT0 more_DT0 ._PUN
+This_DT0 is_VBZ ideal_AJ0 for_PRP novices_NN2 who_PNQ have_VHB to_TO0 complete_VVI five_CRD open_AJ0 water_NN1 dives_NN2 plus_PRP a_AT0 vast_AJ0 amount_NN1 of_PRF in-school_NN1-AJ0 and_CJC confined_AJ0-VVN water_NN1 learning_NN1 ,_PUN in_PRP-AVP only_AV0 five_CRD days_NN2 ._PUN
+Time_NN1 was_VBD tight_AJ0-AV0 and_CJC none_PNI was_VBD wasted_VVN-AJ0 ._PUN
+Designed_VVN by_PRP educational_AJ0 psychologists_NN2 in_PRP America_NP0 ,_PUN PADI_NP0 aims_VVZ to_TO0 present_VVI necessary_AJ0 information_NN1 in_PRP an_AT0 easily_AV0 digestible_AJ0 form_NN1 ._PUN
+Each_DT0 point_NN1 is_VBZ clearly_AV0 and_CJC simply_AV0 made_VVN and_CJC reinforced_VVD seven_CRD times_NN2 ._PUN
+So_AV0 by_PRP the_AT0 time_NN1 each_DT0 chapter_NN1 has_VHZ been_VBN read_VVN ,_PUN the_AT0 questions_NN2 after_PRP-CJS each_DT0 section_NN1 answered_VVD-VVN ,_PUN the_AT0 knowledge_NN1 review_NN1-VVB after_PRP-CJS each_DT0 module_NN1 completed_VVD-VVN ,_PUN the_AT0 final_AJ0 quiz_NN1 and_CJC the_AT0 video_NN1 and_CJC class_NN1 lectures_NN2 undertaken_VVN ,_PUN you_PNP know_VVB it_PNP pretty_AV0 well_AV0 ._PUN
+On_PRP the_AT0 first_ORD morning_NN1 we_PNP studied_VVD module_NN1 one_CRD ,_PUN and_CJC that_DT0 afternoon_NN1 did_VDD our_DPS first_ORD confined_AJ0-VVN water_NN1 dive_NN1-VVB in_PRP Gallanach_NP0 Port_NN1 ,_PUN just_AV0 a_AT0 five_CRD minute_AJ0 drive_NN1-VVB from_PRP the_AT0 school_NN1 ._PUN
+So_AV0 ,_PUN snug_AJ0 in_PRP woolly_AJ0 bear_NN1 and_CJC dry_AJ0 suit_NN1 ,_PUN smirking_VVG with_PRP excitement_NN1 ,_PUN I_PNP attached_VVD my_DPS lung_NN1 and_CJC all_DT0 the_AT0 other_AJ0 necessities_NN2 to_PRP my_DPS BCD_NP0 ._PUN
+With_PRP weight_NN1 belt_NN1 ,_PUN ankle_NN1 weights_NN2 and_CJC all_DT0 the_AT0 rest_NN1 of_PRF the_AT0 clobber_NN1 ,_PUN I_PNP struggled_VVD to_TO0 remember_VVI the_AT0 buddy_NN1 checks_NN2-VVZ ._PUN
+Buoyancy_NN1 ,_PUN Weights_NN2 ,_PUN Air_NN1 ,_PUN Releases_NN2-VVZ ,_PUN Friend_NP0-NN1 ._PUN
+We_PNP all_DT0 had_VHD problems_NN2 remembering_VVG it_PNP ._PUN
+Anyway_AV0 ,_PUN it_PNP became_VVD Big_AJ0 Willies_NP0 Are_VBB Rarely_AV0 Found_VVN ._PUN
+The_AT0 truth_NN1 is_VBZ always_AV0 simpler_AJC ._PUN
+Duncan_NP0 briefed_VVD us_PNP on_PRP what_DTQ was_VBD to_TO0 take_VVI place_NN1 and_CJC we_PNP staggered_VVD backwards_AV0 into_PRP the_AT0 harbour_NN1 ,_PUN barking_VVG like_PRP seals_NN2 and_CJC standing_VVG-NN1 on_PRP each_DT0 others_NN2 fins_NN2 ._PUN
+And_CJC of_PRF course_NN1 with_PRP hoods_NN2 on_PRP you_PNP ca_VM0 n't_XX0 hear_VVI the_AT0 poor_AJ0 soul_NN1 behind_PRP you_PNP squeaking_VVG indignantly_AV0 as_CJS you_PNP work_VVB your_DPS way_NN1 up_AVP-PRP their_DPS ankles_NN2 ._PUN
+We_PNP went_VVD through_PRP-AVP several_DT0 of_PRF the_AT0 basics_NN2 ,_PUN including_PRP regulator_NN1 retrieval_NN1 and_CJC buoyancy_NN1 control_NN1 ._PUN
+And_CJC at_PRP the_AT0 end_NN1 of_PRF the_AT0 session_NN1 we_PNP were_VBD taken_VVN for_PRP a_AT0 tow_NN1 round_PRP the_AT0 harbour_NN1 ._PUN
+Duncan_NP0 is_VBZ testament_NN1 to_PRP the_AT0 sturdiness_NN1 of_PRF the_AT0 Scots_NN2 ._PUN
+Dragging_VVG two_CRD novices_NN2 with_PRP buoyancy_NN1 problems_NN2 looking_VVG excitedly_AV0 at_PRP everything_PNI on_PRP the_AT0 bottom_NN1 ,_PUN must_VM0 have_VHI taken_VVN some_DT0 stamina_NN1 ._PUN
+But_CJC that_DT0 first_ORD dive_NN1 gave_VVD me_PNP the_AT0 taste_NN1 ._PUN
+And_CJC I_PNP wanted_VVD to_TO0 do_VDI much_DT0 more_DT0 ._PUN
+To_TO0 actually_AV0 see_VVI crabs_NN2 scuttling_VVG across_PRP the_AT0 floor_NN1 and_CJC live_AJ0 sponges_NN2 and_CJC even_AV0 real_AJ0 live_AJ0 fish_NN0 was_VBD astonishing_AJ0 ._PUN
+I_PNP had_VHD only_AV0 ever_AV0 seen_VVN them_PNP in_PRP-AVP a_AT0 tank_NN1 or_CJC on_PRP a_AT0 slab_NN1 and_CJC this_DT0 was_VBD totally_AV0 different_AJ0 ._PUN
+To_TO0 see_VVI them_PNP within_PRP their_DPS realm_NN1 ,_PUN led_VVD me_PNP to_TO0 understand_VVI why_AVQ divers_NN2 go_VVB on_AVP and_CJC on_AVP about_PRP fish_NN0 and_CJC viz._AV0 And_CJC the_AT0 viz_AV0 was_VBD good_AJ0 ._PUN
+Most_DT0 of_PRF the_AT0 dives_NN2 that_DT0 week_NN1 had_VHD at_PRP least_AV0 10_CRD metres_NN2 ._PUN
+One_CRD was_VBD 15_CRD ._PUN
+But_CJC it_PNP was_VBD not_XX0 to_TO0 be_VBI a_AT0 happy_AJ0 underwater_AJ0 sampling_NN1 session_NN1 ._PUN
+I_PNP was_VBD there_AV0 to_TO0 learn_VVI to_TO0 dive_VVI and_CJC it_PNP was_VBD not_XX0 without_PRP its_DPS problems_NN2 ._PUN
+In_PRP particular_AJ0 —_PUN mask_NN1-VVB clearing_NN1-VVG ._PUN
+I_PNP hated_VVD it_PNP then_AV0 and_CJC I_PNP hate_VVB it_PNP now_AV0 ._PUN
+I_PNP think_VVB of_PRF it_PNP with_PRP loathing_NN1 and_CJC dread_VVB-NN1 ;_PUN have_VHB visions_NN2 of_PRF designing_VVG the_AT0 no-need-to-clear-mask_NN1-AJ0 and_CJC then_AV0 return_VVB to_PRP reality_NN1 ._PUN
+It_PNP was_VBD one_CRD of_PRF those_DT0 unfortunate_AJ0 ,_PUN ghastly_AJ0 necessities_NN2 ._PUN
+Every_AT0 sport_NN1 has_VHZ one_PNI-CRD ._PUN
+As_CJS soon_AV0 as_CJS the_AT0 cold_AJ0 water_NN1 hit_VVD my_DPS sinuses_NN2 ,_PUN I_PNP started_VVD to_TO0 gag_VVI and_CJC panic_VVI ._PUN
+I_PNP finned_VVD madly_AV0 for_PRP the_AT0 surface_NN1 ,_PUN and_CJC was_VBD told_VVN off_AVP-PRP very_AV0 severely_AV0 for_PRP making_VVG an_AT0 ascent_NN1 like_PRP a_AT0 pricked_AJ0 balloon_NN1 ._PUN
+But_CJC eventually_AV0 I_PNP got_VVD it_PNP right_AJ0 ,_PUN I_PNP had_VHD to_TO0 —_PUN I_PNP could_VM0 n't_XX0 do_VDI the_AT0 advanced_AJ0 course_NN1 without_PRP the_AT0 basic_AJ0 one_PNI under_PRP my_DPS belt_NN1 ._PUN
+And_CJC besides_AV0 ,_PUN the_AT0 diving_NN1 was_VBD so_AV0 spectacular_AJ0 ._PUN
+There_EX0 is_VBZ so_AV0 much_DT0 life_NN1 in_PRP this_DT0 area_NN1 ._PUN
+I_PNP saw_VVD my_DPS first_ORD queenie_NN1 ,_PUN chomping_VVG through_PRP-AVP a_AT0 loch_NN1 ,_PUN and_CJC discovered_VVD that_CJT laughing_VVG underwater_AV0 is_VBZ a_AT0 bad_AJ0 idea_NN1 ._PUN
+There_EX0 were_VBD huge_AJ0 crabs_NN2 everywhere_AV0 ,_PUN starfish_NN0 with_PRP thick_AJ0 meaty_AJ0 arms_NN2 ,_PUN forests_NN2 of_PRF kelp_NN1 —_PUN tall_AJ0 enough_AV0 to_TO0 swim_VVI through_AVP ,_PUN plaice_NN0 and_CJC gurnards_NN2 ._PUN
+There_EX0 were_VBD sunstars_NN2 ,_PUN spotty_AJ0 pipefish_NN1 ,_PUN peacock_NN1 worms_NN2 shrinking_VVG into_PRP their_DPS tubes_NN2 ,_PUN orangy-yellow_AJ0 deadmans_NN2 fingers_NN2 and_CJC brittlestars_NN2 ._PUN
+But_CJC everywhere_AV0 we_PNP dived_VVD there_EX0 were_VBD jellyfish_NN0 ._PUN
+Either_DT0 tiny_AJ0 and_CJC transparent_AJ0 with_PRP pretty_AV0 violet_AJ0-NN1 rings_NN2 ,_PUN or_CJC lion_NN1 's_POS manes_NN2 with_PRP long_AJ0-AV0 brown_AJ0-NN1 ,_PUN stinging_AJ0 ,_PUN tatty_AJ0 tentacles_NN2 ;_PUN a_AT0 hazard_NN1 ,_PUN but_CJC through_PRP a_AT0 novice_NN1 's_POS eyes_NN2 ,_PUN an_AT0 exciting_AJ0 one_PNI ._PUN
+Doing_VDG the_AT0 advanced_AJ0 course_NN1 directly_AV0 after_PRP-CJS the_AT0 basic_AJ0 was_VBD an_AT0 excellent_AJ0 idea_NN1 ._PUN
+It_PNP compounded_VVD what_DTQ had_VHD been_VBN learnt_VVN ,_PUN and_CJC gave_VVD the_AT0 opportunity_NN1 to_TO0 learn_VVI new_AJ0 skills_NN2 through_PRP five_CRD different_AJ0 types_NN2 of_PRF dive_NN1 ._PUN
+We_PNP had_VHD studied_VVN some_DT0 navigation_NN1 but_CJC now_AV0 had_VHD the_AT0 chance_NN1 to_TO0 try_VVI it_PNP out_AVP in_PRP more_DT0 detail_NN1 ._PUN
+At_PRP Dunollie_NP0 Point_NN1 ,_PUN where_CJS-AVQ the_AT0 bottom_NN1-AJ0 and_CJC the_AT0 life_NN1 varies_VVZ considerably_AV0 ,_PUN we_PNP looked_VVD at_PRP natural_AJ0 navigation_NN1 using_VVG the_AT0 bottom_NN1 ,_PUN the_AT0 current_NN1 ,_PUN the_AT0 life_NN1 ,_PUN and_CJC at_PRP how_AVQ you_PNP could_VM0 use_VVI kick_NN1-VVB cycles_NN2 ,_PUN and_CJC time_NN1 ,_PUN to_TO0 determine_VVI distance_NN1 covered_VVD-VVN ._PUN
+We_PNP searched_VVD for_PRP ,_PUN and_CJC retrieved_VVD-VVN ,_PUN an_AT0 ancient_AJ0 ,_PUN rotting_AJ0-VVG tyre_NN1 from_PRP the_AT0 bottom_NN1 of_PRF Gallanach_NP0 Port_NN1 ,_PUN using_VVG various_AJ0 knots_NN2 and_CJC a_AT0 lifting_NN1-AJ0 bag_NN1 ._PUN
+We_PNP also_AV0 did_VDD a_AT0 deep_AV0 dive_VVI ,_PUN to_PRP 30_CRD metres_NN2 ,_PUN at_PRP Easdale_NP0 Quarry_NN1 on_PRP Seil_NP0 Island_NP0 ._PUN
+Actually_AV0 the_AT0 best_AJS bit_NN1 was_VBD the_AT0 giant_NN1-AJ0 stride_VVB-NN1 in_AVP-PRP ,_PUN which_DTQ was_VBD about_AV0 fifteen_CRD feet_NN2 high_AJ0 ._PUN
+There_EX0 was_VBD a_AT0 night_NN1 dive_NN1-VVB in_PRP Loch_NP0 Etive_NP0 ,_PUN and_CJC the_AT0 phosphorescence_NN1 was_VBD spectacular_AJ0 ._PUN
+Duncan_NP0 said_VVD it_PNP was_VBD the_AT0 best_AJS that_CJT he_PNP had_VHD ever_AV0 seen_VVN ._PUN
+Every_AT0 movement_NN1 brought_VVD-VVN delicate_AJ0 ,_PUN twitching_VVG sparks_NN2 dancing_VVG from_PRP fingers_NN2 ,_PUN masks_NN2 and_CJC fins_NN2 ._PUN
+This_DT0 was_VBD most_DT0 people_NN0 's_POS favourite_AJ0-NN1 dive_NN1 ._PUN
+But_CJC mine_NN1 was_VBD the_AT0 drift_NN1 dive_NN1-VVB at_PRP Cregan_NP0 Narrows_VVZ ._PUN
+We_PNP swam_VVD out_AVP perpendicular_NN1-AJ0 to_PRP the_AT0 two_CRD to_PRP three_CRD knot_NN1-VVB current_NN1-AJ0 ,_PUN until_CJS we_PNP were_VBD in_PRP its_DPS heart_NN1 ._PUN
+And_CJC then_AV0 let_VVB go_VVI ._PUN
+With_PRP perfect_AJ0 buoyancy_NN1 we_PNP lay_VVB in_PRP-AVP the_AT0 current_NN1 ,_PUN drifting_VVG at_PRP no_AT0 mean_AJ0 speed_NN1 through_PRP the_AT0 long_AJ0 fronds_NN2 of_PRF kelp_NN1 ,_PUN angling_VVG our_DPS bodies_NN2 to_TO0 follow_VVI the_AT0 curves_NN2 of_PRF the_AT0 bottom_NN1 ._PUN
+We_PNP could_VM0 turn_VVI ,_PUN duck_NN0 ,_PUN stop_VVB-NN1 ,_PUN or_CJC simply_AV0 lay_VVD back_AVP and_CJC enjoy_VVB ._PUN
+It_PNP was_VBD armchair_NN1 diving_NN1 —_PUN so_AV0 comfortable_AJ0 ,_PUN so_AV0 relaxed_AJ0-VVD ,_PUN so_AV0 delightfully_AV0 lazy_AJ0 ._PUN
+It_PNP was_VBD also_AV0 the_AT0 fifth_ORD and_CJC last_ORD dive_NN1 of_PRF the_AT0 advanced_AJ0 course_NN1 ._PUN
+I_PNP fully_AV0 intend_VVB to_TO0 return_VVI ._PUN
+The_AT0 diving_NN1 was_VBD beyond_PRP belief_NN1 ._PUN
+But_CJC what_DTQ made_VVD it_PNP so_AV0 was_VBD the_AT0 school_NN1 ,_PUN and_CJC the_AT0 way_NN1 the_AT0 courses_NN2 were_VBD taught_VVN ._PUN
+The_AT0 classes_NN2 were_VBD small_AJ0 ._PUN
+There_EX0 were_VBD seven_CRD of_PRF us_PNP on_PRP the_AT0 basic_AJ0 course_NN1 ,_PUN but_CJC Duncan_NP0 and_CJC Lachlan_NP0 ,_PUN a_AT0 divemaster_NN1 ,_PUN took_VVD us_PNP out_AVP in_PRP two_CRD groups_NN2 ._PUN
+On_PRP the_AT0 advanced_AJ0 course_NN1 there_EX0 were_VBD only_AV0 three_CRD of_PRF us_PNP ._PUN
+The_AT0 information_NN1 was_VBD presented_VVN clearly_AV0 and_CJC concisely_AV0 ._PUN
+Safety_NN1 was_VBD paramount_AJ0 ._PUN
+It_PNP was_VBD constantly_AV0 stressed_VVN-VVD that_CJT we_PNP are_VBB now_AV0 only_AV0 qualified_VVN-AJ0 to_TO0 dive_VVI in_PRP the_AT0 conditions_NN2 in_PRP which_DTQ we_PNP learnt_VVD ,_PUN that_CJT we_PNP should_VM0 always_AV0 go_VVI out_AVP with_PRP people_NN0 of_PRF greater_AJC experience_NN1 ,_PUN and_CJC that_DT0-CJT with_PRP recreational_AJ0 diving_NN1 (_PUL which_DTQ PADI_NP0 stress_VVB-NN1 this_DT0 diving_NN1 is_VBZ )_PUR ,_PUN you_PNP never_AV0 go_VVB deeper_AV0 than_CJS 30_CRD metres_NN2 unless_CJS you_PNP have_VHB a_AT0 specific_AJ0 reason_NN1 ,_PUN i.e._AV0 a_AT0 wreck_NN1 ._PUN
+But_CJC never_AV0 for_PRP the_AT0 hell_NN1 of_PRF it_PNP ._PUN
+Besides_AV0 ,_PUN all_DT0 the_AT0 life_NN1 is_VBZ higher_AV0 up_AVP ._PUN
+These_DT0 courses_NN2 gave_VVD me_PNP enough_DT0 enthusiasm_NN1 for_PRP the_AT0 sport_NN1 to_TO0 want_VVI to_TO0 join_VVI a_AT0 club_NN1 ._PUN
+I_PNP would_VM0 have_VHI no_AT0 hesitation_NN1 in_PRP recommending_VVG either_AV0 Puffin_NP0 Dive_NN1-VVB School_NN1 ,_PUN or_CJC the_AT0 dive_NN1 sites_NN2 to_PRP anyone_PNI ._PUN
+Diving_NN1 is_VBZ great_AJ0 fun_NN1 !_PUN
+Putting_VVG into_PRP practice_NN1 what_DTQ has_VHZ been_VBN taught_VVN in_PRP the_AT0 classroom_NN1 ,_PUN Fiona_NP0 strides_VVZ in_AVP ._PUN
+Left_AJ0-VVD :_PUN Back_AVP to_PRP school_NN1 at_PRP the_AT0 Puffin_NP0 Dive_NN1-VVB Centre_NN1 ._PUN
+Three_CRD students_NN2 are_VBB taken_VVN through_PRP the_AT0 lectures_NN2 that_CJT lead_VVB-NN1 to_PRP certification_NN1 ._PUN
+Above_AV0 :_PUN Confidence_NN1 building_NN1 exercises_NN2 are_VBB mastered_VVN in_PRP the_AT0 swimming_NN1 pool_NN1 ._PUN
+Right_AV0 :_PUN Discovering_VVG marine_AJ0 life_NN1 in_PRP its_DPS natural_AJ0 setting_NN1 ;_PUN there_EX0 was_VBD plenty_PNI to_TO0 see_VVI in_PRP Oban_NP0 's_POS waters_NN2 ._PUN
+Photographs_NN2 by_PRP Andrew_NP0 Mounter_NP0-NN1 ._PUN
+identifying_VVG-AJ0 AQUATIC_AJ0 LIFE_NN1
+The_AT0 Ocellated_AJ0 ,_PUN the_AT0 Green_AJ0-NN1 &_CJC the_AT0 Black-Tailed_AJ0 Wrasse_NN1
+Wrasse_NN1-NP0 labridae_NN2 are_VBB an_AT0 extremely_AV0 common_AJ0 family_NN1 of_PRF fish_NN0 ,_PUN with_PRP some_DT0 600_CRD identified_AJ0-VVN species_NN0 worldwide_AV0 ._PUN
+Generally_AV0 active_AJ0 by_PRP day_NN1 ,_PUN wrasse_NN1 are_VBB some_DT0 of_PRF the_AT0 most_AV0 colourful_AJ0 and_CJC strikingly_AV0 marked_AJ0-VVN fish_NN0 ._PUN
+We_PNP only_AV0 have_VHB half_DT0 a_AT0 dozen_CRD species_NN0 in_PRP our_DPS coastal_AJ0 waters_NN2 ,_PUN but_CJC the_AT0 Mediterranean_AJ0 supports_NN2-VVZ about_AV0 twenty_CRD varieties_NN2 ._PUN
+However_AV0 ,_PUN it_PNP seems_VVZ there_EX0 are_VBB many_DT0 ,_PUN many_DT0 more_DT0 ,_PUN because_CJS fish_NN0 of_PRF different_AJ0 sex_NN1 ,_PUN age_NN1-VVB and_CJC emotional_AJ0 state_NN1 often_AV0 have_VHB completely_AV0 different_AJ0 colourings_NN2 and_CJC markings_NN2 ._PUN
+Most_DT0 of_PRF these_DT0 species_NN0 of_PRF wrasse_NN1 are_VBB commonly_AV0 seen_VVN by_PRP divers_NN2 in_PRP shallow_AJ0 coastal_AJ0 waters_NN2 ._PUN
+The_AT0 Black-Tailed_AJ0 Wrasse_NN1
+crenilabrus_NN1 melanocercus_NN1
+This_DT0 is_VBZ a_AT0 small_AJ0 ,_PUN oval_AJ0 shaped_AJ0 wrasse_NN1 ,_PUN with_PRP only_AV0 the_AT0 largest_AJS of_PRF male_AJ0 specimens_NN2 growing_VVG up_AVP to_PRP 14_CRD centimetres_NN2 in_PRP length_NN1 ._PUN
+It_PNP has_VHZ relatively_AV0 large_AJ0 eyes_NN2 and_CJC a_AT0 small_AJ0 mouth_NN1 ,_PUN with_PRP small_AJ0 sharp_AJ0 teeth_NN2 on_PRP both_AV0 upper_AJ0 and_CJC lower_AJC jaws_NN2 ._PUN
+The_AT0 adult_NN1-AJ0 male_NN1 's_POS back_NN1 and_CJC flanks_NN2 are_VBB azure_NN1 blue_NN1-AJ0 ,_PUN shading_VVG to_PRP yellowish_AJ0 on_PRP the_AT0 belly_NN1 ._PUN
+But_CJC the_AT0 characteristic_AJ0-NN1 marking_NN1 of_PRF this_DT0 fish_NN0 is_VBZ the_AT0 broad_AJ0 vertical_AJ0 band_NN1 covering_VVG the_AT0 tail_NN1 fin_NN1 ,_PUN which_DTQ is_VBZ edged_VVN with_PRP white_NN1 ._PUN
+Females_NN2 and_CJC young_AJ0 are_VBB pinkish-brown_AJ0 ,_PUN or_CJC chestnut_NN1 above_AV0 to_PRP rosy-yellow_AJ0-NN1 beneath_AV0 ._PUN
+It_PNP is_VBZ found_VVN in_PRP the_AT0 shallows_NN2 in_PRP the_AT0 sea_NN1 grass_NN1 meadows_NN2 ,_PUN at_PRP depths_NN2 of_PRF only_AV0 1–6_CRD metres_NN2 ._PUN
+And_CJC it_PNP feeds_VVZ by_PRP day_NN1 ,_PUN mainly_AV0 on_PRP small_AJ0 crustacea_NN2 ,_PUN worms_NN2 and_CJC molluscs_NN2 ._PUN
+Some_DT0 young_AJ0 act_NN1 as_PRP ‘_PUQ cleaners_NN2 ’_PUQ ,_PUN picking_VVG off_PRP-AVP fungus_NN1 and_CJC animal_NN1 parasites_NN2 that_CJT infest_VVB the_AT0 skin_NN1 of_PRF the_AT0 host_NN1 fishes_NN2 ._PUN
+This_DT0 cleaning_NN1 takes_VVZ place_NN1 at_PRP a_AT0 definite_AJ0 cleaning_NN1 station_NN1 ,_PUN usually_AV0 by_PRP a_AT0 large_AJ0 rock_NN1 or_CJC near_PRP some_DT0 other_AJ0 bold_AJ0 feature_NN1 on_PRP the_AT0 sea_NN1 bed_NN1 ._PUN
+The_AT0 fish_NN0 to_TO0 be_VBI cleaned_VVN hang_VVB motionless_AJ0 in_PRP the_AT0 water_NN1 ,_PUN gill_NN1 covers_VVZ-NN2 open_AJ0 and_CJC fins_NN2 spread_VVB ,_PUN waiting_VVG for_PRP attention_NN1 ._PUN
+Breeding_NN1 takes_VVZ place_NN1 from_PRP spring_NN1 to_PRP mid_AJ0 summer_NN1 ._PUN
+The_AT0 Ocellated_AJ0 Wrasse_NN1
+crenilabrus_NN1 ocellatus_NN1
+Oval_NN1-AJ0 in_PRP shape_NN1 ,_PUN this_DT0 is_VBZ a_AT0 small_AJ0 ,_PUN deep_AJ0 bodies_NN2 wrasse_NN1 ._PUN
+The_AT0 average_AJ0 female_AJ0-NN1 specimen_NN1 grows_VVZ to_PRP about_AV0 10_CRD centimetres_NN2 in_PRP length_NN1 ,_PUN and_CJC the_AT0 male_NN1 3–4_CRD centimetres_NN2 longer_AV0 ._PUN
+It_PNP has_VHZ a_AT0 pointed_AJ0 head_NN1 ,_PUN a_AT0 medium_AJ0-NN1 sized_AJ0-VVN eye_NN1 ,_PUN a_AT0 small_AJ0 mouth_NN1 with_PRP prominent_AJ0 lips_NN2 ,_PUN and_CJC the_AT0 upper_AJ0 jaw_NN1 is_VBZ slightly_AV0 longer_AJC than_CJS the_AT0 lower_AJC ._PUN
+The_AT0 body_NN1 scales_NN2 are_VBB large_AJ0 and_CJC the_AT0 front_AJ0-NN1 gill_NN1 cover_NN1 is_VBZ finely_AV0 toothed_AJ0 ._PUN
+The_AT0 male_NN1 's_POS basic_AJ0 coloration_NN1 is_VBZ chiefly_AV0 moss_VVB green_AJ0-NN1 ,_PUN with_PRP a_AT0 bluish-violet_AJ0 spot_NN1 outlined_VVN-VVD in_PRP red_NN1-AJ0 on_PRP the_AT0 rear_AJ0-NN1 gill_NN1 cover_NN1-VVB ._PUN
+Horizontal_AJ0 rows_NN2 of_PRF blue_AJ0 and_CJC green_AJ0 spots_NN2 are_VBB on_PRP the_AT0 flanks_NN2 and_CJC belly_NN1 ._PUN
+The_AT0 background_NN1 coloration_NN1 of_PRF females_NN2 in_PRP breeding_NN1 condition_NN1 ,_PUN is_VBZ a_AT0 greenish-brown_NN1 with_PRP two_CRD brown_AJ0 stripes_NN2 along_PRP the_AT0 flanks_NN2 ,_PUN and_CJC a_AT0 lighter_AJC off-white_AJ0 belly_NN1 ._PUN
+The_AT0 spot_NN1 on_PRP the_AT0 gill_NN1 cover_NN1 is_VBZ present_AJ0 ,_PUN but_CJC not_XX0 clearly_AV0 defined_VVN and_CJC not_XX0 edged_VVN in_PRP blue_NN1 or_CJC red_NN1 ._PUN
+Both_DT0 sexes_NN2 have_VHB a_AT0 small_AJ0 black_AJ0 spot_NN1 in_PRP the_AT0 midline_NN1 at_PRP the_AT0 base_NN1 of_PRF the_AT0 tail_NN1 stalk_NN1-VVB ._PUN
+In_PRP the_AT0 late_AJ0 spring_NN1 ,_PUN the_AT0 colourful_AJ0 male_NN1 builds_VVZ a_AT0 nest_NN1 of_PRF seaweed_NN1 and_CJC entices_VVZ a_AT0 ripe_AJ0 female_NN1-AJ0 to_TO0 lay_VVI her_DPS eggs_NN2 in_PRP it_PNP ._PUN
+He_PNP then_AV0 stands_VVZ guard_NN1-VVB until_CJS-PRP the_AT0 eggs_NN2 hatch_VVB-NN1 and_CJC the_AT0 fry_NN0 disperse_VVB ._PUN
+This_DT0 wrasse_NN1 is_VBZ very_AV0 common_AJ0 and_CJC is_VBZ found_VVN in_PRP a_AT0 variety_NN1 of_PRF habitats_NN2 —_PUN on_PRP sea_NN1 grass_NN1 meadows_NN2 ,_PUN amongst_PRP rocks_NN2 on_PRP harbour_NN1 walls_NN2 or_CJC piers_NN2 ,_PUN or_CJC on_PRP rocky_AJ0 outcrops_NN2 ._PUN
+But_CJC usually_AV0 in_PRP depths_NN2 from_PRP 5–20_CRD metres_NN2 ._PUN
+Like_PRP many_DT0 species_NN0 of_PRF wrasse_NN1 ,_PUN the_AT0 ocellated_AJ0 wrasse_NN1 is_VBZ quite_AV0 bold_AJ0 if_CJS approached_VVN with_PRP care_NN1 ._PUN
+When_CJS nest_NN1 building_NN1 ,_PUN he_PNP will_VM0 return_VVI to_PRP his_DPS nest_NN1 with_PRP bits_NN2 of_PRF weed_NN1 to_TO0 cement_VVI it_PNP into_PRP place_NN1 ,_PUN even_AV0 when_CJS the_AT0 diver_NN1 is_VBZ only_AV0 a_AT0 few_DT0 inches_NN2 away_AV0 ._PUN
+Inquisitive_AJ0 and_CJC trusting_AJ0-VVG ,_PUN it_PNP will_VM0 often_AV0 follow_VVI divers_NN2 that_CJT disturb_VVB the_AT0 sea_NN1 bed_NN1 with_PRP their_DPS fins_NN2 ,_PUN readily_AV0 feeding_VVG on_PRP-AVP small_AJ0 animals_NN2 or_CJC any_DT0 other_AJ0 edible_AJ0 matter_NN1 dislodged_VVD-VVN ._PUN
+The_AT0 Green_AJ0 Wrasse_NN1-NP0
+labrus_NN1 turdus_NN1
+Large_AJ0 and_CJC secretive_AJ0 ,_PUN this_DT0 wrasse_NN1 has_VHZ a_AT0 long_AJ0 body_NN1 of_PRF up_AVP to_PRP 45_CRD centimetres_NN2 ._PUN
+Like_PRP most_DT0 wrasse_NN1 ,_PUN it_PNP is_VBZ known_VVN to_TO0 change_VVI sex_NN1 (_PUL from_PRP female_NN1 to_PRP male_NN1 )_PUR ,_PUN but_CJC it_PNP is_VBZ unlikely_AJ0 that_CJT any_DT0 can_VM0 function_VVI as_AV0 male_AJ0 and_CJC female_NN1-AJ0 at_PRP the_AT0 same_DT0 time_NN1 ._PUN
+All_DT0 green_AJ0 wrasse_NN1 shorter_AJC than_CJS 28_CRD centimetres_NN2 are_VBB female_AJ0 ,_PUN but_CJC above_PRP 38_CRD centimetres_NN2 they_PNP are_VBB exclusively_AV0 male_AJ0 ._PUN
+This_DT0 wrasse_NN1 has_VHZ a_AT0 large_AJ0 mouth_NN1 ,_PUN fleshy_AJ0 lips_NN2 ,_PUN a_AT0 single_AJ0 row_NN1 of_PRF conical_AJ0 shaped_AJ0 teeth_NN2 ,_PUN and_CJC a_AT0 relatively_AV0 small_AJ0 eye_NN1 ._PUN
+Coloration_NN1 is_VBZ very_AV0 variable_AJ0 ._PUN
+Sometimes_AV0 it_PNP is_VBZ completely_AV0 green_AJ0 with_PRP emerald_AJ0-NN1 or_CJC white_AJ0 spots_NN2 ,_PUN or_CJC it_PNP can_VM0 be_VBI yellowish-green_AJ0 with_PRP a_AT0 white_AJ0 band_NN1 running_VVG-NN1 from_PRP eye_NN1 to_PRP tail_NN1 ,_PUN or_CJC even_AV0 orange_AJ0 or_CJC wine-red_AJ0 with_PRP white_AJ0 stripes_NN2 and_CJC spots_NN2 and_CJC no_AT0 green_NN1-AJ0 at_PRP all_DT0 ._PUN
+It_PNP is_VBZ thought_VVN to_TO0 spawn_VVI in_PRP the_AT0 winter_NN1 and_CJC early_AJ0 spring_NN1 ._PUN
+Found_VVN on_PRP rocky_AJ0 coastal_AJ0 areas_NN2 ,_PUN younger_AJC wrasse_NN1 live_VVB only_AV0 a_AT0 few_DT0 metres_NN2 deep_AJ0-AV0 ,_PUN while_CJS larger_AJC specimens_NN2 can_VM0 be_VBI found_VVN deeper_AV0 than_CJS 15_CRD metres_NN2 ._PUN
+This_DT0 is_VBZ a_AT0 very_AV0 timid_AJ0 wrasse_NN1 and_CJC only_AV0 swims_VVZ short_AJ0 distances_NN2 in_PRP open_AJ0 water_NN1 ,_PUN between_PRP patches_NN2 of_PRF seagrass_NN1 or_CJC around_PRP-AVP the_AT0 edges_NN2 ._PUN
+It_PNP will_VM0 instantly_AV0 vanish_VVI into_PRP cover_NN1 if_CJS disturbed_VVN-AJ0 ,_PUN but_CJC when_CJS resting_VVG-NN1 ,_PUN it_PNP has_VHZ a_AT0 habit_NN1 of_PRF lying_VVG on_PRP-AVP its_DPS side_NN1 on_PRP the_AT0 bottom_NN1 ._PUN
+If_CJS found_VVN like_PRP this_DT0 ,_PUN it_PNP is_VBZ usually_AV0 easily_AV0 approached_VVN ._PUN
+Like_PRP most_DT0 wrasse_NN1 ,_PUN the_AT0 green_AJ0 wrasse_NN1 is_VBZ carnivorous_AJ0 and_CJC feeds_VVZ-NN2 by_PRP day_NN1 on_PRP tiny_AJ0 edible_AJ0 morsels_NN2 in_PRP the_AT0 water_NN1 ,_PUN small_AJ0 crustacea_NN2 ,_PUN worms_NN2 ,_PUN molluscs_NN2 and_CJC other_AJ0 small_AJ0 bottom_AJ0-NN1 living_AJ0-NN1 creatures_NN2 ._PUN
+Far_AV0 left_VVD-VVN :_PUN The_AT0 black-tailed_AJ0 wrasse_NN1 ._PUN
+Left_AJ0-VVN and_CJC centre_NN1 top_NN1 :_PUN Male_AJ0-NN1 ocellated_AJ0-VVD wrasse_NN1 nest_NN1 building_NN1 ._PUN
+Top_AJ0-NN1 right_NN1 :_PUN The_AT0 green_AJ0 wrasse_NN1 ._PUN
+SAA_NP0 COMMUNICATIONS_NN2
+NEWS_NN1 UPDATE_NN1-VVB
+Could_VM0 you_PNP do_VDI the_AT0 job_NN1 ?_PUN
+Is_VBZ there_EX0 anybody_PNI brave_AJ0 enough_AV0 to_TO0 take_VVI on_AVP the_AT0 post_NN1 of_PRF SAA_NP0 Executive_NN1 Secretary_NN1 ?_PUN
+At_PRP the_AT0 time_NN1 of_PRF going_VVG to_PRP press_NN1 ,_PUN not_XX0 one_CRD person_NN1 has_VHZ been_VBN nominated_VVN for_PRP this_DT0 post_NN1 ._PUN
+The_AT0 SAA_NP0 are_VBB looking_VVG for_PRP a_AT0 secretary_NN1 who_PNQ preferably_AV0 has_VHZ the_AT0 following_AJ0 skills_NN2 :_PUN Typing_NN1-VVG ,_PUN proven_AJ0-VVN administrative_AJ0 ability_NN1 ,_PUN being_VBG able_AJ0 to_TO0 take_VVI minutes_NN2 of_PRF meetings_NN2 and_CJC with_PRP good_AJ0 organisational_AJ0 skills_NN2 ._PUN
+It_PNP 's_VBZ hard_AJ0 work_NN1 ;_PUN you_PNP 'll_VM0 have_VHI to_TO0 give_VVI up_AVP some_DT0 of_PRF your_DPS weekends_NN2 and_CJC you_PNP wo_VM0 n't_XX0 be_VBI paid_VVN ,_PUN other_AJ0 than_CJS expenses_NN2 !_PUN
+Remember_VVB ,_PUN two_CRD club_NN1 committee_NN1 signatures_NN2 are_VBB required_VVN for_PRP the_AT0 nomination_NN1 of_PRF Executive_NN1-AJ0 Secretary_NN1 ._PUN
+Please_AV0 contact_VVB the_AT0 Electoral_AJ0 Secretary_NN1 or_CJC Bill_NP0 Baker_NP0 on_PRP 0703_CRD 444308_CRD ._PUN
+Drinking_NN1-VVG and_CJC Diving_VVG A_AT0 Must_NN1 !_PUN
+With_PRP the_AT0 end_NN1 of_PRF the_AT0 season_NN1 in_PRP sight_NN1 it_PNP is_VBZ always_AV0 worthwhile_AJ0 looking_VVG at_PRP the_AT0 trends_NN2 in_PRP diving_AJ0-VVG accidents_NN2 that_CJT have_VHB occurred_VVN ._PUN
+The_AT0 South_NN1 West_NN1 Region_NN1 plays_NN2-VVZ host_VVB-NN1 to_PRP a_AT0 vast_AJ0 number_NN1 of_PRF divers_NN2 all_AV0 over_PRP the_AT0 country_NN1 ._PUN
+I_PNP am_VBB pleased_AJ0 to_TO0 announce_VVI that_CJT no_AT0 decompression_NN1 fatalities_NN2 have_VHB been_VBN reported_VVN to_PRP DDRC_NP0 this_DT0 year_NN1 ._PUN
+However_AVQ Dave_NP0 Crockford_NP0 tells_VVZ me_PNP that_CJT a_AT0 trend_NN1 is_VBZ becoming_VVG apparent_AJ0 !_PUN
+Despite_PRP staying_VVG well_AV0 within_PRP the_AT0 limits_NN2 and_CJC depths_NN2 of_PRF recognised_AJ0 dive_NN1 tables_NN2 ,_PUN divers_NN2 are_VBB still_AV0 getting_VVG bent_VVN ._PUN
+This_DT0 is_VBZ a_AT0 worrying_AJ0 trend_NN1 particularly_AV0 when_CJS one_PNI considers_VVZ that_CJT the_AT0 experts_NN2 at_PRP DDRC_NP0 can_VM0 not_XX0 as_CJS yet_AV0 offer_VVI an_AT0 explanation_NN1 ._PUN
+An_AT0 increasing_AJ0 number_NN1 of_PRF bent_AJ0 divers_NN2 this_DT0 year_NN1 have_VHB shown_VVN signs_NN2 of_PRF dehydration_NN1 ._PUN
+The_AT0 connection_NN1 between_PRP dehydration_NN1 and_CJC the_AT0 bends_NN2 is_VBZ now_AV0 quite_AV0 clear_AJ0 ._PUN
+Combating_VVG dehydration_NN1 should_VM0 be_VBI considered_VVN by_PRP all_DT0 divers_NN2 so_AV0 have_VHB a_AT0 good_AJ0 intake_NN1 of_PRF fluid_NN1 before_PRP-CJS each_DT0 dive_NN1 ._PUN
+Accidents_NN2 to_PRP date_NN1 include_VVB :_PUN
+Air_NN1 Embolisms_NN2 —_PUN 3_CRD
+Type_NN1 2_CRD Bend_NN1-VVB —_PUN 19_CRD
+Type_NN1-VVB 1_CRD Bend_NN1-VVB —_PUN 9_CRD
+In_PRP addition_NN1 ,_PUN Dave_NP0 tells_VVZ me_PNP that_CJT the_AT0 centre_NN1 has_VHZ also_AV0 treated_VVN a_AT0 number_NN1 of_PRF carbon_NN1 monoxide_NN1 poisonings_NN2 and_CJC gas_NN1 gangrene_NN1 injuries_NN2 —_PUN fortunately_AV0 ,_PUN both_AV0 from_PRP causes_NN2 other_AJ0 than_CJS diving_NN1-VVG ._PUN
+Vic_NP0 Bonfante_NP0 ,_PUN SW_NN1 Regional_AJ0 Rep_NN1 ._PUN
+Words_NN2 of_PRF Warning_NN1
+Remember_VVB to_TO0 follow_VVI the_AT0 code_NN1
+Divers_NN2 build_VVB up_AVP your_DPS experience_NN1 before_PRP diving_VVG offshore_AV0 ,_PUN get_VVB fit_AJ0 ,_PUN keep_VVB fit_AJ0 ._PUN
+Make_VVB sure_AJ0 that_CJT your_DPS equipment_NN1 functions_NN2-VVZ correctly_AV0 and_CJC that_CJT your_DPS craft_NN1 ,_PUN engine_NN1 and_CJC trailer_NN1 are_VBB maintained_VVN ._PUN
+Carry_VVB the_AT0 necessary_AJ0 ancillary_AJ0 equipment_NN1 needed_VVD-VVN to_TO0 make_VVI your_DPS visit_NN1 to_PRP the_AT0 offshore_AJ0 dive_NN1 site_NN1-VVB pleasurable_AJ0 ._PUN
+Before_PRP diving_VVG offshore_AV0 ,_PUN get_VVB local_AJ0 knowledge_NN1 or_CJC join_VVB up_AVP with_PRP a_AT0 club_NN1 who_PNQ has_VHZ dived_VVN the_AT0 site_NN1 previously_AV0 ._PUN
+Ask_VVB at_PRP the_AT0 local_AJ0 dive_NN1 shop_NN1 ._PUN
+Know_VVB the_AT0 state_NN1 of_PRF the_AT0 tide_NN1 and_CJC strength_NN1 of_PRF current_NN1 ;_PUN never_AV0 dive_VVB for_PRP the_AT0 sake_NN1 of_PRF it_PNP ._PUN
+Wait_VVB until_CJS-PRP conditions_NN2 offer_VVB a_AT0 safe_AJ0 enjoyable_AJ0 dive_NN1 ._PUN
+Cover_VVB-NN1 boats_NN2 can_VM0 lose_VVI sight_NN1 of_PRF divers_NN2 —_PUN use_VVB-NN1 surface_NN1 marker_NN1 buoys_NN2 ,_PUN carry_VVB in-water_AJ0 flares_NN2 ,_PUN make_VVB sure_AJ0 your_DPS whistle_NN1 works_NN0 and_CJC is_VBZ loud_AJ0 enough_AV0 to_TO0 be_VBI heard_VVN by_PRP others_NN2 ._PUN
+Coxswains_NN2 ,_PUN keep_VVB a_AT0 look_NN1-VVB out_AVP at_PRP all_DT0 times_NN2 ,_PUN fly_VVB the_AT0 A_ZZ0 flag_NN1-VVB when_AVQ-CJS divers_NN2 are_VBB down_AVP ._PUN
+You_PNP should_VM0 have_VHI attended_VVN a_AT0 boat-handling_NN1-AJ0 ,_PUN oxygen_NN1 admin._NN0 and_CJC a_AT0 radio/telephone_NN1 course/examination_NN1 ._PUN
+Contact_VVB the_AT0 coastguard_NN1 immediately_AV0 if_CJS the_AT0 situation_NN1 warrants_VVZ it_PNP ._PUN
+Know_VVB the_AT0 location_NN1 of_PRF the_AT0 nearest_AJS phone_NN1 and_CJC doctor_NN1-VVB beforehand_AV0 ._PUN
+Milford_NP0 Haven_NP0 coastguards_NN2 are_VBB very_AV0 concerned_AJ0 with_PRP the_AT0 way_NN1 that_CJT some_DT0 divers_NN2 are_VBB pursuing_VVG their_DPS sport_NN1 ._PUN
+I_PNP met_VVD with_PRP the_AT0 station_NN1 officers_NN2 at_PRP St_NP0 Anne_NP0 's_POS Head_NN1 in_PRP June_NP0 of_PRF this_DT0 year_NN1 and_CJC informed_VVD them_PNP of_PRF the_AT0 way_NN1 that_CJT divers_NN2 should_VM0 be_VBI operating_VVG ._PUN
+Unfortunately_AV0 many_DT0 are_VBB not_XX0 ._PUN
+Over_PRP the_AT0 weekend_NN1 of_PRF 10/11_CRD August_NP0 ,_PUN I_PNP was_VBD involved_AJ0 in_PRP the_AT0 search_NN1 for_PRP the_AT0 two_CRD divers_NN2 who_PNQ went_VVD missing_VVG because_CJS their_DPS club_NN1 was_VBD not_XX0 following_VVG the_AT0 code_NN1 of_PRF practice_NN1 worded_VVD above_AV0 ._PUN
+They_PNP were_VBD lucky_AJ0 to_TO0 be_VBI found_VVN !_PUN
+Bill_NP0 Burdett_NP0 ,_PUN DO_VDB Gwent_NP0 Adventurers_NN2 ,_PUN RYA_NP0 Examiner_NP0-NN1 ,_PUN Aux_UNC ._PUN
+Coastguard_NN1 ._PUN
+MARINE_AJ0 BIOLOGY_NN1
+Sail_VVB Ahoy_NP0-NN1
+Alan_NP0 Major_NP0 concentrates_VVZ on_PRP the_AT0 closely_AV0 related_AJ0-VVN sailfish_NN1 and_CJC swordfish_NN0 families_NN2 ._PUN
+Read_VVB on_AVP to_TO0 find_VVI out_AVP more_AV0 about_PRP these_DT0 appropriately_AV0 named_VVN-VVD fish_NN0 ._PUN
+The_AT0 sailfish_NN1 is_VBZ generally_AV0 credited_VVN as_PRP the_AT0 world_NN1 's_POS fastest_AJS fish_NN0 ._PUN
+It_PNP is_VBZ built_VVN for_PRP speed_NN1 ._PUN
+The_AT0 body_NN1 is_VBZ long_AJ0 and_CJC slender_AJ0 ,_PUN with_PRP a_AT0 pointed_AJ0 head_NN1 and_CJC it_PNP has_VHZ a_AT0 long_AJ0-AV0 pointed_AJ0 snout_NN1-VVB that_CJT forms_VVZ a_AT0 ‘_PUQ bill_NN1 ’_PUQ ._PUN
+Rounded_VVN-AJ0 in_PRP cross-section_NN1 ,_PUN this_DT0 gives_VVZ the_AT0 impression_NN1 of_PRF a_AT0 tapering_AJ0 spear_NN1 penetrating_VVG the_AT0 water_NN1 without_PRP resistance_NN1 ._PUN
+The_AT0 tail_NN1 ,_PUN or_CJC caudal_AJ0 fin_NN1 ,_PUN is_VBZ large_AJ0 and_CJC sickle-shaped_NN1-AJ0 ,_PUN to_TO0 give_VVI short_AJ0-AV0 ,_PUN rapid_AJ0 bursts_NN2 of_PRF speed_NN1 ._PUN
+The_AT0 vertebrae_NN2 of_PRF the_AT0 vertebral_AJ0-NN1 column_NN1 are_VBB tightly_AV0 interlocked_VVN ,_PUN creating_VVG a_AT0 rigid_AJ0 foundation_NN1 for_PRP the_AT0 tail_NN1 muscles_NN2 ._PUN
+These_DT0 are_VBB powerfully_AV0 developed_VVN-AJ0 and_CJC ,_PUN with_PRP the_AT0 caudal_AJ0 fin_NN1 ,_PUN achieve_VVB a_AT0 swift_AJ0 forward_AJ0-NN1 thrust_NN1 ._PUN
+It_PNP gets_VVZ its_DPS name_NN1 from_PRP the_AT0 very_AV0 large_AJ0 ,_PUN sail-like_AJ0 ,_PUN first_ORD dorsal_AJ0 fin_NN1 ._PUN
+The_AT0 middle_AJ0-NN1 rays_NN2 of_PRF this_DT0 spiny_AJ0 fin_NN1 are_VBB longer_AJC than_CJS the_AT0 depth_NN1 of_PRF the_AT0 fish_NN0 's_POS body_NN1 ._PUN
+The_AT0 second_ORD dorsal_AJ0 fin_NN1 ,_PUN near_PRP the_AT0 tail_NN1 ,_PUN is_VBZ much_AV0 smaller_AJC ._PUN
+The_AT0 ‘_PUQ sail_NN1 ’_PUQ is_VBZ important_AJ0 ._PUN
+When_CJS speeding_VVG along_PRP-AVP it_PNP is_VBZ folded_VVN-AJ0 and_CJC lies_VVZ-NN2 in_PRP a_AT0 deep_AJ0 groove_NN1 along_PRP the_AT0 back_NN1 ._PUN
+The_AT0 long_AJ0 ,_PUN slender_AJ0 pelvic_AJ0 fins_NN2 are_VBB drawn_VVN up_AVP flush_AV0 with_PRP the_AT0 underside_NN1 of_PRF the_AT0 body_NN1 ,_PUN while_CJS the_AT0 pectoral_NN1-AJ0 fins_NN2 lie_VVB flat_AJ0 against_PRP the_AT0 sides_NN2 ._PUN
+Hence_AV0 the_AT0 uninhibited_AJ0 speed_NN1 ._PUN
+As_PRP-CJS the_AT0 sailfish_NN1 's_POS quick_AV0 burst_AJ0 ends_NN2 ,_PUN it_PNP erects_VVZ its_DPS ‘_PUQ sail_NN1-VVB ’_PUQ to_TO0 prevent_VVI it_PNP from_PRP rolling_VVG-AJ0 and_CJC yawing_VVG-NN1 ._PUN
+It_PNP seems_VVZ its_DPS very_AV0 high_AJ0 speeds_NN2 are_VBB only_AV0 achieved_VVN occasionally_AV0 ,_PUN when_CJS pursuing_VVG-AJ0 food_NN1 or_CJC escaping_AJ0-VVG ,_PUN and_CJC it_PNP normally_AV0 cruises_VVZ-NN2 at_PRP about_AV0 a_AT0 third_ORD or_CJC a_AT0 half_NN1 of_PRF its_DPS rapid_AJ0 dashes_NN2 ._PUN
+The_AT0 sailfish_NN1 can_VM0 grow_VVI to_PRP 12_CRD feet_NN2 (_PUL 3.6_CRD metres_NN2 )_PUR and_CJC weigh_VVB 275_CRD pounds_NN2 (_PUL 125_CRD kilogrammes_NN2 )_PUR ,_PUN but_CJC the_AT0 average_NN1 is_VBZ smaller_AJC ,_PUN weighing_VVG around_AV0 70_CRD pounds_NN2 ._PUN
+It_PNP is_VBZ quite_AV0 an_AT0 attractively_AV0 coloured_AJ0-VVN species_NN0 ;_PUN dark_AJ0 blue_NN1-AJ0 on_PRP the_AT0 upper_AJ0 parts_NN2 ,_PUN becoming_VVG paler_AJC until_PRP white_AJ0 or_CJC silver_NN1 on_PRP the_AT0 lower_AJC parts_NN2 ._PUN
+The_AT0 sides_NN2 frequently_AV0 have_VHB vertical_AJ0 bars_NN2 or_CJC spots_NN2 ._PUN
+The_AT0 ‘_PUQ sail_NN1 ’_PUQ or_CJC dorsal_AJ0 fin_NN1 is_VBZ a_AT0 bright_AJ0 cobalt_NN1 blue_NN1 with_PRP black_AJ0 ,_PUN round_AJ0 or_CJC oval_AJ0 spots_NN2 ._PUN
+The_AT0 timing_NN1 of_PRF these_DT0 and_CJC other_AJ0 fast_AJ0 fish_NN0 is_VBZ full_AJ0 of_PRF difficulties_NN2 ._PUN
+One_CRD ingenious_AJ0 method_NN1 was_VBD the_AT0 fishometer_NN1 ;_PUN a_AT0 gadget_NN1 fitted_VVN to_PRP the_AT0 rods_NN2 of_PRF fishermen_NN2 fishing_NN1 for_PRP big_AJ0 game_NN1 species_NN0 such_DT0 as_PRP marlin_NN1 ._PUN
+This_DT0 recorded_VVD the_AT0 speed_NN1 at_PRP which_DTQ the_AT0 line_NN1 went_VVD out_AVP ._PUN
+Other_AJ0 methods_NN2 have_VHB included_VVN timing_VVG the_AT0 swimming_NN1 fish_NN0 from_PRP the_AT0 known_AJ0 speed_NN1 of_PRF the_AT0 ship_NN1 the_AT0 fish_NN0 is_VBZ passing_AJ0-VVG or_CJC circling_VVG-NN1 ,_PUN and_CJC filming_VVG the_AT0 speeding_AJ0-NN1 fish_NN0 and_CJC calculating_VVG its_DPS speed_NN1 by_PRP comparing_VVG its_DPS position_NN1 on_PRP each_DT0 frame_NN1 of_PRF the_AT0 film_NN1 ._PUN
+Yet_AV0 another_DT0 method_NN1 was_VBD to_TO0 harness_VVI the_AT0 fish_NN0 ,_PUN with_PRP a_AT0 thin_AJ0 silk_NN1 cord_NN1-VVB that_CJT unwound_VVD over_AVP-PRP a_AT0 large_AJ0 pulley_NN1 ,_PUN actuating_VVG an_AT0 electric_AJ0 relay_NN1 once_AV0 every_AT0 revolution_NN1 ._PUN
+The_AT0 snag_NN1 is_VBZ —_PUN first_ORD you_PNP must_VM0 harness_VVI the_AT0 fish_NN0 ._PUN
+However_AV0 ,_PUN using_VVG a_AT0 method_NN1 similar_AJ0 to_PRP this_DT0 ,_PUN a_AT0 sailfish_NN1 was_VBD timed_VVN on_PRP a_AT0 thin_AJ0 ,_PUN loose_AJ0 line_NN1 ._PUN
+It_PNP covered_VVD 100_CRD yards_NN2 in_PRP three_CRD seconds_NN2 which_DTQ means_VVZ a_AT0 speed_NN1 of_PRF nearly_AV0 70_CRD miles_NN2 an_AT0 hour_NN1 !_PUN
+There_EX0 are_VBB ten_CRD species_NN0 in_PRP the_AT0 sailfish_NN1 family_NN1 ._PUN
+These_DT0 include_VVB spearfish_NN1 ,_PUN marlin_NN1 ,_PUN and_CJC swordfish_NN0 ._PUN
+The_AT0 Pacific_NP0 sailfish_NN1 is_VBZ the_AT0 largest_AJS ,_PUN up_AVP to_PRP 12_CRD feet_NN2 ,_PUN closely_AV0 followed_VVN by_PRP the_AT0 American_AJ0 sailfish_NN1 ._PUN
+The_AT0 sailfish_NN1 is_VBZ found_VVN worldwide_AV0 in_PRP tropical_AJ0 oceans_NN2 ,_PUN at_PRP the_AT0 edge_NN1 of_PRF coastal_AJ0 waters_NN2 and_CJC in_PRP the_AT0 open_AJ0 sea_NN1 ._PUN
+It_PNP is_VBZ migratory_AJ0 and_CJC follows_VVZ the_AT0 seasonal_AJ0 warming_NN1 of_PRF the_AT0 water_NN1 ._PUN
+It_PNP preys_VVZ on_PRP squid_NN0 and_CJC smaller_AJC fish_NN0 which_DTQ occur_VVB in_PRP-AVP surface_NN1 waters_NN2-VVZ ._PUN
+The_AT0 swordfish_NN0 family_NN1 has_VHZ a_AT0 much_AV0 longer_AV0 ,_PUN slender_AJ0 snout_NN1 than_CJS the_AT0 sailfish_NN1 ._PUN
+This_DT0 is_VBZ flattened_VVN like_PRP a_AT0 sword_NN1 ,_PUN hence_AV0 the_AT0 name_NN1 ._PUN
+Both_DT0 have_VHB small_AJ0-AV0 ,_PUN numerous_AJ0 teeth_NN2 in_PRP their_DPS upper_AJ0 and_CJC lower_AJC jaws_NN2 ._PUN
+But_CJC in_PRP the_AT0 swordfish_NN0 these_DT0 extend_VVB onto_PRP the_AT0 lower_AJC surface_NN1 of_PRF the_AT0 ‘_PUQ sword_NN1 ’_PUQ ._PUN
+There_EX0 are_VBB two_CRD theories_NN2 about_PRP this_DT0 sword_NN1 ._PUN
+Either_AV0 it_PNP is_VBZ an_AT0 unusual_AJ0 example_NN1 of_PRF stream-lining_VVG-NN1 or_CJC ,_PUN it_PNP is_VBZ what_DTQ it_PNP looks_VVZ like_PRP-CJS ,_PUN a_AT0 weapon_NN1 ._PUN
+The_AT0 swordfish_NN0 ,_PUN like_PRP the_AT0 sailfish_NN1 ,_PUN will_VM0 follow_VVI a_AT0 school_NN1 of_PRF fish_NN0 for_PRP a_AT0 considerable_AJ0 distance_NN1 before_CJS it_PNP decides_VVZ to_TO0 attack_VVI ._PUN
+It_PNP then_AV0 does_VDZ so_AV0 with_PRP tremendous_AJ0 activity_NN1 ,_PUN threshing_VVG with_PRP lateral_AJ0 movements_NN2 of_PRF the_AT0 sword_NN1 among_PRP the_AT0 fish_NN0 ._PUN
+Those_DT0 that_CJT are_VBB wounded_VVN-AJ0 and_CJC stunned_VVN-AJ0 will_VM0 be_VBI consumed_VVN by_PRP the_AT0 swordfish_NN0 at_PRP leisure_NN1 ,_PUN circling_VVG round_AVP-PRP any_DT0 that_CJT start_VVB-NN1 to_TO0 sink_VVI ._PUN
+Its_DPS diet_NN1 consists_VVZ of_PRF herring_NN0 ,_PUN mackerel_NN0 ,_PUN pilchard_NN1 ,_PUN rats-tails_NN2 and_CJC argentines_NN2 ,_PUN also_AV0 squid_NN0 ,_PUN and_CJC ,_PUN as_CJS it_PNP will_VM0 go_VVI down_AVP to_PRP 610_CRD metres_NN2 (_PUL 334_CRD fathoms_NN2 )_PUR deepwater_AJC species_NN0 ._PUN
+The_AT0 swordfish_NN0 's_POS dorsal_AJ0 fin_NN1 is_VBZ very_AV0 different_AJ0 to_PRP the_AT0 sailfish_NN1 's_VBZ ,_PUN since_CJS it_PNP is_VBZ high_AJ0-AV0 in_PRP front_AJ0-NN1 but_CJC much_AV0 shorter_AJC as_CJS it_PNP curves_VVZ towards_PRP the_AT0 tail_NN1 ._PUN
+It_PNP has_VHZ a_AT0 wide_AJ0 space_NN1 between_PRP it_PNP and_CJC the_AT0 tiny_AJ0 ,_PUN second_ORD dorsal_AJ0 fin_NN1 ._PUN
+The_AT0 swordfish_NN0 does_VDZ not_XX0 have_VHI pelvic_AJ0 fins_NN2 ._PUN
+It_PNP can_VM0 reach_VVI 16_CRD feet_NN2 (_PUL 4.9_CRD metres_NN2 )_PUR in_PRP length_NN1 ,_PUN but_CJC the_AT0 average_NN1 is_VBZ between_PRP six_CRD and_CJC nine_CRD feet_NN2 (_PUL two_CRD and_CJC three_CRD metres_NN2 )_PUR ._PUN
+There_EX0 is_VBZ only_AV0 one_CRD swordfish_NN0 ,_PUN xiphias_NN2 gladius_NN1 ._PUN
+Its_DPS upper_AJ0 parts_NN2 are_VBB a_AT0 greyish-blue_NN1 ,_PUN turning_VVG paler_AJC blue_NN1-AJ0 lower_AV0 down_AVP to_PRP whitish_AJ0 on_PRP the_AT0 belly_NN1 ._PUN
+All_DT0 the_AT0 fins_NN2 are_VBB dark_AJ0 grey_AJ0-NN1 ._PUN
+The_AT0 swordfish_NN0 is_VBZ usually_AV0 found_VVN in_PRP tropical_AJ0 and_CJC subtropical_AJ0 areas_NN2 ._PUN
+It_PNP is_VBZ not_XX0 common_AJ0 in_PRP European_AJ0 waters_NN2 ,_PUN but_CJC since_CJS it_PNP is_VBZ a_AT0 migrant_NN1 fish_NN0 it_PNP has_VHZ been_VBN seen_VVN ._PUN
+It_PNP is_VBZ usually_AV0 solitary_AJ0 and_CJC occasionally_AV0 found_VVN in_PRP pairs_NN2 ,_PUN except_CJS for_PRP the_AT0 breeding_NN1 season_NN1 when_AVQ schools_NN2 are_VBB formed_VVN ._PUN
+When_CJS it_PNP is_VBZ caught_VVN in_PRP British_AJ0 waters_NN2 ,_PUN the_AT0 event_NN1 does_VDZ not_XX0 go_VVI unnoticed_AJ0 and_CJC there_EX0 have_VHB been_VBN some_DT0 large_AJ0 examples_NN2 recorded_VVD-VVN ._PUN
+In_PRP July_NP0 1893_CRD ,_PUN one_CRD was_VBD caught_VVN as_AV0 far_AV0 north_NN1 as_CJS the_AT0 Firth_NN1 of_PRF Forth_NP0 ._PUN
+It_PNP was_VBD eight_CRD feet_NN2 and_CJC two_CRD inches_NN2 long_AJ0 and_CJC the_AT0 sword_NN1 measured_VVD two_CRD feet_NN2 and_CJC five_CRD inches_NN2 ._PUN
+What_DTQ happens_VVZ to_PRP British_AJ0 examples_NN2 is_VBZ unknown_AJ0 ,_PUN but_CJC it_PNP has_VHZ been_VBN consumed_VVN as_PRP a_AT0 delicacy_NN1 in_PRP Europe_NP0 and_CJC North_NN1 America_NP0 for_PRP centuries_NN2 ._PUN
+The_AT0 swordfish_NN0 is_VBZ also_AV0 known_VVN to_TO0 reach_VVI high_AJ0 speeds_NN2 ._PUN
+These_DT0 have_VHB mostly_AV0 been_VBN calculated_VVN from_PRP the_AT0 speed_NN1 and_CJC force_NN1 needed_VVD-VVN to_TO0 embed_VVI swords_NN2 in_PRP wooden_AJ0 hulled_AJ0 ships_NN2 and_CJC boats_NN2 ;_PUN a_AT0 speed_NN1 of_PRF 57.6_CRD miles_NN2 per_PRP hour_NN1 (_PUL 92.7_CRD kilometres_NN2 per_PRP hour_NN1 )_PUR has_VHZ been_VBN calculated_VVN from_PRP a_AT0 penetration_NN1 of_PRF 22_CRD inches_NN2 ._PUN
+Both_AV0 the_AT0 British_AJ0 Museum_NN1 and_CJC the_AT0 Natural_AJ0 History_NN1 Museum_NN1 have_VHB sections_NN2 of_PRF ship_NN1 's_POS timbers_NN2 with_PRP swords_NN2 embedded_VVN in_PRP them_PNP ._PUN
+There_EX0 is_VBZ no_AT0 doubt_NN1 that_CJT swordfish_NN0 have_VHB succeeded_VVN in_PRP piercing_VVG the_AT0 bottom_AJ0-NN1 planking_NN1 of_PRF boats_NN2 ,_PUN but_CJC if_CJS any_DT0 were_VBD ever_AV0 sunk_VVN in_PRP this_DT0 way_NN1 is_VBZ unknown_AJ0 ._PUN
+Even_AV0 so_AV0 ,_PUN if_CJS you_PNP see_VVB the_AT0 ‘_PUQ sail_NN1 ’_PUQ of_PRF a_AT0 sailfish_NN1 ,_PUN or_CJC the_AT0 ‘_PUQ sword_NN1 ’_PUQ of_PRF a_AT0 swordfish_NN0 coming_VVG straight_AV0-AJ0 towards_PRP you_PNP ,_PUN it_PNP might_VM0 be_VBI wise_AJ0 to_TO0 take_VVI avoiding_VVG-AJ0 action_NN1 ._PUN
+Just_AV0 think_VVB what_DTQ your_DPS insurers_NN2 would_VM0 say_VVI :_PUN ‘_PUQ Sunk_VVN by_PRP a_AT0 swordfish_NN0 ._PUN
+Pull_VVB the_AT0 other_AJ0 one_PNI ._PUN ’_PUQ
+DIVING_AJ0-VVG HOLIDAYS_NN2
+I_PNP Came_VVD ,_PUN I_PNP Saw_VVD ,_PUN I_PNP Conserved_VVD
+Watching_VVG but_CJC not_XX0 touching_VVG-AJ0 ;_PUN Chris_NP0 Howes_NP0 '_POS dream_NN1 becomes_VVZ reality_NN1 at_PRP Australia_NP0 's_POS Great_AJ0 Barrier_NN1 Reef_NN1 ._PUN
+Australia_NP0 's_POS Great_AJ0 Barrier_NN1 Reef_NN1 is_VBZ a_AT0 diver_NN1 's_POS Mecca_NP0 ,_PUN in_PRP everyone_PNI 's_POS dreams_NN2 —_PUN and_CJC if_CJS not_XX0 ,_PUN then_AV0 it_PNP should_VM0 be_VBI ._PUN
+Everything_PNI that_CJT Britain_NP0 is_VBZ ,_PUN the_AT0 reef_NN1 is_VBZ not_XX0 ._PUN
+In_PRP particular_AJ0 ,_PUN it_PNP 's_VBZ not_XX0 cold_AJ0 ,_PUN not_XX0 murky_AJ0 and_CJC not_XX0 cold_AJ0 ,_PUN cold_AJ0-NN1 or_CJC cold_AJ0-NN1 ._PUN
+It_PNP is_VBZ a_AT0 diver_NN1 's_POS paradise_NN1 ,_PUN and_CJC while_CJS it_PNP might_VM0 cost_VVI a_AT0 lot_NN1 of_PRF pennies_NN2 to_TO0 get_VVI there_AV0 ,_PUN good_AJ0 value_NN1 for_PRP money_NN1 can_VM0 be_VBI waiting_VVG —_PUN if_CJS you_PNP know_VVB what_DTQ to_TO0 watch_VVI out_AVP for_PRP ._PUN
+The_AT0 Great_AJ0 Barrier_NN1 Reef_NN1 stretches_VVZ-NN2 from_PRP the_AT0 extreme_AJ0 north-east_NN1 of_PRF Australia_NP0 ,_PUN down_AVP past_PRP Queensland_NP0 's_POS Daintree_NN1 forest_NN1 and_CJC undeveloped_AJ0 coast_NN1 ,_PUN to_TO0 peter_VVI out_AVP some_DT0 2,000_CRD kilometres_NN2 to_PRP the_AT0 south_NN1 ._PUN
+It_PNP is_VBZ not_XX0 a_AT0 continuous_AJ0 ,_PUN unbroken_AJ0 strip_NN1 of_PRF coral_NN1 ,_PUN but_CJC a_AT0 series_NN0 of_PRF some_DT0 3,000_CRD reefs_NN2 ,_PUN interspersed_VVN with_PRP navigable_AJ0 openings_NN2 leading_VVG shorewards_AV0 ._PUN
+The_AT0 overall_AJ0-NN1 effect_NN1 is_VBZ that_CJT the_AT0 main_AJ0 swell_NN1 of_PRF the_AT0 ocean_NN1 is_VBZ broken_VVN-AJ0 ,_PUN leaving_VVG calmer_AJC water_NN1 inside_AV0 ._PUN
+But_CJC this_DT0 is_VBZ no_AT0 lagoon_NN1 ,_PUN and_CJC rough_AJ0 weather_NN1 still_AV0 has_VHZ its_DPS effect_NN1 ._PUN
+After_PRP all_DT0 ,_PUN in_PRP places_NN2 the_AT0 main_AJ0 reef_NN1 is_VBZ 100_CRD kilometres_NN2 or_CJC more_AV0 offshore_AV0 ._PUN
+A_AT0 week_NN1 before_CJS I_PNP was_VBD there_AV0 ,_PUN storms_NN2 lashed_VVD the_AT0 coastline_NN1 —_PUN diving_NN1-VVG would_VM0 have_VHI been_VBN miserable_AJ0 ,_PUN even_AV0 if_CJS possible_AJ0 ._PUN
+The_AT0 week_NN1 after_AV0 ,_PUN there_EX0 was_VBD a_AT0 millpond_NN1 under_PRP a_AT0 vivid_AJ0 blue_AJ0 sky_NN1 —_PUN with_PRP matching_AJ0 hammerhead_NN1 shark_NN1 cruising_VVG the_AT0 northern_AJ0 limits_NN2 ._PUN
+My_DPS few_DT0 days_NN2 were_VBD intermediate_AJ0 —_PUN cloudy_AJ0 ,_PUN rough_AJ0 ,_PUN with_PRP the_AT0 reef_NN1 and_CJC turbid_AJ0 water_NN1 yet_AV0 to_TO0 fully_AV0 recover_VVI ._PUN
+It_PNP happens_VVZ !_PUN
+The_AT0 city_NN1 of_PRF Cairns_NP0 is_VBZ the_AT0 diving_AJ0-NN1 centre_NN1 of_PRF the_AT0 reef_NN1 ._PUN
+It_PNP 's_VBZ a_AT0 small_AJ0 settlement_NN1 ,_PUN crouched_VVN-VVD before_CJS a_AT0 fringing_AJ0 ring_NN1 of_PRF cloud_NN1 covered_VVD-VVN mountains_NN2 ._PUN
+Warm_AJ0 ,_PUN wet_AJ0-VVD Pacific_NP0 air_NN1 rolls_NN2-VVZ landward_AV0 and_CJC dumps_VVZ its_DPS load_NN1 of_PRF water_NN1 here_AV0 ,_PUN maintaining_VVG the_AT0 rain_NN1 forest_NN1 ._PUN
+Folk_NN0 I_PNP met_VVD said_VVD that_CJT Cairns_NP0 was_VBD changing_VVG-AJ0 fast_AV0-AJ0 ._PUN
+That_DT0 is_VBZ believable_AJ0 ;_PUN modern_AJ0 shop_NN1 fronts_NN2 slot_VVB-NN1 between_PRP older_AJC paint-peeling_AJ0-NN1 wood_NN1 ,_PUN newly_AV0 paved_AJ0 shopping_NN1 precincts_NN2 delve_VVB between_PRP buildings_NN2 that_CJT rise_VVB-NN1 above_PRP the_AT0 predominantly_AV0 two_CRD storey_NN1 surroundings_NN2 ._PUN
+Yet_AV0 ,_PUN there_EX0 is_VBZ still_AV0 character_NN1 —_PUN Cairns_NP0 is_VBZ likeable_AJ0 ._PUN
+With_PRP the_AT0 diving_NN1-AJ0 you_PNP 've_VHB got_VVN a_AT0 few_DT0 decisions_NN2 to_TO0 make_VVI —_PUN some_DT0 things_NN2 to_TO0 avoid_VVI ,_PUN some_DT0 personal_AJ0 choice_NN1 —_PUN and_CJC it_PNP 's_VBZ worth_PRP getting_VVG it_PNP right_AJ0 ._PUN
+First_ORD ,_PUN book_VVB-NN1 your_DPS diving_NN1 before_PRP leaving_VVG Britain_NP0 ._PUN
+It_PNP is_VBZ easy_AJ0 to_TO0 walk_VVI through_PRP the_AT0 Cairns_NP0 doorway_NN1 ,_PUN hand_NN1-VVB over_PRP-AVP your_DPS money_NN1 ,_PUN and_CJC go_VVB diving_VVG a_AT0 couple_NN1 of_PRF days_NN2 later_AV0 ._PUN
+But_CJC ,_PUN you_PNP might_VM0 find_VVI the_AT0 trip_NN1 you_PNP want_VVB is_VBZ full_AJ0 ,_PUN and_CJC you_PNP have_VHB to_TO0 go_VVI for_PRP another_DT0 ._PUN
+However_AV0 ,_PUN choosing_VVG locally_AV0 can_VM0 allow_VVI you_PNP to_TO0 top_VVI up_AVP with_PRP extra_AJ0 dives_NN2 ._PUN
+With_PRP time_NN1 at_PRP your_DPS disposal_NN1 ,_PUN this_DT0 is_VBZ easy_AJ0 ._PUN
+The_AT0 choice_NN1 is_VBZ enormous_AJ0 and_CJC there_EX0 are_VBB several_DT0 very_AV0 good_AJ0 training_NN1 schools_NN2 ._PUN
+The_AT0 sheer_AJ0 size_NN1 of_PRF the_AT0 reef_NN1 needs_VVZ consideration_NN1 ,_PUN though_AV0 ._PUN
+If_CJS you_PNP are_VBB land-based_AJ0 ,_PUN diving_VVG by_PRP day_NN1 you_PNP might_VM0 get_VVI two_CRD dives_VVZ in_PRP daylight_NN1 hours_NN2 for_PRP your_DPS money_NN1 ,_PUN both_DT0 of_PRF these_DT0 on_PRP-AVP relatively_AV0 inshore_AJ0 coral_NN1 heads_NN2 ._PUN
+A_AT0 lot_NN1 of_PRF boat_NN1 time_NN1 for_PRP a_AT0 couple_NN1 of_PRF dives_NN2 ,_PUN and_CJC you_PNP 've_VHB also_AV0 got_VVN overnight_AJ0 accommodation_NN1 in_PRP Cairns_NP0 to_TO0 pay_VVI for_PRP ._PUN
+Definitely_AV0 to_TO0 be_VBI avoided_VVN ,_PUN are_VBB the_AT0 general_AJ0-NN1 purpose_NN1 ,_PUN one_CRD day_NN1 ,_PUN cheap_AJ0 trips_NN2 ._PUN
+These_DT0 take_VVB you_PNP ,_PUN plus_PRP snorkellers_NN2 and_CJC sightseers_NN2-VVZ ,_PUN on_PRP a_AT0 very_AV0 limited_AJ0 excursion_NN1 which_DTQ is_VBZ unlikely_AJ0 to_TO0 suit_VVI a_AT0 serious_AJ0 diver_NN1 ._PUN
+You_PNP could_VM0 go_VVI for_PRP a_AT0 live-aboard_AV0 holiday_NN1-VVB ._PUN
+These_DT0 cost_VVB more_AV0 ,_PUN but_CJC you_PNP get_VVB accommodation_NN1 and_CJC food_NN1 in_AVP with_PRP the_AT0 price_NN1 ,_PUN plus_PRP around_AV0 five_CRD dives_NN2 a_AT0 day_NN1 ._PUN
+That_DT0 ,_PUN and_CJC being_VBG taken_VVN further_AV0 up_AVP-PRP the_AT0 reef_NN1 ,_PUN for_PRP three_CRD to_PRP four_CRD days_NN2 ,_PUN is_VBZ the_AT0 real_AJ0 bonus_NN1 —_PUN highly_AV0 recommended_VVN ._PUN
+The_AT0 Takaroa_NP0-NN1 ,_PUN operated_VVN by_PRP Cairns_NP0 Underwater_AJ0 Camera_NN1 Centre_NN1 ,_PUN is_VBZ one_CRD such_DT0 operation_NN1 ._PUN
+The_AT0 boat_NN1 is_VBZ 17_CRD metres_NN2 long_AJ0 ,_PUN and_CJC was_VBD purpose_NN1 built_VVN for_PRP diving_VVG-NN1 in_PRP 1981_CRD ._PUN
+She_PNP uses_VVZ sail_VVB-NN1 to_TO0 supplement_VVI the_AT0 engine_NN1 ,_PUN making_VVG a_AT0 fine_AJ0 sight_NN1 against_PRP an_AT0 azure_NN1 sky_NN1 ._PUN
+Small_AJ0 groups_NN2 of_PRF divers_NN2 ,_PUN no_ITJ more_AV0 than_CJS twelve_CRD ,_PUN are_VBB taken_VVN northwards_AV0 by_PRP the_AT0 Takaroa_NP0-NN1 ,_PUN to_PRP the_AT0 ‘_PUQ famous_AJ0 ’_PUQ Cod_NN0 Hole_NN1 ._PUN
+Only_AV0 a_AT0 few_DT0 charter_NN1-VVB companies_NN2 reach_VVB this_DT0 ,_PUN and_CJC a_AT0 visit_NN1 to_PRP Cod_NN0 Hole_NN1 on_PRP Ribbon_NN1 Reef_NN1 Ten_CRD is_VBZ pushed_VVN heavily_AV0 as_PRP-CJS a_AT0 selling_NN1 point_NN1 of_PRF any_DT0 trip_NN1 ._PUN
+Here_AV0 ,_PUN the_AT0 potato_NN1 cod_NN0 congregate_VVB in_PRP-AVP one_CRD area_NN1 ,_PUN attracted_VVN by_PRP the_AT0 possibility_NN1 of_PRF food_NN1 ._PUN
+Swimming_VVG-NN1 with_PRP these_DT0 giant_AJ0 fish_NN0 (_PUL some_DT0 weigh_VVB-NN1 100_CRD kilogrammes_NN2 )_PUR is_VBZ an_AT0 experience_NN1 to_TO0 remember_VVI ,_PUN as_CJS long_AJ0 as_CJS you_PNP do_VDB n't_XX0 waggle_VVI fingers_NN2 enticingly_AV0 ._PUN
+Food_NN1 is_VBZ food_NN1 ,_PUN after_PRP all_DT0 !_PUN
+From_PRP there_AV0 ,_PUN a_AT0 succession_NN1 of_PRF dives_NN2 fill_VVB you_PNP with_PRP awe_NN1 ._PUN
+The_AT0 water_NN1 is_VBZ normally_AV0 like_PRP crystal_NN1 and_CJC ,_PUN if_CJS you_PNP are_VBB used_VVN to_PRP British_AJ0 waters_NN2 ,_PUN it_PNP is_VBZ strange_AJ0 to_TO0 see_VVI bubbles_NN2 from_PRP other_AJ0 divers_NN2 ,_PUN rising_VVG like_PRP plumes_NN2 some_DT0 40_CRD or_CJC 50_CRD metres_NN2 away_AV0 ._PUN
+The_AT0 reefs_NN2 rise_VVB-NN1 ,_PUN luxurious_AJ0 ,_PUN from_PRP the_AT0 deeper_AJC sandy_AJ0 bed_NN1 where_CJS-AVQ manta_NN1 and_CJC white_NN1-AJ0 tipped_VVD-VVN shark_NN1 roam_NN1-VVB ._PUN
+You_PNP would_VM0 be_VBI unlucky_AJ0 not_XX0 to_TO0 see_VVI shark_NN1 ,_PUN but_CJC these_DT0 are_VBB no_AT0 problem_NN1 if_CJS you_PNP do_VDB n't_XX0 disturb_VVI them_PNP ._PUN
+You_PNP have_VHB the_AT0 choice_NN1 ;_PUN dive_VVB-NN1 deep_AV0-AJ0 in_PRP search_NN1 of_PRF these_DT0 creatures_NN2 ,_PUN or_CJC shallow_AJ0 (_PUL and_CJC longer_AV0 )_PUR in_PRP the_AT0 dappled_AJ0 sunlight_NN1 with_PRP the_AT0 corals_NN2 and_CJC fish_NN0 ._PUN
+You_PNP only_AV0 feel_VVB the_AT0 surge_NN1 and_CJC turbulence_NN1 of_PRF the_AT0 ocean_NN1 in_AVP-PRP about_PRP the_AT0 top_AJ0 metre_NN1 ,_PUN so_CJS you_PNP can_VM0 stay_VVI with_PRP the_AT0 life_NN1 and_CJC sunshine_NN1 with_PRP ease_NN1 ._PUN
+There_EX0 are_VBB over_AV0 1,500_CRD species_NN0 of_PRF fish_NN0 here_AV0 ,_PUN and_CJC what_DTQ must_VM0 be_VBI many_DT0 thousands_CRD of_PRF invertebrates_NN2 ._PUN
+These_DT0 are_VBB part_NN1 of_PRF the_AT0 fascination_NN1 of_PRF the_AT0 reef_NN1 ;_PUN the_AT0 sunlit_AJ0 upper_AJ0 portions_NN2 are_VBB rich_AJ0 in_PRP life_NN1 ._PUN
+Colours_NN2 are_VBB varied_VVN-AJ0 —_PUN there_EX0 are_VBB the_AT0 velvet_NN1 blues_NN2 and_CJC violent_AJ0 reds_NN2 of_PRF sponges_NN2 ,_PUN contrasted_VVD with_PRP the_AT0 whites_NN2 ,_PUN yellows_NN2 and_CJC browns_NN2 of_PRF the_AT0 corals_NN2 ._PUN
+Giant_AJ0-NN1 clams_NN2 ,_PUN green-fringed_AJ0 with_PRP an_AT0 extended_AJ0 mantle_NN1 ,_PUN tuck_VVB down_AVP between_PRP the_AT0 rocks_NN2 ._PUN
+These_DT0 are_VBB the_AT0 shellfish_NN0 of_PRF legend_NN1 ,_PUN capable_AJ0 of_PRF snapping_VVG shut_AJ0-VVN on_PRP a_AT0 diver_NN1 's_POS unwary_AJ0 foot_NN1 ,_PUN holding_VVG on_AVP until_CJS-PRP his_DPS air_NN1 runs_VVZ out_AVP ._PUN
+The_AT0 reality_NN1 is_VBZ a_AT0 slow_AV0 moving_VVG animal_NN1 that_CJT you_PNP have_VHB to_TO0 try_VVI hard_AJ0-AV0 to_TO0 be_VBI trapped_VVN by_PRP-AVP ._PUN
+Elsewhere_AV0 ,_PUN clownfish_NN1 are_VBB numerous_AJ0 ,_PUN hiding_VVG from_PRP your_DPS approach_NN1 in_PRP the_AT0 chlorophyll_NN1 green_NN1 of_PRF carpet_NN1 anemones_NN2 ._PUN
+Daylight_NN1 should_VM0 allow_VVI about_AV0 four_CRD dives_VVZ-NN2 ,_PUN with_PRP a_AT0 fifth_ORD one_PNI at_PRP night_NN1 ,_PUN and_CJC that_DT0-CJT should_VM0 prove_VVI a_AT0 revelation_NN1 ._PUN
+As_CJS standard_AJ0-NN1 ,_PUN every_AT0 diver_NN1 carries_VVZ a_AT0 light_AJ0 stick_NN1 ,_PUN glowing_VVG-AJ0 colours_NN2 moving_VVG around_AVP-PRP a_AT0 pinnacle_NN1 that_CJT-DT0 was_VBD previously_AV0 dived_VVN at_PRP dusk_NN1 ._PUN
+In_PRP the_AT0 torchlight_NN1 ,_PUN banded_AJ0 coral_NN1 shrimps_NN2 and_CJC sun_NN1 coral_NN1 reflect_VVB vivid_AJ0 shades_NN2 of_PRF red_NN1 and_CJC pink_NN1 ,_PUN gorgonians_NN2 sway_VVB-NN1 ,_PUN their_DPS feeding_AJ0-NN1 polyps_NN2 drifting_VVG in_PRP the_AT0 current_NN1 ._PUN
+Fish_NN0 tucked_VVN-VVD into_PRP crevices_NN2 peer_VVB out_AVP ,_PUN while_CJS crabs_NN2 scavenge_VVB over_AVP-PRP the_AT0 reef_NN1 and_CJC probe_VVB-NN1 soft_AJ0 corals_NN2 for_PRP food_NN1 ._PUN
+You_PNP could_VM0 be_VBI an_AT0 intruder_NN1 ,_PUN an_AT0 interloper_NN1 ,_PUN but_CJC with_PRP only_AV0 the_AT0 sound_NN1 of_PRF your_DPS bubbles_NN2 escaping_VVG-AJ0 and_CJC wobbling_VVG upwards_AV0 ,_PUN you_PNP are_VBB merely_AV0 a_AT0 privileged_AJ0 observer_NN1 ,_PUN watching_VVG but_CJC not_XX0 touching_VVG-AJ0 ._PUN
+Which_DTQ is_VBZ how_AVQ it_PNP should_VM0 be_VBI ,_PUN in_PRP this_DT0 alien_NN1-AJ0 but_CJC beckoning_VVG-AJ0 realm_NN1 ._PUN
+Two_CRD divers_NN2 swim_VVB-NN1 through_PRP-AVP a_AT0 natural_AJ0 arch_NN1 at_PRP one_CRD of_PRF the_AT0 reef_NN1 's_POS coral_NN1 heads_NN2 ._PUN
+The_AT0 Takaroa_NP0-NN1 operates_VVZ from_PRP Cairns_NP0 ,_PUN and_CJC allows_VVZ the_AT0 visiting_AJ0 diver_NN1 to_TO0 venture_VVI further_AV0 afield_AV0 ._PUN
+Inside_PRP the_AT0 Cairns_NP0 U/W_NP0 Camera_NN1 Centre_NN1 ._PUN
+The_AT0 centre_NN1 also_AV0 has_VHZ a_AT0 lecture_NN1 theatre_NN1 and_CJC processing_VVG-NN1 lab_NN1 ._PUN
+Stag_NN1 horn_NN1 coral_NN1 ,_PUN acropora_NN1 ,_PUN covers_VVZ vast_AJ0 areas_NN2 of_PRF the_AT0 reef_NN1 with_PRP its_DPS jutting_AJ0-NN1 skeleton_NN1 ._PUN
+Travel_VVB-NN1 Information_NN1
+Conversation_NN1
+The_AT0 Great_AJ0 Barrier_NN1 Reef_NN1 Marine_AJ0 Park_NN1 was_VBD set-up_NN1 following_VVG a_AT0 government_NN1 bill_NN1 in_PRP 1975_CRD ._PUN
+It_PNP is_VBZ the_AT0 largest_AJS protected_AJ0 marine_AJ0 park_NN1 in_PRP the_AT0 world_NN1 ,_PUN and_CJC has_VHZ been_VBN zoned_VVN into_PRP areas_NN2 for_PRP diving_NN1-VVG ,_PUN fishing_NN1 ,_PUN research_NN1-VVB ,_PUN and_CJC total_AJ0 ‘_PUQ no-one_PNI enters_VVZ ’_PUQ sections_NN2 ._PUN
+It_PNP is_VBZ managed_VVN by_PRP a_AT0 division_NN1 of_PRF the_AT0 Queensland_NP0 National_AJ0 Parks_NN2 and_CJC Wildlife_NN1 Service_NN1 ,_PUN who_PNQ can_VM0 be_VBI contacted_VVN at_PRP :_PUN PO_NN1 Box_NN1 2066_CRD ,_PUN Cairns_NP0 ._PUN
+They_PNP product_NN1 five_CRD superb_AJ0 maps_NN2 of_PRF the_AT0 reef_NN1 ,_PUN free_AJ0 if_CJS you_PNP call_VVB at_PRP their_DPS offices_NN2 near_PRP the_AT0 quay_NN1 ._PUN
+For_PRP general_AJ0 tourist_NN1 information_NN1 on_PRP the_AT0 area_NN1 ,_PUN write_VVB to_PRP the_AT0 Queensland_NP0 Tourist_NN1 and_CJC Travel_VVB-NN1 Corporation_NN1 ,_PUN Queensland_NP0 House_NN1 ,_PUN 392_CRD Strand_NP0 ,_PUN London_NP0 WC2R_UNC 0LZ_UNC ._PUN
+Dive_VVB-NN1 Companies_NN2
+Cairns_NP0 Underwater_AJ0 Camera_NN1 Centre_NN1 (_PUL CUCC_NP0 )_PUR is_VBZ geared_VVN up_AVP for_PRP photography_NN1 ,_PUN with_PRP a_AT0 full_AJ0 processing_NN1 lab_NN1 onshore_NN1-AJ0 ._PUN
+You_PNP can_VM0 take_VVI an_AT0 underwater_AJ0 photography_NN1 class_NN1 before_PRP-CJS the_AT0 cruise_NN1 ,_PUN hire_VVB-NN1 cameras_NN2 and_CJC flashguns_NN2-VVZ ._PUN
+The_AT0 promised_AJ0 on-board_AJ0 processing_NN1 did_VDD not_XX0 exist_VVI ,_PUN however_AV0 ._PUN
+CUCC_NP0-NN1 are_VBB at_PRP ;_PUN 21_CRD Lake_NP0 St._NP0 ,_PUN Cairns_NP0 ._PUN
+Tel_NN1 ;_PUN (_PUL 070_CRD )_PUR 518662_CRD ._PUN
+CUCC_NP0-NN1 is_VBZ hoping_VVG to_TO0 use_VVI another_DT0 boat_NN1 in_PRP addition_NN1 to_PRP the_AT0 Takaroa_NP0-NN1 in_PRP 1991_CRD ,_PUN so_AV0 check_VVB-NN1 before_PRP deciding_VVG ._PUN
+The_AT0 Cairns_NP0 Dive_NN1-VVB Centre_NN1 ,_PUN (_PUL 135_CRD Abbott_NP0 St._NP0 ,_PUN Cairns_NP0 ._PUN
+Tel_NN1 ;_PUN (_PUL 070_CRD )_PUR 510294_CRD )_PUR ,_PUN base_VVB-NN1 their_DPS operation_NN1 on_PRP the_AT0 Challenger_NN1 I_ZZ0 ,_PUN a_AT0 sleek_AJ0 ,_PUN spacious_AJ0 34m_NN0 boat_NN1 ._PUN
+Also_AV0 consider_VVB the_AT0 Coralita_NP0-NN1 ,_PUN smaller_AJC in_PRP size_NN1 and_CJC operated_VVN by_PRP Barrier_NN1 Reef_NN1 Cruises_NN2 ,_PUN Box_NN1 6605_CRD ,_PUN Cairns_NP0 ._PUN
+Tel_NN1 ;_PUN (_PUL 070_CRD )_PUR 546398_CRD ._PUN
+Lastly_AV0 ,_PUN there_EX0 is_VBZ the_AT0 Nimrod_NP0-NN1 III_CRD ,_PUN a_AT0 well-designed_AJ0 vessel_NN1 which_DTQ carries_VVZ 16_CRD people_NN0 ._PUN
+Contact_VVB-NN1 ;_PUN Down_NP0 Under_NP0 Dive_NN1-VVB ,_PUN 155_CRD Sheridan_NP0 St._NP0 ,_PUN Cairns_NP0 ._PUN
+Tel_NN1 ;_PUN (_PUL 070_CRD )_PUR 311288_CRD ._PUN
+All_DT0 offer_VVB-NN1 trips_NN2 of_PRF several_DT0 days_NN2 duration_NN1 ;_PUN check_VVB-NN1 carefully_AV0 what_DTQ you_PNP get_VVB ._PUN
+Most_DT0 include_VVB all_DT0 transfers_NN2 from_PRP the_AT0 boat_NN1 and_CJC your_DPS residence_NN1 ,_PUN food_NN1 ,_PUN air_NN1 and_CJC accommodation_NN1 ,_PUN but_CJC may_VM0 charge_VVI extra_AJ0 for_PRP gear_NN1 hire_NN1-VVB ._PUN
+Some_DT0 do_VDB discounts_NN2 for_PRP ‘_PUQ back_NN1 to_PRP back_NN1 ’_PUQ courses_NN2 ,_PUN extending_VVG the_AT0 three_CRD or_CJC four_CRD day_NN1 holiday_NN1-VVB to_PRP a_AT0 week_NN1 ._PUN
+Booking_VVG Your_DPS Holiday_NN1
+You_PNP can_VM0 save_VVI time_NN1 and_CJC effort_NN1 by_PRP using_VVG a_AT0 British_AJ0 agent_NN1 to_PRP book_NN1 for_PRP you_PNP ._PUN
+However_AV0 ,_PUN most_DT0 travel_VVB-NN1 agents_NN2 do_VDB not_XX0 deal_VVI directly_AV0 with_PRP these_DT0 companies_NN2 ._PUN
+The_AT0 alternatives_NN2 are_VBB letter_NN1 ,_PUN fax_VVB-NN1 ,_PUN or_CJC looking_VVG for_PRP the_AT0 British_AJ0 agent_NN1 in_PRP the_AT0 ads_NN2 ._PUN
+Try_VVB Twicker_NP0 's_POS World_NN1 ;_PUN 081_CRD 892_CRD 7606_CRD ,_PUN or_CJC Sure_AJ0 Dive_NN1-VVB Ltd_AJ0 on_PRP 07048_CRD 33098_CRD ._PUN
+They_PNP can_VM0 also_AV0 help_VVI with_PRP booking_VVG-NN1 accommodation_NN1 ._PUN
+Once_AV0 in_PRP Cairns_NP0 ,_PUN if_CJS you_PNP wish_VVB to_TO0 top_VVI up_AVP your_DPS diving_NN1 ,_PUN go_VVB direct_AJ0-AV0 to_PRP the_AT0 dive_NN1 boat_NN1 companies_NN2 ._PUN
+What_DTQ You_PNP Need_VVB
+Consider_VVB travel_NN1-VVB to_PRP and_CJC from_PRP Cairns_NP0 (_PUL book_NN1 flights_NN2 well_AV0 in_PRP advance_NN1 —_PUN few_DT0 go_VVB direct_AJ0-AV0 )_PUR ,_PUN plus_PRP accommodation_NN1 before_PRP-CJS and_CJC after_CJS-PRP the_AT0 diving_NN1 ._PUN
+If_CJS you_PNP are_VBB on_PRP an_AT0 organise-it-yourself_PNX holiday_VVB ,_PUN there_EX0 is_VBZ a_AT0 cheap_AJ0 airport_NN1 shuttle_NN1 bus_NN1 which_DTQ drops_VVZ you_PNP wherever_AVQ you_PNP wish_VVB in_PRP Cairns_NP0 ._PUN
+Hotels_NN2 and_CJC motels_NN2 are_VBB moderately_AV0 priced_VVN ,_PUN but_CJC book_NN1-VVB first_ORD ._PUN
+There_EX0 is_VBZ also_AV0 the_AT0 cheap_AJ0 Backpacker_NN1-NP0 's_POS Inn_NN1 ,_PUN 255_CRD Lake_NP0 St_NP0 ,_PUN Cairns_NP0 ._PUN
+Tel_NN1 ;_PUN (_PUL 070_CRD )_PUR 519166_CRD ._PUN
+There_EX0 are_VBB lock-up_AJ0 facilities_NN2 for_PRP luggage_NN1 not_XX0 required_VVN during_PRP dives_NN2 ,_PUN although_CJS the_AT0 charter_NN1 company_NN1 should_VM0 let_VVI you_PNP leave_VVI things_NN2 at_PRP their_DPS base_NN1 ._PUN
+Most_DT0 instruction_NN1 is_VBZ PADI_NP0 ;_PUN you_PNP can_VM0 take_VVI advanced_AJ0 courses_NN2 on_PRP board_NN1 ,_PUN but_CJC only_AV0 qualified_AJ0 divers_NN2 (_PUL SAA_NP0 ,_PUN BSAC_NP0-NN1 ,_PUN PADI_NP0 ,_PUN etc_AV0 )_PUR can_VM0 take_VVI extended_AJ0 cruises_NN2 ._PUN
+Queensland_NP0 set_VVD stringent_AJ0 rules_NN2 concerning_PRP diving_VVG-NN1 on_PRP the_AT0 reef_NN1 ._PUN
+Prevailing_AJ0 regulations_NN2 mean_VVB you_PNP must_VM0 dive_VVI using_VVG an_AT0 octopus_NN1 and_CJC stab_VVB-NN1 jacket_NN1 (_PUL no_AT0 ABLJs_NP0 allowed_VVD-VVN )_PUR ._PUN
+Hire_VVB-NN1 gear_NN1 does_VDZ not_XX0 normally_AV0 include_VVI personal_AJ0 items_NN2 such_DT0 as_PRP watches_NN2 or_CJC masks_NN2 ._PUN
+Even_AV0 if_CJS hiring_VVG-NN1 ,_PUN think_VVB about_PRP taking_VVG a_AT0 thin_AJ0 wetsuit_NN1 ._PUN
+It_PNP 's_VBZ warm_AJ0 out_AVP there_AV0 ,_PUN but_CJC a_AT0 bit_NN1 of_PRF protection_NN1 is_VBZ useful_AJ0 ;_PUN August_NP0 is_VBZ warm_AJ0 ,_PUN but_CJC it_PNP is_VBZ still_AV0 Australia_NP0 's_POS winter_NN1 ._PUN
+A_AT0 vest_NN1 or_CJC shortie_NN1 is_VBZ fine_AJ0 ._PUN
+Your_DPS own_DT0 boots/socks_NN2 should_VM0 help_VVI avoid_VVI taking_VVG the_AT0 skin_NN1 off_PRP-AVP your_DPS feet_NN2 with_PRP hired_AJ0 fins_NN2 ._PUN
+Your_DPS log_NN1 book_NN1 and_CJC C_ZZ0 card_NN1 (_PUL whatever_DTQ school_NN1 you_PNP follow_VVB )_PUR will_VM0 be_VBI needed_VVN ._PUN
+Insurance_NN1 is_VBZ a_AT0 must_NN1 ._PUN
+‘_PUQ Normal_AJ0 ’_PUQ cover_NN1 wo_VM0 n't_XX0 when_AVQ-CJS it_PNP comes_VVZ to_PRP diving_NN1-VVG !_PUN
+Photography_NN1
+Power_NN1-VVB supplies_NN2 accept_VVB British_AJ0 220/240v_UNC battery_NN1 charging_NN1-VVG units_NN2 ,_PUN but_CJC your_DPS mains_NN1 plug_NN1 wo_VM0 n't_XX0 fit_VVI ._PUN
+It_PNP is_VBZ cheaper_AJC to_TO0 purchase_VVI a_AT0 plug_NN1 in_PRP Cairns_NP0 rather_AV0 than_CJS buy_VVI a_AT0 multi_AJ0 adaptor_NN1 ._PUN
+You_PNP do_VDB n't_XX0 have_VHI long_AV0-AJ0 between_PRP dives_NN2 ,_PUN so_AV0 take_VVB spare_AJ0 batteries_NN2 ._PUN
+Watch_VVB out_AVP for_PRP smaller_AJC compact_AJ0 cameras_NN2 ._PUN
+Some_DT0 fixed_AJ0 lens_NN1 cameras_NN2 have_VHB a_AT0 maximum_NN1-AJ0 and_CJC minimum_AJ0 focus_NN1 ,_PUN and_CJC might_VM0 restrict_VVI the_AT0 maximum_AJ0-NN1 depth_NN1 you_PNP can_VM0 dive_VVI to_PRP ._PUN
+Reckon_VVB on_PRP-AVP using_VVG a_AT0 36_CRD frame_NN1-VVB film_NN1 per_PRP dive_NN1 ._PUN
+Medium_AJ0 speed_NN1 ,_PUN 100ASA_UNC is_VBZ fine_AJ0 ._PUN

@@ -1,0 +1,457 @@
+IFSCC_NP0-NN1 Benefactors_NN2
+The_AT0 current_AJ0 list_NN1 of_PRF benefactors_NN2 ,_PUN to_PRP whom_PNQ we_PNP offer_VVB our_DPS profound_AJ0 thanks_NN2 for_PRP their_DPS continuing_AJ0 support_NN1 of_PRF the_AT0 IFSCC_NN1-NP0 ,_PUN are_VBB shown_VVN below_AV0 :_PUN
+The_AT0 following_AJ0 companies_NN2 also_AV0 make_VVB a_AT0 substantial_AJ0 contribution_NN1 to_PRP the_AT0 IFSCC_NN1 in_PRP supporting_AJ0-VVG members_NN2 of_PRF the_AT0 Praesidium_NN1 ,_PUN and_CJC our_DPS grateful_AJ0 thanks_NN2 therefore_AV0 also_AV0 go_VVB to_PRP :_PUN
+GENERAL_AJ0 PREFACE_NN1 TO_PRP THE_AT0 SERIES_NN0
+There_EX0 are_VBB many_DT0 excellent_AJ0 ,_PUN authoritative_AJ0 text_NN1 books_NN2 covering_VVG the_AT0 differing_AJ0 disciplines_NN2 which_DTQ make_VVB up_AVP Cosmetic_AJ0 Science_NN1 ._PUN
+However_AV0 ,_PUN certain_AJ0 topics_NN2 cut_VVN across_PRP these_DT0 various_AJ0 disciplines_NN2 and_CJC frequently_AV0 it_PNP is_VBZ necessary_AJ0 to_TO0 cover_VVI them_PNP extensively_AV0 to_TO0 provide_VVI even_AV0 an_AT0 appreciation_NN1 of_PRF the_AT0 topic_NN1 ._PUN
+Monographs_NN2 already_AV0 published_VVD-VVN :_PUN
+IFSCC_NP0-NN1 Monograph_NN1 Number_NN1 1_CRD Principles_NN2 of_PRF Product_NN1 Evaluation_NN1 :_PUN Objective_AJ0 Sensory_AJ0 Methods_NN2
+FOREWORD_NN1
+This_DT0 monograph_NN1 deals_VVZ-NN2 with_PRP the_AT0 practical_AJ0-NN1 rather_AV0 than_CJS the_AT0 theoretical_AJ0 aspects_NN2 of_PRF stability_NN1 tests_NN2-VVZ on_PRP cosmetic_AJ0 products_NN2 ._PUN
+It_PNP is_VBZ intended_VVN to_TO0 provide_VVI guidance_NN1 for_PRP the_AT0 chemist_NN1 or_CJC technician_NN1 in_PRP the_AT0 laboratory_NN1 ._PUN
+It_PNP considers_VVZ the_AT0 objectives_NN2 of_PRF stability_NN1 tests_NN2 which_DTQ are_VBB by_PRP no_PRP means_NN0 the_AT0 same_DT0 in_PRP all_DT0 instances_NN2 ,_PUN the_AT0 stages_NN2 of_PRF development_NN1 of_PRF a_AT0 product_NN1 at_PRP which_DTQ stability_NN1 should_VM0 be_VBI assessed_VVN ,_PUN the_AT0 test_NN1 procedures_NN2 and_CJC the_AT0 interpretation_NN1 of_PRF results_NN2 ._PUN
+It_PNP particularly_AV0 recommends_VVZ that_CJT the_AT0 approach_NN1 of_PRF applying_VVG a_AT0 standard_AJ0 battery_NN1 of_PRF tests_NN2 in_PRP every_AT0 case_NN1 and_CJC in_PRP every_AT0 situation_NN1 be_VBI avoided_VVN ._PUN
+Clear_AJ0 identification_NN1 of_PRF the_AT0 precise_AJ0 objectives_NN2 of_PRF each_DT0 test_NN1 and_CJC the_AT0 thoughtful_AJ0 planning_NN1 of_PRF every_AT0 individual_AJ0 test_NN1 can_VM0 achieve_VVI major_AJ0 economies_NN2 in_PRP time_NN1 and_CJC effort_NN1 ._PUN
+I._NP0
+General_AJ0 Introduction_NN1 to_PRP Stability_NN1 Testing_NN1
+(_PUL i_CRD )_PUR
+Definition_NN1 of_PRF Shelf-Life_NP0 1_CRD
+(_PUL ii_CRD )_PUR
+Release_VVB-NN1 and_CJC Check_VVB-NN1 Specifications_NN2 1_CRD
+(_PUL iii_CRD )_PUR
+Product_NN1 Stability_NN1 and_CJC Product-Container_NP0 Compatibility_NN1 3_CRD
+II_CRD ._PUN
+Objectives_NN2 of_PRF Stability_NN1 Testing_NN1-VVG 5_CRD
+III_CRD ._PUN
+Principles_NN2 of_PRF Stability_NN1 Testing_NN1
+(_PUL a_ZZ0 )_PUR
+Elevated_AJ0 Temperatures_NN2 6_CRD
+(_PUL b_ZZ0 )_PUR
+Elevated_AJ0 Humidities_NN2 6_CRD
+(_PUL c_ZZ0 )_PUR
+Cycling_VVG-NN1 Tests_NN2-VVZ 6_CRD
+(_PUL d_ZZ0 )_PUR
+Freeze/Thaw_VVB-NN1 Tests_NN2 7_CRD
+(_PUL e_ZZ0 )_PUR
+Exposure_NN1 to_PRP Light_NN1-AJ0 7_CRD
+(_PUL f_ZZ0 )_PUR
+Mechanical_AJ0 Tests_NN2 7_CRD
+IV_CRD ._PUN
+Test_VVB-NN1 Conditions_NN2
+(_PUL i_CRD )_PUR
+Temperature_NN1 and_CJC Humidity_NN1 Tests_NN2-VVZ 8_CRD
+(_PUL a_ZZ0 )_PUR
+Standard_AJ0 Test_NN1 Conditions_NN2 8_CRD
+(_PUL b_ZZ0 )_PUR
+Non-Standard_AJ0 Thermal_AJ0 Test_NN1 Conditions_NN2 8_CRD
+(_PUL c_ZZ0 )_PUR
+Specific_AJ0 Test_NN1 Conditions_NN2 8_CRD
+(_PUL ii_CRD )_PUR
+Cycling_VVG-NN1 Tests_NN2-VVZ 9_CRD
+(_PUL iii_CRD )_PUR
+Freeze/Thaw_VVB-NN1 Tests_NN2 10_CRD
+(_PUL iv_CRD )_PUR
+Exposure_NN1 to_PRP Light_NN1-AJ0 10_CRD
+(_PUL v_CRD )_PUR
+Mechanical_AJ0 Tests_NN2 11_CRD
+V._NN0
+Selection_NN1 of_PRF Samples_NN2
+(_PUL i_CRD )_PUR
+Formulation_NN1 Samples_NN2-VVZ 12_CRD
+(_PUL ii_CRD )_PUR
+Pilot_NN1-VVB Plant_NN1-VVB Samples_NN2-VVZ 12_CRD
+(_PUL iii_CRD )_PUR
+Production_NN1 Batch_NN1 Samples_NN2-VVZ 12_CRD
+(_PUL iv_CRD )_PUR
+Regular_AJ0 Production_NN1 Samples_NN2-VVZ 12_CRD
+VI_CRD ._PUN
+Examination_NN1 of_PRF Samples_NN2
+(_PUL i_CRD )_PUR
+Examination_NN1 Schedules_NN2-VVZ 14_CRD
+(_PUL ii_CRD )_PUR
+Use_NN1-VVB of_PRF Control_NN1 Samples_NN2-VVZ 15_CRD
+(_PUL iii_CRD )_PUR
+Examination_NN1 Criteria_NN2 16_CRD
+(_PUL a_ZZ0 )_PUR
+Product_NN1 16_CRD
+(_PUL b_ZZ0 )_PUR
+Pack_VVB-NN1 17_CRD
+(_PUL iv_CRD )_PUR
+Duration_NN1 of_PRF Tests_NN2 18_CRD
+(_PUL v_CRD )_PUR
+Recording_NN1 of_PRF Results_NN2 18_CRD
+(_PUL vi_CRD )_PUR
+Interpretation_NN1 of_PRF Data_NN0 18_CRD
+(_PUL a_ZZ0 )_PUR
+Product_NN1 Stability_NN1 19_CRD
+(_PUL b_ZZ0 )_PUR
+Product-Container_AJ0 Compatibility_NN1 20_CRD
+VII_CRD ._PUN
+Shelf-Life_NN1 of_PRF Product_NN1 in_PRP Sales_NN0 Pack_VVB-NN1 21_CRD
+VIII_CRD ._PUN
+Conclusions_NN2 23_CRD
+I._NP0 General_AJ0-NN1 Introduction_NN1 to_PRP Stability_NN1 Testing_NN1
+(_PUL i_CRD )_PUR Definition_NN1 of_PRF Shelf-Life_NP0
+The_AT0 general_AJ0-NN1 objective_NN1 of_PRF a_AT0 stability_NN1 test_NN1 is_VBZ to_TO0 determine_VVI whether_CJS a_AT0 given_AJ0 product_NN1 in_PRP the_AT0 container_NN1 in_PRP which_DTQ it_PNP is_VBZ to_TO0 be_VBI marketed_VVN has_VHZ an_AT0 adequate_AJ0 shelf-life_NN1 under_PRP the_AT0 conditions_NN2 of_PRF the_AT0 market_NN1 in_PRP which_DTQ it_PNP is_VBZ to_TO0 be_VBI sold_VVN ._PUN
+The_AT0 term_NN1 ‘_PUQ shelf-life_NN1 ’_PUQ merits_VVZ-NN2 closer_AJC consideration_NN1 and_CJC requires_VVZ clear_AJ0 definition_NN1 ._PUN
+In_PRP the_AT0 most_AV0 general_AJ0 sense_NN1 ,_PUN the_AT0 shelf-life_NN1 of_PRF a_AT0 product_NN1 is_VBZ that_DT0-CJT period_NN1 of_PRF time_NN1 between_PRP its_DPS date_NN1 of_PRF manufacture_NN1 and_CJC the_AT0 date_NN1 on_PRP which_DTQ it_PNP becomes_VVZ no_AV0 longer_AV0 acceptable_AJ0 for_PRP whatever_DTQ reason_NN1 ._PUN
+For_PRP practical_AJ0 purposes_NN2 a_AT0 definition_NN1 more_AV0 precise_AJ0 than_CJS this_DT0 is_VBZ required_VVN ._PUN
+In_PRP this_DT0 ,_PUN legislative_AJ0 controls_NN2 on_PRP cosmetics_NN2 give_VVB little_DT0 help_NN1-VVB ._PUN
+For_PRP example_NN1 ,_PUN European_AJ0 Community_NN1 legislation_NN1 on_PRP cosmetics_NN2 requires_VVZ that_CJT products_NN2 with_PRP a_AT0 stability_NN1 of_PRF less_AV0 than_CJS three_CRD years_NN2 be_VBI labelled_VVN with_PRP an_AT0 expiry_NN1 date_NN1 but_CJC it_PNP does_VDZ not_XX0 elaborate_VVI on_PRP-AVP this_DT0 ._PUN
+A_AT0 practical_AJ0 definition_NN1 of_PRF shelf-life_NN1 may_VM0 be_VBI :_PUN ‘_PUQ that_DT0 period_NN1 of_PRF time_NN1 during_PRP which_DTQ a_AT0 product_NN1 remains_VVZ in_PRP compliance_NN1 with_PRP its_DPS specification_NN1 when_CJS stored_VVN under_PRP the_AT0 conditions_NN2 of_PRF the_AT0 market_NN1 ’_PUQ ._PUN
+From_PRP this_DT0 follows_VVZ the_AT0 question_NN1 of_PRF specifications_NN2 ._PUN
+Every_AT0 product_NN1 undergoes_VVZ change_NN1-VVB with_PRP the_AT0 passage_NN1 of_PRF time_NN1 and_CJC sooner_AV0 or_CJC later_AV0 becomes_VVZ unsatisfactory_AJ0 ,_PUN by_PRP which_DTQ is_VBZ meant_VVN in_PRP this_DT0 context_NN1 that_CJT it_PNP no_AV0 longer_AV0 conforms_VVZ to_PRP its_DPS specification_NN1 ._PUN
+(_PUL ii_CRD )_PUR Release_VVB-NN1 and_CJC Check_VVB-NN1 Specifications_NN2
+If_CJS a_AT0 batch_NN1 of_PRF a_AT0 product_NN1 is_VBZ close_AJ0 to_PRP the_AT0 specification_NN1 limit_NN1-VVB in_PRP respect_NN1 of_PRF any_DT0 parameter_NN1 at_PRP the_AT0 time_NN1 of_PRF manufacture_NN1 then_AV0 even_AV0 a_AT0 slight_AJ0 change_NN1 may_VM0 mean_VVI that_CJT it_PNP no_AV0 longer_AV0 complies_VVZ with_PRP its_DPS specification_NN1 ,_PUN so_AV0 that_CJT its_DPS effective_AJ0 shelf-life_NN1 is_VBZ very_AV0 short_AJ0 ._PUN
+For_PRP this_DT0 reason_NN1 it_PNP is_VBZ desirable_AJ0 to_TO0 have_VHI two_CRD specifications_NN2 :_PUN
+the_AT0 release_NN1 specification_NN1 with_PRP which_DTQ a_AT0 product_NN1 must_VM0 comply_VVI at_PRP the_AT0 time_NN1 of_PRF manufacture_NN1 ;_PUN
+the_AT0 check_NN1 specification_NN1 or_CJC shelf-life_AJ0 specification_NN1 or_CJC product_NN1 life_NN1 specification_NN1 with_PRP which_DTQ the_AT0 product_NN1 must_VM0 comply_VVI throughout_PRP its_DPS shelf-life_NN1 ._PUN
+The_AT0 latter_DT0 specification_NN1 defines_VVZ a_AT0 satisfactory_AJ0 product_NN1 ;_PUN it_PNP is_VBZ only_AV0 when_AVQ the_AT0 product_NN1 has_VHZ undergone_VVN change_NN1-VVB to_PRP the_AT0 extent_NN1 that_CJT it_PNP no_AV0 longer_AV0 complies_VVZ fully_AV0 with_PRP the_AT0 check_NN1 or_CJC shelf-life_AJ0 specification_NN1 that_CJT it_PNP has_VHZ reached_VVN the_AT0 end_NN1 of_PRF its_DPS shelf-life_NN1 ._PUN
+In_PRP order_NN1 that_CJT the_AT0 shelf-life_NN1 shall_VM0 be_VBI sufficiently_AV0 long_AJ0 it_PNP is_VBZ necessary_AJ0 that_CJT at_PRP the_AT0 time_NN1 of_PRF manufacture_NN1 ,_PUN the_AT0 product_NN1 shall_VM0 comply_VVI with_PRP a_AT0 specification_NN1 which_DTQ sets_VVZ narrower_AJC limits_NN2 ,_PUN particularly_AV0 for_PRP those_DT0 parameters_NN2 in_PRP respect_NN1 of_PRF which_DTQ the_AT0 product_NN1 is_VBZ least_AV0 stable_AJ0 ._PUN
+The_AT0 shelf-life_NN1 is_VBZ that_DT0-CJT period_NN1 of_PRF time_NN1 during_PRP which_DTQ a_AT0 product_NN1 stored_VVN-VVD under_PRP market_NN1 conditions_NN2 changes_NN2-VVZ from_PRP the_AT0 limit_NN1 of_PRF the_AT0 release_NN1 specifications_NN2 to_PRP the_AT0 limit_NN1 of_PRF the_AT0 check_NN1 specification_NN1 in_PRP respect_NN1 of_PRF its_DPS least_AV0 stable_AJ0 parameter_NN1 ._PUN
+This_DT0 is_VBZ illustrated_VVN diagrammatically_AV0 in_PRP Figure_NN1 1_CRD ._PUN
+In_PRP the_AT0 example_NN1 shown_VVN the_AT0 least_AV0 stable_AJ0 parameter_NN1 has_VHZ a_AT0 release_NN1 specification_NN1 of_PRF ±5_UNC per_UNC cent_UNC of_PRF the_AT0 nominal_AJ0 value_NN1 and_CJC a_AT0 check_NN1 specification_NN1 of_PRF ±10_UNC per_UNC cent_UNC of_PRF the_AT0 nominal_AJ0 value_NN1 ._PUN
+The_AT0 period_NN1 which_DTQ elapses_VVZ until_CJS-PRP a_AT0 product_NN1 at_PRP the_AT0 limit_NN1 of_PRF the_AT0 release_NN1 specification_NN1 at_PRP the_AT0 time_NN1 of_PRF manufacture_NN1 ,_PUN changes_NN2-VVZ until_CJS it_PNP has_VHZ reached_VVN the_AT0 limit_NN1 of_PRF the_AT0 check_NN1 specification_NN1 ,_PUN is_VBZ the_AT0 minimum_AJ0-NN1 shelf-life_NN1 ;_PUN the_AT0 product_NN1 which_DTQ is_VBZ close_AJ0 to_PRP the_AT0 nominal_AJ0 value_NN1 at_PRP the_AT0 time_NN1 of_PRF manufacture_NN1 will_VM0 continue_VVI to_TO0 comply_VVI with_PRP the_AT0 check_NN1 specification_NN1 for_PRP longer_AJC than_CJS this_DT0 ._PUN
+It_PNP should_VM0 be_VBI noted_VVN that_CJT it_PNP is_VBZ not_XX0 always_AV0 the_AT0 lower_AJC limits_NN2 of_PRF the_AT0 specification_NN1 that_CJT are_VBB involved_VVN ;_PUN ingredients_NN2 that_CJT undergo_VVB decomposition_NN1 do_VDB obviously_AV0 fall_VVI but_CJC other_AJ0 parameters_NN2 ,_PUN such_DT0 as_PRP total_AJ0 solids_NN2 content_VVB-NN1 ,_PUN rise_VVB-NN1 as_PRP the_AT0 product_NN1 ages_NN2 ,_PUN if_CJS the_AT0 container_NN1 is_VBZ permeable_AJ0 to_PRP water_NN1 vapour_NN1 ._PUN
+The_AT0 use_NN1 of_PRF release_NN1 and_CJC check_VVB-NN1 specifications_NN2 is_VBZ a_AT0 normal_AJ0 practice_NN1 in_PRP the_AT0 pharmaceutical_AJ0 industry_NN1 ._PUN
+To_PRP those_DT0 in_PRP the_AT0 cosmetic_AJ0 industry_NN1 who_PNQ have_VHB not_XX0 already_AV0 adopted_VVN the_AT0 use_NN1 of_PRF these_DT0 two_CRD specifications_NN2 ,_PUN the_AT0 practice_NN1 is_VBZ to_TO0 be_VBI commended_VVN ._PUN
+Thus_AV0 the_AT0 check_NN1 specification_NN1 need_VM0 not_XX0 always_AV0 have_VHI both_AV0 its_DPS upper_AJ0 and_CJC its_DPS lower_AJC limits_NN2 different_AJ0 from_PRP the_AT0 release_NN1 specification_NN1 ._PUN
+In_PRP the_AT0 example_NN1 (_PUL Fig._NN1 1_CRD )_PUR the_AT0 release_NN1 specification_NN1 has_VHZ limits_NN2 of_PRF 95–105_CRD per_UNC cent_UNC of_PRF the_AT0 theoretical_AJ0 value_NN1 and_CJC the_AT0 check_NN1 specification_NN1 limits_NN2 of_PRF 90–110_CRD per_UNC cent_UNC of_PRF the_AT0 theoretical_AJ0 value_NN1 ._PUN
+If_CJS ,_PUN however_AV0 ,_PUN these_DT0 were_VBD the_AT0 limits_NN2 for_PRP a_AT0 constituent_NN1 that_CJT underwent_VVD decomposition_NN1 ,_PUN it_PNP would_VM0 be_VBI more_AV0 reasonable_AJ0 that_CJT the_AT0 check_NN1 specification_NN1 limits_NN2 should_VM0 be_VBI 90–105_CRD per_UNC cent_UNC of_PRF the_AT0 theoretical_AJ0 value_NN1 ._PUN
+Conversely_AV0 ,_PUN in_PRP respect_NN1 of_PRF the_AT0 solids_NN2 content_NN1 of_PRF a_AT0 suspension_NN1 in_PRP a_AT0 plastic_NN1 container_NN1 not_XX0 totally_AV0 impermeable_AJ0 to_PRP water_NN1 vapour_NN1 ,_PUN the_AT0 check_NN1 specification_NN1 could_VM0 more_AV0 logically_AV0 be_VBI 95–110_CRD per_UNC cent_UNC ._PUN
+(_PUL iii_CRD )_PUR Product_NN1 Stability_NN1 and_CJC Product-Container_NP0 Compatibility_NN1
+While_CJS shelf-life_NN1 is_VBZ determined_VVN by_PRP the_AT0 stability_NN1 of_PRF the_AT0 product_NN1 ,_PUN it_PNP is_VBZ important_AJ0 not_XX0 to_TO0 lose_VVI sight_NN1 of_PRF the_AT0 fact_NN1 that_CJT stability_NN1 is_VBZ made_VVN up_AVP of_PRF two_CRD distinct_AJ0 components_NN2 ._PUN
+These_DT0 are_VBB
+(_PUL i_CRD )_PUR
+the_AT0 inherent_AJ0 chemical_NN1 and_CJC physical_AJ0 stability_NN1 of_PRF the_AT0 product_NN1 or_CJC ,_PUN more_AV0 correctly_AV0 ,_PUN the_AT0 contents_NN2 of_PRF the_AT0 pack_NN1 (_PUL product_NN1 stability_NN1 )_PUR and_CJC
+(_PUL ii_CRD )_PUR
+possible_AJ0 interactions_NN2 between_PRP the_AT0 product_NN1 (_PUL contents_NN2 )_PUR and_CJC its_DPS immediate_AJ0 container_NN1 (_PUL product-container_AJ0-NN1 compatibility_NN1 )_PUR
+Such_DT0 interactions_NN2 may_VM0 have_VHI adverse_AJ0 effects_NN2 on_PRP-AVP either_AV0 product_NN1 or_CJC container_NN1 or_CJC both_DT0 ._PUN
+The_AT0 terms_NN2 ‘_PUQ product_NN1 stability_NN1 ’_PUQ and_CJC ‘_PUQ product-container_AJ0 compatibility_NN1 ’_PUQ may_VM0 be_VBI defined_VVN as_CJS follows_VVZ :_PUN
+Product_NN1 stability_NN1 is_VBZ the_AT0 stability_NN1 of_PRF the_AT0 product_NN1 stored_VVN-VVD in_PRP-AVP an_AT0 inert_AJ0 ,_PUN impermeable_AJ0 container_NN1 with_PRP which_DTQ it_PNP does_VDZ not_XX0 interact_VVI and_CJC which_DTQ fully_AV0 protects_VVZ it_PNP from_PRP the_AT0 ambient_AJ0-NN1 atmosphere_NN1 ._PUN
+Product-container_AJ0 compatibility_NN1 includes_VVZ all_DT0 possible_AJ0 interactions_NN2 between_PRP product_NN1 and_CJC container_NN1 such_DT0 as_PRP absorption_NN1 of_PRF constituents_NN2 of_PRF the_AT0 product_NN1 by_PRP the_AT0 container_NN1 ,_PUN leaching_VVG-NN1 of_PRF constituents_NN2 of_PRF the_AT0 container_NN1 by_PRP the_AT0 product_NN1 ,_PUN corrosion_NN1 or_CJC other_AJ0 adverse_AJ0 effects_NN2 of_PRF the_AT0 product_NN1 on_PRP the_AT0 container_NN1 and_CJC the_AT0 barrier_NN1 properties_NN2 of_PRF the_AT0 container_NN1 ;_PUN that_DT0 is_VBZ ,_PUN its_DPS effectiveness_NN1 in_PRP protecting_VVG the_AT0 contents_NN2 from_PRP the_AT0 adverse_AJ0 effects_NN2 of_PRF atmospheric_AJ0 oxygen_NN1 and/or_CJC water_NN1 vapour_NN1 and_CJC in_PRP retaining_VVG-AJ0 water_NN1 and_CJC other_AJ0 volatile_AJ0 constituents_NN2 of_PRF the_AT0 product_NN1 ._PUN
+Hence_AV0 ,_PUN while_CJS both_AV0 product_NN1 stability_NN1 and_CJC product-container_AJ0 compatibility_NN1 together_AV0 constitute_VVB the_AT0 total_AJ0 overall_AJ0-NN1 stability_NN1 of_PRF the_AT0 product_NN1 to_TO0 be_VBI marketed_VVN ,_PUN they_PNP are_VBB also_AV0 quite_AV0 distinct_AJ0 and_CJC separate_AJ0 concepts_NN2 ._PUN
+It_PNP is_VBZ suggested_VVN that_CJT recognition_NN1 of_PRF this_DT0 distinction_NN1 is_VBZ fundamental_AJ0 to_PRP the_AT0 efficient_AJ0 and_CJC economical_AJ0 design_NN1 and_CJC execution_NN1 of_PRF stability_NN1 tests_NN2 ._PUN
+Figure_NN1 1_CRD ._PUN
+Release_VVB-NN1 and_CJC check_VVB-NN1 specifications_NN2 as_PRP determinants_NN2 of_PRF shelf-life_NN1-AJ0 ._PUN
+The_AT0 shelf-life_NN1 is_VBZ that_DT0-CJT period_NN1 of_PRF time_NN1 during_PRP which_DTQ the_AT0 value_NN1 of_PRF the_AT0 least_AV0 stable_AJ0 parameter_NN1 changes_NN2-VVZ from_PRP the_AT0 limiting_AJ0 value_NN1 of_PRF the_AT0 release_NN1 specification_NN1 to_PRP the_AT0 limiting_AJ0 value_NN1 of_PRF the_AT0 check_NN1 specification_NN1 ._PUN
+II_CRD ._PUN
+Objectives_NN2 of_PRF Stability_NN1 Testing_NN1
+Fundamental_AJ0 to_PRP the_AT0 proper_AJ0 design_NN1 of_PRF a_AT0 test_NN1 is_VBZ clear_AJ0 definition_NN1 of_PRF the_AT0 objectives_NN2 of_PRF the_AT0 test_NN1 ._PUN
+For_PRP example_NN1 ,_PUN a_AT0 test_NN1 may_VM0 have_VHI one_CRD or_CJC more_DT0 of_PRF the_AT0 following_AJ0 objectives_NN2 :_PUN
+assessment_NN1 of_PRF product_NN1 (_PUL contents_NN2 )_PUR stability_NN1
+assessment_NN1 of_PRF product-container_AJ0 compatibility_NN1
+comparison_NN1 of_PRF the_AT0 stability_NN1 of_PRF a_AT0 product_NN1 made_VVN by_PRP a_AT0 modified_AJ0 method_NN1 with_PRP that_DT0 of_PRF the_AT0 original_AJ0 product_NN1
+comparison_NN1 of_PRF the_AT0 stability_NN1 of_PRF a_AT0 product_NN1 made_VVN-VVD to_PRP a_AT0 modified_AJ0 formula_NN1 with_PRP that_DT0 of_PRF the_AT0 original_AJ0 product_NN1
+comparison_NN1 of_PRF the_AT0 stability_NN1 of_PRF a_AT0 product_NN1 made_VVN-VVD on_PRP new_AJ0 manufacturing_NN1 equipment_NN1 with_PRP that_DT0 of_PRF the_AT0 original_AJ0 product_NN1
+comparison_NN1 of_PRF compatibility_NN1 of_PRF a_AT0 product_NN1 with_PRP a_AT0 new_AJ0 container_NN1 with_PRP that_DT0 with_PRP the_AT0 original_AJ0 container_NN1
+study_NN1 of_PRF the_AT0 effect_NN1 of_PRF new_AJ0 material(s)_NN2 from_PRP a_AT0 new_AJ0 source_NN1 of_PRF supply_NN1 on_PRP the_AT0 stability_NN1 of_PRF the_AT0 product_NN1
+This_DT0 list_NN1 could_VM0 be_VBI extended_VVN ._PUN
+It_PNP is_VBZ suggested_VVN that_CJT the_AT0 specific_AJ0 objectives_NN2 of_PRF any_DT0 given_AJ0 test_NN1 be_VBI clearly_AV0 identified_VVN before_CJS the_AT0 test_NN1 is_VBZ started_VVN ,_PUN since_CJS only_AV0-AJ0 if_CJS the_AT0 objectives_NN2 are_VBB clearly_AV0 defined_VVN can_VM0 the_AT0 test_NN1 be_VBI carried_VVN out_AVP most_AV0 efficiently_AV0 and_CJC with_PRP the_AT0 greatest_AJS economy_NN1 of_PRF time_NN1 and_CJC effort_NN1 ._PUN
+III_CRD ._PUN
+Principles_NN2 of_PRF Stability_NN1 Testing_NN1
+Test_VVB-NN1 procedures_NN2 are_VBB designed_VVN to_TO0 provide_VVI the_AT0 desired_AJ0 information_NN1 in_PRP the_AT0 shortest_AJS possible_AJ0 time_NN1 ._PUN
+To_TO0 achieve_VVI this_DT0 ,_PUN samples_NN2 are_VBB kept_VVN under_PRP conditions_NN2 designed_VVN to_TO0 accelerate_VVI any_DT0 changes_NN2 occurring_VVG at_PRP ‘_PUQ normal_AJ0 ’_PUQ conditions_NN2 ._PUN
+Experience_NN1-VVB shows_VVZ that_CJT the_AT0 greater_AJC the_AT0 degree_NN1 of_PRF acceleration_NN1 that_CJT a_AT0 test_NN1 attempts_NN2-VVZ to_TO0 achieve_VVI ,_PUN i.e._AV0 ,_PUN the_AT0 further_AV0 removed_VVN are_VBB the_AT0 conditions_NN2 of_PRF test_NN1 from_PRP actual_AJ0 market_NN1 conditions_NN2 ,_PUN the_AT0 greater_AJC is_VBZ the_AT0 risk_NN1 of_PRF occurrence_NN1 of_PRF changes_NN2 which_DTQ never_AV0 occur_VVB at_PRP market_NN1 conditions_NN2 ,_PUN i.e._AV0 ,_PUN the_AT0 test_NN1 no_AV0 longer_AV0 merely_AV0 accelerates_VVZ changes_NN2 occurring_VVG under_PRP ‘_PUQ normal_AJ0 ’_PUQ conditions_NN2 ._PUN
+In_PRP order_NN1 to_TO0 bring_VVI about_AVP this_DT0 desired_AJ0-VVD acceleration_NN1 ,_PUN samples_NN2 are_VBB subjected_VVN to_PRP the_AT0 following_AJ0 test_NN1 conditions_NN2 ._PUN
+(_PUL a_ZZ0 )_PUR Elevated_AJ0-VVD Temperatures_NN2
+A_AT0 general_AJ0 approximation_NN1 is_VBZ that_CJT a_AT0 10°C_NN0 rise_NN1-VVB in_PRP temperature_NN1 doubles_VVZ the_AT0 rate_NN1 of_PRF reaction_NN1 ,_PUN but_CJC in_PRP practice_NN1 ,_PUN the_AT0 usefulness_NN1 of_PRF this_DT0 approximation_NN1 is_VBZ limited_VVN by_PRP the_AT0 fact_NN1 that_CJT at_PRP temperatures_NN2 far_AV0 removed_VVN from_PRP ‘_PUQ normal_AJ0 ’_PUQ ,_PUN other_AJ0 changes_NN2 often_AV0 take_VVB place_NN1 which_DTQ never_AV0 occur_VVB at_PRP normal_AJ0 temperatures_NN2 ._PUN
+Nevertheless_AV0 ,_PUN storage_NN1 of_PRF samples_NN2 at_PRP very_AV0 high_AJ0 temperatures_NN2 can_VM0 be_VBI useful_AJ0 ._PUN
+It_PNP can_VM0 be_VBI a_AT0 valuable_AJ0 indicator_NN1 of_PRF stability_NN1 ,_PUN but_CJC not_XX0 of_PRF instability_NN1 ._PUN
+Thus_AV0 ,_PUN a_AT0 product_NN1 that_CJT shows_VVZ good_AJ0 chemical_AJ0-NN1 stability_NN1 at_PRP 70–80°C_UNC is_VBZ certain_AJ0 to_TO0 be_VBI very_AV0 stable_AJ0 (_PUL chemically_AV0 ,_PUN but_CJC not_XX0 necessarily_AV0 physically_AV0 )_PUR at_PRP ‘_PUQ normal_AJ0 ’_PUQ temperatures_NN2 ._PUN
+Suggested_AJ0-VVN test_NN1 storage_NN1 temperatures_NN2 are_VBB discussed_VVN later_AV0 ._PUN
+(_PUL b_ZZ0 )_PUR Elevated_AJ0-VVD Humidities_NN2
+Tests_NN2 at_PRP elevated_AJ0 humidities_NN2 are_VBB normally_AV0 tests_NN2 of_PRF the_AT0 pack_NN1 and_CJC not_XX0 of_PRF the_AT0 product_NN1 ,_PUN i.e._AV0 ,_PUN the_AT0 contents_NN2 ._PUN
+They_PNP serve_VVB either_AV0 to_TO0 show_VVI the_AT0 effect_NN1 ,_PUN if_CJS any_DT0 ,_PUN of_PRF storage_NN1 at_PRP elevated_AJ0 humidities_NN2 on_PRP the_AT0 container_NN1 and/or_CJC as_PRP a_AT0 measure_NN1 of_PRF the_AT0 barrier_NN1 properties_NN2 of_PRF the_AT0 container_NN1 ._PUN
+Products_NN2 may_VM0 be_VBI adversely_AV0 affected_VVN by_PRP exposure_NN1 to_PRP atmospheric_AJ0 humidity_NN1 but_CJC if_CJS this_DT0 happens_VVZ in_PRP the_AT0 product_NN1 in_PRP its_DPS sales_NN0 pack_VVB-NN1 ,_PUN it_PNP indicates_VVZ that_CJT the_AT0 pack_NN1 provides_VVZ inadequate_AJ0 protection_NN1 from_PRP the_AT0 atmosphere_NN1 ._PUN
+Tests_NN2 at_PRP elevated_AJ0 humidities_NN2 are_VBB even_AV0 less_AV0 certain_AJ0 only_AV0 to_TO0 accelerate_VVI changes_NN2 at_PRP ‘_PUQ normal_AJ0 ’_PUQ storage_NN1 conditions_NN2 ,_PUN than_CJS are_VBB tests_NN2 at_PRP elevated_AJ0 temperatures_NN2 ._PUN
+If_CJS the_AT0 hazard_NN1 is_VBZ ingress_NN1 of_PRF water_NN1 vapour_NN1 ,_PUN elevated_AJ0-VVD humidities_NN2 do_VDB ,_PUN within_PRP limits_NN2 ,_PUN accelerate_VVB changes_NN2 ;_PUN if_CJS the_AT0 hazard_NN1 is_VBZ loss_NN1 of_PRF water_NN1 or_CJC other_AJ0 volatile_AJ0 constituents_NN2 ,_PUN elevated_AJ0-VVD humidities_NN2 may_VM0 retard_VVI changes_NN2 occurring_VVG at_PRP ‘_PUQ normal_AJ0 ’_PUQ conditions_NN2 ._PUN
+(_PUL c_ZZ0 )_PUR Cycling_NN1 Tests_NN2
+Tests_NN2 in_PRP which_DTQ the_AT0 temperature_NN1 and/or_CJC humidity_NN1 are_VBB changed_VVN at_PRP regular_AJ0 intervals_NN2 and_CJC which_DTQ ,_PUN therefore_AV0 ,_PUN subject_VVB-NN1 the_AT0 pack_NN1 to_PRP varying_VVG-AJ0 rather_AV0 than_CJS static_AJ0 stresses_NN2 ,_PUN are_VBB sometimes_AV0 more_AV0 severe_AJ0 tests_NN2 than_CJS continuous_AJ0 storage_NN1 at_PRP one_CRD condition_NN1 ._PUN
+They_PNP can_VM0 be_VBI of_PRF particular_AJ0 value_NN1 in_PRP assessing_VVG internal_AJ0 lacquers_NN2 in_PRP aluminium_NN1 tubes_NN2 ._PUN
+(_PUL d_ZZ0 )_PUR Freeze/Thaw_VVB-NN1 Tests_NN2
+Such_DT0 tests_NN2 are_VBB applicable_AJ0 to_PRP :_PUN
+liquid_AJ0 products_NN2 as_PRP a_AT0 measure_NN1 of_PRF liability_NN1 to_TO0 crystallize_VVI or_CJC cloud_VVI ;_PUN
+emulsions_NN2 and_CJC creams_NN2 as_PRP an_AT0 indicator_NN1 of_PRF emulsion_NN1 stability_NN1 ._PUN
+(_PUL e_ZZ0 )_PUR Exposure_NN1 to_PRP Light_NN1
+The_AT0 effects_NN2 of_PRF exposure_NN1 to_TO0 light_VVI are_VBB difficult_AJ0 to_TO0 accelerate_VVI in_PRP the_AT0 laboratory_NN1 ._PUN
+The_AT0 source_NN1 of_PRF illumination_NN1 should_VM0 ideally_AV0 have_VHI the_AT0 same_DT0 spectral_AJ0 distribution_NN1 as_CJS daylight_NN1 ;_PUN most_DT0 artificial_AJ0 light_AJ0-NN1 sources_NN2 do_VDB not_XX0 ,_PUN although_CJS xenon_NN1 discharge_NN1-VVB lamps_NN2 do_VDB ._PUN
+In_PRP practice_NN1 ,_PUN it_PNP is_VBZ useful_AJ0 to_TO0 expose_VVI test_NN1-VVB samples_NN2-VVZ to_PRP daylight_NN1 (_PUL not_XX0 direct_AJ0 sunlight_NN1 )_PUR and_CJC also_AV0 to_TO0 expose_VVI them_PNP continuously_AV0 to_PRP a_AT0 battery_NN1 of_PRF fluorescent_AJ0 tubes_NN2 ._PUN
+Experience_NN1-VVB shows_VVZ that_CJT it_PNP is_VBZ often_AV0 difficult_AJ0 to_TO0 assess_VVI the_AT0 extent_NN1 of_PRF exposure_NN1 to_TO0 light_VVI that_CJT samples_NN2 receive_VVB in_PRP-AVP the_AT0 market_NN1 and_CJC hence_AV0 to_TO0 estimate_VVI the_AT0 degree_NN1 of_PRF exaggeration_NN1 or_CJC acceleration_NN1 that_CJT any_DT0 one_CRD test_NN1 gives_VVZ ._PUN
+Thus_AV0 ,_PUN the_AT0 interpretation_NN1 of_PRF test_NN1 results_NN2 can_VM0 be_VBI difficult_AJ0 ._PUN
+(_PUL f_ZZ0 )_PUR Mechanical_AJ0 Tests_NN2
+Vibration_NN1 tests_NN2 ,_PUN for_PRP example_NN1 ,_PUN may_VM0 be_VBI needed_VVN in_PRP such_DT0 situations_NN2 as_CJS the_AT0 following_AJ0 :_PUN
+to_TO0 determine_VVI whether_CJS classification_NN1 (_PUL demixing_VVG )_PUR of_PRF powders_NN2 or_CJC granular_AJ0 products_NN2 is_VBZ liable_AJ0 to_TO0 occur_VVI ;_PUN
+to_TO0 establish_VVI that_CJT emulsions_NN2 do_VDB not_XX0 break_VVI or_CJC foams_NN2-VVZ collapse_NN1-VVB ._PUN
+IV_CRD ._PUN
+Test_VVB-NN1 Conditions_NN2
+(_PUL i_CRD )_PUR Temperature_NN1 and_CJC Humidity_NN1 Tests_NN2
+(_PUL a_ZZ0 )_PUR Standard_AJ0-NN1 Test_NN1 Conditions_NN2
+The_AT0 following_AJ0 ‘_PUQ standard_AJ0-NN1 ’_PUQ test_NN1-VVB conditions_NN2 are_VBB suggested_VVN :_PUN
+4°C/ambient_UNC humidity_NN1 ._PUN
+This_DT0 is_VBZ mainly_AV0 useful_AJ0 for_PRP control_NN1 purposes_NN2 since_CJS-PRP chemical_NN1-AJ0 (_PUL but_CJC not_XX0 necessarily_AV0 physical_AJ0 )_PUR changes_NN2 are_VBB minimal_AJ0 ._PUN
+20°C_NN0 or_CJC 25°C/ambient_UNC humidity_NN1 ._PUN
+Since_CJS ambient_AJ0 temperature_NN1 and_CJC humidity_NN1 are_VBB subject_AJ0 to_PRP considerable_AJ0 variation_NN1 ,_PUN seasonal_AJ0 and_CJC diurnal_AJ0 and_CJC geographical_AJ0 ,_PUN it_PNP is_VBZ greatly_AV0 preferable_AJ0 to_TO0 store_VVI samples_NN2 at_PRP a_AT0 controlled_AJ0 constant_AJ0 temperature_NN1 (_PUL 20°C_NN0 or_CJC 25°C_NN0 )_PUR rather_AV0 than_CJS ‘_PUQ room_NN1 temperature_NN1 ’_PUQ ._PUN
+If_CJS this_DT0 is_VBZ done_VDN samples_NN2 stored_VVN at_PRP elevated_AJ0 temperatures_NN2 represent_VVB a_AT0 more_AV0 constant_AJ0 degree_NN1 of_PRF acceleration_NN1 and_CJC render_VVB stability_NN1 predictions_NN2 based_VVN on_PRP them_PNP more_AV0 accurate_AJ0 ._PUN
+37°C/ambient_UNC humidity_NN1
+45°C/ambient_UNC humidity_NN1
+37°C/80_UNC per_UNC cent_UNC relative_AJ0-NN1 humidity_NN1
+All_DT0 of_PRF the_AT0 above_AJ0 are_VBB proposed_VVN-AJ0 as_CJS ‘_PUQ standard_AJ0 ’_PUQ conditions_NN2 to_PRP which_DTQ stability_NN1 test_NN1-VVB samples_NN2 should_VM0 normally_AV0 be_VBI exposed_VVN ._PUN
+These_DT0 specific_AJ0 storage_NN1 conditions_NN2 however_AV0 ,_PUN although_CJS commonly_AV0 used_VVN-VVD ,_PUN need_VM0 not_XX0 necessarily_AV0 be_VBI employed_VVN ._PUN
+It_PNP is_VBZ equally_AV0 valid_AJ0 to_TO0 use_VVI ,_PUN for_PRP example_NN1 ,_PUN 20°C_NN0 ,_PUN 30°C_NN0 and_CJC 40°C_NN0 or_CJC 20°C_NN0 ,_PUN 35°C_NN0 and_CJC 50°C_NN0 ._PUN
+It_PNP is_VBZ important_AJ0 that_CJT samples_NN2 be_VBB stored_VVN at_PRP a_AT0 minimum_NN1 of_PRF three_CRD different_AJ0 temperatures_NN2 that_CJT are_VBB spaced_VVN sufficiently_AV0 widely_AV0 from_PRP each_DT0 other_NN1 ._PUN
+80_CRD per_UNC cent_UNC relative_AJ0-NN1 humidity_NN1 is_VBZ recommended_VVN as_PRP the_AT0 maximum_AJ0-NN1 humidity_NN1 to_PRP which_DTQ samples_NN2-VVZ should_VM0 be_VBI exposed_VVN ._PUN
+At_PRP higher_AJC humidities_NN2 ,_PUN consequences_NN2 such_DT0 as_PRP the_AT0 growth_NN1 of_PRF moulds_NN2 occur_VVB ,_PUN which_DTQ very_AV0 rarely_AV0 happens_VVZ even_AV0 in_PRP places_NN2 of_PRF very_AV0 high_AJ0 humidity_NN1 ._PUN
+(_PUL b_ZZ0 )_PUR Non-Standard_AJ0 Thermal_AJ0 Test_NN1 Conditions_NN2
+Storage_NN1 at_PRP 60°C_NN0 ,_PUN 70°C_NN0 ,_PUN or_CJC 80°C_NN0 can_VM0 ,_PUN in_PRP appropriate_AJ0 instances_NN2 ,_PUN provide_VVB convincing_AJ0 evidence_NN1 of_PRF stability_NN1 (_PUL see_VVB above_AV0 )_PUR ._PUN
+Tests_NN2 at_PRP very_AV0 high_AJ0 temperatures_NN2 need_VM0 be_VBI ,_PUN and_CJC should_VM0 be_VBI ,_PUN continued_VVD-VVN for_PRP only_AV0 a_AT0 short_AJ0 period_NN1 ,_PUN i.e._AV0 ,_PUN for_PRP days_NN2 or_CJC a_AT0 few_DT0 weeks_NN2 rather_AV0 than_CJS months_NN2 ._PUN
+(_PUL c_ZZ0 )_PUR Specific_AJ0 Test_NN1 Conditions_NN2
+Storage_NN1 of_PRF samples_NN2 at_PRP the_AT0 ‘_PUQ standard_AJ0-NN1 conditions_NN2 ’_PUQ normally_AV0 gives_VVZ evidence_NN1 on_PRP which_DTQ a_AT0 prediction_NN1 can_VM0 be_VBI made_VVN with_PRP reasonable_AJ0 accuracy_NN1 of_PRF the_AT0 stability/compatibility_NN1 and_CJC shelf-life_NN1 of_PRF the_AT0 product_NN1 in_PRP domestic_AJ0 market_NN1 conditions_NN2 ._PUN
+Where_CJS a_AT0 product_NN1 is_VBZ to_TO0 be_VBI marketed_VVN in_PRP export_NN1 markets_NN2 which_DTQ have_VHB high_AJ0 temperatures_NN2 and/or_CJC high_AJ0 humidities_NN2 ,_PUN or_CJC both_DT0 ,_PUN prediction_NN1 of_PRF shelf-life_NN1 is_VBZ more_AV0 difficult_AJ0 ._PUN
+The_AT0 effects_NN2 of_PRF high_AJ0 temperature_NN1 and_CJC high_AJ0 humidity_NN1 are_VBB often_AV0 interrelated_AJ0-VVN and_CJC while_CJS it_PNP is_VBZ possible_AJ0 to_TO0 accelerate_VVI temperature_NN1 effects_NN2 by_PRP storage_NN1 at_PRP sill_NN1 higher_AJC temperatures_NN2 ,_PUN it_PNP is_VBZ not_XX0 possible_AJ0 to_TO0 do_VDI this_DT0 with_PRP humidities_NN2 that_CJT are_VBB already_AV0 high_AJ0 ._PUN
+For_PRP this_DT0 reason_NN1 it_PNP is_VBZ always_AV0 advisable_AJ0 in_PRP such_DT0 cases_NN2 to_TO0 store_VVI samples_NN2 under_PRP actual_AJ0 market_NN1 conditions_NN2 ._PUN
+Information_NN1 on_PRP climatic_AJ0 conditions_NN2 in_PRP different_AJ0 parts_NN2 of_PRF the_AT0 world_NN1 is_VBZ available_AJ0 in_PRP published_AJ0 data_NN0 ._PUN
+It_PNP is_VBZ recommended_VVN that_CJT samples_NN2 be_VBB stored_VVN at_PRP mean_AJ0 maximum_AJ0-NN1 temperature_NN1 and_CJC mean_VVB maximum_AJ0-NN1 humidity_NN1 appropriate_AJ0 to_PRP the_AT0 market_NN1 concerned_AJ0 ._PUN
+Thus_AV0 ,_PUN when_CJS it_PNP is_VBZ intended_VVN to_TO0 export_VVI a_AT0 product_NN1 to_PRP a_AT0 number_NN1 of_PRF different_AJ0 countries_NN2 it_PNP may_VM0 ,_PUN and_CJC often_AV0 will_VM0 be_VBI ,_PUN necessary_AJ0 to_TO0 carry_VVI out_AVP separate_AJ0 tests_NN2 at_PRP several_DT0 different_AJ0 conditions_NN2 of_PRF temperature_NN1 and_CJC humidity_NN1 ._PUN
+Climatic_AJ0 conditions_NN2 in_PRP all_DT0 the_AT0 intended_AJ0 markets_NN2 should_VM0 be_VBI considered_VVN ._PUN
+It_PNP will_VM0 normally_AV0 be_VBI possible_AJ0 to_TO0 span_VVI all_DT0 of_PRF those_DT0 market_NN1 conditions_NN2 by_PRP the_AT0 proper_AJ0 selection_NN1 of_PRF a_AT0 small_AJ0 number_NN1 of_PRF test_NN1 conditions_NN2 ._PUN
+A_AT0 product_NN1 may_VM0 well_AV0 have_VHI a_AT0 different_AJ0 shelf_NN1 life_NN1 in_PRP different_AJ0 markets_NN2 ;_PUN alternatively_AV0 ,_PUN a_AT0 product_NN1 may_VM0 be_VBI released_VVN for_PRP marketing_NN1-VVG in_PRP certain_AJ0 markets_NN2 but_CJC not_XX0 in_PRP others_NN2 ._PUN
+While_CJS the_AT0 climatic_AJ0 conditions_NN2 in_PRP any_DT0 given_AJ0 market_NN1 can_VM0 readily_AV0 be_VBI found_VVN from_PRP published_AJ0 data_NN0 ,_PUN the_AT0 temperature_NN1 and_CJC humidity_NN1 conditions_NN2 to_PRP which_DTQ a_AT0 product_NN1 may_VM0 be_VBI subjected_VVN during_PRP shipment_NN1 to_PRP that_DT0 market_NN1 are_VBB largely_AV0 unknown_AJ0 ;_PUN they_PNP may_VM0 be_VBI very_AJ0 sever_NN1-VVB and_CJC potentially_AV0 damaging_VVG-AJ0 ._PUN
+The_AT0 temperatures_NN2 in_PRP the_AT0 holds_NN2 of_PRF ships_NN2 in_PRP the_AT0 tropics_NN0 can_VM0 be_VBI very_AV0 high_AJ0 and_CJC goods_NN2 standing_VVG at_PRP the_AT0 dockside_NN1 in_PRP tropical_AJ0 ports_NN2 may_VM0 be_VBI subjected_VVN to_PRP very_AV0 high_AJ0 temperatures_NN2 ._PUN
+Hence_AV0 ,_PUN their_DPS journey_NN1 to_PRP the_AT0 market_NN1 may_VM0 be_VBI more_AV0 damaging_AJ0 than_CJS actual_AJ0 conditions_NN2 in_PRP the_AT0 market_NN1 ._PUN
+It_PNP is_VBZ worthwhile_AJ0 to_TO0 attempt_VVI to_TO0 form_VVI some_DT0 estimate_NN1 of_PRF the_AT0 hazard_NN1 by_PRP means_NN0 of_PRF transport_NN1 tests_NN2-VVZ in_PRP which_DTQ products_NN2 are_VBB shipped_VVN by_PRP the_AT0 route_NN1 in_PRP question_NN1 and_CJC returned_VVN-VVD for_PRP examination_NN1 ._PUN
+If_CJS storage_NN1 is_VBZ at_PRP the_AT0 mean_AJ0 maximum_AJ0-NN1 temperature_NN1 and_CJC humidity_NN1 ,_PUN this_DT0 will_VM0 give_VVI some_DT0 exaggeration_NN1 of_PRF actual_AJ0 market_NN1 conditions_NN2 ,_PUN the_AT0 extent_NN1 of_PRF which_DTQ will_VM0 depend_VVI on_PRP diurnal_AJ0 and_CJC seasonal_AJ0 variations_NN2 occurring_VVG in_PRP the_AT0 market_NN1 in_PRP question_NN1 ._PUN
+(_PUL ii_CRD )_PUR Cycling_NN1 Tests_NN2
+Tests_NN2 under_PRP conditions_NN2 which_DTQ are_VBB periodically_AV0 changed_VVN can_VM0 ,_PUN by_PRP imposing_VVG-AJ0 changing_AJ0 stresses_NN2 on_PRP a_AT0 pack_NN1 ,_PUN reveal_VVB inadequacies_NN2 more_AV0 quickly_AV0 than_CJS can_VM0 storage_NN1 at_PRP a_AT0 constant_AJ0 temperature_NN1 ._PUN
+For_PRP example_NN1 ,_PUN it_PNP may_VM0 be_VBI in_PRP some_DT0 cases_NN2 a_AT0 more_AV0 rigorous_AJ0 test_NN1 to_PRP cycle_NN1 24_CRD hourly_AJ0-AV0 at_PRP 45°C_NN0 and_CJC room_NN1 temperature_NN1 ,_PUN than_CJS to_TO0 store_VVI continuously_AV0 at_PRP 45°C_NN0 ._PUN
+Similarly_AV0 in_PRP tests_NN2 of_PRF water-vapour_AJ0 barrier_NN1 properties_NN2 of_PRF packs_NN2 ,_PUN changing_VVG-AJ0 conditions_NN2 of_PRF temperature_NN1 and_CJC humidity_NN1 sometimes_AV0 reveal_VVB inadequacies_NN2 that_CJT-DT0 continuous_AJ0 storage_NN1 at_PRP one_CRD equilibrium_NN1 condition_NN1 does_VDZ not_XX0 ._PUN
+The_AT0 actual_AJ0 conditions_NN2 between_PRP which_DTQ packs_NN2 are_VBB cycled_VVN will_VM0 depend_VVI on_PRP the_AT0 conditions_NN2 likely_AJ0 to_TO0 be_VBI encountered_VVN in_PRP the_AT0 market_NN1 ._PUN
+Suggested_AJ0-VVN conditions_NN2 for_PRP such_DT0 tests_NN2 are_VBB :_PUN
+37°C/80_UNC per_UNC cent_UNC r.h._NN0 —_PUN R.T./ambient_UNC humidity_NN1 ;_PUN
+mean_VVB maximum_AJ0 temperature/mean_NN1 maximum_NN1-AJ0 humidity_NN1 —_PUN R.T./ambient_UNC humidity_NN1 in_PRP each_DT0 case_NN1 alternating_VVG 24_CRD hourly_AJ0-AV0 ._PUN
+(_PUL iii_CRD )_PUR Freeze/Thaw_VVB-NN1 Tests_NN2
+Freeze/thaw_VVB-NN1 (_PUL minus_PRP 30°C/R.T._UNC )_PUR tests_NN2 should_VM0 be_VBI carried_VVN out_AVP on_PRP all_DT0 solutions_NN2 ,_PUN emulsions_NN2 ,_PUN creams_NN2 and_CJC all_DT0 other_AJ0 liquid_NN1 or_CJC semi-solid_AJ0 products_NN2 ._PUN
+A_AT0 suggested_AJ0 minimum_AJ0-NN1 number_NN1 of_PRF cycles_NN2 is_VBZ six_CRD ._PUN
+These_DT0 tests_NN2 provide_VVB evidence_NN1 of_PRF emulsion_NN1 stability_NN1 ,_PUN tendency_NN1 to_PRP crystallization_NN1 ,_PUN deposition_NN1 or_CJC clouding_VVG-NN1 ,_PUN and_CJC ,_PUN if_CJS these_DT0 happen_VVB ,_PUN whether_CJS they_PNP are_VBB spontaneously_AV0 reversible_AJ0 ._PUN
+Changes_NN2 that_CJT do_VDB not_XX0 revert_VVI ,_PUN e.g._AV0 ,_PUN emulsion_NN1 separation_NN1 ,_PUN do_VDB not_XX0 necessarily_AV0 eliminate_VVI a_AT0 product_NN1 ._PUN
+Control_VVB-NN1 products_NN2 should_VM0 always_AV0 be_VBI used_VVN ._PUN
+(_PUL iv_CRD )_PUR Exposure_NN1 to_PRP Light_NN1
+Light_NN1-VVB can_VM0 bring_VVI about_AVP change_NN1-VVB in_PRP products_NN2 ,_PUN and_CJC products_NN2 that_CJT are_VBB likely_AJ0 to_TO0 be_VBI exposed_VVN to_TO0 light_VVI in_PRP the_AT0 market_NN1 should_VM0 always_AV0 be_VBI tested_VVN by_PRP exposure_NN1 to_TO0 light_VVI ._PUN
+Recommended_AJ0-VVN test_NN1-VVB conditions_NN2 are_VBB :_PUN
+north-facing_AJ0 daylight_NN1 ._PUN
+Exposure_NN1 to_TO0 direct_VVI sunlight_NN1 is_VBZ generally_AV0 to_TO0 be_VBI avoided_VVN since_CJS-PRP products_NN2 are_VBB seldom_AV0 exposed_VVN to_PRP it_PNP ,_PUN and_CJC because_CJS it_PNP can_VM0 quickly_AV0 produce_VVI effects_NN2 that_CJT are_VBB never_AV0 seen_VVN in_PRP practice_NN1 ._PUN
+continuous_AJ0 exposure_NN1 in_PRP a_AT0 light_AJ0 testing_NN1 cabinet_NN1 ._PUN
+Such_DT0 a_AT0 cabinet_NN1 may_VM0 contain_VVI a_AT0 battery_NN1 of_PRF fluorescent_AJ0 tubes_NN2 ,_PUN and_CJC samples_NN2 should_VM0 be_VBI held_VVN about_PRP one_CRD foot_NN1 away_AV0 from_PRP it_PNP ._PUN
+One_CRD tube_NN1 suitable_AJ0 for_PRP this_DT0 purpose_NN1 is_VBZ Polarite-daylight_AJ0 type_NN1 ,_PUN 40w_NN0 (_PUL Thorn-EMI_NP0 )_PUR ._PUN
+The_AT0 tubes_NN2 are_VBB 132_CRD cm_NN0 in_PRP length_NN1 and_CJC a_AT0 battery_NN1 of_PRF 12_CRD such_DT0 tubes_NN2 provides_VVZ suitable_AJ0 illumination_NN1 ._PUN
+A_AT0 problem_NN1 inherent_AJ0 in_PRP tests_NN2 to_TO0 determine_VVI the_AT0 effect_NN1 of_PRF light_NN1-AJ0 on_PRP products_NN2 is_VBZ that_DT0 of_PRF quantifying_VVG the_AT0 extent_NN1 of_PRF the_AT0 exposure_NN1 that_CJT samples_NN2 have_VHB received_VVN ._PUN
+Daylight_NN1 varies_VVZ with_PRP location_NN1 ,_PUN season_NN1 and_CJC weather_NN1 ._PUN
+Artificial_AJ0 light_AJ0-NN1 sources_NN2 age_NN1-VVB and_CJC the_AT0 intensity_NN1 and_CJC composition_NN1 of_PRF the_AT0 light_NN1-AJ0 they_PNP emit_VVB changes_NN2 ._PUN
+This_DT0 difficulty_NN1 may_VM0 be_VBI overcome_VVN ,_PUN at_PRP least_AV0 in_PRP part_NN1 ,_PUN by_PRP storing_VVG control_NN1-VVB samples_NN2 of_PRF similar_AJ0 products_NN2 known_VVN to_TO0 have_VHI satisfactory_AJ0 stability_NN1 under_PRP market_NN1 conditions_NN2 ._PUN
+Test_VVB-NN1 samples_NN2-VVZ that_CJT are_VBB as_CJS-PRP table_NN1 to_TO0 light_VVI as_CJS are_VBB control_NN1-VVB samples_NN2-VVZ in_PRP the_AT0 test_NN1 will_VM0 almost_AV0 certainly_AV0 be_VBI stable_AJ0 to_TO0 light_VVI under_PRP market_NN1 conditions_NN2 ._PUN
+When_CJS the_AT0 test_NN1 samples_NN2 are_VBB less_AV0 stable_AJ0 than_CJS the_AT0 controls_NN2 ,_PUN interpretation_NN1 is_VBZ less_AV0 easy_AJ0 since_CJS such_DT0 samples_NN2 may_VM0 ,_PUN nevertheless_AV0 ,_PUN be_VBI stable_AJ0 under_PRP the_AT0 conditions_NN2 of_PRF the_AT0 market_NN1 ._PUN
+Light_AJ0 exposure_NN1 and_CJC the_AT0 stability_NN1 of_PRF cosmetic_AJ0 products_NN2 to_TO0 light_VVI may_VM0 be_VBI assessed_VVN by_PRP methods_NN2 developed_VVN for_PRP colour_NN1 fastness_NN1 of_PRF textiles_NN2 of_PRF which_DTQ the_AT0 following_AJ0 is_VBZ an_AT0 example_NN1 :_PUN British_AJ0 Standard_NN1 1006_CRD :_PUN 1978_CRD ._PUN
+‘_PUQ Methods_NN2 of_PRF test_NN1 for_PRP colour_NN1 fastness_NN1 of_PRF textiles_NN2 or_CJC leather_NN1 ._PUN ’_PUQ
+In_PRP this_DT0 test_NN1 ,_PUN which_DTQ will_VM0 not_XX0 be_VBI described_VVN in_PRP full_AJ0 ,_PUN quantification_NN1 of_PRF the_AT0 light_NN1 received_VVN by_PRP a_AT0 sample_NN1 is_VBZ achieved_VVN by_PRP means_NN0 of_PRF standardised_AJ0 strips_NN2 of_PRF wool_NN1 cloth_NN1 dyed_VVN-VVD with_PRP different_AJ0 dyes_NN2 which_DTQ differ_VVB in_PRP-AVP their_DPS fastness_NN1 to_TO0 light_VVI ._PUN
+There_EX0 are_VBB eight_CRD such_DT0 standards_NN2 of_PRF which_DTQ No._NN1 2_CRD requires_VVZ twice_AV0 the_AT0 exposure_NN1 to_TO0 fade_VVI to_PRP a_AT0 given_AJ0 extent_NN1 as_PRP No._NN1 1_CRD ,_PUN No._NN1 3_CRD twice_AV0 that_DT0 of_PRF No._NN1 2_CRD and_CJC so_AV0 on_AV0 ._PUN
+While_CJS the_AT0 test_NN1 is_VBZ designed_VVN for_PRP textiles_NN2 ,_PUN it_PNP is_VBZ possible_AJ0 to_TO0 adapt_VVI it_PNP to_PRP cosmetic_AJ0 products_NN2 ._PUN
+In_PRP most_DT0 instances_NN2 ,_PUN however_AV0 ,_PUN it_PNP is_VBZ more_AV0 practicable_AJ0 to_TO0 base_VVI assessments_NN2 on_PRP tests_NN2 carried_VVN out_AVP in_PRP parallel_NN1-AJ0 on_PRP-AVP carefully_AV0 selected_AJ0-VVN control_NN1 products_NN2 ._PUN
+(_PUL v_CRD )_PUR Mechanical_AJ0 Tests_NN2
+Vibration_NN1 tests_NN2-VVZ on_PRP a_AT0 suitable_AJ0 vibrator_NN1 for_PRP a_AT0 period_NN1 of_PRF some_DT0 hours_NN2 should_VM0 be_VBI carried_VVN out_AVP in_PRP appropriate_AJ0 instances_NN2 ._PUN
+It_PNP is_VBZ preferable_AJ0 to_TO0 treat_VVI different_AJ0 samples_NN2 with_PRP different_AJ0 frequencies_NN2 and_CJC amplitudes_NN2 of_PRF vibration_NN1 ._PUN
+Emulsions_NN2 may_VM0 be_VBI centrifuged_VVN as_PRP a_AT0 means_NN0 of_PRF assessing_VVG stability_NN1 ._PUN
+The_AT0 practical_AJ0 considerations_NN2 involved_AJ0 in_PRP the_AT0 storage_NN1 of_PRF samples_NN2 at_PRP a_AT0 number_NN1 of_PRF different_AJ0 conditions_NN2 of_PRF temperature_NN1 and_CJC humidity_NN1 are_VBB related_VVN to_PRP the_AT0 scale_NN1 of_PRF the_AT0 operation_NN1 ._PUN
+In_PRP larger_AJC organisations_NN2 these_DT0 take_VVB the_AT0 form_NN1 of_PRF ‘_PUQ walk-in_NN1-AJ0 ’_PUQ rooms_NN2 maintained_VVN at_PRP specified_AJ0 conditions_NN2 of_PRF temperature_NN1 and_CJC humidity_NN1 ._PUN
+In_PRP smaller_AJC units_NN2 ,_PUN thermostatically_AV0 controlled_VVN-VVD ovens_NN2 or_CJC incubators_NN2 are_VBB more_AV0 practicable_AJ0 ._PUN
+Within_PRP closed_AJ0 chambers_NN2 or_CJC vessels_NN2 a_AT0 given_AJ0 constant_AJ0 humidity_NN1 can_VM0 be_VBI maintained_VVN by_PRP the_AT0 presence_NN1 of_PRF a_AT0 saturated_AJ0 solution_NN1 in_PRP contact_NN1 with_PRP excess_NN1 of_PRF solute_NN1 ._PUN
+Table_NN1-VVB 1_CRD shows_VVZ the_AT0 percentage_NN1 humidities_NN2 attainable_AJ0 by_PRP different_AJ0 solutes_NN2 at_PRP various_AJ0 temperatures_NN2 ._PUN
+V._PRP Selection_NN1 of_PRF Samples_NN2
+(_PUL i_CRD )_PUR Formulation_NN1 Samples_NN2
+It_PNP is_VBZ suggested_VVN that_CJT stability_NN1 testing_NN1 should_VM0 be_VBI a_AT0 continuing_AJ0 process_NN1 involving_VVG samples_NN2 from_PRP each_DT0 stage_NN1 of_PRF the_AT0 development_NN1 of_PRF a_AT0 product_NN1 ._PUN
+It_PNP is_VBZ seldom_AV0 worthwhile_AJ0 or_CJC even_AV0 practicable_AJ0 to_TO0 submit_VVI to_PRP a_AT0 formal_AJ0 test_NN1 programme_NN1 small_AJ0 quantities_NN2 of_PRF products_NN2 produced_VVN by_PRP formulation_NN1 chemists_NN2 in_PRP developing_VVG a_AT0 new_AJ0 formula_NN1 ._PUN
+However_AV0 ,_PUN it_PNP can_VM0 often_AV0 be_VBI very_AV0 useful_AJ0 for_PRP the_AT0 formulation_NN1 chemist_NN1 to_TO0 carry_VVI out_AVP some_DT0 ad_UNC hoc_UNC tests_NN2 on_PRP certain_AJ0 aspects_NN2 of_PRF the_AT0 stability_NN1 of_PRF his/her_DPS formulation_NN1 ._PUN
+A_AT0 few_DT0 samples_NN2 can_VM0 ,_PUN with_PRP advantage_NN1 ,_PUN be_VBI put_VVN on_PRP test_NN1-VVB to_TO0 assess_VVI those_DT0 aspects_NN2 which_DTQ the_AT0 development_NN1 chemist_NN1 recognises_VVZ as_CJS being_VBG the_AT0 most_AV0 likely_AJ0 to_TO0 give_VVI problems_NN2 ._PUN
+Such_DT0 tests_NN2 are_VBB always_AV0 considerably_AV0 ahead_AV0 in_PRP time_NN1 of_PRF tests_NN2 on_PRP pilot_NN1 batches_NN2 ._PUN
+They_PNP can_VM0 give_VVI early_AJ0 warning_NN1 of_PRF stability_NN1 problems_NN2 and_CJC enable_VVB the_AT0 corrective_AJ0-NN1 action_NN1 to_TO0 be_VBI taken_VVN at_PRP an_AT0 early_AJ0 stage_NN1 and_CJC thus_AV0 save_VVB time_NN1 and_CJC development_NN1 resource_NN1-VVB ._PUN
+It_PNP can_VM0 be_VBI advantageous_AJ0 to_TO0 put_VVI each_DT0 formula_NN1 on_PRP a_AT0 stability_NN1 test_NN1-VVB and_CJC to_TO0 leave_VVI earlier_AJC formulae_NN2 on_PRP storage_NN1 when_CJS later_AV0 different_AJ0 formulae_NN2 are_VBB developed_VVN-AJ0 ;_PUN the_AT0 earlier_AJC formula_NN1 may_VM0 eventually_AV0 prove_VVI to_TO0 be_VBI more_AV0 stable_AJ0 than_CJS later_AJC formulae_NN2 ._PUN
+(_PUL ii_CRD )_PUR Pilot_NN1-VVB Plant_NN1-VVB Samples_NN2
+It_PNP is_VBZ suggested_VVN that_CJT samples_NN2-VVZ from_PRP at_PRP least_AV0 two_CRD pilot_NN1-VVB batches_NN2 should_VM0 be_VBI put_VVN on_PRP full_AJ0 formal_AJ0 stability_NN1 test_NN1-VVB ._PUN
+It_PNP is_VBZ desirable_AJ0 ,_PUN as_AV0 far_AV0-AJ0 as_CJS is_VBZ practicable_AJ0 ,_PUN that_CJT the_AT0 different_AJ0 pilot_NN1 batches_NN2 should_VM0 be_VBI made_VVN with_PRP different_AJ0 lots_PNI of_PRF raw_AJ0 materials_NN2 ._PUN
+(_PUL iii_CRD )_PUR Production_NN1 Batch_NN1 Samples_NN2
+While_CJS it_PNP is_VBZ essential_AJ0 to_TO0 study_VVI the_AT0 stability_NN1 of_PRF pilot_NN1 batches_NN2 ,_PUN it_PNP is_VBZ imperative_AJ0 that_CJT the_AT0 stability_NN1 of_PRF production_NN1 scale_NN1 batches_NN2 also_AV0 be_VBI studied_VVN ._PUN
+The_AT0 different_AJ0 scales_NN2 of_PRF manufacture_NN1 can_VM0 give_VVI products_NN2 which_DTQ behave_VVB differently_AV0 on_PRP stability_NN1 tests_NN2 ._PUN
+The_AT0 first_ORD two_CRD production_NN1 batches_NN2 should_VM0 be_VBI put_VVN on_AVP a_AT0 full_AJ0 stability_NN1 test_NN1-VVB programme_NN1 at_PRP elevated_AJ0 temperatures_NN2 and_CJC ,_PUN if_CJS appropriate_AJ0 ,_PUN at_PRP elevated_AJ0 humidities_NN2 ._PUN
+The_AT0 samples_NN2 at_PRP room_NN1 temperature_NN1 are_VBB kept_VVN on_PRP test_NN1 for_PRP the_AT0 projected_AJ0 shelf-life_NN1 of_PRF the_AT0 product_NN1 ._PUN
+(_PUL iv_CRD )_PUR Regular_AJ0 Production_NN1 Samples_NN2
+When_CJS a_AT0 product_NN1 is_VBZ in_PRP regular_AJ0 production_NN1 ,_PUN however_AV0 ,_PUN there_EX0 may_VM0 be_VBI ,_PUN with_PRP the_AT0 passage_NN1 of_PRF time_NN1 ,_PUN unsuspected_AJ0 and_CJC undetected_AJ0 changes_NN2 in_PRP raw_AJ0 materials_NN2 ,_PUN methods_NN2 of_PRF product_NN1 handling_NN1-VVG or_CJC some_DT0 other_AJ0 change_NN1-VVB that_CJT can_VM0 affect_VVI the_AT0 stability_NN1 of_PRF the_AT0 product_NN1 ._PUN
+For_PRP this_DT0 reason_NN1 it_PNP is_VBZ desirable_AJ0 that_CJT there_EX0 should_VM0 be_VBI a_AT0 continuing_AJ0 programme_NN1 of_PRF tests_NN2 of_PRF the_AT0 stability_NN1 of_PRF all_DT0 products_NN2 in_PRP regular_AJ0 production_NN1 ._PUN
+It_PNP is_VBZ highly_AV0 desirable_AJ0 that_CJT from_PRP every_AT0 product_NN1 in_PRP regular_AJ0 production_NN1 ,_PUN samples_NN2 be_VBI withdrawn_VVN periodically_AV0 and_CJC put_VVN-VVD on_PRP-AVP long-term_AJ0 stability_NN1 test_NN1-VVB ._PUN
+In_PRP such_DT0 tests_NN2 samples_NN2 should_VM0 be_VBI stored_VVN only_AV0 at_PRP room_NN1 temperature_NN1 (_PUL or_CJC in_PRP case_NN1 of_PRF samples_NN2 for_PRP export_NN1 markets_NN2 at_PRP the_AT0 conditions_NN2 of_PRF the_AT0 market_NN1 )_PUR ._PUN
+Examinations_NN2 need_VVB to_TO0 be_VBI carried_VVN out_AVP only_AV0 at_PRP infrequent_AJ0 intervals_NN2 and_CJC in_PRP most_DT0 cases_NN2 only_AV0 those_DT0 aspects_NN2 of_PRF the_AT0 product_NN1 or_CJC container_NN1 that_CJT are_VBB known_VVN to_TO0 be_VBI those_DT0 most_AV0 likely_AJ0 to_TO0 undergo_VVI change_NN1 need_VM0 be_VBI examined_VVN ._PUN
+Stability_NN1 tests_NN2-VVZ on_PRP pilot_NN1 batches_NN2 and_CJC on_PRP first_ORD production_NN1 batches_NN2 should_VM0 be_VBI carried_VVN out_AVP not_XX0 only_AV0 in_PRP the_AT0 case_NN1 of_PRF new_AJ0 products_NN2 but_CJC also_AV0 where_CJS there_EX0 has_VHZ been_VBN any_DT0 change_NN1-VVB in_PRP the_AT0 formulation_NN1 of_PRF the_AT0 product_NN1 or_CJC in_PRP the_AT0 source_NN1 of_PRF the_AT0 raw_AJ0 materials_NN2 used_VVN-VVD or_CJC in_PRP the_AT0 equipment_NN1 used_VVN-VVD in_PRP manufacture_NN1 or_CJC filling_NN1-VVG or_CJC in_PRP the_AT0 method_NN1 of_PRF manufacture_NN1 or_CJC filing_NN1-VVG ._PUN
+Tests_NN2 must_VM0 always_AV0 be_VBI carried_VVN out_AVP in_PRP the_AT0 pack_NN1 in_PRP which_DTQ the_AT0 product_NN1 is_VBZ to_TO0 be_VBI marketed_VVN ._PUN
+Such_DT0 tests_NN2 embrace_VVB both_AV0 product_NN1 stability_NN1 and_CJC product-container_AJ0 stability_NN1 ._PUN
+At_PRP the_AT0 same_DT0 time_NN1 the_AT0 stability_NN1 of_PRF the_AT0 product_NN1 must_VM0 also_AV0 be_VBI studied_VVN by_PRP the_AT0 storage_NN1 of_PRF the_AT0 product_NN1 in_PRP inert_AJ0 tightly_AV0 closed_AJ0 containers_NN2 (_PUL see_VVB controls_NN2 below_AV0 )_PUR ._PUN
+Only_AV0 if_CJS this_DT0 is_VBZ done_VDN can_VM0 any_AV0 change_VVI be_VBI attributed_VVN to_PRP product_NN1 instability_NN1 or_CJC product-container_AJ0 incompatibility_NN1 ._PUN
+In_PRP product-container_AJ0 compatibility_NN1 tests_VVZ the_AT0 product_NN1 to_TO0 be_VBI tested_VVN is_VBZ the_AT0 product_NN1 in_PRP the_AT0 immediate_AJ0 container_NN1 in_PRP which_DTQ it_PNP is_VBZ to_TO0 be_VBI marketed_VVN ._PUN
+All_DT0 sizes_NN2 of_PRF the_AT0 pack_NN1 to_TO0 be_VBI marketed_VVN should_VM0 be_VBI included_VVN in_PRP the_AT0 test_NN1 ._PUN
+Before_PRP starting_VVG a_AT0 product-container_AJ0 compatibility_NN1 test_VVB-NN1 it_PNP is_VBZ essential_AJ0 to_TO0 ensure_VVI that_CJT-DT0 complete_VVB detailed_AJ0 specifications_NN2 for_PRP both_AV0 the_AT0 product_NN1 and_CJC the_AT0 primary_AJ0-NN1 container_NN1 concerned_AJ0 have_VHB been_VBN received_VVN ._PUN
+VI_CRD ._PUN
+Examination_NN1 of_PRF Samples_NN2
+(_PUL i_CRD )_PUR Examination_NN1 Schedules_NN2
+The_AT0 first_ORD action_NN1 in_PRP conducting_VVG a_AT0 stability_NN1 test_NN1 must_VM0 be_VBI to_TO0 draw_VVI up_AVP an_AT0 examination_NN1 schedule_NN1 ._PUN
+This_DT0 should_VM0 show_VVI the_AT0 time_NN1 intervals_NN2 at_PRP which_DTQ samples_NN2-VVZ stored_VVN at_PRP different_AJ0 conditions_NN2 will_VM0 be_VBI tested_VVN and_CJC what_DTQ tests_NN2-VVZ will_VM0 be_VBI applied_VVN at_PRP each_DT0 examination_NN1 ._PUN
+A_AT0 possible_AJ0 test_NN1 schedule_NN1 for_PRP an_AT0 imaginary_AJ0 product_NN1 is_VBZ shown_VVN in_PRP Table_NN1 2_CRD ._PUN
+Examinations_NN2 are_VBB most_AV0 frequent_AJ0 in_PRP the_AT0 early_AJ0 part_NN1 of_PRF the_AT0 test_NN1 and_CJC on_PRP the_AT0 samples_NN2 stored_VVN-VVD at_PRP elevated_AJ0 temperatures_NN2 ._PUN
+It_PNP is_VBZ not_XX0 possible_AJ0 to_TO0 prescribe_VVI a_AT0 single_AJ0 examination_NN1 schedule_NN1 which_DTQ is_VBZ appropriate_AJ0 for_PRP all_DT0 products_NN2 and_CJC all_DT0 situations_NN2 ._PUN
+Examination_NN1 schedules_NN2 for_PRP each_DT0 product_NN1 and/or_CJC package_NN1 should_VM0 be_VBI determined_VVN in_PRP the_AT0 light_NN1 of_PRF what_DTQ is_VBZ appropriate_AJ0 in_PRP each_DT0 instance_NN1 ._PUN
+A_AT0 schedule_NN1 of_PRF this_DT0 sort_NN1 enables_VVZ the_AT0 number_NN1 of_PRF individual_AJ0 samples_NN2 required_VVN for_PRP the_AT0 test_NN1 to_TO0 be_VBI calculated_VVN ._PUN
+A_AT0 number_NN1 of_PRF samples_NN2 in_PRP excess_NN1 of_PRF the_AT0 calculated_AJ0 number_NN1 must_VM0 be_VBI put_VVN on_PRP storage_NN1 to_TO0 enable_VVI tests_NN2 to_TO0 be_VBI repeated_VVN when_CJS unexpected_AJ0 results_NN2 are_VBB obtained_VVN ._PUN
+The_AT0 examination_NN1 schedule_NN1 represents_VVZ a_AT0 best_AV0 estimate_VVB-NN1 at_PRP the_AT0 start_NN1 of_PRF the_AT0 test_NN1 ._PUN
+It_PNP must_VM0 not_XX0 be_VBI followed_VVN rigidly_AV0 but_CJC should_VM0 be_VBI modified_VVN in_PRP the_AT0 light_NN1 of_PRF information_NN1 that_CJT becomes_VVZ available_AJ0 as_CJS the_AT0 test_NN1 progresses_VVZ ._PUN
+For_PRP example_NN1 ,_PUN if_CJS the_AT0 product_NN1 proves_VVZ less_AV0 stable_AJ0 than_CJS had_VHD been_VBN anticipated_VVN it_PNP may_VM0 be_VBI necessary_AJ0 to_TO0 shorten_VVI the_AT0 intervals_NN2 between_PRP examinations_NN2 ._PUN
+Conversely_AV0 if_CJS the_AT0 samples_NN2 stored_VVN-VVD at_PRP the_AT0 higher_AJC temperatures_NN2 show_VVB little_DT0 or_CJC no_AT0 change_NN1 ,_PUN it_PNP may_VM0 be_VBI possible_AJ0 to_TO0 reduce_VVI the_AT0 frequency_NN1 of_PRF ,_PUN or_CJC even_AV0 omit_VVB ,_PUN certain_AJ0 of_PRF the_AT0 scheduled_AJ0 examinations_NN2 at_PRP lower_AJC temperatures_NN2 ._PUN
+There_EX0 must_VM0 also_AV0 be_VBI a_AT0 sufficient_AJ0 number_NN1 of_PRF samples_NN2 for_PRP the_AT0 investigation_NN1 of_PRF any_DT0 special_AJ0 problems_NN2 that_CJT may_VM0 arise_VVI ._PUN
+When_CJS samples_NN2 are_VBB removed_VVN for_PRP examination_NN1 ,_PUN the_AT0 remaining_AJ0 product_NN1 in_PRP an_AT0 unopened_AJ0 container_NN1 should_VM0 be_VBI destroyed_VVN and_CJC a_AT0 fresh_AJ0 unopened_AJ0 container_NN1 used_VVN-VVD for_PRP each_DT0 subsequent_AJ0 examination_NN1 ._PUN
+In_PRP the_AT0 case_NN1 of_PRF bulk_NN1 packages_NN2 from_PRP which_DTQ the_AT0 product_NN1 is_VBZ likely_AJ0 to_TO0 be_VBI removed_VVN in_PRP successive_AJ0 quantities_NN2 over_PRP a_AT0 period_NN1 of_PRF time_NN1 ,_PUN separate_AJ0 tests_NN2 should_VM0 be_VBI carried_VVN out_AVP to_TO0 assess_VVI the_AT0 effect_NN1 of_PRF storage_NN1 in_PRP-AVP partly_AV0 filled_VVN-VVD containers_NN2 ._PUN
+These_DT0 are_VBB additional_AJ0 to_PRP the_AT0 above_AJ0 tests_NN2 ._PUN
+When_CJS the_AT0 product_NN1 is_VBZ packed_VVN in_PRP a_AT0 container_NN1 with_PRP a_AT0 screw_NN1 cap_NN1-VVB the_AT0 cap_NN1 should_VM0 always_AV0 be_VBI applied_VVN to_PRP a_AT0 predetermined_AJ0 and_CJC measured_AJ0-VVD torque_NN1 ._PUN
+The_AT0 release_NN1 torque_NN1 should_VM0 be_VBI measured_VVN at_PRP the_AT0 beginning_NN1 of_PRF the_AT0 test_NN1 ,_PUN and_CJC whenever_AVQ a_AT0 container_NN1 is_VBZ opened_VVN throughout_PRP the_AT0 whole_AJ0 period_NN1 of_PRF the_AT0 test_NN1 ._PUN
+(_PUL ii_CRD )_PUR Use_NN1-VVB of_PRF Control_NN1 Samples_NN2
+Wherever_AVQ possible_AJ0 ,_PUN a_AT0 control_NN1 product_NN1 and/or_CJC pack_NN1-VVB should_VM0 always_AV0 be_VBI included_VVN in_PRP every_AT0 test_NN1 ._PUN
+In_PRP stability_NN1 tests_NN2-VVZ on_PRP-AVP completely_AV0 new_AJ0 products_NN2 an_AT0 appropriate_AJ0 control_NN1 product_NN1 may_VM0 not_XX0 always_AV0 be_VBI readily_AV0 available_AJ0 ._PUN
+In_PRP many_DT0 instances_NN2 ,_PUN however_AV0 ,_PUN a_AT0 related_AJ0 or_CJC competitive_AJ0 product_NN1 of_PRF a_AT0 similar_AJ0 type_NN1 which_DTQ is_VBZ known_VVN to_PRP ,_PUN or_CJC can_VM0 be_VBI presumed_VVN to_PRP ,_PUN exhibit_VVB satisfactory_AJ0 stability_NN1 under_PRP market_NN1 conditions_NN2 ,_PUN can_VM0 often_AV0 be_VBI included_VVN and_CJC can_VM0 provide_VVI valuable_AJ0 help_NN1 in_PRP the_AT0 evaluation_NN1 of_PRF the_AT0 test_NN1 data_NN0 ._PUN
+In_PRP tests_NN2 of_PRF products_NN2 in_PRP sales_NN0 packs_NN2 ,_PUN there_EX0 should_VM0 always_AV0 be_VBI included_VVN in_PRP the_AT0 test_NN1 control_NN1-VVB samples_NN2 of_PRF the_AT0 product_NN1 packaged_VVN in_PRP inert_AJ0 impermeable_AJ0 containers_NN2 ._PUN
+Without_PRP such_DT0 controls_VVZ-NN2 it_PNP is_VBZ not_XX0 possible_AJ0 to_TO0 know_VVI with_PRP certainty_NN1 whether_CJS any_DT0 changes_NN2 observed_VVN-VVD in_PRP the_AT0 product_NN1 are_VBB the_AT0 results_NN2 of_PRF incompatibility_NN1 with_PRP ,_PUN or_CJC inadequacy_NN1 of_PRF ,_PUN the_AT0 package_NN1 ,_PUN or_CJC are_VBB due_AJ0 to_PRP the_AT0 inherent_AJ0 instability_NN1 of_PRF the_AT0 product_NN1 ._PUN
+In_PRP tests_NN2 on_PRP products_NN2 made_VVN-VVD to_PRP a_AT0 modified_AJ0 formula_NN1 or_CJC by_PRP a_AT0 modified_AJ0 process_NN1 ,_PUN or_CJC in_PRP tests_NN2 on_PRP new_AJ0 packages_NN2 ,_PUN the_AT0 original_AJ0 product_NN1 or_CJC package_NN1 should_VM0 invariably_AV0 be_VBI used_VVN as_PRP a_AT0 control_NN1 ._PUN
+(_PUL iii_CRD )_PUR Examination_NN1 Criteria_NN2
+(_PUL a_ZZ0 )_PUR Product_NN1
+Many_DT0 of_PRF the_AT0 important_AJ0 properties_NN2 of_PRF products_NN2 ,_PUN and_CJC particularly_AV0 cosmetic_AJ0 products_NN2 ,_PUN are_VBB assessed_VVN subjectively_AV0 ,_PUN e.g._AV0 ,_PUN appearance_NN1 ,_PUN colour_NN1-VVB ,_PUN odour_NN1 ,_PUN taste_NN1-VVB ,_PUN texture_NN1 ,_PUN and_CJC can_VM0 not_XX0 readily_AV0 be_VBI expressed_VVN in_PRP numerical_AJ0 terms_NN2 ._PUN
+Record_NN1-VVB keeping_VVG-NN1 and_CJC the_AT0 evaluation_NN1 of_PRF results_NN2 are_VBB facilitated_VVN if_CJS instead_AV0 of_PRF a_AT0 subjective_AJ0 description_NN1 ,_PUN any_DT0 changes_NN2 are_VBB recorded_VVN in_PRP terms_NN2 of_PRF a_AT0 scale_NN1 such_DT0 as_PRP the_AT0 following_AJ0 :_PUN
+barely_AV0 discernible_AJ0 ;_PUN
+slight_AJ0 ;_PUN
+distinct_AJ0 ;_PUN
+marked_AJ0-VVN ;_PUN
+very_AV0 marked_AJ0 ._PUN
+The_AT0 tests_NN2 applied_VVN-VVD to_PRP stability_NN1 test_NN1-VVB samples_NN2 are_VBB not_XX0 necessarily_AV0 identical_AJ0 with_PRP those_DT0 of_PRF the_AT0 quality_NN1 control_NN1-VVB specification_NN1 ._PUN
+It_PNP is_VBZ appropriate_AJ0 to_TO0 omit_VVI from_PRP the_AT0 examination_NN1 of_PRF stability_NN1 test_NN1-VVB samples_VVZ-NN2 certain_AJ0 tests_NN2 which_DTQ form_VVB a_AT0 necessary_AJ0 part_NN1 of_PRF the_AT0 quality_NN1 control_NN1-VVB specification_NN1 ,_PUN such_DT0 as_PRP identification_NN1 tests_NN2 for_PRP active_AJ0 or_CJC other_AJ0 ingredients_NN2 ._PUN
+More_AV0 often_AV0 it_PNP is_VBZ necessary_AJ0 to_TO0 include_VVI tests_NN2 additional_AJ0 to_PRP those_DT0 of_PRF the_AT0 quality_NN1 control_NN1-VVB specification_NN1 :_PUN examples_NN2 are_VBB tests_NN2 for_PRP specific_AJ0 degradation_NN1 products_NN2 ._PUN
+Where_CJS the_AT0 product_NN1 contains_VVZ an_AT0 active_AJ0 ingredient_NN1 ,_PUN possible_AJ0 mechanisms_NN2 of_PRF degradation_NN1 of_PRF the_AT0 ingredient_NN1 should_VM0 be_VBI considered_VVN and_CJC investigated_VVD-VVN ,_PUN e.g._AV0 decomposition_NN1 of_PRF the_AT0 active_AJ0 ingredient_NN1 or_CJC interaction_NN1 of_PRF the_AT0 active_AJ0 ingredient_NN1 with_PRP other_AJ0 compounds_NN2 present_AJ0 ._PUN
+Analytical_AJ0 methods_NN2 used_VVN-VVD for_PRP the_AT0 determination_NN1 of_PRF ingredients_NN2 should_VM0 be_VBI stability_NN1 indicating_VVG —_PUN i.e._AV0 ,_PUN they_PNP must_VM0 differentiate_VVI between_PRP the_AT0 active_AJ0 ingredient_NN1 and_CJC possible_AJ0 decomposition_NN1 or_CJC degradation_NN1 products_NN2 ._PUN
+Tests_NN2 to_TO0 confirm_VVI that_CJT the_AT0 analytical_AJ0 methods_NN2 used_VVN-VVD in_PRP stability_NN1 testing_NN1 are_VBB in_PRP fact_NN1 stability-indicating_NN1 should_VM0 be_VBI conducted_VVN ._PUN
+All_DT0 analytical_AJ0 methods_NN2 should_VM0 be_VBI validated_VVN in_PRP respect_NN1 of_PRF accuracy_NN1 ,_PUN precision_NN1 ,_PUN linearity_NN1 and_CJC specificity_NN1 ._PUN
+The_AT0 most_AV0 probable_AJ0 effect_NN1 of_PRF exposure_NN1 to_TO0 light_VVI is_VBZ a_AT0 change_NN1 of_PRF colour_NN1 ,_PUN but_CJC this_DT0 is_VBZ not_XX0 necessarily_AV0 the_AT0 only_AJ0 or_CJC even_AV0 the_AT0 most_AV0 important_AJ0 effect_NN1 ._PUN
+Some_DT0 compounds_NN2 are_VBB photo-labile_AJ0 ;_PUN therefore_AV0 ,_PUN samples_VVZ-NN2 that_CJT have_VHB been_VBN exposed_VVN to_TO0 light_VVI should_VM0 be_VBI examined_VVN in_PRP full_AJ0 and_CJC not_XX0 only_AV0 in_PRP terms_NN2 of_PRF their_DPS colour_NN1 ._PUN
+Emulsions_NN2 should_VM0 be_VBI examined_VVN after_PRP storage_NN1 for_PRP droplet_NN1 size_NN1 of_PRF the_AT0 disperse_AJ0 phase_NN1 even_AV0 if_CJS this_DT0 is_VBZ not_XX0 included_VVN in_PRP the_AT0 product_NN1 specification_NN1 ._PUN
+Challenge_VVB-NN1 tests_NN2 should_VM0 always_AV0 be_VBI carried_VVN out_AVP on_PRP stored_AJ0 samples_NN2 before_CJS stability_NN1 clearance_NN1 is_VBZ given_VVN ,_PUN in_PRP order_NN1 to_TO0 ensure_VVI that_CJT the_AT0 product_NN1 continues_VVZ to_TO0 have_VHI an_AT0 effective_AJ0 preservative_AJ0-NN1 system_NN1 ._PUN
+Some_DT0 preservatives_NN2 are_VBB inactivated_VVN by_PRP non-ionic_AJ0 surface-active_AJ0 agents_NN2 ,_PUN others_NN2 tend_VVB to_TO0 be_VBI absorbed_VVN by_PRP plastic_NN1 containers_NN2 and_CJC so_AV0 removed_VVN from_PRP the_AT0 produce_NN1 ,_PUN while_CJS others_NN2 may_VM0 undergo_VVI degradation_NN1 ._PUN
+Challenge_VVB-NN1 tests_NN2 for_PRP the_AT0 assessment_NN1 of_PRF the_AT0 antimicrobial_AJ0 efficacy_NN1 of_PRF preservative_AJ0 systems_NN2 in_PRP pharmaceutical_AJ0 products_NN2 are_VBB described_VVN in_PRP both_AV0 the_AT0 United_NP0 States_NP0 Pharmacopeia_NP0 XXII_CRD and_CJC the_AT0 British_AJ0 Pharmacopoeia_NP0-NN1 1988_CRD ._PUN
+While_CJS the_AT0 tests_NN2 are_VBB not_XX0 identical_AJ0 ,_PUN both_DT0 challenge_VVB the_AT0 preservative_AJ0-NN1 system_NN1 with_PRP the_AT0 following_AJ0 organisms_NN2 :_PUN together_AV0 with_PRP organisms_NN2 to_PRP which_DTQ the_AT0 product_NN1 is_VBZ likely_AJ0 to_TO0 be_VBI exposed_VVN during_PRP manufacture_NN1 and_CJC use_NN1-VVB ._PUN
+The_AT0 same_DT0 test_NN1 and_CJC standards_NN2 of_PRF antimicrobial_AJ0 efficacy_NN1 can_VM0 also_AV0 be_VBI applied_VVN to_PRP cosmetic_AJ0 products_NN2 ._PUN
+Products_NN2 must_VM0 continue_VVI to_TO0 show_VVI adequate_AJ0 antimicrobial_AJ0 efficacy_NN1 at_PRP the_AT0 end_NN1 of_PRF the_AT0 shelf-life_NN1 ._PUN
+Preservatives_NN2 should_VM0 also_AV0 be_VBI assayed_VVN throughout_PRP the_AT0 test_NN1 ._PUN
+It_PNP is_VBZ not_XX0 always_AV0 sufficient_AJ0 to_TO0 rely_VVI on_PRP challenge_NN1 tests_NN2-VVZ only_AV0 ._PUN
+The_AT0 degradation_NN1 products_NN2 of_PRF some_DT0 antimicrobials_NN2 may_VM0 themselves_PNX have_VHI considerable_AJ0 antimicrobial_AJ0 activity_NN1 ,_PUN e.g._AV0 ,_PUN thiomersal_NN1 ,_PUN the_AT0 principal_AJ0-NN1 degradation_NN1 product_NN1 of_PRF which_DTQ has_VHZ greater_AJC antimicrobial_AJ0 efficacy_NN1 than_CJS thiomersal_NN1 but_CJC is_VBZ also_AV0 more_AV0 toxic_AJ0 ._PUN
+(_PUL b_ZZ0 )_PUR Pack_VVB-NN1
+Except_CJS for_PRP non-volatile_AJ0 ,_PUN non-absorbent_AJ0 products_NN2 ,_PUN weight_NN1 loss_NN1 (_PUL or_CJC gain_NN1-VVB )_PUR measurements_NN2 should_VM0 always_AV0 be_VBI made_VVN in_PRP order_NN1 to_TO0 confirm_VVI the_AT0 adequacy_NN1 of_PRF the_AT0 pack_NN1 to_TO0 retain_VVI moisture_NN1 ,_PUN oxygen_NN1 or_CJC carbon_NN1 dioxide_NN1 ._PUN
+The_AT0 package_NN1 itself_PNX should_VM0 be_VBI carefully_AV0 examined_VVN for_PRP change_NN1 during_PRP storage_NN1 ,_PUN e.g._AV0 ,_PUN stress-cracking_NN1 of_PRF plastic_NN1 tubes_NN2 ,_PUN blistering_AJ0 and/or_CJC detachment_NN1 of_PRF internal_AJ0 lacquer_NN1 on_PRP cans_NN2 and_CJC tubes_NN2 ,_PUN blockage_NN1 of_PRF spray_NN1 valves_NN2 ,_PUN etc._AV0 ,_PUN and_CJC label_VVB-NN1 adhesion_NN1 ._PUN
+As_CJS mentioned_VVN above_AV0 ,_PUN some_DT0 ingredients_NN2 ,_PUN including_PRP some_DT0 preservatives_NN2 ,_PUN are_VBB absorbed_VVN by_PRP plastic_NN1 from_PRP solution_NN1 ;_PUN evidence_NN1 of_PRF such_DT0 absorption_NN1 should_VM0 be_VBI sought_VVN ._PUN
+Changes_NN2 in_PRP the_AT0 container_NN1 as_CJS well_AV0 as_CJS in_PRP the_AT0 product_NN1 should_VM0 be_VBI looked_VVN for_PRP and_CJC reported_VVD-VVN ._PUN
+It_PNP is_VBZ necessary_AJ0 to_TO0 draw_VVI up_AVP a_AT0 projected_AJ0 examination_NN1 schedule_NN1 and_CJC to_TO0 put_VVI on_PRP storage_NN1 at_PRP each_DT0 test_NN1 condition_NN1 more_AV0 than_CJS sufficient_AJ0 samples_NN2 to_TO0 meet_VVI that_DT0 schedule_NN1 ._PUN
+The_AT0 examination_NN1 schedule_NN1 drawn_VVN up_AVP at_PRP the_AT0 beginning_NN1 of_PRF the_AT0 test_NN1 may_VM0 need_VVI to_TO0 be_VBI modified_VVN in_PRP the_AT0 light_NN1 of_PRF findings_NN2 in_PRP the_AT0 earlier_AJC stages_NN2 of_PRF the_AT0 test_NN1 ._PUN
+Thus_AV0 ,_PUN if_CJS changes_NN2 appear_VVB at_PRP an_AT0 early_AJ0 stage_NN1 it_PNP may_VM0 be_VBI necessary_AJ0 to_TO0 carry_VVI out_AVP more_DT0 frequent_AJ0 testing_NN1 ;_PUN alternatively_AV0 ,_PUN the_AT0 reverse_AJ0-NN1 situation_NN1 may_VM0 apply_VVI ._PUN
+There_EX0 must_VM0 also_AV0 be_VBI enough_DT0 samples_NN2 put_VVN on_PRP-AVP test_NN1-VVB to_TO0 allow_VVI for_PRP duplicate_AJ0 examinations_NN2 and_CJC for_PRP the_AT0 proper_AJ0 investigations_NN2 of_PRF special_AJ0 problems_NN2 ._PUN
+(_PUL iv_CRD )_PUR Duration_NN1 of_PRF Tests_NN2
+The_AT0 duration_NN1 of_PRF tests_NN2 at_PRP any_DT0 one_CRD condition_NN1 depends_VVZ on_PRP the_AT0 condition_NN1 and_CJC again_AV0 must_VM0 be_VBI subject_AJ0 to_PRP variation_NN1 in_PRP the_AT0 light_NN1 of_PRF findings_NN2 as_CJS the_AT0 test_NN1 progresses_VVZ ._PUN
+The_AT0 following_AJ0 are_VBB suggested_VVN-AJ0 durations_NN2 at_PRP different_AJ0 conditions_NN2 :_PUN
+4°C_NN0 for_PRP the_AT0 projected_AJ0 shelf-life_NN1 of_PRF the_AT0 product_NN1 ;_PUN
+R.T_NP0 ._PUN
+37°C_NN0 —_PUN 3–6_CRD months_NN2 maximum_AJ0-NN1 ;_PUN
+45°C_NN0 —_PUN 1–3_CRD months_NN2 maximum_AJ0-NN1 ;_PUN
+37°C/80_UNC per_UNC cent_UNC r.h._NN0 —_PUN 1_CRD month_NN1 maximum_NN1 ;_PUN
+light_AJ0-NN1 tests_NN2 —_PUN up_AVP to_PRP a_AT0 maximum_NN1 of_PRF 1_CRD month_NN1 ._PUN
+Tropical_AJ0 market_NN1 conditions_NN2 ._PUN
+Since_CJS storage_NN1 at_PRP mean_AJ0 maximum_AJ0-NN1 temperature_NN1 and_CJC mean_VVB maximum_AJ0-NN1 humidity_NN1 may_VM0 give_VVI little_DT0 acceleration_NN1 over_PRP market_NN1 conditions_NN2 ,_PUN these_DT0 should_VM0 be_VBI continued_VVN for_PRP the_AT0 projected_AJ0 shelf-life_NN1 of_PRF the_AT0 product_NN1 ._PUN
+(_PUL v_CRD )_PUR Recording_NN1 of_PRF Results_NN2
+A_AT0 stability_NN1 test_NN1 involves_VVZ the_AT0 accumulation_NN1 of_PRF a_AT0 substantial_AJ0 amount_NN1 of_PRF data_NN0 over_PRP-AVP a_AT0 prolonged_AJ0 period_NN1 of_PRF time_NN1 and_CJC may_VM0 require_VVI the_AT0 production_NN1 of_PRF reports_NN2 at_PRP several_DT0 stages_NN2 of_PRF the_AT0 test_NN1 ._PUN
+Results_NN2 of_PRF examinations_NN2 can_VM0 be_VBI recorded_VVN manually_AV0 on_PRP-AVP suitably_AV0 designed_VVN cards_NN2 or_CJC forms_NN2-VVZ ._PUN
+The_AT0 accumulation_NN1 of_PRF data_NN0 over_PRP-AVP a_AT0 long_AJ0 period_NN1 of_PRF time_NN1 is_VBZ a_AT0 situation_NN1 that_CJT lends_VVZ itself_PNX well_AV0 to_PRP the_AT0 use_NN1 of_PRF a_AT0 microcomputer_NN1 ._PUN
+Test_VVB-NN1 results_NN2 can_VM0 be_VBI inputted_VVN by_PRP the_AT0 chemist_NN1 or_CJC technician_NN1 in_PRP the_AT0 laboratory_NN1 ._PUN
+All_DT0 the_AT0 results_NN2 are_VBB immediately_AV0 available_AJ0 to_PRP the_AT0 Department_NN1 Manager_NN1 at_PRP the_AT0 VDU_NN1 by_PRP his_DPS desk_NN1 ._PUN
+The_AT0 production_NN1 of_PRF reports_NN2 is_VBZ greatly_AV0 facilitated_VVN ._PUN
+If_CJS the_AT0 projected_AJ0 examination_NN1 schedules_NN2 are_VBB retained_VVN in_PRP the_AT0 computer_NN1 ,_PUN printouts_NN2 can_VM0 be_VBI obtained_VVN of_PRF the_AT0 examinations_NN2 scheduled_VVN for_PRP the_AT0 next_ORD day_NN1 or_CJC week_NN1 ,_PUN so_AV0 rendering_VVG unnecessary_AJ0 the_AT0 use_NN1 of_PRF a_AT0 manual_AJ0 diary_NN1 for_PRP the_AT0 control_NN1 of_PRF test_NN1 schedules_NN2 ._PUN
+(_PUL vi_CRD )_PUR Interpretation_NN1 of_PRF Data_NN0
+The_AT0 ease_NN1 or_CJC otherwise_AV0 with_PRP which_DTQ test_VVB data_NN0 are_VBB interpreted_VVN and_CJC related_VVN-VVD to_PRP behaviour_NN1 in_PRP the_AT0 market_NN1 depends_VVZ on_PRP the_AT0 type_NN1 of_PRF test_NN1 ._PUN
+Tests_NN2 which_DTQ are_VBB essentially_AV0 ‘_PUQ comparison_NN1 ’_PUQ tests_NN2 are_VBB relatively_AV0 easy_AJ0 to_TO0 assess_VVI ._PUN
+In_PRP such_DT0 tests_NN2 there_EX0 is_VBZ always_AV0 a_AT0 control_NN1 product_NN1 or_CJC pack_NN1-VVB ,_PUN the_AT0 behaviour_NN1 of_PRF which_DTQ under_PRP market_NN1 conditions_NN2 is_VBZ known_VVN ._PUN
+In_PRP such_DT0 instances_NN2 ,_PUN interpretation_NN1 of_PRF test_NN1 data_NN0 becomes_VVZ a_AT0 matter_NN1 of_PRF deciding_VVG whether_CJS the_AT0 test_NN1 product_NN1 or_CJC pack_NN1-VVB is_VBZ better_AJC than_CJS ,_PUN equal_AJ0 to_PRP or_CJC inferior_AJ0 to_PRP the_AT0 control_NN1 ._PUN
+It_PNP is_VBZ not_XX0 usually_AV0 necessary_AJ0 to_TO0 attempt_VVI to_TO0 reproduce_VVI the_AT0 conditions_NN2 of_PRF a_AT0 particular_AJ0 market_NN1 ._PUN
+The_AT0 evaluation_NN1 and_CJC assessment_NN1 of_PRF test_NN1 data_NN0 on_PRP-AVP completely_AV0 new_AJ0 products_NN2 or_CJC packs_NN2 and_CJC the_AT0 problem_NN1 of_PRF deciding_VVG whether_CJS they_PNP are_VBB sufficiently_AV0 stable_AJ0 or_CJC whether_CJS they_PNP adequately_AV0 protect_VVB the_AT0 product_NN1 under_PRP market_NN1 conditions_NN2 is_VBZ more_AV0 difficult_AJ0 ._PUN
+The_AT0 difficulty_NN1 is_VBZ greater_AJC in_PRP relation_NN1 to_PRP overseas_AJ0 markets_NN2 having_VHG temperatures_NN2 and_CJC humidities_NN2 higher_AJC than_CJS those_DT0 of_PRF temperate_AJ0 regions_NN2 ._PUN
+The_AT0 stability_NN1 of_PRF the_AT0 product_NN1 and_CJC shelf-life_NN1 of_PRF the_AT0 product_NN1 in_PRP its_DPS sales_NN0 pack_VVB-NN1 are_VBB considered_VVN separately_AV0 below_AV0 ._PUN
+(_PUL a_ZZ0 )_PUR Product_NN1 Stability_NN1
+Product_NN1 stability_NN1 is_VBZ ,_PUN by_PRP definition_NN1 ,_PUN the_AT0 inherent_AJ0 stability_NN1 of_PRF the_AT0 product_NN1 independent_NN1 of_PRF possible_AJ0 interactions_NN2 with_PRP the_AT0 immediate_AJ0 container_NN1 or_CJC of_PRF questions_NN2 of_PRF the_AT0 adequacy_NN1 or_CJC otherwise_AV0 of_PRF the_AT0 protection_NN1 afforded_VVN by_PRP the_AT0 sales_NN0 package_NN1-VVB ._PUN
+Therefore_AV0 ,_PUN in_PRP assessing_VVG product_NN1 stability_NN1 ,_PUN only_AV0 data_NN0 on_PRP samples_NN2 stored_VVN-VVD in_PRP inert_AJ0 ,_PUN highly_AV0 protective_AJ0 packs_NN2 ,_PUN need_VVB-NN1 ,_PUN or_CJC should_VM0 be_VBI ,_PUN taken_VVN into_PRP account_NN1 ._PUN
+Changes_NN2 in_PRP samples_NN2 stored_VVN-VVD at_PRP elevated_AJ0 temperatures_NN2 represent_VVB acceleration_NN1 of_PRF changes_NN2 occurring_VVG at_PRP room_NN1 temperature_NN1 ._PUN
+The_AT0 degree_NN1 of_PRF acceleration_NN1 can_VM0 be_VBI assessed_VVN by_PRP comparing_VVG the_AT0 extent_NN1 of_PRF the_AT0 changes_NN2 occurring_VVG at_PRP 37°C_NN0 and_CJC 45°C_NN0 and_CJC at_PRP other_AJ0 elevated_AJ0 temperatures_NN2 ,_PUN with_PRP those_DT0 occurring_VVG in_PRP-AVP samples_NN2 stored_VVN-VVD at_PRP room_NN1 temperature_NN1 (_PUL 20°C_NN0 )_PUR ._PUN
+Assessment_NN1 of_PRF samples_NN2 stored_VVN-VVD at_PRP elevated_AJ0 temperatures_NN2 may_VM0 be_VBI made_VVN very_AV0 approximately_AV0 on_PRP the_AT0 assumption_NN1 of_PRF a_AT0 two-fold_AJ0 acceleration_NN1 for_PRP each_DT0 10°C_NN0 rise_NN1-VVB in_PRP temperature_NN1 ._PUN
+Even_AV0 at_PRP best_AJS this_DT0 is_VBZ a_AT0 rather_AV0 crude_AJ0 approximation_NN1 ._PUN
+It_PNP is_VBZ for_PRP this_DT0 reason_NN1 that_CJT the_AT0 use_NN1 of_PRF control_NN1 products_NN2 is_VBZ such_DT0 an_AT0 important_AJ0 aid_NN1 to_PRP the_AT0 evaluation_NN1 of_PRF the_AT0 results_NN2 of_PRF product_NN1 stability_NN1 and_CJC product-container_AJ0 compatibility_NN1 tests_NN2 ._PUN
+The_AT0 Arrhenius_NP0-NN1 equation_NN1 or_CJC where_AVQ K_ZZ0 =_UNC specific_AJ0 reaction_NN1 rate_NN1 ;_PUN A_ZZ0 =_UNC frequency_NN1 factor_NN1 ;_PUN Ea_NP0 =_UNC energy_NN1 of_PRF activation_NN1 ;_PUN R_ZZ0 =_UNC gas_NN1-VVB constant_NN1-AJ0 ;_PUN T_ZZ0 =_UNC absolute_AJ0 temperature_NN1 is_VBZ applicable_AJ0 only_AV0 to_PRP the_AT0 investigation_NN1 of_PRF the_AT0 chemical_AJ0-NN1 stability_NN1 of_PRF single_AJ0 compounds_NN2 in_PRP simple_AJ0 solution_NN1 ._PUN
+It_PNP is_VBZ therefore_AV0 of_PRF little_DT0 value_NN1 in_PRP tests_NN2 of_PRF the_AT0 stability_NN1 of_PRF products_NN2 but_CJC can_VM0 be_VBI applied_VVN in_PRP investigations_NN2 of_PRF the_AT0 stability_NN1 of_PRF ,_PUN for_PRP example_NN1 ,_PUN a_AT0 new_AJ0 cosmetic_AJ0 ingredient_NN1 ._PUN
+An_AT0 estimate_NN1 of_PRF the_AT0 degree_NN1 of_PRF acceleration_NN1 over_PRP market_NN1 conditions_NN2 can_VM0 be_VBI made_VVN only_AV0 if_CJS the_AT0 mean_AJ0 temperature_NN1 in_PRP the_AT0 market_NN1 is_VBZ known_VVN ._PUN
+For_PRP UK_NP0 domestic_AJ0 conditions_NN2 this_DT0 presents_VVZ little_DT0 problem_NN1 since_CJS the_AT0 20°C_NN0 (_PUL R.T._NP0 )_PUR condition_NN1 is_VBZ very_AV0 close_AJ0 to_PRP normal_AJ0 temperatures_NN2 in_PRP the_AT0 UK_NP0 market_NN1 ._PUN
+Hence_AV0 ,_PUN storage_NN1 at_PRP 45°C_NN0 for_PRP 3_CRD months_NN2 may_VM0 ,_PUN but_CJC not_XX0 always_AV0 ,_PUN represent_VVB 12–18_CRD months_NN2 at_PRP room_NN1 temperature_NN1 ._PUN
+In_PRP markets_NN2 having_VHG higher_AJC temperatures_NN2 than_CJS the_AT0 UK_NP0 ,_PUN the_AT0 37°C_NN0 and_CJC 45°C_NN0 conditions_NN2 are_VBB less_AV0 far_AV0 removed_VVN from_PRP market_NN1 conditions_NN2 ._PUN
+Hence_AV0 storage_NN1 at_PRP 37°C_NN0 or_CJC 45°C_NN0 represents_VVZ correspondingly_AV0 less_DT0 acceleration_NN1 over_PRP conditions_NN2 to_PRP which_DTQ the_AT0 product_NN1 is_VBZ likely_AJ0 to_TO0 be_VBI exposed_VVN in_PRP the_AT0 market_NN1 ._PUN
+Therefore_AV0 ,_PUN before_CJS-PRP a_AT0 conclusion_NN1 is_VBZ reached_VVN ,_PUN tests_NN2 must_VM0 be_VBI continued_VVN for_PRP a_AT0 sufficiently_AV0 long_AJ0 time_NN1 to_TO0 demonstrate_VVI an_AT0 adequate_AJ0 shelf-life_NN1 in_PRP the_AT0 market_NN1 concerned_AJ0 ._PUN
+(_PUL b_ZZ0 )_PUR Product-Container_NP0 Compatibility_NN1
+Tests_NN2 on_PRP products_NN2 packed_VVN-VVD in_PRP market_NN1 packages_NN2 involve_VVB samples_NN2 stored_VVN-VVD at_PRP elevated_AJ0 humidities_NN2 as_CJS well_AV0 as_CJS those_DT0 stored_VVN-AJ0 at_PRP elevated_AJ0 temperatures_NN2 ._PUN
+The_AT0 effect_NN1 of_PRF such_DT0 storage_NN1 may_VM0 be_VBI on_PRP-AVP either_AV0 the_AT0 package_NN1 or_CJC the_AT0 product_NN1 or_CJC both_AV0 and_CJC these_DT0 effects_NN2 may_VM0 be_VBI classified_VVN as_CJS follows_VVZ ._PUN
+Effects_NN2 of_PRF storage_NN1 environment_NN1 on_PRP package_NN1 e.g._AV0 ,_PUN loosening_VVG-NN1 of_PRF cap_NN1 wads_NN2 ,_PUN failure_NN1 of_PRF label_NN1 adhesive_NN1 and_CJC exfoliation_NN1 of_PRF laminates_NN2 ._PUN
+Effects_NN2 on_PRP product_NN1 from_PRP inadequate_AJ0 barrier_NN1 properties_NN2 of_PRF package_NN1 ._PUN
+Such_DT0 effects_NN2 are_VBB shown_VVN by_PRP differences_NN2 between_PRP the_AT0 test_NN1 samples_NN2 and_CJC control_NN1-VVB samples_NN2 stored_VVN-VVD in_PRP impermeable_AJ0 containers_NN2 ,_PUN e.g._AV0 ,_PUN (_PUL a_ZZ0 )_PUR adverse_AJ0 effects_NN2 on_PRP moisture_NN1 sensitive_AJ0 products_NN2 resulting_VVG from_PRP the_AT0 inward_AJ0 passage_NN1 of_PRF water_NN1 vapour_NN1 ;_PUN or_CJC on_PRP certain_AJ0 products_NN2 because_CJS of_PRF the_AT0 inward_AJ0 diffusion_NN1 of_PRF atmospheric_AJ0 oxygen_NN1 ;_PUN (_PUL b_ZZ0 )_PUR adverse_AJ0 effects_NN2 arising_VVG from_PRP the_AT0 outward_AJ0 passage_NN1 of_PRF volatile_AJ0 constituents_NN2 of_PRF product_NN1 ,_PUN e.g._AV0 ,_PUN water_NN1 vapour_NN1 ,_PUN i.e._AV0 ,_PUN evaporation_NN1 of_PRF product_NN1 ;_PUN loss_NN1 of_PRF perfume_NN1 or_CJC flavour_NN1-VVB ,_PUN or_CJC ‘_PUQ panelling_NN1 ’_PUQ of_PRF plastic_NN1 bottles_NN2 ._PUN
+Samples_NN2 submitted_VVN-VVD to_PRP low_AJ0 pressures_NN2 while_CJS being_VBG airfreighted_VVN have_VHB been_VBN known_VVN to_TO0 suffer_VVI perfume_NN1 loss_NN1 ._PUN
+Effects_NN2 of_PRF incompatibility_NN1 between_PRP product_NN1 and_CJC this_DT0 primary_AJ0-NN1 container_NN1 ,_PUN which_DTQ may_VM0 be_VBI on_PRP-AVP either_AV0 product_NN1 or_CJC package_NN1-VVB or_CJC both_DT0 ,_PUN e.g._AV0 ,_PUN corrosion_NN1 of_PRF metal_NN1 tubes_NN2 ;_PUN stress-cracking_NN1 of_PRF plastic_NN1 tubes_NN2 ;_PUN absorption_NN1 of_PRF constituents_NN2 of_PRF the_AT0 product_NN1 such_DT0 as_PRP preservatives_NN2 by_PRP the_AT0 container_NN1 ;_PUN leaching_VVG-NN1 of_PRF constituents_NN2 of_PRF the_AT0 container_NN1 by_PRP the_AT0 product_NN1 ._PUN
+VII_CRD ._PUN
+Shelf-Life_NN1 of_PRF Product_NN1 in_PRP Sales_NN0 Pack_VVB-NN1
+The_AT0 evaluation_NN1 of_PRF test_NN1 results_NN2 and_CJC the_AT0 establishment_NN1 of_PRF a_AT0 shelf-life_NN1-AJ0 under_PRP any_DT0 given_AJ0 market_NN1 conditions_NN2 require_VVB a_AT0 knowledge_NN1 of_PRF the_AT0 extent_NN1 of_PRF acceleration_NN1 that_CJT the_AT0 test_NN1 conditions_NN2 represent_VVB in_PRP relation_NN1 to_PRP market_NN1 conditions_NN2 ._PUN
+Such_DT0 considerations_NN2 in_PRP relation_NN1 to_PRP temperature_NN1 alone_AV0 have_VHB been_VBN considered_VVN in_PRP an_AT0 earlier_AJC section_NN1 ._PUN
+Tests_NN2 at_PRP elevated_AJ0 temperatures_NN2 and_CJC elevated_AJ0 humidities_NN2 are_VBB more_AV0 difficult_AJ0 to_TO0 accelerate_VVI and_CJC interpret_VVI ._PUN
+Since_CJS normal_AJ0 ambient_AJ0-NN1 conditions_NN2 in_PRP the_AT0 UK_NP0 have_VHB fairly_AV0 high_AJ0 humidity_NN1 ,_PUN storage_NN1 at_PRP R.T_NP0 ._PUN
+(_PUL 20°C_NN0 )_PUR and_CJC 80_CRD per_UNC cent_UNC r.h._NN0 may_VM0 represent_VVI little_DT0 or_CJC no_AT0 acceleration_NN1 over_PRP normal_AJ0 domestic_AJ0 conditions_NN2 ._PUN
+At_PRP 37°C/80_UNC per_UNC cent_UNC r.h._NN0 the_AT0 atmosphere_NN1 contains_VVZ very_AV0 much_DT0 more_DT0 water_NN1 vapour_NN1 than_CJS does_VDZ air_NN1 at_PRP 20°C/80_UNC per_UNC cent_UNC r.h_NN0 ._PUN
+In_PRP assessing_VVG the_AT0 water_NN1 vapour_NN1 barrier_NN1 properties_NN2 of_PRF a_AT0 container_NN1 at_PRP 37°C/80_UNC per_UNC cent_UNC r.h._NN0 this_DT0 may_VM0 represent_VVI an_AT0 acceleration_NN1 of_PRF 8–10_CRD fold_NN1-VVB over_PRP 20°C/80_UNC per_UNC cent_UNC r.h_NN0 ._PUN
+(_PUL Based_VVN on_PRP the_AT0 vapour_NN1 pressure_NN1 of_PRF water_NN1 at_PRP 37°C_NN0 and_CJC 20°C_NN0 respectively_AV0 and_CJC assuming_VVG a_AT0 doubling_NN1 of_PRF the_AT0 rate_NN1 of_PRF diffusion_NN1 of_PRF water_NN1 vapour_NN1 per_PRP 10°C_NN0 rise_NN1-VVB in_PRP temperature_NN1 ._PUN )_PUR
+In_PRP relation_NN1 to_PRP climatic_AJ0 conditions_NN2 in_PRP many_DT0 other_AJ0 markets_NN2 ,_PUN 37°C/80_UNC per_UNC cent_UNC r.h._NN0 (_PUL which_DTQ is_VBZ the_AT0 most_AV0 severe_AJ0 high_AJ0 humidity_NN1 test_NN1-VVB condition_NN1 generally_AV0 proposed_VVN on_PRP the_AT0 basis_NN1 of_PRF experience_NN1 )_PUR represents_VVZ less_DT0 acceleration_NN1 and_CJC may_VM0 be_VBI continued_VVN for_PRP correspondingly_AV0 longer_AV0 ._PUN
+In_PRP view_NN1 of_PRF the_AT0 difficulty_NN1 of_PRF satisfactorily_AV0 exaggerating_VVG conditions_NN2 in_PRP high_AJ0 humidity_NN1 markets_NN2 ,_PUN it_PNP is_VBZ always_AV0 desirable_AJ0 to_TO0 put_VVI samples_NN2 on_PRP test_NN1 at_PRP actual_AJ0 conditions_NN2 of_PRF the_AT0 market_NN1 or_CJC markets_NN2 in_PRP which_DTQ the_AT0 product_NN1 is_VBZ to_TO0 be_VBI sold_VVN ,_PUN i.e._AV0 ,_PUN storage_NN1 at_PRP the_AT0 mean_AJ0 maximum_AJ0-NN1 temperature_NN1 and_CJC mean_VVB maximum_AJ0-NN1 humidity_NN1 ._PUN
+Such_DT0 tests_NN2 should_VM0 be_VBI continued_VVN for_PRP the_AT0 projected_AJ0 shelf-life_NN1 of_PRF the_AT0 product_NN1 ._PUN
+All_DT0 tests_NN2 on_PRP products_NN2 for_PRP overseas_AJ0 markets_NN2 need_VVB to_TO0 be_VBI interpreted_VVN with_PRP caution_NN1 ._PUN
+However_AVQ clearly_AV0 the_AT0 market_NN1 conditions_NN2 are_VBB known_VVN and_CJC however_AV0 closely_AV0 the_AT0 test_NN1 conditions_NN2 reproduce_VVB them_PNP ,_PUN the_AT0 conditions_NN2 to_PRP which_DTQ the_AT0 product_NN1 may_VM0 be_VBI subjected_VVN during_PRP shipment_NN1 are_VBB always_AV0 unknown_AJ0 and_CJC can_VM0 sometimes_AV0 be_VBI very_AV0 severe_AJ0 even_AV0 when_CJS the_AT0 market_NN1 conditions_NN2 are_VBB not_XX0 particularly_AV0 severe_AJ0 ._PUN
+For_PRP example_NN1 ,_PUN the_AT0 temperatures_NN2 in_PRP the_AT0 holds_NN2 of_PRF ships_NN2 passing_VVG through_PRP the_AT0 tropics_NN0 may_VM0 be_VBI extremely_AV0 high_AJ0 ._PUN
+The_AT0 temperatures_NN2 in_PRP the_AT0 cargo_NN1 holds_VVZ-NN2 of_PRF aircraft_NN0 on_PRP the_AT0 other_AJ0 hand_NN1 may_VM0 be_VBI extremely_AV0 low_AJ0 ._PUN
+In_PRP neither_DT0 case_NN1 are_VBB the_AT0 conditions_NN2 to_PRP which_DTQ the_AT0 product_NN1 may_VM0 be_VBI subjected_VVN precisely_AV0 known_VVN ._PUN
+It_PNP is_VBZ seldom_AV0 possible_AJ0 to_TO0 give_VVI a_AT0 general_AJ0 overall_AJ0-NN1 clearance_NN1 of_PRF a_AT0 product_NN1 for_PRP all_DT0 export_VVB-NN1 markets_NN2 ._PUN
+Even_AV0 if_CJS the_AT0 stability_NN1 of_PRF the_AT0 product_NN1 is_VBZ such_DT0 that_CJT is_VBZ has_VHZ adequate_AJ0 shelf-life_NN1 in_PRP the_AT0 most_AV0 severe_AJ0 market_NN1 ,_PUN it_PNP is_VBZ likely_AJ0 that_CJT its_DPS shelf-life_NN1 will_VM0 be_VBI longer_AJC in_PRP markets_NN2 having_VHG a_AT0 less_AV0 severe_AJ0 climate_NN1 than_CJS in_PRP areas_NN2 with_PRP more_AV0 severe_AJ0 climates_NN2 ._PUN
+In_PRP almost_AV0 cases_VVZ it_PNP is_VBZ suggested_VVN that_CJT specific_AJ0 clearance_NN1 and_CJC a_AT0 specific_AJ0 shelf-life_NN1 should_VM0 be_VBI established_VVN for_PRP a_AT0 given_AJ0 product_NN1 to_PRP an_AT0 identified_AJ0 market_NN1 ,_PUN or_CJC group_NN1 of_PRF markets_NN2 ._PUN
+It_PNP is_VBZ very_AV0 often_AV0 assumed_VVN ,_PUN particularly_AV0 by_PRP non-technical_AJ0 persons_NN2 ,_PUN that_CJT a_AT0 product_NN1 is_VBZ tested_VVN for_PRP stability_NN1 and_CJC that_CJT-DT0 after_PRP a_AT0 certain_AJ0 time_NN1 a_AT0 result_NN1 is_VBZ obtained_VVN proving_VVG-AJ0 stability_NN1 of_PRF the_AT0 product_NN1 and/or_CJC pack_NN1-VVB ._PUN
+In_PRP fact_NN1 ,_PUN stability_NN1 testing_NN1 is_VBZ a_AT0 predictive_AJ0 procedure_NN1 based_VVN on_PRP data_NN0 obtained_VVN from_PRP products_NN2 stored_VVN-VVD under_PRP conditions_NN2 which_DTQ are_VBB believed_VVN to_TO0 be_VBI likely_AJ0 to_TO0 accelerate_VVI changes_NN2 occurring_VVG at_PRP market_NN1 conditions_NN2 ._PUN
+As_CJS with_PRP all_DT0 predictive_AJ0 procedures_NN2 ,_PUN they_PNP are_VBB not_XX0 absolute_AJ0 but_CJC have_VHB a_AT0 certain_AJ0 probability_NN1 of_PRF success_NN1 ._PUN
+This_DT0 probability_NN1 is_VBZ lowest_AV0 when_CJS based_VVN on_PRP short_AJ0 tests_NN2 under_PRP conditions_NN2 of_PRF high_AJ0 acceleration_NN1 ._PUN
+The_AT0 probability_NN1 increases_VVZ-NN2 as_PRP the_AT0 test_NN1 conditions_NN2 approach_VVB-NN1 market_NN1 conditions_NN2 and_CJC the_AT0 duration_NN1 of_PRF the_AT0 test_NN1 is_VBZ longer_AJC ._PUN
+Nevertheless_AV0 ,_PUN all_DT0 have_VHB a_AT0 probability_NN1 of_PRF success_NN1 which_DTQ is_VBZ less_AV0 than_CJS 100_CRD per_UNC cent_UNC ._PUN
+In_PRP this_DT0 sense_NN1 a_AT0 stability_NN1 test_NN1 is_VBZ never_AV0 finished_VVN in_PRP-AVP less_DT0 than_CJS the_AT0 actual_AJ0 shelf-life_NN1 of_PRF the_AT0 product_NN1 ._PUN
+The_AT0 point_NN1 at_PRP which_DTQ so-called_AJ0 ‘_PUQ stability_NN1 clearance_NN1 ’_PUQ can_VM0 be_VBI given_VVN will_VM0 depend_VVI on_PRP the_AT0 product_NN1 and_CJC on_PRP the_AT0 information_NN1 that_CJT-DT0 is_VBZ available_AJ0 on_PRP related_AJ0 products_NN2 and_CJC experience_NN1-VVB in_PRP the_AT0 market_NN1 with_PRP such_DT0 products_NN2 ._PUN
+It_PNP is_VBZ further_AV0 suggested_VVN-VVD that_CJT in_PRP reporting_VVG the_AT0 results_NN2 of_PRF stability_NN1 tests_NN2 and_CJC the_AT0 conclusions_NN2 drawn_VVN from_PRP them_PNP ,_PUN care_NN1-VVB should_VM0 be_VBI taken_VVN to_TO0 avoid_VVI any_DT0 statement_NN1 which_DTQ would_VM0 lead_VVI people_NN0 to_TO0 believe_VVI that_CJT the_AT0 products_NN2 have_VHB been_VBN proved_VVN to_TO0 be_VBI ‘_PUQ stable_AJ0 ’_PUQ ._PUN
+The_AT0 period_NN1 for_PRP which_DTQ the_AT0 product_NN1 can_VM0 be_VBI expected_VVN to_TO0 be_VBI stable_AJ0 under_PRP given_AJ0 conditions_NN2 must_VM0 also_AV0 be_VBI specified_VVN ._PUN
+An_AT0 accelerated_AJ0 stability_NN1 study_NN1 indicates_VVZ only_AV0 a_AT0 probable_AJ0 shelf-life_NN1 under_PRP given_AJ0 conditions_NN2 ;_PUN the_AT0 longer_AJC the_AT0 duration_NN1 of_PRF the_AT0 test_NN1-VVB the_AT0 greater_AJC the_AT0 probability_NN1 ._PUN
+VIII_CRD ._PUN
+Conclusions_NN2
+This_DT0 monograph_NN1 has_VHZ attempted_VVN to_TO0 review_VVI the_AT0 more_AV0 important_AJ0 aspects_NN2 of_PRF the_AT0 testing_NN1 of_PRF product_NN1 stability_NN1 and_CJC product-container_AJ0 compatibility_NN1 ._PUN
+It_PNP has_VHZ considered_VVN the_AT0 objectives_NN2 of_PRF stability_NN1 tests_NN2 ,_PUN their_DPS planning_NN1 ,_PUN execution_NN1 and_CJC the_AT0 interpretation_NN1 of_PRF the_AT0 results_NN2 obtained_VVN-VVD ._PUN
+The_AT0 point_NN1 that_CJT emerges_VVZ most_AV0 strongly_AV0 is_VBZ that_CJT there_EX0 are_VBB no_AT0 standard_AJ0-NN1 procedures_NN2 to_PRP which_DTQ all_DT0 samples_NN2 can_VM0 be_VBI routinely_AV0 submitted_VVN ;_PUN to_TO0 approach_VVI the_AT0 problem_NN1 in_PRP that_DT0 way_NN1 is_VBZ inappropriate_AJ0 and_CJC inefficient_AJ0 ._PUN
+In_PRP every_AT0 test_NN1-VVB it_PNP is_VBZ necessary_AJ0 first_ORD to_TO0 define_VVI the_AT0 objectives_NN2 of_PRF the_AT0 test_NN1 and_CJC hence_AV0 the_AT0 information_NN1 required_VVN from_PRP it_PNP ;_PUN then_AV0 the_AT0 test_NN1 is_VBZ designed_VVN to_TO0 yield_VVI that_DT0 information_NN1 ._PUN
+Time_NN1 spent_VVN in_PRP careful_AJ0 planning_NN1 at_PRP the_AT0 beginning_NN1 of_PRF a_AT0 test_NN1 can_VM0 make_VVI the_AT0 test_NN1 more_AV0 efficient_AJ0 and_CJC economical_AJ0 and_CJC save_VVB much_DT0 time_NN1 in_PRP its_DPS execution_NN1 ._PUN
+Even_AV0 when_CJS this_DT0 has_VHZ been_VBN done_VDN and_CJC the_AT0 test_NN1 is_VBZ in_PRP progress_NN1 ,_PUN there_EX0 should_VM0 be_VBI sufficient_AJ0 flexibility_NN1 to_TO0 modify_VVI the_AT0 test_NN1 plan_NN1 (_PUL e.g._AV0 ,_PUN by_PRP changing_AJ0-VVG examination_NN1 schedules_NN2 )_PUR in_PRP the_AT0 light_NN1 of_PRF information_NN1 that_CJT becomes_VVZ available_AJ0 as_CJS the_AT0 test_NN1 progresses_VVZ ._PUN
+Control_VVB-NN1 products_NN2 or_CJC packages_NN2 should_VM0 always_AV0 be_VBI used_VVN where_CJS possible_AJ0 ._PUN
+In_PRP short_AJ0 ,_PUN every_AT0
